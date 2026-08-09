@@ -93,7 +93,11 @@ const PAGE_ICON = {
 function siteI18n(lang){ return (DATA.site.i18n && DATA.site.i18n[lang]) || DATA.site.i18n[DEF] || {}; }
 function pageOf(p, lang){ return Object.assign({}, p, p.i18n && p.i18n[lang] ? p.i18n[lang] : {}); }
 function gnameOf(lang){ return (DATA.game.nameI18n && DATA.game.nameI18n[lang]) || DATA.game.name; }
-function iconOf(slug){ return SVG[PAGE_ICON[slug] || "gear"] || "⚙"; }
+function iconOf(slug){
+  if (PAGE_ICON[slug]) return SVG[PAGE_ICON[slug]] || "⚙";
+  const p = DATA.pages.find(x=>x.slug===slug);
+  return (p && p.meta && SVG[p.meta.icon]) ? SVG[p.meta.icon] : (SVG.gear || "⚙");
+}
 function metaOf(slug){ return (DATA.pages.find(p=>p.slug===slug)||{}).meta || {}; }
 function hreflang(slug){
   const alt = LANGS.map(l => `<link rel="alternate" hreflang="${LANG_META[l]?.html || l}" href="${urlOf(slug,l)}" />`).join("\n");
@@ -369,7 +373,15 @@ function renderPage(lang, page){
   let sections2 = (t.sections||[]).map(x => renderSection(x, lang)).join("");
   // 真交互挂载
   if (page.slug === "zen-points") sections2 += zenCalc(lang);
-  if (page.slug === "repair-guide") sections2 += repairChecklist(lang);
+  if (page.slug === "all-devices") {
+    const devPages = DATA.pages.filter(x=>x.slug.startsWith("devices/"));
+    const grid = devPages.map(dp=>{
+      const t = pageOf(dp, lang);
+      return `<a class="dev-link" href="${prefix}/${dp.slug}"><span class="dev-ic">${iconOf(dp.slug)}</span><span class="dev-tx">${esc(t.title)}</span><span class="dev-go">${SVG.arrow}</span></a>`;
+    }).join("");
+    sections2 += `<section class="panel-block reveal" id="dev-grid"><div class="panel-head"><span class="panel-tag">${esc(siteI18n(lang).boardTag)}</span><h2>${esc(siteI18n(lang).devicesTitle || "Device step pages")}</h2></div><p class="panel-lead">${esc(siteI18n(lang).devicesLead || "Each device has its own page with the repair loop, weak points and an interactive checklist.")}</p><div class="dev-grid">${grid}</div></section>`;
+  }
+  if (page.slug === "repair-guide" || page.slug.startsWith("devices/")) sections2 += repairChecklist(lang);
   const srcList = page.sources || [];
   const sources = srcList.map(x=>`<li>${AFF.anchor({ url: x.url, text: (x.labels && x.labels[lang]) || x.label, suffix: " ↗" })}</li>`).join("");
   const affNote = AFF.needsDisclosure(srcList.map(x=>x.url)) ? `<p class="aff-note">${esc(KIT.affiliateDisclosure(lang))}</p>` : "";
@@ -484,7 +496,10 @@ function breadcrumbLd(page, lang){
 }
 
 /* ---------- build ---------- */
-const writePage = (filePath, slug, lang, html) => fs.writeFileSync(filePath, LM.stamp(urlOf(slug, lang), html));
+const writePage = (filePath, slug, lang, html) => {
+  fs.mkdirSync(path.dirname(filePath), {recursive:true});
+  fs.writeFileSync(filePath, LM.stamp(urlOf(slug, lang), html));
+};
 fs.rmSync(OUT, {recursive:true, force:true});
 fs.mkdirSync(OUT, {recursive:true});
 

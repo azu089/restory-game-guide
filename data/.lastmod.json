@@ -16,7 +16,7 @@
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/all-devices": {
-    "hash": "ea5163cff45ab7c44019d59cc6681e63",
+    "hash": "5d351d46995916499ab3a2065a855360",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/beginners-guide": {
@@ -48,7 +48,7 @@
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/de/all-devices": {
-    "hash": "8d35f0a87a62b388286993e7b7a87d11",
+    "hash": "f91a1b19ebba42a6b299b48fafa42c03",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/de/beginners-guide": {
@@ -61,6 +61,66 @@
   },
   "https://restorygameguides.com/de/customers": {
     "hash": "d406c77010ee5645b4260f0e16960950",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/atari-2600": {
+    "hash": "9d715261af4de7cb2ea769bb796d0657",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/atari-cx40": {
+    "hash": "437ddf0cc42ffa10a8bdf7cbf6bd928b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/atari-lynx": {
+    "hash": "0ea89c06b76642ae733803eca6086e5b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/autorolla-razor": {
+    "hash": "3bdfe944f372413230c992b714110e8d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/eggotchi": {
+    "hash": "42b0d941e85327a470a45311d9f4055f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/nony-goman": {
+    "hash": "a551812e0f9b624b1a39f25b49d4e8b1",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/nony-playmachine": {
+    "hash": "9006a888b42d57a8ad261fb2c2af80aa",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/nony-pmp": {
+    "hash": "c2355f65e76aa8575f00956b934b840b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/palaloid": {
+    "hash": "8b5d31ca2b677e0f6c82799e2cb8e039",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/patento-bs": {
+    "hash": "18e66afbac4b75332591fc2d747695ea",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/pokia-3310": {
+    "hash": "5122b60c9d9dc6c734d3b3e2dbba30ed",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/pokia-njoy": {
+    "hash": "d7a133b0e23279bf66d330e7ac78c86f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/robodog": {
+    "hash": "92d3d622927c25752bc2d9af327a849f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/unicorp-99l": {
+    "hash": "3db7d9ac43c39158bea46a237bb036ff",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/devices/walkie-talkie": {
+    "hash": "fcc51ff75fa22dc2718f565c6f4e1428",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/de/economy": {
@@ -119,6 +179,66 @@
     "hash": "fa6ac1ce4afb52440d775c9f3b3bafc2",
     "date": "2026-08-09"
   },
+  "https://restorygameguides.com/devices/atari-2600": {
+    "hash": "d267029ad67b93bd360a47b5153e6ba7",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/atari-cx40": {
+    "hash": "fae7e58545e4e14c38292e487e19c730",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/atari-lynx": {
+    "hash": "baf5c0353d6d2408c2df9e86f8157c62",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/autorolla-razor": {
+    "hash": "fda5056b3898cdb676b4c0d2dc5786dd",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/eggotchi": {
+    "hash": "1e1a8395a1c57d93c3fdef44177079c9",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/nony-goman": {
+    "hash": "71afbdd925016ad4460f6e4356225195",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/nony-playmachine": {
+    "hash": "a592dba965ca2f251ff9907673941f46",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/nony-pmp": {
+    "hash": "ff6923c209aa97ac9d4dc52c1ecfd96b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/palaloid": {
+    "hash": "3ecf62bb23210e20c5ce6f971b73214c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/patento-bs": {
+    "hash": "018fd45b5d9f3f154f107e124d558cc4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/pokia-3310": {
+    "hash": "c4c8fae5bac250bdd4018cacab481f4d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/pokia-njoy": {
+    "hash": "35c007cf069211b8838ef578c1a00450",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/robodog": {
+    "hash": "30d52c444662e15d225bb2ff93332d4e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/unicorp-99l": {
+    "hash": "f8bbcdc0194a56c5ebd7233084759268",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/devices/walkie-talkie": {
+    "hash": "389d3f767e08ad5ee814ea97276facf9",
+    "date": "2026-08-09"
+  },
   "https://restorygameguides.com/economy": {
     "hash": "568731e5c05595b9496533f106317a3b",
     "date": "2026-08-09"
@@ -144,7 +264,7 @@
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/es/all-devices": {
-    "hash": "33ce65e5c28ec1c094d5de390d0cf938",
+    "hash": "558249782ed4e2d5f55a3701cd4e7242",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/es/beginners-guide": {
@@ -157,6 +277,66 @@
   },
   "https://restorygameguides.com/es/customers": {
     "hash": "ef65ad5f8fbdfce1a8d450d45ff7e1f5",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/atari-2600": {
+    "hash": "97a2c9a443e1abaf81da53802ab68d3d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/atari-cx40": {
+    "hash": "738537b56d85136ac145373541e30d9d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/atari-lynx": {
+    "hash": "70cc06d623432766b11e5bcb79373c36",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/autorolla-razor": {
+    "hash": "36b98e32f43a9cc14439815dee3cb209",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/eggotchi": {
+    "hash": "4a73cc95804b68aa52b3b010e015ec34",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/nony-goman": {
+    "hash": "83c8a28f3726d055fafc0156adb3ba2f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/nony-playmachine": {
+    "hash": "f134f46d6ac8acab738fb53eaaae8afa",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/nony-pmp": {
+    "hash": "89029030baebcd81c190c609aa12ac4a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/palaloid": {
+    "hash": "9faa376381d9003d30408a073b8d76e4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/patento-bs": {
+    "hash": "5c73c0bd7d094a0e2ddd24024b55d1be",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/pokia-3310": {
+    "hash": "035c7cb8549e76f736160c3760daeeb2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/pokia-njoy": {
+    "hash": "58f9a84da7a8b059104fc46895a93263",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/robodog": {
+    "hash": "cfd416a388e24a9b9a086bb282ae4fc7",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/unicorp-99l": {
+    "hash": "bc4c4dd720e169326795be1a8253f649",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/devices/walkie-talkie": {
+    "hash": "f366a36474988289f3a5253881836959",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/es/economy": {
@@ -236,7 +416,7 @@
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/fr/all-devices": {
-    "hash": "3b86658eb2554f49a88be269dbabd1b0",
+    "hash": "4b2369892eef64219a26bd584a5ce4b2",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/fr/beginners-guide": {
@@ -249,6 +429,66 @@
   },
   "https://restorygameguides.com/fr/customers": {
     "hash": "4d87e228da3507cc7c754473b71103ea",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/atari-2600": {
+    "hash": "57e820dcdd803ebfa0a384c84ffe5c65",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/atari-cx40": {
+    "hash": "a84b88fdf92fb0a25faf71237e7011a8",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/atari-lynx": {
+    "hash": "53f02a788989483c1b8c4b47cc6c150b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/autorolla-razor": {
+    "hash": "937504c684b44f98eddf552277f83b21",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/eggotchi": {
+    "hash": "26031663a84fda88a20330d0d1cbf57e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/nony-goman": {
+    "hash": "7db1e36fd216d26a6e251d7637cd49c7",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/nony-playmachine": {
+    "hash": "fd3f75bf6be606c4e4e497eea8ec6a81",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/nony-pmp": {
+    "hash": "2780ec0f755ea675c9e3e242d2f4cf03",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/palaloid": {
+    "hash": "08f89f8924f8717528f98c63ec39051b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/patento-bs": {
+    "hash": "1dda4d9ba0c383ac60359c3c50baedde",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/pokia-3310": {
+    "hash": "84ccf40e2da8531b5f833fedf4d69e50",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/pokia-njoy": {
+    "hash": "7e56d45125b0187663fdd7bfe71e52cc",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/robodog": {
+    "hash": "12e4bcc100b5934737412923af9d91c3",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/unicorp-99l": {
+    "hash": "0994d8e2ad02a29b218c44f325ad8bb1",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/devices/walkie-talkie": {
+    "hash": "ba37c61df38f1dc4b5ee9fc75b4805e2",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/fr/economy": {
@@ -332,7 +572,7 @@
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/ja/all-devices": {
-    "hash": "f36fc363342a6136d6a49dc3364ccd12",
+    "hash": "b55a1100a9607c7d82667a6b0113ad25",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/ja/beginners-guide": {
@@ -345,6 +585,66 @@
   },
   "https://restorygameguides.com/ja/customers": {
     "hash": "9e7b59a60374b11d3140fb30666c4b03",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/atari-2600": {
+    "hash": "4bd68ca7c51b0d65372b8125fd2dd317",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/atari-cx40": {
+    "hash": "b640b23afff7976dadf85ce4c57afdb4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/atari-lynx": {
+    "hash": "fa8a542d55bfa28c4c0c6cdcccfc3dff",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/autorolla-razor": {
+    "hash": "95c4533535dcefa74d308d9f27538ffd",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/eggotchi": {
+    "hash": "664a4fc3bbad3665d563bee2e7ff4df2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/nony-goman": {
+    "hash": "a923821d9a6b0561a805a3f3485f1045",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/nony-playmachine": {
+    "hash": "0f218b05f9ac9d0e87496f7561b42153",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/nony-pmp": {
+    "hash": "aa106767db37a43bbe4ded42565bf40a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/palaloid": {
+    "hash": "ffe130d4d893596bd8b2d5a3f54e243c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/patento-bs": {
+    "hash": "f612fc3352f81c1b641e17a6f7cb9ca0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/pokia-3310": {
+    "hash": "7605dba63efd2c0fa16ca608e0ee7279",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/pokia-njoy": {
+    "hash": "d72708b5eba4ac0592da1b9467003ccc",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/robodog": {
+    "hash": "ce5b9576f8ebf8cfb63471a3c32b5cb8",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/unicorp-99l": {
+    "hash": "52afd9d26a89893d4509dc0fd73990de",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/devices/walkie-talkie": {
+    "hash": "eedd472958a4b13b8eab6d8e847ddcec",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/ja/economy": {
@@ -420,7 +720,7 @@
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/ko/all-devices": {
-    "hash": "87e20c2f5008825128f1cfa40e0aec6a",
+    "hash": "f00a969c489e0920e13448ef899b9706",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/ko/beginners-guide": {
@@ -433,6 +733,66 @@
   },
   "https://restorygameguides.com/ko/customers": {
     "hash": "13f88eb1d791725ad0267eb76bad2ed1",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/atari-2600": {
+    "hash": "d796f495b189617d2df5afbbddb98495",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/atari-cx40": {
+    "hash": "e0c139c91f4052d1ba6bdf59b012cd92",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/atari-lynx": {
+    "hash": "f64c42740e658c6ff9bf60fce119db57",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/autorolla-razor": {
+    "hash": "f696cf2638e1f20278ba52598ee6fe3c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/eggotchi": {
+    "hash": "4198b0d67883264c9b3047819f884a11",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/nony-goman": {
+    "hash": "ecaf2c9867704d2d989ee754ca0db635",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/nony-playmachine": {
+    "hash": "7337983e0d99dbf0b1fc4a1a1461e6c9",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/nony-pmp": {
+    "hash": "67a7699d108d9fd281ce74b42a152dde",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/palaloid": {
+    "hash": "98760f8fa967c635ca880a116aa28c2a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/patento-bs": {
+    "hash": "159c30703210226028bc6fa0d89d2a10",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/pokia-3310": {
+    "hash": "fd8580c6ec6bb2b1b4f8d08c0a0d7f12",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/pokia-njoy": {
+    "hash": "b941ad5cd7137731acafb0af9383e958",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/robodog": {
+    "hash": "28d93391b8edbd754ba06eb3ad38a5f0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/unicorp-99l": {
+    "hash": "9c25ffb9fd3cc2c46bd673ffe88e36a3",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/devices/walkie-talkie": {
+    "hash": "c2971d897c5788b5808a8575882e8873",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/ko/economy": {
@@ -524,7 +884,7 @@
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/pt-BR/all-devices": {
-    "hash": "1bfb341b05eaf0378c1e3410fd2e3d77",
+    "hash": "4e682a7fe3a90943458d5dedf96189dd",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/pt-BR/beginners-guide": {
@@ -537,6 +897,66 @@
   },
   "https://restorygameguides.com/pt-BR/customers": {
     "hash": "cdb4511716724ad74cc0fbb724a569be",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/atari-2600": {
+    "hash": "70efc3dc449bdc55f0285abacb1b9eba",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/atari-cx40": {
+    "hash": "a1ad0b6e04ad9eae5548e497d1e535b6",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/atari-lynx": {
+    "hash": "7ce57de578019adafd840e86d8c6d0ce",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/autorolla-razor": {
+    "hash": "714c43f9f4bc38cb9d9e89a57d6f5057",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/eggotchi": {
+    "hash": "e4b4c45b7322866e88443c64727ee68a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/nony-goman": {
+    "hash": "0f3dba28cb91afdb06798b4c7e6c4464",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/nony-playmachine": {
+    "hash": "c010fcfdc6d2c1b61603d910b0c3b177",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/nony-pmp": {
+    "hash": "0fc3d0493f85f9f5d899b7cee633aada",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/palaloid": {
+    "hash": "9129509900211a8e53a38eff8d3509fa",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/patento-bs": {
+    "hash": "6877cf12d4c7075d9f759bce183e1910",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/pokia-3310": {
+    "hash": "77a3931d4a8a5c4784ad3d72ba1858ef",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/pokia-njoy": {
+    "hash": "7e88a312c7b2760fbc34f487e0758ce5",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/robodog": {
+    "hash": "1d246c3c8b8876e452c6a337ad39a5b2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/unicorp-99l": {
+    "hash": "5da57d1e2796cdce28fde92db6bd7247",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/devices/walkie-talkie": {
+    "hash": "3236dba77e4a37308e9bdd790483b288",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/pt-BR/economy": {
@@ -616,7 +1036,7 @@
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/ru/all-devices": {
-    "hash": "b0d56b3a5234ab61663e550c4d77d386",
+    "hash": "e2dbeff7c5c674db6ac830ac350be8d9",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/ru/beginners-guide": {
@@ -629,6 +1049,66 @@
   },
   "https://restorygameguides.com/ru/customers": {
     "hash": "6aa17bfb02bd0d2436e14d72ea8c2896",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/atari-2600": {
+    "hash": "9f1eb497f7cccac2c25dc08ebb0bc35c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/atari-cx40": {
+    "hash": "93c0a43731178e18d57e9f304ffbc5ba",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/atari-lynx": {
+    "hash": "5da4a88e09f28e0816f594b42a28bec6",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/autorolla-razor": {
+    "hash": "505137738324cb242fc7ea39d7203346",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/eggotchi": {
+    "hash": "a04bb867b22b642bc398117beea988d5",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/nony-goman": {
+    "hash": "44a45d2a89da5d12170d6058e105fd1f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/nony-playmachine": {
+    "hash": "1f8c0de52dd01e2c912431a6957544b4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/nony-pmp": {
+    "hash": "a329514c447692b208142339b9d87c2a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/palaloid": {
+    "hash": "7a7773734d14f1732b716d820eac1a9e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/patento-bs": {
+    "hash": "d94b5bf25991093a63f0127d04e9ecde",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/pokia-3310": {
+    "hash": "87b6e066bbe651702b36cc083f889d4f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/pokia-njoy": {
+    "hash": "11aca00ade94b4faf2f51bbd671c94f7",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/robodog": {
+    "hash": "5a22f6481e8e6ef6a9325f0ab63aa8b2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/unicorp-99l": {
+    "hash": "33974fd2381cb84067eaa16ebd20ee92",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/devices/walkie-talkie": {
+    "hash": "1b0de102ff853db7f2abcc6d1888926b",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/ru/economy": {
@@ -720,7 +1200,7 @@
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/zh-CN/all-devices": {
-    "hash": "6de7d6be5a63ce335029d599be9bd0d9",
+    "hash": "1faf24f23408f873d436a9c30e4d692c",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/zh-CN/beginners-guide": {
@@ -733,6 +1213,66 @@
   },
   "https://restorygameguides.com/zh-CN/customers": {
     "hash": "9c20ae7fe9c39f483933a574709cd4ba",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/atari-2600": {
+    "hash": "a07daecfade64f6c13766c6dbe4507f5",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/atari-cx40": {
+    "hash": "cf67d0dcf844230f9b47317388d83757",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/atari-lynx": {
+    "hash": "ea9b9ae2751d475db0c772d3776aade5",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/autorolla-razor": {
+    "hash": "b47cdbe8ea8c088cf305c0a06af6653d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/eggotchi": {
+    "hash": "d036ea2569ebf3042758ee0a8531d066",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/nony-goman": {
+    "hash": "5687dd39967fd32de7d0d8c03f681ec7",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/nony-playmachine": {
+    "hash": "150bae3e747a52860f75b1c351dfe7c4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/nony-pmp": {
+    "hash": "fc086685d9d2e8e372d98d51677762d2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/palaloid": {
+    "hash": "d8cf2dd88da6fc6c953df8c16341d12c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/patento-bs": {
+    "hash": "8c7b233b2200e20457f7097b4d192a0e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/pokia-3310": {
+    "hash": "ad582023be77b29489eccb90e6b700c3",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/pokia-njoy": {
+    "hash": "32bba4d50833387358286b2d78e0e828",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/robodog": {
+    "hash": "f31d2032183f967c6c042becec63294d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/unicorp-99l": {
+    "hash": "26730b021889edfe9cd12df380e34aa4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/devices/walkie-talkie": {
+    "hash": "7d8d7649a77747c86aaddb37d7a677b3",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/zh-CN/economy": {
@@ -808,7 +1348,7 @@
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/zh-TW/all-devices": {
-    "hash": "c6c7562a08b67cb4d49ab8fe0793cc0d",
+    "hash": "23b9da833254f0107ce8b7fde242c7dd",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/zh-TW/beginners-guide": {
@@ -821,6 +1361,66 @@
   },
   "https://restorygameguides.com/zh-TW/customers": {
     "hash": "b978da32667e4fb995ac4d8398ab8495",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/atari-2600": {
+    "hash": "f0d09418d323e3401550a6c3fd19bb73",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/atari-cx40": {
+    "hash": "f8d1ab5403be954028a41f39c52353bf",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/atari-lynx": {
+    "hash": "c4931eb80d1194317a2722709da09a30",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/autorolla-razor": {
+    "hash": "1fa007e9fbd44ed4882ed5c3c1e5ecb8",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/eggotchi": {
+    "hash": "d76556dba3f1e31a8c8f0001e53cef5e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/nony-goman": {
+    "hash": "94d64a1d0fa8eda565f0869e5cbf7c15",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/nony-playmachine": {
+    "hash": "cdf2fb2e48ba45a90a1bbfc26adcc5c7",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/nony-pmp": {
+    "hash": "7c933e711c4155370fed4ab165dd2b27",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/palaloid": {
+    "hash": "66583a8dda3b0be647a6c3bab36b4ea0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/patento-bs": {
+    "hash": "b2f6d304d8610b9b9956d6fc55814e7e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/pokia-3310": {
+    "hash": "f5817c84711acc0d7f5c1ecb0cd55485",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/pokia-njoy": {
+    "hash": "c5a204f7693218b7d7c612a00d681eb4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/robodog": {
+    "hash": "de6dc4d43b1e785785d3f1cd7e49a414",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/unicorp-99l": {
+    "hash": "ad79ee4ce17cab2dcc429b262c953f71",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/devices/walkie-talkie": {
+    "hash": "9e97af6f5691f0a14c4c829c5ad3a2cf",
     "date": "2026-08-09"
   },
   "https://restorygameguides.com/zh-TW/economy": {

@@ -418,6 +418,22 @@ for lg in LANGS:
     addons = _load_addons(lg)
     for page in PAGES:
         _merge_addons(page, lg, addons)
+# 设备网格文案（无则用英文，避免空）
+_DEV_T = {
+ "en": ["Device step pages","Each device has its own page with the repair loop, weak points and an interactive checklist."],
+ "zh-CN": ["设备步骤页","每台设备都有自己的页面：修复循环、薄弱点与交互式检查清单。"],
+ "zh-TW": ["設備步驟頁","每台設備都有自己的頁面：修復循環、薄弱點與互動式檢查清單。"],
+ "ja": ["デバイス別ステップ","各デバイスに修理ループ・弱点・インタラクティブチェックリストのページがあります。"],
+ "ko": ["기기별 단계 페이지","각 기기에는 수리 루프, 약점, 대화형 체크리스트 페이지가 있습니다."],
+ "fr": ["Pages par appareil","Chaque appareil a sa page : boucle de réparation, points faibles et checklist interactive."],
+ "de": ["Geräte-Schritt-Seiten","Jedes Gerät hat seine eigene Seite: Reparaturzyklus, Schwachstellen und interaktive Checkliste."],
+ "es": ["Páginas por dispositivo","Cada dispositivo tiene su página: bucle de reparación, puntos débiles y lista interactiva."],
+ "pt-BR": ["Páginas por aparelho","Cada aparelho tem sua página: ciclo de conserto, pontos fracos e checklist interativo."],
+ "ru": ["Страницы устройств","У каждого устройства есть своя страница: цикл ремонта, слабые места и интерактивный чек-лист."],
+}
+for lg, (t, l) in _DEV_T.items():
+    SITE_I18N[lg]["devicesTitle"] = t
+    SITE_I18N[lg]["devicesLead"] = l
 
 
 

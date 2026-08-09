@@ -274,9 +274,9 @@ function renderHome(lang){
   const s = siteI18n(lang);
   const prefix = lang === DEF ? "" : `/${lang}`;
   const gname = gnameOf(lang);
-  const gintro = DATA.game.intro;
-  const stats = (DATA.game.stats||[]).map(x=>`<div class="gauge"><b>${esc(x.value)}</b><span>${esc(x.label)}</span></div>`).join("");
-  const keyFacts = (DATA.game.keyFacts||[]).map(f=>`<li>${esc(f)}</li>`).join("");
+  const gintro = s.homeIntro || DATA.game.intro;
+  const stats = (DATA.game.stats||[]).map((x,i)=>`<div class="gauge"><b>${esc(x.value)}</b><span>${esc((s.homeStats||[])[i] || x.label)}</span></div>`).join("");
+  const keyFacts = (s.homeFacts || DATA.game.keyFacts || []).map(f=>`<li>${esc(f)}</li>`).join("");
   // 今日工单板（真交互：按工位分类 + 难度筛选）
   const BOARDS = [
     {code:"START", key:"filterStart", diff:"easy", slugs:["beginners-guide","repair-guide","tools","faq"]},
@@ -430,7 +430,7 @@ function renderPage(lang, page){
       var items=rc.querySelectorAll(".rc-item"); var saved={}; try{saved=JSON.parse(localStorage.getItem(key)||"{}");}catch(e){}
       items.forEach(function(it){ var k=it.getAttribute("data-rc"); var tx=it.querySelector(".rc-tx");
         var label=document.querySelectorAll("#rc .panel-lead, #rc .rc-save"); void label;
-        if(it.parentElement){ /* step names come from the page's repair-guide step sections */ }
+        void it;
         if(saved[k]) it.classList.add("on");
         it.addEventListener("click",function(ev){ if(ev.target.tagName==="INPUT") return; var c=it.querySelector("input"); c.checked=!c.checked; it.classList.toggle("on",c.checked); save(); });
         var inp=it.querySelector("input"); inp.addEventListener("change",function(){ it.classList.toggle("on",inp.checked); save(); });
@@ -467,7 +467,7 @@ function renderStatic(lang, slug, title, body){
 function genStatic(lang){
   const s = siteI18n(lang);
   const dir = path.join(OUT, lang === DEF ? "" : lang);
-  const aboutPoints = DATA.game.aboutPoints || [];
+  const aboutPoints = (s.aboutPoints && s.aboutPoints.length) ? s.aboutPoints : (DATA.game.aboutPoints || []);
   const aboutBody = `<p>${esc(s.aboutText)}</p><h2 style="font-size:1.05rem;margin:18px 0 8px">${esc(s.aboutSources)}</h2><ul class="checks">${aboutPoints.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`;
   writePage(path.join(dir,"about.html"), "about", lang, renderStatic(lang,"about", s.aboutTitle,
     aboutBody + `<section class="card">` + KIT.editorialPolicy(lang, { siteName: s.name, contactEmail: `contact@${DATA.site.domain}` }) + `</section>`));
@@ -492,7 +492,7 @@ function faqLd(sections){
 function breadcrumbLd(page, lang){
   return {"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:[
     {"@type":"ListItem",position:1,name:siteI18n(lang).navHome,item:`https://${DATA.site.domain}/${lang===DEF?"":lang+"/"}`},
-    {"@type":"ListItem",position:2,name:page.title,item:urlOf(page.slug,lang)}]};
+    {"@type":"ListItem",position:2,name:pageOf(page, lang).title,item:urlOf(page.slug,lang)}]};
 }
 
 /* ---------- build ---------- */

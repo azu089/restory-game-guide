@@ -83,7 +83,29 @@
     "privacyBody": "<p>This is a game guide website. We respect your privacy. Below is what we collect and how we use it.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">What we collect</h2><p>We use Google Analytics (GA4) for anonymous traffic statistics: page views, referrer, device type and approximate region. We do not collect names, emails or other personal identifiers, and we do not sell data.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Cookies</h2><p>Google Analytics uses cookies to distinguish visitors. You can disable cookies in your browser settings.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Affiliate links</h2><p>Some outbound links may carry affiliate markers; this never changes your price or our factual content.</p>",
     "contactBody": "<p>Questions, corrections or missing guides? Email us at <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. We read every message and update guides as we verify new details.</p>",
     "devicesTitle": "Device step pages",
-    "devicesLead": "Each device has its own page with the repair loop, weak points and an interactive checklist."
+    "devicesLead": "Each device has its own page with the repair loop, weak points and an interactive checklist.",
+    "homeIntro": "ReStory is a chill, narrative-driven shop management simulator from the creators of I Am Future. Set in mid-2000s Tokyo, you run an electronics repair shop — restore nostalgic Y2K devices, talk to customers, and shape a branching story with multiple endings.",
+    "homeFacts": [
+     "Run a repair shop in mid-2000s Tokyo (Akihabara)",
+     "Restore nostalgic Y2K devices, including officially licensed Atari consoles",
+     "Branching storyline with multiple endings based on your choices",
+     "50 Steam achievements + trading cards + cloud saves",
+     "Official 9 languages + Traditional Chinese (10 total)",
+     "From the creators of I Am Future — published by tinyBuild"
+    ],
+    "homeStats": [
+     "Released",
+     "Achievements",
+     "Languages",
+     "Repairable devices",
+     "On Steam (10% off)",
+     "Reviews in 3 days"
+    ],
+    "aboutPoints": [
+     "Facts checked against the official Steam store page and reputable sources (allthings.how, intoindiegames)",
+     "Anything still being verified is explicitly marked — we never invent details",
+     "Available in 10 languages; every page lists its own sources"
+    ]
    },
    "zh-CN": {
     "name": "维修物语攻略站",
@@ -142,7 +164,29 @@
     "privacyBody": "<p>这是游戏攻略网站，我们尊重访问者隐私。以下说明我们收集什么、如何使用。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">我们收集什么</h2><p>我们使用 Google Analytics（GA4）进行匿名流量统计：页面浏览、来源、设备类型和大致地区。我们不收集姓名、邮箱等个人身份信息，不出售数据。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Cookie</h2><p>Google Analytics 会使用 Cookie 来区分访客。你可以通过浏览器设置禁用 Cookie。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">联盟链接</h2><p>部分外链可能带联盟标识；这不影响你的价格，也不改变我们的事实内容。</p>",
     "contactBody": "<p>有疑问、勘误或想要补充的攻略？请发邮件到 <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>。我们会阅读每一条消息，并在核实新细节后更新攻略。</p>",
     "devicesTitle": "设备步骤页",
-    "devicesLead": "每台设备都有自己的页面：修复循环、薄弱点与交互式检查清单。"
+    "devicesLead": "每台设备都有自己的页面：修复循环、薄弱点与交互式检查清单。",
+    "homeIntro": "《ReStory：维修物语》是一款由 I Am Future 团队打造的治愈系叙事经营模拟游戏。故事发生在 2005 年的东京秋叶原——你经营一家电子维修铺，修复怀旧 Y2K 设备、倾听顾客的故事，用你的选择塑造多条分支结局。",
+    "homeFacts": [
+     "在 2005 年东京秋叶原经营维修铺",
+     "修复怀旧 Y2K 设备，包括官方授权的 Atari 主机",
+     "基于你的选择的分支剧情与多结局",
+     "50 个 Steam 成就 + 卡牌 + 云存档",
+     "9 种官方语言 + 繁体中文（共 10 种）",
+     "来自 I Am Future 团队，由 tinyBuild 发行"
+    ],
+    "homeStats": [
+     "发售日",
+     "成就",
+     "语言",
+     "可修设备",
+     "Steam 价格（9 折）",
+     "3 天评价数"
+    ],
+    "aboutPoints": [
+     "事实核对自 Steam 官方商店页与可靠来源（allthings.how、intoindiegames）",
+     "仍在验证的内容明确标注——我们绝不编造细节",
+     "提供 10 种语言；每个页面都列出自己的来源"
+    ]
    },
    "zh-TW": {
     "name": "維修物語攻略站",
@@ -201,7 +245,29 @@
     "privacyBody": "<p>這是遊戲攻略網站，我們尊重訪客隱私。以下說明我們收集什麼、如何使用。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">我們收集什麼</h2><p>我們使用 Google Analytics（GA4）進行匿名流量統計：頁面瀏覽、來源、裝置類型和大致地區。我們不收集姓名、信箱等個人身分資訊，不出售資料。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Cookie</h2><p>Google Analytics 會使用 Cookie 來區分訪客。你可以透過瀏覽器設定停用 Cookie。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">聯盟連結</h2><p>部分外連可能帶聯盟標識；這不影響你的價格，也不改變我們的事實內容。</p>",
     "contactBody": "<p>有疑問、勘誤或想補充的攻略？請寄信到 <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>。我們會閱讀每一則訊息，並在核實新細節後更新攻略。</p>",
     "devicesTitle": "設備步驟頁",
-    "devicesLead": "每台設備都有自己的頁面：修復循環、薄弱點與互動式檢查清單。"
+    "devicesLead": "每台設備都有自己的頁面：修復循環、薄弱點與互動式檢查清單。",
+    "homeIntro": "《ReStory：維修物語》是一款由 I Am Future 團隊打造的治癒系敘事經營模擬遊戲。故事發生在 2005 年的東京秋葉原——你經營一家電子維修鋪，修復懷舊 Y2K 設備、傾聽顧客的故事，用你的選擇塑造多條分支結局。",
+    "homeFacts": [
+     "在 2005 年東京秋葉原經營維修鋪",
+     "修復懷舊 Y2K 設備，包括官方授權的 Atari 主機",
+     "基於你的選擇的分支劇情與多結局",
+     "50 個 Steam 成就 + 卡牌 + 雲端存檔",
+     "9 種官方語言 + 繁體中文（共 10 種）",
+     "來自 I Am Future 團隊，由 tinyBuild 發行"
+    ],
+    "homeStats": [
+     "發售日",
+     "成就",
+     "語言",
+     "可修設備",
+     "Steam 價格（9 折）",
+     "3 天評價數"
+    ],
+    "aboutPoints": [
+     "事實核對自 Steam 官方商店頁與可靠來源（allthings.how、intoindiegames）",
+     "仍在驗證的內容明確標註——我們絕不編造細節",
+     "提供 10 種語言；每個頁面都列出自己的來源"
+    ]
    },
    "ja": {
     "name": "ReStory 攻略ガイド",
@@ -260,7 +326,29 @@
     "privacyBody": "<p>当サイトはゲーム攻略サイトです。訪問者のプライバシーを尊重します。以下に収集する情報とその使い方を説明します。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">収集する情報</h2><p>Google Analytics（GA4）で匿名のアクセス統計を取得しています：ページビュー、参照元、端末タイプ、おおよその地域。氏名・メールアドレスなどの個人を特定できる情報は収集せず、データを販売することもありません。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Cookie</h2><p>Google Analytics は訪問者を識別するために Cookie を使用します。ブラウザ設定で Cookie を無効にできます。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">アフィリエイトリンク</h2><p>一部の外部リンクにはアフィリエイト識別子が含まれる場合があります。価格や事実内容が変わることはありません。</p>",
     "contactBody": "<p>質問・訂正・攻略のリクエストは <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a> までご連絡ください。すべてのメッセージに目を通し、確認できた内容を随時ガイドに反映します。</p>",
     "devicesTitle": "デバイス別ステップ",
-    "devicesLead": "各デバイスに修理ループ・弱点・インタラクティブチェックリストのページがあります。"
+    "devicesLead": "各デバイスに修理ループ・弱点・インタラクティブチェックリストのページがあります。",
+    "homeIntro": "『ReStory：まったり電子機器修理』は I Am Future の開発者による、癒やし系ストーリー経営シミュレーション。2005年の中旬・東京秋葉原で電子機器修理店を営み、懐かしいY2Kデバイスを修復し、お客の物語に耳を傾け、選択で分岐する複数のエンディングを紡ぎます。",
+    "homeFacts": [
+     "2005年・秋葉原で修理店を経営",
+     "公式ライセンスのAtariなど懐かしいY2Kデバイスを修復",
+     "選択で変わる分岐ストーリーと複数エンディング",
+     "Steam実績50個 + トレーディングカード + クラウド保存",
+     "公式9言語 + 繁体中国語（計10言語）",
+     "I Am Future 開発チーム、tinyBuild 発行"
+    ],
+    "homeStats": [
+     "発売日",
+     "実績",
+     "言語",
+     "修理可能デバイス",
+     "Steam価格（10%OFF）",
+     "3日間のレビュー数"
+    ],
+    "aboutPoints": [
+     "Steam公式ストアと信頼できる情報源（allthings.how、intoindiegames）で確認",
+     "未検証の内容は明記 — 細部を創作しません",
+     "10言語対応；各ページに出典を掲載"
+    ]
    },
    "ko": {
     "name": "ReStory 가이드",
@@ -319,7 +407,29 @@
     "privacyBody": "<p>이 사이트는 게임 공략 웹사이트입니다. 방문자의 개인정보를 존중합니다. 아래에 수집하는 정보와 사용 방법을 설명합니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">수집 정보</h2><p>Google Analytics(GA4)로 익명의 트래픽 통계를 수집합니다: 페이지 조회, 유입 경로, 기기 유형, 대략적인 지역. 이름, 이메일 등 개인 식별 정보는 수집하지 않으며 데이터를 판매하지 않습니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">쿠키</h2><p>Google Analytics는 방문자 구분을 위해 쿠키를 사용합니다. 브라우저 설정에서 쿠키를 비활성화할 수 있습니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">제휴 링크</h2><p>일부 외부 링크에는 제휴 식별자가 포함될 수 있습니다. 가격이나 사실 내용이 바뀌지 않습니다.</p>",
     "contactBody": "<p>질문, 오류 정정, 가이드 요청은 <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>로 보내주세요. 모든 메시지를 읽고, 확인된 내용을 가이드에 반영합니다.</p>",
     "devicesTitle": "기기별 단계 페이지",
-    "devicesLead": "각 기기에는 수리 루프, 약점, 대화형 체크리스트 페이지가 있습니다."
+    "devicesLead": "각 기기에는 수리 루프, 약점, 대화형 체크리스트 페이지가 있습니다.",
+    "homeIntro": "《ReStory: 리스토리》는 I Am Future 제작진이 만든 힐링형 스토리 경영 시뮬레이션입니다. 2005년 도쿄 아키하바라에서 전자제품 수리점을 운영하며, 추억의 Y2K 기기를 복원하고 손님의 이야기를 듣고, 선택에 따라 갈라지는 여러 엔딩을 만들어 갑니다.",
+    "homeFacts": [
+     "2005년 도쿄 아키하바라에서 수리점 운영",
+     "공식 라이선스 Atari 등 추억의 Y2K 기기 복원",
+     "선택에 따라 달라지는 분기 스토리와 다중 엔딩",
+     "Steam 업적 50개 + 트레이딩 카드 + 클라우드 저장",
+     "공식 9개 언어 + 대만 중국어(총 10개)",
+     "I Am Future 제작진, tinyBuild 배급"
+    ],
+    "homeStats": [
+     "출시일",
+     "업적",
+     "언어",
+     "수리 가능 기기",
+     "Steam 가격(10% 할인)",
+     "3일 리뷰 수"
+    ],
+    "aboutPoints": [
+     "Steam 공식 스토어와 신뢰할 수 있는 출처(allthings.how, intoindiegames)로 확인",
+     "미검증 내용은 명확히 표시 — 세부 사항을 지어내지 않습니다",
+     "10개 언어 제공; 각 페이지에 출처 명시"
+    ]
    },
    "fr": {
     "name": "Guides ReStory",
@@ -378,7 +488,29 @@
     "privacyBody": "<p>Ce site est un site de guides de jeux. Nous respectons votre vie privée. Voici ce que nous collectons et comment nous l'utilisons.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Ce que nous collectons</h2><p>Nous utilisons Google Analytics (GA4) pour des statistiques de trafic anonymes : pages vues, provenance, type d'appareil et région approximative. Nous ne collectons ni noms, ni e-mails, ni autres identifiants personnels, et nous ne vendons pas de données.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Cookies</h2><p>Google Analytics utilise des cookies pour distinguer les visiteurs. Vous pouvez les désactiver dans les paramètres de votre navigateur.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Liens affiliés</h2><p>Certains liens externes peuvent porter des marqueurs d'affiliation ; cela ne change jamais votre prix ni notre contenu factuel.</p>",
     "contactBody": "<p>Questions, corrections ou guides manquants ? Écrivez-nous à <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Nous lisons chaque message et mettons à jour les guides au fil de nos vérifications.</p>",
     "devicesTitle": "Pages par appareil",
-    "devicesLead": "Chaque appareil a sa page : boucle de réparation, points faibles et checklist interactive."
+    "devicesLead": "Chaque appareil a sa page : boucle de réparation, points faibles et checklist interactive.",
+    "homeIntro": "ReStory est un simulateur de gestion narratif et relaxant signé par les créateurs de I Am Future. Dans le Tokyo des années 2000, vous tenez une boutique de réparation d'électronique : restaurez des appareils Y2K nostalgiques, écoutez les histoires des clients et façonnez une histoire à embranchements et fins multiples.",
+    "homeFacts": [
+     "Tenez une boutique de réparation dans le Tokyo des années 2000 (Akihabara)",
+     "Restaurez des appareils Y2K nostalgiques, dont les consoles Atari sous licence officielle",
+     "Histoire à embranchements et fins multiples selon vos choix",
+     "50 succès Steam + cartes + sauvegarde cloud",
+     "9 langues officielles + chinois traditionnel (10 au total)",
+     "Par les créateurs de I Am Future — édité par tinyBuild"
+    ],
+    "homeStats": [
+     "Sortie",
+     "Succès",
+     "Langues",
+     "Appareils réparables",
+     "Sur Steam (-10 %)",
+     "Avis en 3 jours"
+    ],
+    "aboutPoints": [
+     "Informations vérifiées sur la page Steam officielle et des sources fiables (allthings.how, intoindiegames)",
+     "Tout ce qui reste à vérifier est signalé — nous n'inventons jamais de détails",
+     "Disponible en 10 langues ; chaque page liste ses sources"
+    ]
    },
    "de": {
     "name": "ReStory Ratgeber",
@@ -437,7 +569,29 @@
     "privacyBody": "<p>Diese Seite ist eine Spieleratgeber-Website. Wir respektieren Ihre Privatsphäre. Nachfolgend, was wir sammeln und wie wir es verwenden.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Was wir sammeln</h2><p>Wir nutzen Google Analytics (GA4) für anonyme Verkehrsstatistiken: Seitenaufrufe, Herkunft, Gerätetyp und ungefähre Region. Wir sammeln keine Namen, E-Mails oder andere persönliche Identifikatoren und verkaufen keine Daten.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Cookies</h2><p>Google Analytics verwendet Cookies, um Besucher zu unterscheiden. Sie können Cookies in den Browser-Einstellungen deaktivieren.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Affiliate-Links</h2><p>Einige ausgehende Links können Affiliate-Marker tragen; das ändert nie Ihren Preis oder unseren faktenbasierten Inhalt.</p>",
     "contactBody": "<p>Fragen, Korrekturen oder fehlende Guides? Schreiben Sie uns an <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Wir lesen jede Nachricht und aktualisieren Guides, sobald wir Details verifizieren.</p>",
     "devicesTitle": "Geräte-Schritt-Seiten",
-    "devicesLead": "Jedes Gerät hat seine eigene Seite: Reparaturzyklus, Schwachstellen und interaktive Checkliste."
+    "devicesLead": "Jedes Gerät hat seine eigene Seite: Reparaturzyklus, Schwachstellen und interaktive Checkliste.",
+    "homeIntro": "ReStory ist ein entspannter, erzählerischer Shop-Management-Simulator von den Machern von I Am Future. In Tokio Mitte der 2000er führst du einen Elektronik-Reparaturshop: stelle nostalgische Y2K-Geräte wieder her, höre den Geschichten der Kunden zu und gestalte eine verzweigte Geschichte mit mehreren Enden.",
+    "homeFacts": [
+     "Führe einen Reparaturshop im Tokio der 2000er (Akihabara)",
+     "Stelle nostalgische Y2K-Geräte wieder her, inkl. offiziell lizenzierter Atari-Konsolen",
+     "Verzweigte Geschichte mit mehreren Enden je nach deinen Entscheidungen",
+     "50 Steam-Errungenschaften + Karten + Cloud-Speicher",
+     "9 offizielle Sprachen + traditionelles Chinesisch (10 gesamt)",
+     "Von den Machern von I Am Future — veröffentlicht von tinyBuild"
+    ],
+    "homeStats": [
+     "Erschienen",
+     "Errungenschaften",
+     "Sprachen",
+     "Reparierbare Geräte",
+     "Auf Steam (-10 %)",
+     "Bewertungen in 3 Tagen"
+    ],
+    "aboutPoints": [
+     "Informationen geprüft gegen die offizielle Steam-Seite und zuverlässige Quellen (allthings.how, intoindiegames)",
+     "Alles Unverifizierte ist markiert — wir erfinden nie Details",
+     "Verfügbar in 10 Sprachen; jede Seite listet ihre Quellen"
+    ]
    },
    "es": {
     "name": "Guías de ReStory",
@@ -496,7 +650,29 @@
     "privacyBody": "<p>Este es un sitio de guías de videojuegos. Respetamos tu privacidad. Esto es lo que recopilamos y cómo lo usamos.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Qué recopilamos</h2><p>Usamos Google Analytics (GA4) para estadísticas de tráfico anónimas: visitas, origen, tipo de dispositivo y región aproximada. No recopilamos nombres, correos ni otros identificadores personales, y no vendemos datos.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Cookies</h2><p>Google Analytics usa cookies para distinguir visitantes. Puedes desactivarlas en la configuración de tu navegador.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Enlaces de afiliado</h2><p>Algunos enlaces externos pueden llevar marcadores de afiliado; esto nunca cambia tu precio ni nuestro contenido factual.</p>",
     "contactBody": "<p>¿Preguntas, correcciones o guías que faltan? Escríbenos a <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Leemos cada mensaje y actualizamos las guías a medida que verificamos detalles.</p>",
     "devicesTitle": "Páginas por dispositivo",
-    "devicesLead": "Cada dispositivo tiene su página: bucle de reparación, puntos débiles y lista interactiva."
+    "devicesLead": "Cada dispositivo tiene su página: bucle de reparación, puntos débiles y lista interactiva.",
+    "homeIntro": "ReStory es un simulador de gestión narrativo y relajante de los creadores de I Am Future. En el Tokio de mediados de los 2000, regentas una tienda de reparación de electrónica: restaura dispositivos Y2K nostálgicos, escucha las historias de los clientes y da forma a una historia ramificada con múltiples finales.",
+    "homeFacts": [
+     "Regenta una tienda de reparación en el Tokio de 2005 (Akihabara)",
+     "Restaura dispositivos Y2K nostálgicos, incluidas consolas Atari con licencia oficial",
+     "Historia ramificada con múltiples finales según tus decisiones",
+     "50 logros de Steam + cromos + guardado en la nube",
+     "9 idiomas oficiales + chino tradicional (10 en total)",
+     "De los creadores de I Am Future — publicado por tinyBuild"
+    ],
+    "homeStats": [
+     "Lanzamiento",
+     "Logros",
+     "Idiomas",
+     "Dispositivos reparables",
+     "En Steam (-10 %)",
+     "Reseñas en 3 días"
+    ],
+    "aboutPoints": [
+     "Información contrastada con la página oficial de Steam y fuentes fiables (allthings.how, intoindiegames)",
+     "Todo lo pendiente de verificar está marcado — nunca inventamos detalles",
+     "Disponible en 10 idiomas; cada página lista sus fuentes"
+    ]
    },
    "pt-BR": {
     "name": "Guias ReStory",
@@ -555,7 +731,29 @@
     "privacyBody": "<p>Este é um site de guias de jogos. Respeitamos sua privacidade. Veja o que coletamos e como usamos.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">O que coletamos</h2><p>Usamos o Google Analytics (GA4) para estatísticas anônimas de tráfego: visualizações, origem, tipo de dispositivo e região aproximada. Não coletamos nomes, e-mails nem outros identificadores pessoais e não vendemos dados.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Cookies</h2><p>O Google Analytics usa cookies para distinguir visitantes. Você pode desativá-los nas configurações do navegador.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Links de afiliados</h2><p>Alguns links externos podem conter marcadores de afiliado; isso nunca muda seu preço nem nosso conteúdo factual.</p>",
     "contactBody": "<p>Perguntas, correções ou guias faltando? Envie um e-mail para <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Lemos cada mensagem e atualizamos os guias conforme verificamos detalhes.</p>",
     "devicesTitle": "Páginas por aparelho",
-    "devicesLead": "Cada aparelho tem sua página: ciclo de conserto, pontos fracos e checklist interativo."
+    "devicesLead": "Cada aparelho tem sua página: ciclo de conserto, pontos fracos e checklist interativo.",
+    "homeIntro": "ReStory é um simulador de gestão narrativo e relaxante dos criadores de I Am Future. No Tóquio de meados dos anos 2000, você administra uma loja de consertos de eletrônicos: restaure aparelhos Y2K nostálgicos, ouça as histórias dos clientes e molde uma história ramificada com múltiplos finais.",
+    "homeFacts": [
+     "Administre uma loja de consertos no Tóquio de 2005 (Akihabara)",
+     "Restaure aparelhos Y2K nostálgicos, incluindo consoles Atari com licença oficial",
+     "História ramificada com múltiplos finais conforme suas escolhas",
+     "50 conquistas na Steam + cards + nuvem",
+     "9 idiomas oficiais + chinês tradicional (10 no total)",
+     "Dos criadores de I Am Future — publicado pela tinyBuild"
+    ],
+    "homeStats": [
+     "Lançamento",
+     "Conquistas",
+     "Idiomas",
+     "Aparelhos reparáveis",
+     "Na Steam (-10 %)",
+     "Avaliações em 3 dias"
+    ],
+    "aboutPoints": [
+     "Informações verificadas na página oficial da Steam e fontes confiáveis (allthings.how, intoindiegames)",
+     "Tudo que está em verificação é marcado — nunca inventamos detalhes",
+     "Disponível em 10 idiomas; cada página lista suas fontes"
+    ]
    },
    "ru": {
     "name": "Гайды ReStory",
@@ -614,7 +812,29 @@
     "privacyBody": "<p>Это сайт с гайдами по играм. Мы уважаем вашу приватность. Ниже — что мы собираем и как используем.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Что мы собираем</h2><p>Мы используем Google Analytics (GA4) для анонимной статистики трафика: просмотры, источник, тип устройства и примерный регион. Мы не собираем имена, почты или другие личные идентификаторы и не продаём данные.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Файлы cookie</h2><p>Google Analytics использует cookie для различения посетителей. Вы можете отключить cookie в настройках браузера.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Партнёрские ссылки</h2><p>Некоторые внешние ссылки могут содержать партнёрские метки; это никогда не меняет вашу цену или наши факты.</p>",
     "contactBody": "<p>Вопросы, правки или недостающие гайды? Напишите нам на <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Мы читаем каждое сообщение и обновляем гайды по мере проверки деталей.</p>",
     "devicesTitle": "Страницы устройств",
-    "devicesLead": "У каждого устройства есть своя страница: цикл ремонта, слабые места и интерактивный чек-лист."
+    "devicesLead": "У каждого устройства есть своя страница: цикл ремонта, слабые места и интерактивный чек-лист.",
+    "homeIntro": "ReStory — расслабленный нарративный симулятор управления магазином от создателей I Am Future. В Токио середины 2000-х вы держите мастерскую по ремонту электроники: восстанавливайте ностальгические Y2K-устройства, слушайте истории клиентов и формируйте ветвящуюся историю с несколькими концовками.",
+    "homeFacts": [
+     "Держите мастерскую по ремонту в Токио 2005 (Акихабара)",
+     "Восстанавливайте ностальгические Y2K-устройства, включая официально лицензированные консоли Atari",
+     "Ветвящаяся история с несколькими концовками в зависимости от выбора",
+     "50 достижений Steam + карточки + облачные сохранения",
+     "9 официальных языков + традиционный китайский (всего 10)",
+     "От создателей I Am Future — издатель tinyBuild"
+    ],
+    "homeStats": [
+     "Релиз",
+     "Достижения",
+     "Языки",
+     "Ремонтируемые устройства",
+     "В Steam (-10 %)",
+     "Отзывов за 3 дня"
+    ],
+    "aboutPoints": [
+     "Информация проверена по официальной странице Steam и надёжным источникам (allthings.how, intoindiegames)",
+     "Всё, что ещё проверяется, помечено — мы никогда не выдумываем детали",
+     "Доступно на 10 языках; каждая страница перечисляет свои источники"
+    ]
    }
   }
  },
@@ -15177,237 +15397,237 @@
        "rows": [
         [
          "Clean Job",
-         "Basics",
+         "基本",
          "きれいな修理を完了"
         ],
         [
          "First Fix",
-         "Basics",
+         "基本",
          "最初の修理"
         ],
         [
          "How Did I Do This",
-         "Basics",
+         "基本",
          "はんだごてに関連"
         ],
         [
          "Master of the Internet",
-         "Basics",
+         "基本",
          "オンライン活動の節目"
         ],
         [
          "Hands Free",
-         "Basics",
+         "基本",
          "条件は未検証"
         ],
         [
          "Big Cleaning",
-         "Milestones",
+         "マイルストーン",
          "100 台を清掃"
         ],
         [
          "Galactic Cleaning",
-         "Milestones",
+         "マイルストーン",
          "1,000 台を清掃"
         ],
         [
          "11001",
-         "Milestones",
+         "マイルストーン",
          "25 台を再プログラミング"
         ],
         [
          "WWW",
-         "Milestones",
+         "マイルストーン",
          "オンライン修理 25 回"
         ],
         [
          "Internet Business",
-         "Milestones",
+         "マイルストーン",
          "オンライン修理 100 回"
         ],
         [
          "Making Money!",
-         "Economy",
+         "経済",
          "最初のまとまった収入"
         ],
         [
          "Flipper",
-         "Economy",
+         "経済",
          "デバイスを転売して利益を得る"
         ],
         [
          "Garage Sale",
-         "Economy",
+         "経済",
          "中古品を売る"
         ],
         [
          "Lootbox",
-         "Economy",
+         "経済",
          "ミステリーボックスを開ける"
         ],
         [
          "Gambler",
-         "Economy",
+         "経済",
          "ボックスを 50 個開ける"
         ],
         [
          "Twist and Turn",
-         "Economy",
+         "経済",
          "ドライバーで 11,000¥ 稼ぐ"
         ],
         [
          "Shredder",
-         "Economy",
+         "経済",
          "シュレッダーを使う"
         ],
         [
          "Cozy",
-         "Economy",
+         "経済",
          "条件は未検証"
         ],
         [
          "Business Shark",
-         "Economy",
+         "経済",
          "1 日で 100,000¥ 稼ぐ"
         ],
         [
          "Millionaire",
-         "Economy",
+         "経済",
          "1,000,000¥ を所持"
         ],
         [
          "Frugal",
-         "Economy",
+         "経済",
          "10 日間パーツを買わない"
         ],
         [
          "Bankrupt",
-         "Economy",
+         "経済",
          "破産する"
         ],
         [
          "Official Partner",
-         "Licenses",
+         "ライセンス",
          "最初の公式提携"
         ],
         [
          "Golden Partner",
-         "Licenses",
+         "ライセンス",
          "5 つのライセンスを獲得"
         ],
         [
          "Are You Serious?",
-         "Licenses",
+         "ライセンス",
          "最も高額なライセンスを購入"
         ],
         [
          "Platinum Partner",
-         "Licenses",
+         "ライセンス",
          "全ライセンスをアンロック"
         ],
         [
          "Instant Cool",
-         "Style",
+         "スタイル",
          "ステッカーを貼る"
         ],
         [
          "Instant Cool-er",
-         "Style",
+         "スタイル",
          "ステッカーを 25 枚貼る"
         ],
         [
          "Sticker Bombing",
-         "Style",
+         "スタイル",
          "ステッカーを 100 枚貼る"
         ],
         [
          "Custom Orders Available",
-         "Style",
+         "スタイル",
          "デバイスを塗装する"
         ],
         [
          "Jack of All Trades",
-         "Style",
+         "スタイル",
          "塗装 + 清掃 + 修理 + ハック"
         ],
         [
          "Employee of the Month",
-         "Long-term",
+         "長期",
          "30 日間営業"
         ],
         [
          "Quarterly Report",
-         "Long-term",
+         "長期",
          "90 日間営業"
         ],
         [
          "Akiba Feels Like Home",
-         "Long-term",
+         "長期",
          "365 日間営業"
         ],
         [
          "Akiba Never Sleeps",
-         "Long-term",
+         "長期",
          "閉店せず 168 時間"
         ],
         [
          "Promise of Akiba",
-         "Story",
+         "ストーリー",
          "Akiba ストーリーライン"
         ],
         [
          "Star of Akiba",
-         "Story",
+         "ストーリー",
          "Akiba ストーリーライン"
         ],
         [
          "Legend of Akiba",
-         "Story",
+         "ストーリー",
          "すべてのカテゴリで勝利"
         ],
         [
          "Origami",
-         "Story",
+         "ストーリー",
          "支払いを断る"
         ],
         [
          "First Reviews",
-         "Reputation",
+         "評価",
          "レビューを 5 件獲得"
         ],
         [
          "Getting Popular",
-         "Reputation",
+         "評価",
          "レビューを 25 件獲得"
         ],
         [
          "Ghost in the Frame",
-         "Hidden",
+         "隠し",
          "隠し実績 — 条件は未検証"
         ],
         [
          "Rock for the Ages!",
-         "Hidden",
+         "隠し",
          "隠し実績 — 条件は未検証"
         ],
         [
          "Ronin",
-         "Hidden",
+         "隠し",
          "隠し実績 — 条件は未検証"
         ],
         [
          "Melancholy",
-         "Hidden",
+         "隠し",
          "隠し実績 — 条件は未検証"
         ],
         [
          "Globalization",
-         "Hidden",
+         "隠し",
          "隠し実績 — 条件は未検証"
         ],
         [
          "A Place of Zen",
-         "Collection",
+         "コレクション",
          "禅ポイント 100 点に到達（禅ポイントガイド参照）"
         ],
         [

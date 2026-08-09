@@ -295,7 +295,7 @@ function renderHome(lang){
       <span class="ticket-no">WO-${String(DATA.pages.indexOf(p)+1).padStart(3,"0")}</span>
       <span class="ticket-ic">${iconOf(slug)}</span>
       <span class="ticket-body"><b>${esc(t.title)}</b><span class="ticket-meta">${esc(diffLabel)} · ${esc(t.intro.split(/[.。!?！？]/)[0])}</span></span>
-      <span class="ticket-stamp stamp-${diff}">${esc(diff==="easy"?s.stampTodo:diff==="mid"?s.stampWip:s.stampDone)}</span>
+      <span class="ticket-stamp stamp-${diff}">${esc(diffLabel)}</span>
       <span class="ticket-go">${SVG.arrow}</span>
     </a>`;
   }).join(""));

@@ -432,7 +432,15 @@ function renderPage(lang, page){
         var label=document.querySelectorAll("#rc .panel-lead, #rc .rc-save"); void label;
         void it;
         if(saved[k]) it.classList.add("on");
-        it.addEventListener("click",function(ev){ if(ev.target.tagName==="INPUT") return; var c=it.querySelector("input"); c.checked=!c.checked; it.classList.toggle("on",c.checked); save(); });
+        it.addEventListener("click",function(ev){
+          // 阻止浏览器 label→input 原生激活，避免与手动 toggle 双重翻转
+          ev.preventDefault();
+          if(ev.target.tagName==="INPUT") return;
+          var c=it.querySelector("input");
+          c.checked=!c.checked;
+          it.classList.toggle("on",c.checked);
+          save();
+        });
         var inp=it.querySelector("input"); inp.addEventListener("change",function(){ it.classList.toggle("on",inp.checked); save(); });
       });
       function save(){ var o={}; items.forEach(function(it){ o[it.getAttribute("data-rc")]=it.classList.contains("on"); }); localStorage.setItem(key,JSON.stringify(o)); }

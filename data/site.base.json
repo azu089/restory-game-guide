@@ -8,9 +8,20 @@
   "gaId": "",
   "gscVerification": "",
   "adsenseId": "",
-  "indexNowKey": "",
+  "indexNowKey": "b2941a528783f04420b10d16fa045db0",
   "ogImage": "/images/hero.jpg",
-  "languages": ["en","zh-CN","zh-TW","ja","ko","fr","de","es","pt-BR","ru"],
+  "languages": [
+   "en",
+   "zh-CN",
+   "zh-TW",
+   "ja",
+   "ko",
+   "fr",
+   "de",
+   "es",
+   "pt-BR",
+   "ru"
+  ],
   "defaultLanguage": "en",
   "affiliates": {},
   "adsterra": "",
@@ -31,7 +42,10 @@
    "ru": "ReStory: расслабленный ремонт электроники"
   },
   "releaseDate": "August 6, 2026",
-  "platforms": ["PC (Steam)", "macOS"],
+  "platforms": [
+   "PC (Steam)",
+   "macOS"
+  ],
   "genre": "Simulation / Indie / Narrative Shop Management",
   "price": "$17.99 (10% off · $19.99)",
   "steamUrl": "https://store.steampowered.com/app/3812600/ReStory_Chill_Electronics_Repairs/",
@@ -45,12 +59,30 @@
    "From the creators of I Am Future — published by tinyBuild"
   ],
   "stats": [
-   {"value": "Aug 6, 2026", "label": "Released"},
-   {"value": "50", "label": "Achievements"},
-   {"value": "10", "label": "Languages"},
-   {"value": "14+", "label": "Repairable devices"},
-   {"value": "$17.99", "label": "On Steam (10% off)"},
-   {"value": "1,828+", "label": "Reviews in 3 days"}
+   {
+    "value": "Aug 6, 2026",
+    "label": "Released"
+   },
+   {
+    "value": "50",
+    "label": "Achievements"
+   },
+   {
+    "value": "10",
+    "label": "Languages"
+   },
+   {
+    "value": "14+",
+    "label": "Repairable devices"
+   },
+   {
+    "value": "$17.99",
+    "label": "On Steam (10% off)"
+   },
+   {
+    "value": "1,828+",
+    "label": "Reviews in 3 days"
+   }
   ],
   "aboutPoints": [
    "Facts checked against the official Steam store page and reputable sources (allthings.how, intoindiegames)",

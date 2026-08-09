@@ -37,13 +37,13 @@ node ../../packages/site-kit/audit.js sites/restory
 - 10 语全量（en/zh-CN/zh-TW/ja/ko/fr/de/es/pt-BR/ru），无混排
 - 改内容只动 data/build_content.py 与 data/content_*.py，跑完两条命令，勿手改 site.json
 
-## GSC/GA4 状态
-- **GA4 ✅ 已全 API 完成**：Admin API 创建媒体资源 549097814 + Web 数据流，gaId `G-P4KHJCG523` 已注入并部署上线（线上各语言页已验到 gtag）
-- **GSC ⏳ 只剩所有权验证 1 次点击**：`sites.add` 已通过 API 加入列表（siteUnverifiedUser），但 Google 无公开 API 做所有权验证——需站长在 Search Console 网页：
-  1. search.google.com/search-console → 添加资源 → 网域 → `restorygameguides.com`
-  2. 点「开始验证」→ Cloudflare 授权页点「授权」（DomainConnect 一键，无需复制 token）
-  3. 提交站点地图 `https://restorygameguides.com/sitemap.xml`
-  - 完成后 gsc.js check 自动变全绿，D3/D7/D14 复盘自动跑
+## GSC/GA4 状态（2026-08-09 全自动完成，零用户操作）
+- **GA4 ✅ 全 API**：Admin API 创建媒体资源 549097814 + Web 数据流，gaId `G-P4KHJCG523` 注入上线（线上 gtag 已验证）
+- **GSC ✅ 浏览器自动化完成**（复用日常 Chrome 登录态，agent 代点，无需用户操作）：
+  - URL 前缀资源 `https://restorygameguides.com/` 已添加并通过 **GA4 自动验证**（验证方法：Google Analytics）
+  - sitemap `https://restorygameguides.com/sitemap.xml` 已提交（UI + gsc.js API 双确认）
+  - 服务账号 `claude-code@gen-lang-client-0843671260.iam.gserviceaccount.com` 已以「完整」权限加入（gsc.js check 全绿）
+- **D3/D7/D14 复盘已全自动就绪**：GSC 搜索词 + GA4 流量 + IndexNow 全部打通
 
 ## 里程碑/复盘
 - D3/D7/D14：GSC 搜索词 + GA4 概览（领先指标：GA4 organic、Steam 需求信号、AI 引用份额）

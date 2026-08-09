@@ -1,0 +1,1115 @@
+{
+ "beginners-guide": {
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Dein erster Tag, Schritt für Schritt",
+    "body": "Eine entspannte Art, Tag eins zu meistern, basierend auf den bestätigten Mechaniken:",
+    "items": [
+     [
+      "Einen Laufkunden begrüßen",
+      "Kleine Laufkunden-Aufträge sind der sicherste erste Job — günstig, schnell, und sie lehren den Ablauf."
+     ],
+     [
+      "Das Gerät mit deinem Schraubendreher öffnen",
+      "Gewöhne dich an den Zerlegeschritt, bevor du etwas in Eile auseinandernimmst."
+     ],
+     [
+      "Jeden Zustand in dein Notizbuch schreiben",
+      "Das Notizbuch erinnert sich für dich — notiere schmutzige, defekte und fehlende Teile."
+     ],
+     [
+      "Reinigen, was du kannst, ersetzen, was du musst",
+      "Bürste schmutzige Teile; kaufe Ersatz nur für das, was wirklich defekt oder fehlend ist."
+     ],
+     [
+      "Ausliefern und den Gewinn einstreichen",
+      "Eine saubere Auslieferung baut Ruf und Bargeld für deine ersten Upgrades auf."
+     ]
+    ]
+   },
+   {
+    "type": "evidence",
+    "heading": "Was das Notizbuch für dich tut",
+    "body": "Das Notizbuch ist das Gedächtnis des Spiels (Quelle: intoindiegames). Drei Dinge verändert es:",
+    "items": [
+     [
+      "Kein Raten",
+      "Du öffnest nie wieder ein Gerät und fragst dich, was falsch war — der Zustand ist aufgeschrieben."
+     ],
+     [
+      "Plant Reparaturen",
+      "Du entscheidest vor dem Geldausgeben, was gereinigt und was ersetzt wird."
+     ],
+     [
+      "Verfolgt jedes Gerät",
+      "Der vollständige Zustand jedes Geräts, an dem du gearbeitet hast, bleibt verfügbar."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Reparatur-Gewohnheiten, die sich auszahlen",
+    "body": "Kleine Gewohnheiten mit großer Wirkung über einen Durchlauf:",
+    "items": [
+     "Immer erst notieren, dann reinigen — Raten kostet Geld.",
+     "Priorisiere früh Laufkunden und wachse dann in Online-Aufträge hinein.",
+     "Verbessere den Schraubendreher vor allem anderen.",
+     "Füttere Ersatzteile dem Aktenvernichter, statt sie zu horten.",
+     "Halte einen kleinen Teilevorrat für Frugal bereit (10 Tage ohne Einkauf)."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Weitere Anfängerfragen",
+    "items": [
+     [
+      "Sollte ich jeden Online-Auftrag annehmen?",
+      "Nein — nimm nur an, was du vor der 3-Tage-Frist schaffst. Der Ruf zählt."
+     ],
+     [
+      "Ist es in Ordnung, einen Kunden abzulehnen?",
+      "Du kannst die Zahlung ablehnen (die Origami-Errungenschaft), aber ansonsten halte den Laden geöffnet, um zu verdienen."
+     ],
+     [
+      "Muss ich alles an einem Tag reparieren?",
+      "Nein — das Spiel ist entspannend; es gibt keinen Fail-State, nur Rufverlust für verpasste Aufträge."
+     ],
+     [
+      "Woher weiß ich, was ich als Nächstes verbessern soll?",
+      "Zuerst der Schraubendreher, dann die Bürste, danach passives Einkommen (Trinkgeldglas, Aktenvernichter)."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Was du früh auslassen solltest",
+    "body": "Die bestätigte Wirtschaft ist klar, was zwei Geldgruben angeht (Quelle: intoindiegames):",
+    "items": [
+     "Geräte bemalen — bestätigt früh nicht profitabel; investiere stattdessen in Reparaturen.",
+     "Neuprogrammieren — dieselbe Geschichte: im frühen Spiel kein Geldbringer.",
+     "Druckluftsprays horten — Verbrauchsmaterial; die Bürste deckt das meiste Reinigen ab.",
+     "Zu viele Teile kaufen — das Notizbuch sagt dir genau, was du brauchst."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ zum ersten Tag",
+    "items": [
+     [
+      "Kann ich das Spiel am ersten Tag verlieren?",
+      "Nein — es gibt keinen Fail-State; das Schlimmste ist Rufverlust."
+     ],
+     [
+      "Wie viele Geräte sollte ich am ersten Tag reparieren?",
+      "So viele kleine, wie du magst — das Tempo liegt bei dir."
+     ],
+     [
+      "Sollte ich sofort jedes Werkzeug kaufen?",
+      "Nein — zuerst der Schraubendreher; kaufe andere, wenn Aufträge sie verlangen."
+     ],
+     [
+      "Wohin fließt das Geld zuerst?",
+      "Schraubendreher-Upgrade, dann das Trinkgeldglas für passives Einkommen."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Bevor du den Laden schließt",
+    "body": "Ein kurzes Abschlussritual, das den Fortschritt reibungslos hält:",
+    "items": [
+     "Erfülle heute jeden Auftrag mit einer Frist.",
+     "Füttere Ersatzteile dem Aktenvernichter für passives Geld.",
+     "Speichere deinen Fortschritt und prüfe das morgige Auftragsbrett.",
+     "Notiere, welche Geräte noch Teile brauchen, damit morgen geplant startet."
+    ]
+   }
+  ],
+  "intro_extra": " Der bestätigte Ablauf ändert sich nie: annehmen, zerlegen, prüfen, reinigen, ersetzen, zusammenbauen. Meistere ihn langsam, und du musst nie hetzen — das Spiel ist darauf ausgelegt, entspannend zu sein, nicht stressig. Nimm es in deinem eigenen Tempo: Der Laden bestraft einen langsamen Tag nie, nur verpasste Versprechen. Genieße vor allem den Laden: Das Spiel ist um das Tempo herum gebaut, das du vorgibst, und die Guides hier existieren, damit nichts wie eine Mauer wirkt. Wenn du unsicher bist, wähle die langsamere, sauberere Reparatur — sie baut den Ruf auf, von dem jedes spätere System zehrt."
+ },
+ "repair-guide": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Reinigungswerkzeuge und wann du sie nutzt",
+    "body": "Eine saubere Reparatur ist ein zufriedener Kunde. Nutze die Werkzeuge in dieser Reihenfolge:",
+    "items": [
+     "Zuerst die Bürste — sie ist wiederverwendbar und deckt den meisten Schmutz ab.",
+     "Sonic-Bad für die Tiefenreinigung — das Timing zählt.",
+     "Druckluftspray sparsam — es ist Verbrauchsmaterial; horte es nicht.",
+     "Prüfe nach dem Reinigen jedes Teil, damit nichts Schmutziges ausgeliefert wird."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ zu Reparaturdetails",
+    "items": [
+     [
+      "Was zählt als saubere Reparatur?",
+      "Jedes Teil gereinigt, jedes defekte/fehlende Teil ersetzt und das Gerät korrekt zusammengebaut."
+     ],
+     [
+      "Kann ich dasselbe Gerät zweimal reparieren?",
+      "Ja — Geräte kommen zurück; das Notizbuch hält deine Historie sauber."
+     ],
+     [
+      "Haben Teile Zustände, die ich sehen kann?",
+      "Ja — sauber, schmutzig, defekt oder fehlend; das Notizbuch hält sie fest."
+     ],
+     [
+      "Ist Ersetzen immer besser als Reinigen?",
+      "Nein — erst Reinigen spart Geld; ersetze nur, was wirklich defekt oder fehlend ist."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "Das Notizbuch in Aktion",
+    "body": "Ein echter Reparaturablauf mit dem Notizbuch (Quelle: intoindiegames):",
+    "items": [
+     [
+      "Zerlegen und Teile auslegen",
+      "Behalte die Reihenfolge im Blick — das Notizbuch hält fest, woher die Dinge kamen."
+     ],
+     [
+      "Den Zustand jedes Teils notieren",
+      "Sauber, schmutzig, defekt oder fehlend — eine Zeile pro Teil."
+     ],
+     [
+      "Zwischen Reinigen und Ersetzen entscheiden",
+      "Nutze die notierten Zustände, um keine Teile zu kaufen, die du nur hättest reinigen müssen."
+     ],
+     [
+      "Beim Abschluss abhaken",
+      "Markiere jedes Teil als erledigt, damit nichts halb repariert ausgeliefert wird."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Anzeichen einer guten Reparatur",
+    "items": [
+     "Jedes schmutzige Teil gereinigt, nicht nur die sichtbaren.",
+     "Nur wirklich defekte/fehlende Teile ersetzt — keine verschwendeten Ausgaben.",
+     "Die Zusammenbau-Reihenfolge passt zu den Zerlege-Notizen.",
+     "Kunde zufrieden, Ruf intakt."
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Schnelle Reparatur-Checkliste",
+    "body": "Führe sie vor der Auslieferung bei jedem Gerät durch:",
+    "items": [
+     "Alle schmutzigen Teile gereinigt.",
+     "Defekte oder fehlende Teile ersetzt.",
+     "Zusammenbau-Reihenfolge passt zum Notizbuch.",
+     "Keine Frist auf dem Weg zur Auslieferung verpasst."
+    ]
+   }
+  ],
+  "intro_extra": " Diese Seite ist die Referenz, zu der du zurückkehren wirst: der Ablauf, das Notizbuch, die Werkzeuge und die Fehler, die Geld kosten. Halte diese Seite offen, während du lernst — jede Reparatur ist derselbe Ablauf, und der Ablauf ist einfach, sobald du ihn ganz siehst."
+ },
+ "all-devices": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Gerätefamilien",
+    "body": "Die bestätigte Geräteliste gruppiert sich in Familien (Quelle: allthings.how):",
+    "items": [
+     "Konsolen & Handhelds — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
+     "Telefone & Musik — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
+     "Gadgets & Spielzeug — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
+     "Extras — die Unicorp-99L-Taschenlampe und der offiziell lizenzierte Atari CX40."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ zum Gerätefortschritt",
+    "items": [
+     [
+      "Sind alle Geräte ab Tag eins verfügbar?",
+      "Nein — Lizenzen regeln den Zugang; zuerst einfache Geräte, fortgeschrittene Reihen später."
+     ],
+     [
+      "Ist die Atari-Reihe etwas Besonderes?",
+      "Ja — Atari ist offiziell lizenziert, ein Highlight, auf das es sich zu hinarbeiten lohnt."
+     ],
+     [
+      "Zahlen schwierigere Geräte mehr?",
+      "Wahrscheinlich ja — bessere Geräte hängen an Lizenzen und späterem Fortschritt (konkrete Auszahlungen nicht verifiziert)."
+     ],
+     [
+      "Was schaltet die Story frei?",
+      "Lizenzen und Kundengeschichten treiben den Fortschritt (bestätigt)."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "Freischalt-Reihenfolge, auf die du hinarbeitest",
+    "body": "Ein sinnvoller Geräteplan von früh bis spät, basierend auf dem Lizenzsystem:",
+    "items": [
+     [
+      "Zuerst Laufkunden-Basics",
+      "Günstige Geräte lehren den Ablauf und bauen Bargeld auf."
+     ],
+     [
+      "Telefone und Musikplayer ergänzen",
+      "Mittlere Schwierigkeit, stetige Auszahlungen."
+     ],
+     [
+      "Auf die Atari-Reihe hinarbeiten",
+      "Offiziell lizenziertes Highlight — die Lizenzen wert."
+     ],
+     [
+      "Die Eigenheiten für später aufheben",
+      "Eggotchi, Palaloid und Robodog brauchen oft mehr Werkzeuge."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Geräte-FAQ 2",
+    "items": [
+     [
+      "Brauche ich für 100% jedes Gerät?",
+      "Die Legend-of-Akiba-Errungenschaft belohnt das Gewinnen jeder Kategorie — wahrscheinlich ja."
+     ],
+     [
+      "Sind Geräte weiterverkäuflich?",
+      "Ja — die Flipper-Errungenschaft dreht sich ums Weiterverkaufen (Wirtschafts-Guide)."
+     ],
+     [
+      "Gehen Geräte wieder kaputt?",
+      "Ja — reparierte Geräte können zurückkommen und Arbeit brauchen."
+     ],
+     [
+      "Gibt es im Spiel eine Geräteliste?",
+      "Das Notizbuch verfolgt die Geräte, an denen du gearbeitet hast."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Checkliste für die Gerätejagd",
+    "body": "Für Sammler, die auf jedes Gerät hinarbeiten:",
+    "items": [
+     "Repariere jede Gerätefamilie mindestens einmal.",
+     "Schalte die Atari-Reihe für das offizielle Highlight frei.",
+     "Führe das Notizbuch, damit kein Gerät vergessen wird.",
+     "Plane Lizenzen voraus — sie regeln den Zugang zu den späteren Geräten."
+    ]
+   }
+  ],
+  "intro_extra": " Jedes Gerät durchläuft denselben Fünf-Schritte-Ablauf; was sich ändert, sind die Teile, die es verbirgt, und die Werkzeuge, die du brauchst. Die volle Liste früh zu kennen hilft dir zu planen, welche Lizenzen und Werkzeuge du anstrebst. Setze ein Lesezeichen auf diese Seite — sie ist die Karte, die du jedes Mal zur Hand nimmst, wenn ein neues Gerät auf der Werkbank auftaucht."
+ },
+ "tools": {
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Wann du jedes Werkzeug kaufst",
+    "body": "Eine Kauf-Reihenfolge, die deinen Laden profitabel hält (Quellen: intoindiegames, allthings.how):",
+    "items": [
+     [
+      "Schraubendreher — Tag eins",
+      "Er wird bei jeder einzelnen Reparatur verwendet; verbessere ihn zuerst."
+     ],
+     [
+      "Trinkgeldglas — früh",
+      "Kleines passives Einkommen, während Kunden im Laden sind."
+     ],
+     [
+      "Bürsten-Upgrade — früh bis mittel",
+      "Schnelleres Reinigen beschleunigt jeden Auftrag."
+     ],
+     [
+      "Aktenvernichter — mittleres Spiel",
+      "Verwandelt übrige Teile in 200–500¥ pro Nutzung (Quelle: allthings.how)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Upgrade-FAQ",
+    "items": [
+     [
+      "Lohnt sich der Kauf des Druckluftsprays?",
+      "Nur für hartnäckigen Schmutz — die Bürste deckt das meiste Reinigen ab und ist wiederverwendbar."
+     ],
+     [
+      "Kann ich Werkzeuge verkaufen?",
+      "Nicht verifiziert — wir haben keinen Verkaufs-/Handelsmechanismus bestätigt."
+     ],
+     [
+      "Bleiben Upgrades erhalten?",
+      "Nicht verifiziert — wir bestätigen die Speicher-/Upgrade-Persistenz."
+     ],
+     [
+      "Was ist das beste Werkzeug im späten Spiel?",
+      "Das Sonic-Bad für die Tiefenreinigung (mit Timing)."
+     ]
+    ]
+   },
+   {
+    "type": "table",
+    "heading": "Werkzeug-Investitionsreihenfolge",
+    "columns": [
+     "Reihenfolge",
+     "Werkzeug",
+     "Warum"
+    ],
+    "rows": [
+     [
+      "1",
+      "Schraubendreher",
+      "Wird bei jeder Reparatur verwendet — höchste Rendite."
+     ],
+     [
+      "2",
+      "Trinkgeldglas",
+      "Passives Einkommen ohne Aufwand."
+     ],
+     [
+      "3",
+      "Bürste",
+      "Beschleunigt den häufigsten Schritt."
+     ],
+     [
+      "4",
+      "Aktenvernichter",
+      "Wandelt Ersatzteile in 200–500¥ um (Quelle: allthings.how)."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Werkzeug-Gewohnheiten",
+    "items": [
+     "Halte den Schraubendreher verbessert, bevor du neue Werkzeuge kaufst.",
+     "Lass Aufträge den Kauf bestimmen — kaufe das Druckluftspray nur, wenn ein Auftrag es braucht.",
+     "Investiere Reparaturgewinne in das nächste Upgrade.",
+     "Verkaufe nie den Schraubendreher — er wird immer gebraucht."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Werkzeug-FAQ 2",
+    "items": [
+     [
+      "Kann ich die Bürste mehr als einmal verbessern?",
+      "Nicht verifiziert — Upgrade-Stufen sind nicht bestätigt."
+     ],
+     [
+      "Ersetzt das Sonic-Bad die Bürste?",
+      "Nein — es ist eine Tiefenreinigungsstation; die Bürste bleibt das tägliche Arbeitstier."
+     ],
+     [
+      "Ist der Aktenvernichter besser als Teile zu verkaufen?",
+      "Er ist die bestätigte passive Option; direkter Verkauf ist nicht separat bestätigt."
+     ],
+     [
+      "Wann höre ich auf, Werkzeuge zu verbessern?",
+      "Wenn Reparaturen schnell und sauber laufen — die genaue Obergrenze ist nicht verifiziert."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Die richtige Werkzeug-Reihenfolge spart Geld und hält Reparaturen schnell; die falsche verschwendet deinen frühen Gewinn. Ein zu früh gekauftes Werkzeug ist ruhendes Geld; ein zu spät gekauftes Werkzeug ist Geld, das durch langsame Reparaturen verloren geht. Diese Seite hält diese Balance zu deinen Gunsten. Sieh diese Seite vor jedem großen Kauf erneut an: Die obige Reihenfolge ist der Unterschied zwischen einem Laden, der wächst, und einem Laden, der stagniert. Deine Werkzeuge sind die einzige echte Ausgabe in ReStory; zur richtigen Zeit in die richtigen zu investieren, ist das ganze Geschäft der Ladenführung. Ein zu früh gekauftes Werkzeug ist ruhendes Geld; ein zu spät gekauftes Werkzeug ist Geld, das durch langsame Reparaturen verloren geht. Die obige Reihenfolge hält diese Balance von Tag eins an zu deinen Gunsten."
+ },
+ "online-orders": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Ein gesunder Tagesrhythmus",
+    "body": "Halte Aufträge im Fluss, ohne Ruf zu verbrennen:",
+    "items": [
+     "Prüfe als Erstes das Auftragsbrett — bis zu 11 Online-Aufträge pro Tag.",
+     "Sortiere nach Frist; erledige zuerst die knappste.",
+     "Stimme Aufträge auf die Werkzeuge und Teile ab, die du tatsächlich hast.",
+     "Sammle die Erfolge: erfüllte Aufträge speisen WWW (25) und Internet Business (100)."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Aufträge-FAQ",
+    "items": [
+     [
+      "Zahlen Online-Aufträge mehr als Laufkunden?",
+      "Nicht verifiziert — genaue Auszahlungen sind nicht bestätigt, aber sie sind wiederholbares Einkommen."
+     ],
+     [
+      "Kann ich Online-Aufträge ignorieren?",
+      "Ja, aber sie sind das wichtigste wiederholbare Einkommen und speisen zwei Errungenschaften."
+     ],
+     [
+      "Was passiert bei 0 Ruf?",
+      "Nicht verifiziert — die genaue Untergrenze ist nicht bestätigt; halte Auslieferungen sauber, um sicher zu bleiben."
+     ],
+     [
+      "Gibt es Auftragstypen?",
+      "Nicht verifiziert — die Auftragsvariation ist noch nicht bestätigt."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "Erste Woche mit Online-Aufträgen",
+    "body": "Baue Ruf sicher auf, bevor du nach Volumen jagst:",
+    "items": [
+     [
+      "Tag 1: einen Auftrag annehmen",
+      "Lerne den Fristen-Rhythmus ohne Druck kennen."
+     ],
+     [
+      "Tag 2-3: zwei annehmen",
+      "Bringe Laufkunden und Online-Arbeit in Balance."
+     ],
+     [
+      "Fristen jeden Morgen prüfen",
+      "Zuerst die knappste, immer."
+     ],
+     [
+      "Meilensteine feiern",
+      "WWW bei 25 Aufträgen, Internet Business bei 100 (Errungenschaften)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Fristen-FAQ",
+    "items": [
+     [
+      "Wie lang ist die Frist genau?",
+      "3 Tage pro Auftrag (Quelle: allthings.how)."
+     ],
+     [
+      "Kann ich eine Frist verlängern?",
+      "Nicht verifiziert — kein bestätigter Verlängerungsmechanismus."
+     ],
+     [
+      "Bewerten dich Online-Kunden?",
+      "Ja — die Errungenschaften First Reviews und Getting Popular verfolgen Bewertungen."
+     ],
+     [
+      "Ist der Ruf für Online und Laufkunden derselbe?",
+      "Nicht verifiziert — wir bestätigen das gemeinsame Ruf-Modell."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Aufträge-FAQ 2",
+    "items": [
+     [
+      "Was, wenn ich zu viele Aufträge annehme?",
+      "Verpasste Fristen kosten Ruf — nimm weniger an, als du schaffst."
+     ],
+     [
+      "Erscheinen Online-Aufträge zufällig?",
+      "Das Brett bietet tägliche Aufträge; die genaue Vielfalt ist nicht verifiziert."
+     ],
+     [
+      "Gibt es einen maximalen Ruf?",
+      "Nicht verifiziert — die Obergrenze ist nicht bestätigt."
+     ],
+     [
+      "Bringen Aufträge neue Geräte?",
+      "Einige Aufträge brauchen vielleicht lizenzierte Geräte; der Zusammenhang ist nicht verifiziert."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Gut genutzt werden Online-Aufträge zu deinem stetigsten Einkommen; schlecht genutzt verbrennen sie den Ruf, den du dir aufgebaut hast. Der Rhythmus ist einfach: Brett lesen, nach Frist sortieren, sauber ausliefern. Die Ergebnisse summieren sich zu Ruf und Errungenschaften. Die meisten Spieler finden ihren Rhythmus bis Ende der ersten Woche; diese Seite macht diese Woche kürzer. Das Brett aktualisiert sich täglich, daher schlägt eine ruhige Morgenprüfung jedes Mal das panische Abendgehetze. Die meisten Spieler finden ihren Rhythmus bis Ende der ersten Woche; diese Seite macht diese Woche kürzer und die Rufkurve sanfter. Das Brett aktualisiert sich täglich, daher schlägt eine ruhige Morgenprüfung jedes Mal das panische Abendgehetze — und jede eingehaltene Frist ist eingezahlter Ruf."
+ },
+ "licenses": {
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Lizenz-Meilensteine auf einen Blick",
+    "columns": [
+     "Meilenstein",
+     "Was wir wissen"
+    ],
+    "rows": [
+     [
+      "Official Partner",
+      "Erster bestätigter Meilenstein; öffnet offizielle Reihen wie Atari (Errungenschaften-Name)."
+     ],
+     [
+      "Golden Partner",
+      "Erfordert 5 Lizenzen (bestätigte Errungenschaft)."
+     ],
+     [
+      "Are You Serious?",
+      "Die teuerste Lizenz im Spiel (Errungenschaften-Name)."
+     ],
+     [
+      "Platinum Partner",
+      "Erfordert jede Lizenz (bestätigte Errungenschaft)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Lizenzen-FAQ",
+    "items": [
+     [
+      "Kosten Lizenzen Geld?",
+      "Vermutlich ja — die Errungenschaft 'Are You Serious?' deutet auf einen Preis hin; genaue Kosten nicht verifiziert."
+     ],
+     [
+      "Kann ich eine Lizenz verlieren?",
+      "Nicht verifiziert — kein bestätigter Mechanismus."
+     ],
+     [
+      "Sind Lizenzen pro Gerät oder pro Kategorie?",
+      "Nicht verifiziert — die Gruppierung ist nicht bestätigt."
+     ],
+     [
+      "Laufen Lizenzen ab?",
+      "Nicht verifiziert — kein bestätigter Ablaufmechanismus."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "So verdienst du deine erste Lizenz",
+    "body": "Ein praktischer Weg, basierend auf der bestätigten Lizenzkette:",
+    "items": [
+     [
+      "Die Grundlagen des Ladens ausbauen",
+      "Reparaturen, Bargeld und Ruf sind der Treibstoff für Lizenzen."
+     ],
+     [
+      "Die erreichbaren Geräte reparieren",
+      "Fortschritt schaltet natürlich frei, was der Laden annehmen kann."
+     ],
+     [
+      "Achte auf den Official-Partner-Meilenstein",
+      "Der erste bestätigte Schritt zu offiziellen Reihen wie Atari."
+     ],
+     [
+      "Plane Golden und Platinum",
+      "5 Lizenzen für Golden, alle für Platinum (bestätigte Errungenschaften)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Lizenzen-FAQ 2",
+    "items": [
+     [
+      "Sind Lizenzen für die Story wichtig?",
+      "Ja — die offizielle Beschreibung bindet die lizenzierte Progression an den Hauptpfad."
+     ],
+     [
+      "Ist die teuerste Lizenz es wert?",
+      "Sie ist für die Errungenschaft 'Are You Serious?' nötig — Completionisten brauchen sie."
+     ],
+     [
+      "Schalten Lizenzen Kunden frei?",
+      "Nicht verifiziert — der Zusammenhang zu Kunden ist nicht bestätigt."
+     ],
+     [
+      "Kann ich meine Lizenzen im Spiel sehen?",
+      "Nicht verifiziert — wir bestätigen die Oberfläche."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Lizenzen-FAQ 3",
+    "items": [
+     [
+      "Sollte ich auf Platinum hetzen?",
+      "Nein — genieße den Weg; Golden und Platinum sind Abschlussziele."
+     ],
+     [
+      "Schalten Lizenzen Preise frei?",
+      "Nicht verifiziert — an Lizenzen gebundene Preise sind nicht bestätigt."
+     ],
+     [
+      "Ist die erste Lizenz kostenlos?",
+      "Nicht verifiziert — Einstiegskosten sind nicht bestätigt."
+     ],
+     [
+      "Kann ich Lizenzanforderungen einsehen?",
+      "Nicht verifiziert — eine Vorschau im Spiel ist nicht bestätigt."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Lizenzen sind das Rückgrat des Fortschritts in ReStory — sie früh zu verstehen bewahrt dich davor, mitten im Spiel festzustecken. Betrachte Lizenzen eher als Tore denn als Ziele: Jede öffnet neue Arbeit, neue Geräte und neue Story. Die Kette zu verstehen ist der Weg, um nicht die falschen Geräte zu grinden. Wenn sich ein Gerät gesperrt anfühlt, ist die Antwort fast immer eine Lizenz — prüfe diese Kette, bevor du grindest. Betrachte Lizenzen als den Lehrplan des Ladens: Jede ist eine Lektion, die die nächste Stufe von Arbeit und Story freischaltet. Wenn sich ein Gerät je gesperrt anfühlt, ist die Antwort fast immer eine Lizenz — prüfe diese Kette, bevor du die falsche Werkbank grindest. Betrachte Lizenzen als den Lehrplan des Ladens: Jede ist eine Lektion, die die nächste Stufe von Arbeit, Geräten und Story-Momenten freischaltet. Und weil Lizenzen die Story antreiben, ist jede verdiente Lizenz auch ein freigeschaltetes Kapitel — Fortschritt hier ist nie verschwendet."
+ },
+ "economy": {
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Ein Flip-Durchlauf",
+    "body": "Die Flipper-Errungenschaft belohnt günstig kaufen, reparieren, teuer verkaufen:",
+    "items": [
+     [
+      "Günstige Geräte kaufen oder annehmen",
+      "Suche Geräte, die du für weniger wiederherstellen kannst als ihren Wiederverkaufswert."
+     ],
+     [
+      "Sie sauber reparieren",
+      "Eine saubere Reparatur erhöht Wert und Ruf."
+     ],
+     [
+      "Zum richtigen Moment verkaufen",
+      "Mit Gewinn weiterverkaufen — die genauen Margen sind nicht verifiziert."
+     ],
+     [
+      "In Werkzeuge reinvestieren",
+      "Bessere Werkzeuge machen jeden Flip schneller und günstiger."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Wirtschafts-FAQ",
+    "items": [
+     [
+      "Was ist das schnellste passive Einkommen?",
+      "Trinkgeldglas früh, Aktenvernichter mittelfristig — beide zahlen, während du arbeitest (Quellen: intoindiegames, allthings.how)."
+     ],
+     [
+      "Ist Flips riskant?",
+      "Nur, wenn du zu viel zahlst; repariere sauber, und die Flipper-Errungenschaft bestätigt, dass der Ablauf existiert."
+     ],
+     [
+      "Was sollte ich nie verkaufen?",
+      "Halte einen Teilevorrat für Frugal (10 Tage ohne Einkauf)."
+     ],
+     [
+      "Bringt Bemalen/Neuprogrammieren Geld?",
+      "Nein — früh bestätigt nicht profitabel (Quelle: intoindiegames)."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Checkliste für frühes Einkommen",
+    "body": "Ein Geldplan für Tag eins, gebaut aus bestätigten Mechaniken:",
+    "items": [
+     "Repariere zuerst kleine Laufkunden — schnelles, sicheres Geld.",
+     "Ergänze früh das Trinkgeldglas für passives Einkommen.",
+     "Füttere Ersatzteile dem Aktenvernichter, statt zu horten.",
+     "Starte Online-Aufträge, sobald der Ablauf sitzt.",
+     "Halte einen Teilevorrat für Frugal (10 Tage ohne Einkauf)."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Geld-FAQ 2",
+    "items": [
+     [
+      "Was sollte ich mit meinem ersten großen Gewinn kaufen?",
+      "Das Schraubendreher-Upgrade — es zahlt sich bei jedem Auftrag aus."
+     ],
+     [
+      "Ist es klug, Teile zu horten?",
+      "Teilweise — du brauchst einen Vorrat für Frugal, aber füttere den Überschuss dem Aktenvernichter."
+     ],
+     [
+      "Wie erreiche ich Millionaire?",
+      "Stetige Reparaturen, Flips und passives Einkommen — das genaue Tempo ist nicht verifiziert."
+     ],
+     [
+      "Hat der Laden laufende Kosten?",
+      "Nicht verifiziert — laufende Kosten sind nicht bestätigt."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Wirtschafts-FAQ 2",
+    "items": [
+     [
+      "Ist der Aktenvernichter jedes Teil wert?",
+      "Füttere den Überschuss, halte einen Vorrat für Frugal — bringe beides in Balance."
+     ],
+     [
+      "Gibt es eine Steuer auf Flips?",
+      "Nicht verifiziert — kein bestätigter Steuermechanismus."
+     ],
+     [
+      "Sollte ich vor dem Verkauf immer reparieren?",
+      "Eine saubere Reparatur erhöht den Wert — Flips bestätigen den Ablauf."
+     ],
+     [
+      "Was ist die beste tägliche Routine für Geld?",
+      "Laufkunden + Online-Aufträge + passives Einkommen, in dieser Priorität."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Geld fließt aus drei Quellen: Reparaturen, Weiterverkauf und passivem Einkommen. Diese Seite zeigt, wie du alle drei am Laufen hältst. Das Ziel ist nicht nur, zu verdienen — es ist, ohne auszubrennen zu verdienen, damit der Laden durch die langen Errungenschaften geöffnet bleibt. Die Wirtschaft belohnt Geduld: repariere sauber, verkaufe klug weiter und lass passives Einkommen mit der Zeit die schwere Arbeit machen. Prüfe deine Gewohnheiten wöchentlich — der Laden, der sauber repariert, klug flippt und passives Einkommen einstreicht, ist der Laden, der Millionaire erreicht."
+ },
+ "endings": {
+  "sections": [
+   {
+    "type": "evidence",
+    "heading": "Story-Hinweise in versteckten Errungenschaften",
+    "body": "Die versteckten Errungenschaften deuten auf Story-Verzweigungen hin (Namen von allthings.how bestätigt; Auslöser nicht verifiziert):",
+    "items": [
+     [
+      "Ronin",
+      "Ein Einzelgänger-Pfad — wahrscheinlich an das Ablehnen oder Isolieren von Kunden gebunden."
+     ],
+     [
+      "Melancholy",
+      "Ein bittersüßer Zweig — wahrscheinlich an einen Kundenausgang gebunden."
+     ],
+     [
+      "Globalization",
+      "Ein Zweig der größeren Welt — wahrscheinlich an Lizenzen oder das Internet gebunden."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Enden-FAQ",
+    "items": [
+     [
+      "Können Entscheidungen rückgängig gemacht werden?",
+      "Nicht verifiziert — die Story verzweigt sich über Entscheidungen; das Notizbuch kann helfen, sie zu verfolgen."
+     ],
+     [
+      "Sperren sich Enden ab einem Punkt?",
+      "Nicht verifiziert — wir bestätigen es, sobald Auslöser verifiziert sind."
+     ],
+     [
+      "Gibt es ein wahres Ende?",
+      "Nicht verifiziert — 'mehrere Enden' ist bestätigt, ein 'wahres' nicht."
+     ],
+     [
+      "Sollte ich zweimal spielen?",
+      "Wahrscheinlich — verzweigte Geschichten belohnen meist mehrere Durchläufe."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "Wie sich Verzweigungen öffnen können",
+    "body": "Was die bestätigten mehreren Enden wahrscheinlich antreibt:",
+    "items": [
+     [
+      "Kundenentscheidungen",
+      "Wie du auf jeden Kunden reagierst, kann seine Geschichte verändern."
+     ],
+     [
+      "Reparaturqualität",
+      "Saubere vs. gehetzte Reparaturen formen die Ausgänge."
+     ],
+     [
+      "Lizenz-Meilensteine",
+      "Das Vorankommen bei Lizenzen kann Story-Momente freischalten."
+     ],
+     [
+      "Beziehungsentscheidungen",
+      "Das Nachverfolgen von Geschichten kann Zweige öffnen oder schließen."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Verzweigungs-FAQ",
+    "items": [
+     [
+      "Brauche ich alle Enden?",
+      "Nur, wenn du die ganze Story willst — es gibt keinen erzwungenen Abschluss."
+     ],
+     [
+      "Kann die Story früh verzweigen?",
+      "Nicht verifiziert — Verzweigungspunkte sind noch nicht bestätigt."
+     ],
+     [
+      "Spielt der Ladenname eine Rolle?",
+      "Nicht verifiziert — kosmetische Effekte sind nicht bestätigt."
+     ],
+     [
+      "Werden Patch-Notizen Verzweigungen verraten?",
+      "Beobachte den Patch-Notizen-Guide; wir verfolgen offizielle Updates."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Entscheidungs-FAQ",
+    "items": [
+     [
+      "Sind kleine Entscheidungen so wichtig wie große?",
+      "Nicht verifiziert — das Gewicht jeder Entscheidung ist nicht bestätigt."
+     ],
+     [
+      "Kann eine Entscheidung einen Durchlauf ruinieren?",
+      "Unwahrscheinlich — das Spiel ist entspannend; Verzweigungen statt Fail-States."
+     ],
+     [
+      "Sollte ich Notizen zu Entscheidungen führen?",
+      "Das Notizbuch hilft; unsere Guides verfolgen Zweige, sobald sie verifiziert sind."
+     ],
+     [
+      "Beeinflussen Enden Errungenschaften?",
+      "Ja — Promise/Star/Legend of Akiba sind Story-Errungenschaften."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Da Enden von Entscheidungen abhängen, kann derselbe Kunde je nach Spielweise glücklich, traurig oder irgendwo unerwartet enden. Unser Enden-Guide wächst, sobald Auslöser verifiziert werden — schau wieder vorbei und halte beim Spielen Notizen zu deinen Entscheidungen. Führe beim Spielen eine kleine Notiz über wichtige Entscheidungen; wenn unser verifiziertes Enden-Flussdiagramm erscheint, lassen sich deine Notizen direkt darauf abbilden. Unser Enden-Guide wächst, sobald Auslöser verifiziert werden; halte in der Zwischenzeit beim Spielen eine kleine Notiz über deine wichtigen Entscheidungen. Die verzweigte Geschichte ist der Grund, warum ReStory Spieler zurückkehren lässt; zu wissen, wie Verzweigungen funktionieren, macht aus einem ersten Durchlauf eine Karte für den zweiten."
+ },
+ "customers": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Arten von Entscheidungen, die du triffst",
+    "body": "Kundengespräche verzweigen sich in einigen bestätigten Richtungen:",
+    "items": [
+     "Wie du während des Reparaturgesprächs reagierst.",
+     "Ob du einen Auftrag annimmst, eilst oder ablehnst.",
+     "Wie sorgfältig du reparierst (sauber vs. gehetzt).",
+     "Ob du die Geschichte eines Kunden später nachverfolgst."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Kunden-FAQ",
+    "items": [
+     [
+      "Haben alle Kunden Geschichten?",
+      "Der offizielle Pitch sagt, dass Kunden Geschichten mitbringen; nicht jeder Besuch verzweigt sich vielleicht."
+     ],
+     [
+      "Kann ich das Leben eines Kunden richten?",
+      "Entscheidungen betreffen sowohl ihr Leben als auch deinen Laden (offizielle Beschreibung)."
+     ],
+     [
+      "Erinnern sich wiederkehrende Kunden?",
+      "Nicht verifiziert — wiederkehrende Kunden sind noch nicht bestätigt."
+     ],
+     [
+      "Sind Entscheidungen umkehrbar?",
+      "Nicht verifiziert — Verzweigungsausgänge sind nicht als umkehrbar bestätigt."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "Ein Kundenbesuch, Schritt für Schritt",
+    "body": "Der bestätigte Kundenablauf (offizielle Beschreibung + intoindiegames):",
+    "items": [
+     [
+      "Sie kommen mit einem Gerät herein",
+      "Jedes Gerät trägt eine Geschichte mit sich."
+     ],
+     [
+      "Du nimmst den Auftrag an",
+      "Annehmen, eilen oder ablehnen — jede Entscheidung zählt."
+     ],
+     [
+      "Du reparierst ihr Gerät",
+      "Die Qualität hier formt ihren Ausgang."
+     ],
+     [
+      "Sie kommen verändert zurück",
+      "Wiederkehrende Kunden sehen das Ergebnis deiner Entscheidungen."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Kunden-FAQ 2",
+    "items": [
+     [
+      "Können Kunden abgelehnt werden?",
+      "Du kannst die Zahlung ablehnen (Origami-Errungenschaft); den Auftrag abzulehnen ist ebenfalls eine Entscheidung."
+     ],
+     [
+      "Kommen Kunden wegen der Story zurück?",
+      "Wahrscheinlich — der offizielle Pitch dreht sich darum, ihre Geschichten zu hören."
+     ],
+     [
+      "Sind Kundengeschichten vertont?",
+      "Nicht verifiziert — die Audio-Präsentation ist nicht bestätigt."
+     ],
+     [
+      "Sperren Entscheidungen Enden?",
+      "Fast sicher — die offizielle Beschreibung sagt, dass Entscheidungen die Enden bestimmen."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Entscheidungs-FAQ 2",
+    "items": [
+     [
+      "Ist das Ablehnen eines Kunden je gut?",
+      "Die Zahlung abzulehnen ist die Origami-Errungenschaft — eine bewusste Entscheidung."
+     ],
+     [
+      "Kommen zufriedene Kunden öfter zurück?",
+      "Wahrscheinlich — Ruf treibt das Geschäft; Details nicht verifiziert."
+     ],
+     [
+      "Sind Kundengeschichten lang?",
+      "Der offizielle Pitch ist erzählerisch; die Länge ist nicht verifiziert."
+     ],
+     [
+      "Muss ich jede Geschichte behalten?",
+      "Das Notizbuch und unser Kunden-Guide halten dich orientiert."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Kunden als Menschen zu behandeln — nicht nur als Aufträge — ist der Kern der verzweigten Geschichte. Die Story lebt in den Kunden, und die Kunden leben in deinen Entscheidungen. Zu lernen, jeden Besuch zu lesen, ist der Unterschied zwischen einem Laden und einer Geschichte. Manche Kunden bleiben dir lange nach Ladenschluss in Erinnerung — das ist der Sinn der Geschichte. Ein erinnerter Kunde ist eine vorangeschrittene Geschichte; ein gehetzter Kunde ist ein geschlossener Zweig. Die Entscheidung liegt immer bei dir. Manche Kunden bleiben dir lange nach Ladenschluss in Erinnerung — das ist der ganze Sinn der Geschichte. Kunden als Menschen statt als Aufträge zu behandeln, ist das Herz der verzweigten Geschichte und der Grund, warum sich der Laden lebendig anfühlt. Jeder Besuch ist ein kleines Kapitel, und jede Entscheidung, die du triffst, ist der Autor. Diese Seite ist dein Guide, um die Kunden zu lesen, bevor sie wieder hinausgehen."
+ },
+ "achievements-roadmap": {
+  "sections": [
+   {
+    "type": "faq",
+    "heading": "Roadmap-FAQ",
+    "items": [
+     [
+      "Sollte ich die Roadmap exakt befolgen?",
+      "Nein — es ist eine empfohlene Reihenfolge; spiele natürlich, und sie funktioniert trotzdem."
+     ],
+     [
+      "Wann sollte ich den 168-Stunden-Lauf starten?",
+      "Wenn du das Spiel laufen lassen kannst; es ist eine zeitgebundene Errungenschaft."
+     ],
+     [
+      "Blockiert die fehlerhafte Errungenschaft 100%?",
+      "In der aktuellen Version möglicherweise — wir kennzeichnen das ehrlich (Quelle: allthings.how)."
+     ],
+     [
+      "Brauchen versteckte Errungenschaften einen neuen Spielstand?",
+      "Nicht verifiziert — wahrscheinlich an Entscheidungen gebunden; ein zweiter Spielstand kann helfen."
+     ]
+    ]
+   }
+  ]
+ },
+ "hidden-achievements": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Wege, versteckte Errungenschaften zu jagen",
+    "body": "Praktische Jagdmethoden, die die nicht verifizierten Auslöser respektieren:",
+    "items": [
+     "Prüfe das Steam-Overlay, um gesperrte versteckte Kacheln zu sehen.",
+     "Probiere ungewöhnliche Kundenentscheidungen (ablehnen, eilen, nachverfolgen).",
+     "Spiele Story-Momente mit anderen Entscheidungen erneut.",
+     "Beobachte offizielle Patch-Notizen auf Hinweise zu Auslösern."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ zu versteckten Errungenschaften",
+    "items": [
+     [
+      "Sind versteckte Errungenschaften selten?",
+      "Sie sind versteckt, aber alle 5 sind in der aktuellen Version enthalten (Quelle: allthings.how)."
+     ],
+     [
+      "Kann ich sie ohne Spoiler einsehen?",
+      "Steam zeigt gesperrte Kacheln — genug, um ohne vollständige Spoiler zu jagen."
+     ],
+     [
+      "Zählen sie zur Gesamtzahl?",
+      "Ja — alle 5 zählen zu den 50."
+     ],
+     [
+      "Werdet ihr die Auslöser aktualisieren?",
+      "Ja — wir veröffentlichen verifizierte Auslöser, sobald wir sie bestätigt haben."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Jagd-FAQ",
+    "items": [
+     [
+      "Sollte ich Auslöser nachschlagen?",
+      "Nur, wenn du willst — blindes Jagen gehört zum Spaß."
+     ],
+     [
+      "Sind versteckte Errungenschaften leicht für immer zu verpassen?",
+      "Sie sind an Entscheidungen gebunden; ein neuer Spielstand kann sie erneut jagen."
+     ],
+     [
+      "Haben sie Symbole?",
+      "Steam zeigt sie als gesperrte Kacheln; Symbole gibt es in der Errungenschaften-Liste."
+     ],
+     [
+      "Wird unser Guide sie spoilern?",
+      "Wir listen Namen und markieren Auslöser als nicht verifiziert, damit du selbst entscheidest."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Versteckte Errungenschaften sind nicht zufällig; sie belohnen bestimmtes, oft ungewöhnliches Verhalten im Laden. Die fünf Geheimnisse sind alle in der aktuellen Version erhältlich — die Herausforderung ist zu bemerken, was das Spiel belohnt. Wenn du selbst jagen willst, hör hier auf und spiel; die Liste unten ist für den Fall, dass du bereit bist. Jage mit Neugier, nicht mit Druck — die versteckten Errungenschaften sind dafür gemacht, den aufmerksamen Ladenbesitzer zu belohnen."
+ },
+ "zen-points": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Zen-Einkaufstipps",
+    "body": "Effizient zu 100 Zen-Punkten gelangen (Punkte von allthings.how):",
+    "items": [
+     "Beginne mit hochwertigen Artikeln: Ghostbusters (9), Kaiju (8), Prism (8).",
+     "Ergänze als Nächstes Bonsai (7) und Stormtrooper (7).",
+     "Fülle mit mittleren Artikeln auf: Gloves (5), Shoji lamp (4), Billy Bass (4), Troll (4).",
+     "Kaufe die niedrigen Artikel (VHS 2, Daruma 2, Maneki-neko 3, Seashell 3) nur, wenn du noch fehlst."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Zen-FAQ 2",
+    "items": [
+     [
+      "Tun Dekoartikel noch etwas anderes?",
+      "Nur Dekoration, soweit bestätigt — die Zen-Errungenschaft ist das Ziel."
+     ],
+     [
+      "Kann ich Dekoartikel verkaufen?",
+      "Nicht verifiziert — der Weiterverkauf von Dekoartikeln ist nicht bestätigt."
+     ],
+     [
+      "Ist 100 die Obergrenze?",
+      "Die Errungenschaft liegt bei 100 Punkten (Quelle: allthings.how)."
+     ],
+     [
+      "Wo sehe ich meine Zen-Gesamtzahl?",
+      "In der Laden-Deko-Oberfläche im Spiel — genauer Ort nicht verifiziert."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Zen-FAQ 3",
+    "items": [
+     [
+      "Kosten Artikel mit vielen Punkten mehr?",
+      "Wahrscheinlich, aber die Yen-Effizienz zählt (Preise nicht verifiziert)."
+     ],
+     [
+      "Kann ich Duplikate kaufen?",
+      "Nicht verifiziert — Duplikate sind nicht bestätigt."
+     ],
+     [
+      "Ist 100 Punkte genau das Ziel?",
+      "Ja — die Errungenschaft 'A Place of Zen' liegt bei 100 (Quelle: allthings.how)."
+     ],
+     [
+      "Schalten Dekoartikel je Geschichten frei?",
+      "Nicht verifiziert — Dekoration ist ihre bestätigte Rolle."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Dekorieren ist kein verschwendetes Geld — es ist der Weg zu einer versteckten Sammel-Errungenschaft. Ein paar hundert Yen an Deko können eine versteckte Errungenschaft freischalten — es lohnt sich, früh zu planen. Selbst ein kleines Regal voller Dekoartikel bringt dich der 100-Punkte-Errungenschaft näher — jeder Artikel zählt."
+ }
+}

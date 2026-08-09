@@ -386,6 +386,40 @@ for slug in content_en.PAGE_ORDER:
                  en["sections"], [SRC_MAP[k] for k in en["sources"]], en.get("icon", "rocket"))
     page["i18n"] = i18n
     PAGES.append(page)
+# ---- addon 合并（新增章节 + intro 追加；每语言一个 JSON，EN 为基准）----
+_ADDON_FILE = {
+    "zh-CN": "addons_zh_cn.json",
+    "zh-TW": "addons_zh_cn.json",
+    "pt-BR": "addons_pt_br.json",
+}
+
+def _load_addons(lg):
+    if lg == "zh-TW":
+        raw = json.loads((ROOT / "addons_zh_cn.json").read_text())
+        # zh-TW：由 zh-CN addon 经 OpenCC(s2tw) 转台湾标准字形
+        return json.loads(cc.convert(json.dumps(raw, ensure_ascii=False)))
+    name = _ADDON_FILE.get(lg, f"addons_{lg}.json")
+    fp = ROOT / name
+    if not fp.exists():
+        fp = ROOT / "addons_en.json"
+    return json.loads(fp.read_text())
+
+def _merge_addons(page, lg, addons):
+    t = page["i18n"].get(lg)
+    if not t: return
+    a = addons.get(page["slug"])
+    if not a: return
+    if a.get("intro_extra") and t.get("intro"):
+        t["intro"] = t["intro"] + a["intro_extra"]
+    if a.get("sections"):
+        t["sections"] = list(t.get("sections", [])) + list(a["sections"])
+
+for lg in LANGS:
+    addons = _load_addons(lg)
+    for page in PAGES:
+        _merge_addons(page, lg, addons)
+
+
 
 # SEO 后处理：CJK 宽字符截断
 CJK = {"zh-CN", "zh-TW", "ja", "ko"}

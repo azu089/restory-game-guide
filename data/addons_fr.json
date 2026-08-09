@@ -1,0 +1,1115 @@
+{
+ "beginners-guide": {
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Votre premier jour, étape par étape",
+    "body": "Une façon détendue de gérer le premier jour, sur la base des mécaniques confirmées :",
+    "items": [
+     [
+      "Accueillir un client de passage",
+      "Les petits clients de passage sont la première mission la plus sûre — pas chère, rapide, et ils enseignent la boucle."
+     ],
+     [
+      "Ouvrir l'appareil avec votre tournevis",
+      "Habituez-vous à l'étape de démontage avant de tout démonter à toute vitesse."
+     ],
+     [
+      "Noter chaque état dans votre carnet",
+      "Le carnet se souvient pour vous — notez les pièces sales, cassées et manquantes."
+     ],
+     [
+      "Nettoyer ce que vous pouvez, remplacer ce qui doit l'être",
+      "Brossez les pièces sales ; achetez des pièces de rechange uniquement pour ce qui est vraiment cassé ou manquant."
+     ],
+     [
+      "Livrer et encaisser le profit",
+      "Une livraison propre renforce la réputation et apporte de l'argent pour vos premières améliorations."
+     ]
+    ]
+   },
+   {
+    "type": "evidence",
+    "heading": "Ce que le carnet fait pour vous",
+    "body": "Le carnet est la mémoire du jeu (source : intoindiegames). Trois choses qu'il change :",
+    "items": [
+     [
+      "Fini de deviner",
+      "Vous ne rouvrez plus jamais un appareil en vous demandant ce qui n'allait pas — l'état est noté."
+     ],
+     [
+      "Planifie les réparations",
+      "Vous décidez quoi nettoyer et quoi remplacer avant de dépenser de l'argent."
+     ],
+     [
+      "Suit chaque appareil",
+      "L'état complet de chaque appareil sur lequel vous avez travaillé reste disponible."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Des habitudes de réparation qui rapportent",
+    "body": "De petites habitudes aux gros retours tout au long d'une partie :",
+    "items": [
+     "Notez toujours avant de nettoyer — deviner coûte de l'argent.",
+     "Privilégiez d'abord les clients de passage, puis développez-vous vers les commandes en ligne.",
+     "Améliorez le tournevis avant toute autre chose.",
+     "Donnez les pièces de rechange à la déchiqueteuse au lieu de les accumuler.",
+     "Gardez un petit stock de pièces pour Frugal (10 jours sans acheter)."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "D'autres questions de débutant",
+    "items": [
+     [
+      "Dois-je accepter chaque commande en ligne ?",
+      "Non — acceptez seulement ce que vous pouvez finir avant le délai de 3 jours. La réputation compte."
+     ],
+     [
+      "Est-il acceptable de refuser un client ?",
+      "Vous pouvez refuser un paiement (le succès Origami), mais sinon gardez la boutique ouverte pour gagner de l'argent."
+     ],
+     [
+      "Dois-je tout réparer en une journée ?",
+      "Non — le jeu est relaxant ; il n'y a pas d'état d'échec, seulement de la réputation pour les commandes manquées."
+     ],
+     [
+      "Comment savoir quoi améliorer ensuite ?",
+      "Le tournevis d'abord, la brosse ensuite, puis le revenu passif (tronc à pourboires, déchiqueteuse)."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Ce qu'il faut éviter au début",
+    "body": "L'économie confirmée est claire sur deux puits à argent (source : intoindiegames) :",
+    "items": [
+     "Peindre les appareils — confirmé comme non rentable au début ; investissez plutôt dans les réparations.",
+     "Reprogrammer — même histoire : pas une source d'argent en début de partie.",
+     "Faire des réserves de bombes d'air — ce sont des consommables ; la brosse couvre l'essentiel du nettoyage.",
+     "Sur-acheter des pièces — le carnet vous dit exactement ce qu'il vous faut."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ du premier jour",
+    "items": [
+     [
+      "Puis-je perdre la partie le premier jour ?",
+      "Non — il n'y a pas d'état d'échec ; le pire résultat est une perte de réputation."
+     ],
+     [
+      "Combien d'appareils réparer le premier jour ?",
+      "Autant de petits appareils que vous voulez — le rythme vous appartient."
+     ],
+     [
+      "Dois-je acheter tous les outils immédiatement ?",
+      "Non — le tournevis d'abord ; achetez les autres selon les besoins des travaux."
+     ],
+     [
+      "Où va l'argent en premier ?",
+      "L'amélioration du tournevis, puis le tronc à pourboires pour le revenu passif."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Avant de fermer la boutique",
+    "body": "Un petit rituel de fermeture qui garde une progression fluide :",
+    "items": [
+     "Honorez toute commande qui a un délai aujourd'hui.",
+     "Donnez les pièces de rechange à la déchiqueteuse pour un revenu passif.",
+     "Sauvegardez votre progression et consultez le tableau des commandes de demain.",
+     "Notez quels appareils ont encore besoin de pièces pour que demain commence planifié."
+    ]
+   }
+  ],
+  "intro_extra": " La boucle confirmée ne change jamais : accepter, démonter, inspecter, nettoyer, remplacer, remonter. Maîtrisez-la lentement et vous n'aurez jamais besoin de vous précipiter — le jeu est conçu pour être relaxant, pas stressant. Avancez à votre rythme : la boutique ne punit jamais une journée lente, seulement les promesses non tenues. Par-dessus tout, profitez de la boutique : le jeu est construit autour du rythme que vous fixez, et les guides ici existent pour que rien ne ressemble à un mur. En cas de doute, choisissez la réparation plus lente et plus propre — c'est elle qui construit la réputation dont dépendent tous les systèmes suivants."
+ },
+ "repair-guide": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Les outils de nettoyage et quand les utiliser",
+    "body": "Une réparation propre fait un client content. Utilisez les outils dans cet ordre :",
+    "items": [
+     "La brosse d'abord — elle est réutilisable et couvre la plupart de la saleté.",
+     "Le bain à ultrasons pour le nettoyage en profondeur — le timing compte.",
+     "La bombe d'air avec parcimonie — c'est un consommable ; n'en faites pas de réserves.",
+     "Vérifiez chaque pièce après nettoyage pour qu'aucune pièce sale ne soit expédiée."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ détails de réparation",
+    "items": [
+     [
+      "Qu'est-ce qui compte comme une réparation propre ?",
+      "Chaque pièce nettoyée, chaque pièce cassée/manquante remplacée, et l'appareil correctement remonté."
+     ],
+     [
+      "Puis-je réparer le même appareil deux fois ?",
+      "Oui — les appareils reviennent ; le carnet garde votre historique en ordre."
+     ],
+     [
+      "Les pièces ont-elles des états visibles ?",
+      "Oui — propre, sale, cassée ou manquante ; le carnet les enregistre."
+     ],
+     [
+      "Remplacer est-il toujours mieux que nettoyer ?",
+      "Non — nettoyer d'abord économise de l'argent ; remplacez seulement ce qui est vraiment cassé ou manquant."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "Le carnet à l'œuvre",
+    "body": "Un flux de réparation réel avec le carnet (source : intoindiegames) :",
+    "items": [
+     [
+      "Démonter et disposer les pièces",
+      "Gardez l'ordre clair — le carnet enregistre d'où viennent les pièces."
+     ],
+     [
+      "Noter l'état de chaque pièce",
+      "Propre, sale, cassée ou manquante — une ligne par pièce."
+     ],
+     [
+      "Décider nettoyer ou remplacer",
+      "Utilisez les états notés pour éviter d'acheter des pièces que vous n'aviez qu'à nettoyer."
+     ],
+     [
+      "Cocher au fur et à mesure",
+      "Marquez chaque pièce comme terminée pour qu'aucune ne parte à moitié réparée."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Les signes d'une bonne réparation",
+    "items": [
+     "Chaque pièce sale nettoyée, pas seulement celles qui sont visibles.",
+     "Seules les pièces vraiment cassées/manquantes remplacées — aucune dépense inutile.",
+     "L'ordre de remontage correspond aux notes de démontage.",
+     "Client satisfait, réputation intacte."
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Liste de contrôle rapide de réparation",
+    "body": "À passer sur chaque appareil avant la livraison :",
+    "items": [
+     "Toutes les pièces sales nettoyées.",
+     "Pièces cassées ou manquantes remplacées.",
+     "L'ordre de remontage correspond au carnet.",
+     "Aucun délai manqué en cours de route."
+    ]
+   }
+  ],
+  "intro_extra": " Cette page est la référence à laquelle vous reviendrez : la boucle, le carnet, les outils et les erreurs qui coûtent de l'argent. Gardez cette page ouverte pendant que vous apprenez — chaque réparation est la même boucle, et la boucle est facile une fois qu'on la voit dans son ensemble."
+ },
+ "all-devices": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Les familles d'appareils",
+    "body": "La liste confirmée des appareils se regroupe en familles (source : allthings.how) :",
+    "items": [
+     "Consoles et portables — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
+     "Téléphones et musique — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
+     "Gadgets et jouets — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
+     "Extras — la lampe torche Unicorp 99L et l'Atari CX40 sous licence officielle."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ progression des appareils",
+    "items": [
+     [
+      "Tous les appareils sont-ils disponibles dès le premier jour ?",
+      "Non — les licences conditionnent l'accès ; les appareils de base d'abord, les gammes avancées plus tard."
+     ],
+     [
+      "La gamme Atari est-elle spéciale ?",
+      "Oui — Atari est sous licence officielle, un point fort qui vaut la peine d'être visé."
+     ],
+     [
+      "Les appareils plus difficiles rapportent-ils plus ?",
+      "Probablement oui — les meilleurs appareils sont liés aux licences et à la progression avancée (gains précis non vérifiés)."
+     ],
+     [
+      "Qu'est-ce qui débloque l'histoire ?",
+      "Les licences et les histoires de clients pilotent la progression (confirmé)."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "L'ordre de déblocage à viser",
+    "body": "Un plan d'appareils sensé du début à la fin, basé sur le système de licences :",
+    "items": [
+     [
+      "Les appareils de base des clients de passage d'abord",
+      "Les appareils bon marché enseignent la boucle et font rentrer de l'argent."
+     ],
+     [
+      "Ajoutez téléphones et lecteurs de musique",
+      "Difficulté moyenne, gains réguliers."
+     ],
+     [
+      "Travaillez vers la gamme Atari",
+      "Point fort sous licence officielle — vaut les licences."
+     ],
+     [
+      "Gardez les curiosités pour plus tard",
+      "Eggotchi, Palaloid et Robodog demandent souvent plus d'outils."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ appareils 2",
+    "items": [
+     [
+      "Ai-je besoin de chaque appareil pour le 100 % ?",
+      "Le succès Legend of Akiba récompense le fait de remporter chaque catégorie — probablement oui."
+     ],
+     [
+      "Les appareils sont-ils revendables ?",
+      "Oui — le succès Flipper porte sur la revente (guide de l'économie)."
+     ],
+     [
+      "Les appareils retombent-ils en panne ?",
+      "Oui — les appareils réparés peuvent revenir en ayant besoin de travaux."
+     ],
+     [
+      "Y a-t-il une liste d'appareils en jeu ?",
+      "Le carnet suit les appareils sur lesquels vous avez travaillé."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Liste de contrôle pour la chasse aux appareils",
+    "body": "Pour les collectionneurs qui visent chaque appareil :",
+    "items": [
+     "Réparer chaque famille au moins une fois.",
+     "Débloquer la gamme Atari pour le point fort officiel.",
+     "Tenir le carnet pour qu'aucun appareil ne soit oublié.",
+     "Planifier les licences à l'avance — elles conditionnent les appareils ultérieurs."
+    ]
+   }
+  ],
+  "intro_extra": " Chaque appareil passe par la même boucle en cinq étapes ; ce qui change, ce sont les pièces qu'il cache et les outils dont vous avez besoin. Connaître tôt la liste complète vous aide à planifier les licences et les outils à poursuivre. Mettez cette page en favori — c'est la carte que vous consulterez à chaque fois qu'un nouvel appareil arrivera sur l'établi."
+ },
+ "tools": {
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Quand acheter chaque outil",
+    "body": "Un ordre d'achat qui garde votre boutique rentable (sources : intoindiegames, allthings.how) :",
+    "items": [
+     [
+      "Tournevis — premier jour",
+      "Il est utilisé dans chaque réparation, sans exception ; améliorez-le en premier."
+     ],
+     [
+      "Tronc à pourboires — tôt",
+      "Petit revenu passif pendant que les clients sont dans la boutique."
+     ],
+     [
+      "Amélioration de la brosse — début-milieu",
+      "Un nettoyage plus rapide accélère chaque travail."
+     ],
+     [
+      "Déchiqueteuse — milieu de partie",
+      "Transforme les pièces restantes en 200–500¥ par utilisation (source : allthings.how)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ améliorations",
+    "items": [
+     [
+      "La bombe d'air vaut-elle la peine d'être achetée ?",
+      "Seulement pour les taches tenaces — la brosse couvre l'essentiel du nettoyage et elle est réutilisable."
+     ],
+     [
+      "Puis-je vendre des outils ?",
+      "Non vérifié — nous n'avons pas confirmé de mécanique de vente/échange."
+     ],
+     [
+      "Les améliorations sont-elles conservées ?",
+      "Non vérifié — nous confirmerons la persistance des sauvegardes/améliorations."
+     ],
+     [
+      "Quel est le meilleur outil de fin de partie ?",
+      "Le bain à ultrasons pour le nettoyage en profondeur (avec un aspect de timing)."
+     ]
+    ]
+   },
+   {
+    "type": "table",
+    "heading": "Ordre d'investissement dans les outils",
+    "columns": [
+     "Ordre",
+     "Outil",
+     "Pourquoi"
+    ],
+    "rows": [
+     [
+      "1",
+      "Tournevis",
+      "Utilisé dans chaque réparation — meilleur retour."
+     ],
+     [
+      "2",
+      "Tronc à pourboires",
+      "Revenu passif sans aucun entretien."
+     ],
+     [
+      "3",
+      "Brosse",
+      "Accélère l'étape la plus courante."
+     ],
+     [
+      "4",
+      "Déchiqueteuse",
+      "Transforme les pièces de rechange en 200–500¥ (source : allthings.how)."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Habitudes d'outils",
+    "items": [
+     "Gardez le tournevis amélioré avant d'acheter de nouveaux outils.",
+     "Laissez les travaux dicter vos achats — n'achetez la bombe d'air que lorsqu'un travail en a besoin.",
+     "Réinvestissez les profits des réparations dans la prochaine amélioration.",
+     "Ne vendez jamais le tournevis — il est toujours nécessaire."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ outils 2",
+    "items": [
+     [
+      "Puis-je améliorer la brosse plus d'une fois ?",
+      "Non vérifié — les paliers d'amélioration ne sont pas confirmés."
+     ],
+     [
+      "Le bain à ultrasons remplace-t-il la brosse ?",
+      "Non — c'est une station de nettoyage en profondeur ; la brosse reste l'outil quotidien de travail."
+     ],
+     [
+      "La déchiqueteuse est-elle mieux que de vendre les pièces ?",
+      "C'est l'option passive confirmée ; les ventes directes ne sont pas confirmées séparément."
+     ],
+     [
+      "Quand arrêter d'améliorer les outils ?",
+      "Quand les réparations deviennent rapides et propres — le plafond exact est non vérifié."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Le bon ordre d'achat des outils économise de l'argent et garde des réparations rapides ; le mauvais ordre gaspille vos premiers profits. Un outil acheté trop tôt, c'est de l'argent qui dort ; un outil acheté trop tard, c'est de l'argent perdu dans des réparations lentes. Cette page maintient cet équilibre en votre faveur. Revenez sur cette page avant chaque gros achat : l'ordre ci-dessus fait la différence entre une boutique qui grandit et une boutique qui stagne. Vos outils sont la seule vraie dépense de ReStory ; dépenser au bon moment sur les bons outils, c'est tout l'art de tenir boutique. Un outil acheté trop tôt, c'est de l'argent qui dort ; un outil acheté trop tard, c'est de l'argent perdu dans des réparations lentes. L'ordre ci-dessus garde cet équilibre en votre faveur dès le premier jour."
+ },
+ "online-orders": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Un rythme quotidien sain",
+    "body": "Gardez les commandes fluides sans brûler votre réputation :",
+    "items": [
+     "Consultez le tableau des commandes en premier — jusqu'à 11 commandes en ligne par jour.",
+     "Triez par délai ; commencez par le plus serré.",
+     "Faites correspondre les commandes aux outils et pièces que vous avez réellement.",
+     "Encaissez les réussites : les commandes honorées alimentent WWW (25) et Internet Business (100)."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ commandes",
+    "items": [
+     [
+      "Les commandes en ligne rapportent-elles plus que les clients de passage ?",
+      "Non vérifié — les gains exacts ne sont pas confirmés, mais ce sont des revenus renouvelables."
+     ],
+     [
+      "Puis-je ignorer les commandes en ligne ?",
+      "Oui, mais ce sont le principal revenu renouvelable et elles alimentent deux succès."
+     ],
+     [
+      "Que se passe-t-il à 0 de réputation ?",
+      "Non vérifié — le plancher exact n'est pas confirmé ; gardez des livraisons propres pour rester en sécurité."
+     ],
+     [
+      "Y a-t-il des types de commandes ?",
+      "Non vérifié — la variété des commandes n'est pas encore confirmée."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "La première semaine de commandes en ligne",
+    "body": "Construisez votre réputation en toute sécurité avant de chercher le volume :",
+    "items": [
+     [
+      "Jour 1 : prenez une commande",
+      "Apprenez le rythme des délais sans pression."
+     ],
+     [
+      "Jours 2-3 : prenez-en deux",
+      "Équilibrez clients de passage et travail en ligne."
+     ],
+     [
+      "Vérifiez les délais chaque matin",
+      "Le plus serré d'abord, toujours."
+     ],
+     [
+      "Célébrez les jalons",
+      "WWW à 25 commandes, Internet Business à 100 (succès)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ délais",
+    "items": [
+     [
+      "Quel est le délai exactement ?",
+      "3 jours par commande (source : allthings.how)."
+     ],
+     [
+      "Puis-je prolonger un délai ?",
+      "Non vérifié — aucune mécanique de prolongation confirmée."
+     ],
+     [
+      "Les clients en ligne vous laissent-ils des avis ?",
+      "Oui — les succès First Reviews et Getting Popular suivent les avis."
+     ],
+     [
+      "La réputation est-elle la même en ligne et en boutique ?",
+      "Non vérifié — nous confirmerons le modèle de réputation partagé."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ commandes 2",
+    "items": [
+     [
+      "Et si j'accepte trop de commandes ?",
+      "Les délais manqués coûtent de la réputation — acceptez moins que ce que vous pouvez finir."
+     ],
+     [
+      "Les commandes en ligne apparaissent-elles au hasard ?",
+      "Le tableau propose des commandes quotidiennes ; la variété exacte est non vérifiée."
+     ],
+     [
+      "Y a-t-il une réputation maximale ?",
+      "Non vérifié — le plafond n'est pas confirmé."
+     ],
+     [
+      "Les commandes font-elles découvrir de nouveaux appareils ?",
+      "Certaines commandes peuvent exiger des appareils sous licence ; le lien est non vérifié."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Bien utilisées, les commandes en ligne deviennent votre revenu le plus régulier ; mal utilisées, elles brûlent la réputation que vous avez mis du temps à construire. Le rythme est simple : lire le tableau, trier par délai, livrer propre. Les résultats se cumulent en réputation et en succès. La plupart des joueurs trouvent leur rythme à la fin de la première semaine ; cette page rend cette semaine plus courte. Le tableau se rafraîchit chaque jour, alors une vérification calme le matin bat toujours une course paniquée le soir. La plupart des joueurs trouvent leur rythme à la fin de la première semaine ; cette page rend cette semaine plus courte et la courbe de réputation plus douce. Le tableau se rafraîchit chaque jour, alors une vérification calme le matin bat toujours une course paniquée le soir — et chaque délai tenu est de la réputation encaissée."
+ },
+ "licenses": {
+  "sections": [
+   {
+    "type": "table",
+    "heading": "Les jalons de licences en un coup d'œil",
+    "columns": [
+     "Jalon",
+     "Ce que nous savons"
+    ],
+    "rows": [
+     [
+      "Official Partner",
+      "Premier jalon confirmé ; ouvre des gammes officielles comme Atari (nom du succès)."
+     ],
+     [
+      "Golden Partner",
+      "Exige 5 licences (succès confirmé)."
+     ],
+     [
+      "Are You Serious?",
+      "La licence la plus chère du jeu (nom du succès)."
+     ],
+     [
+      "Platinum Partner",
+      "Exige toutes les licences (succès confirmé)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ licences",
+    "items": [
+     [
+      "Les licences coûtent-elles de l'argent ?",
+      "Probablement oui — le succès « Are You Serious? » implique un prix ; les coûts exacts sont non vérifiés."
+     ],
+     [
+      "Puis-je perdre une licence ?",
+      "Non vérifié — aucune mécanique confirmée."
+     ],
+     [
+      "Les licences sont-elles par appareil ou par catégorie ?",
+      "Non vérifié — le regroupement n'est pas confirmé."
+     ],
+     [
+      "Les licences expirent-elles ?",
+      "Non vérifié — aucune mécanique d'expiration confirmée."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "Comment obtenir votre première licence",
+    "body": "Un chemin pratique basé sur la chaîne de licences confirmée :",
+    "items": [
+     [
+      "Développez les bases de la boutique",
+      "Les réparations, l'argent et la réputation sont le carburant des licences."
+     ],
+     [
+      "Réparez les appareils auxquels vous avez accès",
+      "La progression naturelle débloque ce que la boutique peut prendre en charge."
+     ],
+     [
+      "Guettez le jalon Official Partner",
+      "La première étape confirmée vers des gammes officielles comme Atari."
+     ],
+     [
+      "Prévoyez Golden et Platinum",
+      "5 licences pour Golden, toutes pour Platinum (succès confirmés)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ licences 2",
+    "items": [
+     [
+      "Les licences comptent-elles pour l'histoire ?",
+      "Oui — la description officielle relie la progression sous licence au chemin principal."
+     ],
+     [
+      "La licence la plus chère vaut-elle le coup ?",
+      "Elle est requise pour le succès « Are You Serious? » — les complétionnistes en ont besoin."
+     ],
+     [
+      "Les licences débloquent-elles des clients ?",
+      "Non vérifié — le lien avec les clients n'est pas confirmé."
+     ],
+     [
+      "Puis-je voir mes licences en jeu ?",
+      "Non vérifié — nous confirmerons l'interface."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ licences 3",
+    "items": [
+     [
+      "Dois-je foncer vers Platinum ?",
+      "Non — profitez du chemin ; Golden et Platinum sont des objectifs de complétion."
+     ],
+     [
+      "Les licences débloquent-elles des prix ?",
+      "Non vérifié — la tarification liée aux licences n'est pas confirmée."
+     ],
+     [
+      "La première licence est-elle gratuite ?",
+      "Non vérifié — le coût d'entrée n'est pas confirmé."
+     ],
+     [
+      "Puis-je prévisualiser les conditions des licences ?",
+      "Non vérifié — la prévisualisation en jeu n'est pas confirmée."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Les licences sont l'épine dorsale de la progression dans ReStory — les comprendre tôt vous évite de caler en milieu de partie. Voyez les licences comme des portes plutôt que des objectifs : chacune ouvre de nouveaux travaux, de nouveaux appareils et une nouvelle histoire. Comprendre la chaîne, c'est ainsi qu'on évite de farmer les mauvais appareils. Si un appareil semble verrouillé, la réponse est presque toujours une licence — vérifiez cette chaîne avant de farmer. Voyez les licences comme le programme de la boutique : chacune est une leçon qui débloque le palier suivant de travail et d'histoire. Si un appareil semble verrouillé, la réponse est presque toujours une licence — vérifiez cette chaîne avant de farmer le mauvais établi. Voyez les licences comme le programme de la boutique : chacune est une leçon qui débloque le palier suivant de travail, d'appareils et de moments d'histoire. Et parce que les licences pilotent l'histoire, chaque licence obtenue est aussi un chapitre débloqué — la progression n'est ici jamais perdue."
+ },
+ "economy": {
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Un guide pas à pas de la revente",
+    "body": "Le succès Flipper récompense le fait d'acheter bas, de réparer et de revendre haut :",
+    "items": [
+     [
+      "Achetez ou acceptez des appareils bon marché",
+      "Cherchez des appareils que vous pouvez restaurer pour moins que leur valeur de revente."
+     ],
+     [
+      "Réparez-les proprement",
+      "Une réparation propre augmente la valeur et la réputation."
+     ],
+     [
+      "Vendez au bon moment",
+      "Revendez avec profit — les marges exactes sont non vérifiées."
+     ],
+     [
+      "Réinvestissez dans les outils",
+      "De meilleurs outils rendent chaque revente plus rapide et moins chère."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ économie",
+    "items": [
+     [
+      "Quel est le revenu passif le plus rapide ?",
+      "Le tronc à pourboires tôt, la déchiqueteuse en milieu de partie — les deux rapportent pendant que vous travaillez (sources : intoindiegames, allthings.how)."
+     ],
+     [
+      "La revente est-elle risquée ?",
+      "Seulement si vous payez trop ; réparez proprement et le succès Flipper confirme que la boucle existe."
+     ],
+     [
+      "Que ne devrais-je jamais vendre ?",
+      "Gardez un stock de pièces pour Frugal (10 jours sans acheter)."
+     ],
+     [
+      "Peindre/reprogrammer rapporte-t-il ?",
+      "Non — confirmé comme non rentable au début (source : intoindiegames)."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Liste de contrôle des revenus de début de partie",
+    "body": "Un plan d'argent pour le premier jour, bâti sur des mécaniques confirmées :",
+    "items": [
+     "Réparez d'abord les petits clients de passage — de l'argent rapide et sûr.",
+     "Ajoutez tôt le tronc à pourboires pour le revenu passif.",
+     "Donnez les pièces de rechange à la déchiqueteuse au lieu d'accumuler.",
+     "Commencez les commandes en ligne une fois la boucle maîtrisée.",
+     "Gardez un stock de pièces pour Frugal (10 jours sans acheter)."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ argent 2",
+    "items": [
+     [
+      "Quoi acheter avec mon premier gros profit ?",
+      "L'amélioration du tournevis — elle se rembourse sur chaque travail."
+     ],
+     [
+      "Est-il malin d'accumuler des pièces ?",
+      "En partie — il vous faut un stock pour Frugal, mais donnez le surplus à la déchiqueteuse."
+     ],
+     [
+      "Comment atteindre Millionaire ?",
+      "Des réparations régulières, de la revente et du revenu passif — le rythme exact est non vérifié."
+     ],
+     [
+      "La boutique a-t-elle des factures ?",
+      "Non vérifié — les coûts de fonctionnement ne sont pas confirmés."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ économie 2",
+    "items": [
+     [
+      "La déchiqueteuse vaut-elle pour chaque pièce ?",
+      "Donnez le surplus, gardez un stock pour Frugal — équilibrez les deux."
+     ],
+     [
+      "Les reventes ont-elles une taxe ?",
+      "Non vérifié — aucune mécanique de taxe confirmée."
+     ],
+     [
+      "Dois-je toujours réparer avant de vendre ?",
+      "Une réparation propre augmente la valeur — la revente confirme la boucle."
+     ],
+     [
+      "Quelle est la meilleure routine quotidienne pour l'argent ?",
+      "Clients de passage + commandes en ligne + revenu passif, dans cet ordre de priorité."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " L'argent vient de trois sources : les réparations, la revente et le revenu passif. Cette page montre comment garder les trois en marche. L'objectif n'est pas seulement de gagner — c'est de gagner sans s'épuiser, pour que la boutique reste ouverte jusqu'aux longs succès. L'économie récompense la patience : réparez proprement, revendez intelligemment et laissez le revenu passif faire le gros du travail avec le temps. Suivez vos habitudes chaque semaine — la boutique qui répare proprement, revend intelligemment et encaisse du revenu passif est celle qui atteint Millionaire."
+ },
+ "endings": {
+  "sections": [
+   {
+    "type": "evidence",
+    "heading": "Les indices d'histoire dans les succès cachés",
+    "body": "Les succès cachés laissent deviner des embranchements d'histoire (noms confirmés par allthings.how ; déclencheurs non vérifiés) :",
+    "items": [
+     [
+      "Ronin",
+      "Un chemin de loup solitaire — probablement lié au fait de refuser ou d'isoler les clients."
+     ],
+     [
+      "Melancholy",
+      "Un embranchement doux-amer — probablement lié à l'issue d'un client."
+     ],
+     [
+      "Globalization",
+      "Un embranchement vers le monde extérieur — probablement lié aux licences ou à Internet."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ fins",
+    "items": [
+     [
+      "Les choix peuvent-ils être annulés ?",
+      "Non vérifié — l'histoire se ramifie selon les choix ; le carnet peut aider à les suivre."
+     ],
+     [
+      "Les fins se verrouillent-elles à un moment donné ?",
+      "Non vérifié — nous confirmerons une fois les déclencheurs vérifiés."
+     ],
+     [
+      "Y a-t-il une vraie fin ?",
+      "Non vérifié — « plusieurs fins » est confirmé, une fin « véritable » ne l'est pas."
+     ],
+     [
+      "Dois-je y jouer deux fois ?",
+      "Probablement — les histoires à embranchements récompensent généralement plusieurs parties."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "Comment les embranchements peuvent s'ouvrir",
+    "body": "Ce qui pilote probablement les multiples fins confirmées :",
+    "items": [
+     [
+      "Choix face aux clients",
+      "La façon dont vous répondez à chaque client peut changer son histoire."
+     ],
+     [
+      "Qualité de la réparation",
+      "Les réparations propres ou bâclées façonnent les issues."
+     ],
+     [
+      "Jalons de licences",
+      "Progresser dans les licences peut débloquer des moments d'histoire."
+     ],
+     [
+      "Choix relationnels",
+      "Donner suite aux histoires peut ouvrir ou fermer des embranchements."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ embranchements",
+    "items": [
+     [
+      "Ai-je besoin de toutes les fins ?",
+      "Seulement si vous voulez l'histoire complète — aucune complétion forcée."
+     ],
+     [
+      "L'histoire peut-elle se ramifier tôt ?",
+      "Non vérifié — les points de ramification ne sont pas encore confirmés."
+     ],
+     [
+      "Le nom de la boutique compte-t-il ?",
+      "Non vérifié — les effets cosmétiques ne sont pas confirmés."
+     ],
+     [
+      "Les notes de mise à jour révéleront-elles les embranchements ?",
+      "Consultez le guide des notes de mise à jour ; nous suivons les mises à jour officielles."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ choix",
+    "items": [
+     [
+      "Les petits choix comptent-ils autant que les grands ?",
+      "Non vérifié — le poids de chaque choix n'est pas confirmé."
+     ],
+     [
+      "Un choix peut-il ruiner une partie ?",
+      "Peu probable — le jeu est relaxant ; des embranchements, pas des états d'échec."
+     ],
+     [
+      "Dois-je garder des notes sur mes choix ?",
+      "Le carnet aide ; nos guides suivront les embranchements au fur et à mesure de leur vérification."
+     ],
+     [
+      "Les fins affectent-elles les succès ?",
+      "Oui — Promise/Star/Legend of Akiba sont des succès d'histoire."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Comme les fins dépendent des choix, le même client peut finir heureux, triste, ou quelque part d'inattendu selon la façon dont vous jouez. Comme les fins dépendent des choix, le même client peut finir heureux, triste, ou quelque part d'inattendu selon la façon dont vous jouez. Notre guide des fins s'étoffera au fur et à mesure que les déclencheurs seront vérifiés — revenez, et gardez des notes sur vos choix pendant que vous jouez. Notez vos choix majeurs au fil de la partie ; quand notre organigramme vérifié des fins arrivera, vos notes s'y appliqueront directement. Notre guide des fins s'étoffera au fur et à mesure que les déclencheurs seront vérifiés ; en attendant, gardez une petite note de vos choix majeurs pendant que vous jouez. Notez vos choix majeurs au fil de la partie ; quand notre organigramme vérifié des fins arrivera, vos notes s'y appliqueront directement. L'histoire à embranchements est la raison pour laquelle ReStory fait revenir les joueurs ; savoir comment fonctionnent les embranchements transforme une première partie en carte pour la seconde."
+ },
+ "customers": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Les types de choix que vous faites",
+    "body": "Les conversations avec les clients se ramifient dans quelques directions confirmées :",
+    "items": [
+     "La façon dont vous répondez pendant la conversation de réparation.",
+     "Si vous acceptez, bâclez ou refusez un travail.",
+     "Le soin apporté à la réparation (propre vs bâclée).",
+     "Si vous donnez suite à l'histoire d'un client plus tard."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ clients",
+    "items": [
+     [
+      "Tous les clients ont-ils des histoires ?",
+      "Le pitch officiel dit que les clients apportent des histoires ; toutes les visites ne se ramifient pas forcément."
+     ],
+     [
+      "Puis-je réparer la vie d'un client ?",
+      "Les choix affectent à la fois leur vie et votre boutique (description officielle)."
+     ],
+     [
+      "Les clients réguliers se souviennent-ils ?",
+      "Non vérifié — les clients récurrents ne sont pas encore confirmés."
+     ],
+     [
+      "Les choix sont-ils réversibles ?",
+      "Non vérifié — les issues des embranchements ne sont pas confirmées réversibles."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "Une visite de client, étape par étape",
+    "body": "La boucle client confirmée (description officielle + intoindiegames) :",
+    "items": [
+     [
+      "Ils entrent avec un appareil",
+      "Chaque appareil porte une histoire avec lui."
+     ],
+     [
+      "Vous prenez le travail",
+      "Accepter, bâcler ou refuser — chaque choix compte."
+     ],
+     [
+      "Vous réparez leur appareil",
+      "La qualité ici façonne leur issue."
+     ],
+     [
+      "Ils reviennent changés",
+      "Les clients qui reviennent voient le résultat de vos choix."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ clients 2",
+    "items": [
+     [
+      "Peut-on refuser des clients ?",
+      "Vous pouvez refuser un paiement (succès Origami) ; refuser le travail est aussi un choix."
+     ],
+     [
+      "Les clients reviennent-ils pour l'histoire ?",
+      "Probablement — le pitch officiel parle d'écouter leurs histoires."
+     ],
+     [
+      "Les histoires des clients sont-elles doublées ?",
+      "Non vérifié — la présentation audio n'est pas confirmée."
+     ],
+     [
+      "Les choix verrouillent-ils les fins ?",
+      "Quasi certainement — la description officielle dit que les choix déterminent les fins."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ choix 2",
+    "items": [
+     [
+      "Refuser un client est-il parfois une bonne chose ?",
+      "Refuser un paiement, c'est le succès Origami — un choix délibéré."
+     ],
+     [
+      "Les clients heureux reviennent-ils plus ?",
+      "Probablement — la réputation attire les affaires ; les détails sont non vérifiés."
+     ],
+     [
+      "Les histoires de clients sont-elles longues ?",
+      "Le pitch officiel est orienté narration ; la longueur est non vérifiée."
+     ],
+     [
+      "Dois-je me souvenir de chaque histoire ?",
+      "Le carnet et notre guide des clients vous gardent orienté."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Traiter les clients comme des personnes — pas seulement comme des travaux — est le cœur de l'histoire à embranchements. L'histoire vit dans les clients, et les clients vivent dans vos choix. Apprendre à lire chaque visite, c'est la différence entre une boutique et une histoire. Certains clients resteront dans votre mémoire longtemps après la fermeture de la boutique — c'est tout l'intérêt de l'histoire. Un client dont on se souvient fait avancer une histoire ; un client bâclé ferme un embranchement. Le choix vous appartient toujours. Certains clients restent dans votre mémoire longtemps après la fermeture de la boutique — c'est tout l'intérêt de l'histoire. Un client dont on se souvient fait avancer une histoire ; un client bâclé ferme un embranchement. Le choix vous appartient toujours. Traiter les clients comme des personnes plutôt que comme des travaux est le cœur de l'histoire à embranchements, et la raison pour laquelle la boutique semble vivante. Chaque visite est un petit chapitre, et chaque choix que vous faites en est l'auteur. Cette page est votre guide pour lire les clients avant qu'ils ne sortent."
+ },
+ "achievements-roadmap": {
+  "sections": [
+   {
+    "type": "faq",
+    "heading": "FAQ feuille de route",
+    "items": [
+     [
+      "Dois-je suivre la feuille de route à la lettre ?",
+      "Non — c'est un ordre recommandé ; jouez naturellement et cela fonctionne quand même."
+     ],
+     [
+      "Quand devrais-je commencer la partie de 168 heures ?",
+      "Quand vous pouvez laisser le jeu tourner ; c'est un succès limité par le temps."
+     ],
+     [
+      "Le succès bugué bloque-t-il le 100 % ?",
+      "Dans la version actuelle, possiblement — nous le signalons honnêtement (source : allthings.how)."
+     ],
+     [
+      "Les succès cachés exigent-ils une nouvelle sauvegarde ?",
+      "Non vérifié — probablement liés aux choix ; une seconde sauvegarde peut aider."
+     ]
+    ]
+   }
+  ]
+ },
+ "hidden-achievements": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Comment chasser les succès cachés",
+    "body": "Des méthodes de chasse pratiques qui respectent les déclencheurs non vérifiés :",
+    "items": [
+     "Consultez la superposition Steam pour voir les tuiles cachées verrouillées.",
+     "Essayez des choix de clients inhabituels (refuser, bâcler, donner suite).",
+     "Rejouez des moments d'histoire avec des décisions différentes.",
+     "Surveillez les notes de mise à jour officielles pour des indices sur les déclencheurs."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ succès cachés",
+    "items": [
+     [
+      "Les succès cachés sont-ils rares ?",
+      "Ils sont cachés, mais les 5 sont dans la version actuelle (source : allthings.how)."
+     ],
+     [
+      "Puis-je les prévisualiser sans spoilers ?",
+      "Steam affiche des tuiles verrouillées — assez pour chasser sans spoilers complets."
+     ],
+     [
+      "Comptent-ils dans le total ?",
+      "Oui — les 5 comptent dans les 50."
+     ],
+     [
+      "Mettrez-vous à jour les déclencheurs ?",
+      "Oui — nous publions les déclencheurs vérifiés au fur et à mesure que nous les confirmons."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ chasse",
+    "items": [
+     [
+      "Dois-je chercher les déclencheurs ?",
+      "Seulement si vous voulez — chasser à l'aveugle fait partie du plaisir."
+     ],
+     [
+      "Les succès cachés sont-ils faciles à rater à jamais ?",
+      "Ils sont liés aux choix ; une nouvelle sauvegarde permet de les rechasser."
+     ],
+     [
+      "Ont-ils des icônes ?",
+      "Steam les affiche comme des tuiles verrouillées ; les icônes existent dans la liste des succès."
+     ],
+     [
+      "Notre guide va-t-il les spoiler ?",
+      "Nous listons les noms et marquons les déclencheurs comme non vérifiés, pour que vous choisissiez."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Les succès cachés ne sont pas aléatoires ; ils récompensent des comportements précis, souvent inhabituels, dans la boutique. Les cinq secrets sont tous obtenables dans la version actuelle — le défi est de remarquer ce que le jeu récompense. Si vous voulez les chasser vous-même, arrêtez-vous ici et jouez ; la liste ci-dessous est pour quand vous serez prêt. Chassez avec curiosité, sans pression — les succès cachés sont conçus pour récompenser le boutiquier attentif."
+ },
+ "zen-points": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Conseils d'achat Zen",
+    "body": "Atteindre efficacement 100 points Zen (points issus d'allthings.how) :",
+    "items": [
+     "Commencez par les objets à forte valeur : Ghostbusters (9), Kaiju (8), Prism (8).",
+     "Ajoutez ensuite Bonsai (7) et Stormtrooper (7).",
+     "Complétez avec les objets intermédiaires : Gloves (5), Shoji lamp (4), Billy Bass (4), Troll (4).",
+     "N'achetez les objets à faible valeur (VHS 2, Daruma 2, Maneki-neko 3, Seashell 3) que s'il vous en manque encore."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ Zen 2",
+    "items": [
+     [
+      "Les bibelots ont-ils un autre usage ?",
+      "Décoration uniquement, pour autant que confirmé — le succès Zen est l'objectif."
+     ],
+     [
+      "Puis-je vendre des bibelots ?",
+      "Non vérifié — la revente des décorations n'est pas confirmée."
+     ],
+     [
+      "100 est-il le plafond ?",
+      "Le succès est à 100 points (source : allthings.how)."
+     ],
+     [
+      "Où voir mon total de Zen ?",
+      "Dans l'interface de décoration de la boutique en jeu — emplacement exact non vérifié."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "FAQ Zen 3",
+    "items": [
+     [
+      "Les objets à plus de points coûtent-ils plus cher ?",
+      "Probablement, mais l'efficacité par yen est ce qui compte (prix non vérifiés)."
+     ],
+     [
+      "Puis-je acheter des doublons ?",
+      "Non vérifié — les doublons ne sont pas confirmés."
+     ],
+     [
+      "100 points est-il exactement l'objectif ?",
+      "Oui — le succès A Place of Zen est à 100 (source : allthings.how)."
+     ],
+     [
+      "Les bibelots débloquent-ils des histoires ?",
+      "Non vérifié — la décoration est leur rôle confirmé."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": " Décorer n'est pas de l'argent gaspillé — c'est le chemin vers un succès de collection caché. Quelques centaines de yens de décoration peuvent débloquer un succès caché — cela vaut la peine d'être planifié tôt. Même une petite étagère de bibelots vous rapproche du succès à 100 points — chaque objet compte."
+ }
+}

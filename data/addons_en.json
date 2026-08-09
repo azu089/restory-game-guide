@@ -1,0 +1,1115 @@
+{
+ "beginners-guide": {
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "Your first day, step by step",
+    "body": "A relaxed way to run day one, based on the confirmed mechanics:",
+    "items": [
+     [
+      "Greet a walk-in customer",
+      "Small walk-ins are the safest first job — cheap, fast, and they teach the loop."
+     ],
+     [
+      "Open the device with your screwdriver",
+      "Get used to the disassembly step before taking anything apart at speed."
+     ],
+     [
+      "Write every state in your notebook",
+      "The notebook remembers for you — record dirty, broken and missing parts."
+     ],
+     [
+      "Clean what you can, replace what you must",
+      "Brush dirty parts; buy spares only for what is truly broken or missing."
+     ],
+     [
+      "Deliver and bank the profit",
+      "A clean delivery builds reputation and cash for your first upgrades."
+     ]
+    ]
+   },
+   {
+    "type": "evidence",
+    "heading": "What the notebook does for you",
+    "body": "The notebook is the game's memory (source: intoindiegames). Three things it changes:",
+    "items": [
+     [
+      "No guessing",
+      "You never re-open a device wondering what was wrong — the state is written down."
+     ],
+     [
+      "Plans repairs",
+      "You decide what to clean vs replace before spending money."
+     ],
+     [
+      "Tracks every device",
+      "The full state of every device you have worked on stays available."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Repair habits that pay off",
+    "body": "Small habits with big returns over a playthrough:",
+    "items": [
+     "Always record before cleaning — guessing costs money.",
+     "Prioritise walk-ins early, then grow into online orders.",
+     "Upgrade the screwdriver before anything else.",
+     "Feed spare parts to the shredder instead of hoarding them.",
+     "Keep a small parts stockpile for Frugal (10 days without buying)."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "More beginner questions",
+    "items": [
+     [
+      "Should I take every online order?",
+      "No — take only what you can finish before the 3-day deadline. Reputation matters."
+     ],
+     [
+      "Is it okay to refuse a customer?",
+      "You can refuse payment (the Origami achievement), but otherwise keep the shop open to earn."
+     ],
+     [
+      "Do I need to repair everything in one day?",
+      "No — the game is chill; there is no fail state, only reputation for missed orders."
+     ],
+     [
+      "How do I know what to upgrade next?",
+      "Screwdriver first, brush second, then passive income (tip jar, shredder)."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "What to skip early",
+    "body": "The confirmed economy is clear about two money-pits (source: intoindiegames):",
+    "items": [
+     "Painting devices — confirmed not profitable early; invest in repairs instead.",
+     "Reprogramming — same story: not a money-maker in the early game.",
+     "Stockpiling air cans — consumables; the brush covers most cleaning.",
+     "Over-buying parts — the notebook tells you exactly what you need."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "First-day FAQ",
+    "items": [
+     [
+      "Can I lose the game on day one?",
+      "No — there is no fail state; the worst outcome is reputation loss."
+     ],
+     [
+      "How many devices should I fix day one?",
+      "As many small ones as you enjoy — pace is yours."
+     ],
+     [
+      "Should I buy every tool immediately?",
+      "No — screwdriver first; buy others as jobs demand them."
+     ],
+     [
+      "Where does the money go first?",
+      "Screwdriver upgrade, then the tip jar for passive income."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Before you close the shop",
+    "body": "A short closing ritual that keeps progress smooth:",
+    "items": [
+     "Fulfil any order with a deadline today.",
+     "Feed spare parts to the shredder for passive cash.",
+     "Save your progress and check tomorrow's order board.",
+     "Note which devices still need parts so tomorrow starts planned."
+    ]
+   }
+  ],
+  "intro_extra": "The confirmed loop never changes: accept, disassemble, inspect, clean, replace, reassemble. Master it slowly and you will never need to rush — the game is designed to be relaxed, not stressful. Take it at your own pace: the shop never punishes a slow day, only missed promises. Above all, enjoy the shop: the game is built around the pace you set, and the guides here exist so nothing feels like a wall. When in doubt, choose the slower, cleaner repair — it builds the reputation that every later system feeds on."
+ },
+ "repair-guide": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Cleaning tools and when to use them",
+    "body": "A clean repair is a happy customer. Use tools in this order:",
+    "items": [
+     "Brush first — it is reusable and covers most dirt.",
+     "Sonic bath for deep cleaning — timing matters.",
+     "Air can sparingly — it is a consumable; do not stockpile.",
+     "Check every part after cleaning so nothing dirty ships."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Repair details FAQ",
+    "items": [
+     [
+      "What counts as a clean repair?",
+      "Every part cleaned, every broken/missing part replaced, and the device reassembled correctly."
+     ],
+     [
+      "Can I repair the same device twice?",
+      "Yes — devices return; the notebook keeps your history straight."
+     ],
+     [
+      "Do parts have states I can see?",
+      "Yes — clean, dirty, broken or missing; the notebook records them."
+     ],
+     [
+      "Is replacing always better than cleaning?",
+      "No — cleaning first saves money; replace only what is actually broken or missing."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "The notebook at work",
+    "body": "A real repair flow with the notebook (source: intoindiegames):",
+    "items": [
+     [
+      "Disassemble and lay parts out",
+      "Keep the order straight — the notebook records where things came from."
+     ],
+     [
+      "Write each part's state",
+      "Clean, dirty, broken or missing — one line per part."
+     ],
+     [
+      "Decide clean vs replace",
+      "Use the written states to avoid buying parts you only needed to clean."
+     ],
+     [
+      "Check off as you finish",
+      "Mark each part done so nothing ships half-fixed."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Signs of a good repair",
+    "items": [
+     "Every dirty part cleaned, not just the visible ones.",
+     "Only truly broken/missing parts replaced — no wasted spend.",
+     "Assembly order matches disassembly notes.",
+     "Customer satisfied, reputation intact."
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Quick repair checklist",
+    "body": "Run this on every device before delivery:",
+    "items": [
+     "All dirty parts cleaned.",
+     "Broken or missing parts replaced.",
+     "Assembly order matches the notebook.",
+     "No deadline missed on the way out."
+    ]
+   }
+  ],
+  "intro_extra": "This page is the reference you will come back to: the loop, the notebook, the tools, and the mistakes that cost money. Keep this page open while you learn — every repair is the same loop, and the loop is easy once you see it whole."
+ },
+ "all-devices": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Device families",
+    "body": "The confirmed device list groups into families (source: allthings.how):",
+    "items": [
+     "Consoles & handhelds — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
+     "Phones & music — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
+     "Gadgets & toys — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
+     "Extras — Unicorp 99L flashlight and the officially licensed Atari CX40."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Device progression FAQ",
+    "items": [
+     [
+      "Are all devices available from day one?",
+      "No — licenses gate access; basic devices first, advanced lines later."
+     ],
+     [
+      "Is the Atari line special?",
+      "Yes — Atari is officially licensed, a highlight worth working toward."
+     ],
+     [
+      "Do harder devices pay more?",
+      "Likely yes — better devices are tied to licenses and later progression (specific payouts unverified)."
+     ],
+     [
+      "What unlocks the story?",
+      "Licenses and customer stories drive progression (confirmed)."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "Unlock order to aim for",
+    "body": "A sensible early-to-late device plan based on the license system:",
+    "items": [
+     [
+      "Walk-in basics first",
+      "Cheap devices teach the loop and build cash."
+     ],
+     [
+      "Add phones and music players",
+      "Mid difficulty, steady payouts."
+     ],
+     [
+      "Work toward the Atari line",
+      "Officially licensed highlight — worth the licenses."
+     ],
+     [
+      "Save the oddities for later",
+      "Eggotchi, Palaloid and Robodog often need more tools."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Device FAQ 2",
+    "items": [
+     [
+      "Do I need every device for 100%?",
+      "The Legend of Akiba achievement rewards winning every category — likely yes."
+     ],
+     [
+      "Are devices resellable?",
+      "Yes — the Flipper achievement is about reselling (economy guide)."
+     ],
+     [
+      "Do devices break again?",
+      "Yes — repaired devices can come back needing work."
+     ],
+     [
+      "Is there a device list in-game?",
+      "The notebook tracks the devices you have worked on."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Device hunt checklist",
+    "body": "For collectors working toward every device:",
+    "items": [
+     "Repair every family at least once.",
+     "Unlock the Atari line for the official highlight.",
+     "Keep the notebook so no device is forgotten.",
+     "Plan licenses ahead — they gate the later devices."
+    ]
+   }
+  ],
+  "intro_extra": "Every device runs through the same five-step loop; what changes is which parts it hides and which tools you need. Knowing the full roster early helps you plan which licenses and tools to chase. Bookmark this page — it is the map you will reference every time a new device appears on the bench."
+ },
+ "tools": {
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "When to buy each tool",
+    "body": "A buying order that keeps your shop profitable (sources: intoindiegames, allthings.how):",
+    "items": [
+     [
+      "Screwdriver — day one",
+      "It is used in every single repair; upgrade it first."
+     ],
+     [
+      "Tip jar — early",
+      "Small passive income while customers are in the shop."
+     ],
+     [
+      "Brush upgrade — early-mid",
+      "Faster cleaning speeds up every job."
+     ],
+     [
+      "Shredder — mid-game",
+      "Turns leftover parts into 200–500¥ per use (source: allthings.how)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Upgrade FAQ",
+    "items": [
+     [
+      "Is the air can worth buying?",
+      "Only for stubborn dirt — the brush covers most cleaning and is reusable."
+     ],
+     [
+      "Can I sell tools?",
+      "Unverified — we have not confirmed a sell/trade mechanic."
+     ],
+     [
+      "Do upgrades carry over?",
+      "Unverified — we will confirm save/upgrade persistence."
+     ],
+     [
+      "What is the best late-game tool?",
+      "The sonic bath for deep cleaning (timing involved)."
+     ]
+    ]
+   },
+   {
+    "type": "table",
+    "heading": "Tool investment order",
+    "columns": [
+     "Order",
+     "Tool",
+     "Why"
+    ],
+    "rows": [
+     [
+      "1",
+      "Screwdriver",
+      "Used in every repair — highest return."
+     ],
+     [
+      "2",
+      "Tip jar",
+      "Passive income with zero upkeep."
+     ],
+     [
+      "3",
+      "Brush",
+      "Speeds up the most common step."
+     ],
+     [
+      "4",
+      "Shredder",
+      "Converts spare parts to 200–500¥ (source: allthings.how)."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Tool habits",
+    "items": [
+     "Keep the screwdriver upgraded before buying new tools.",
+     "Let jobs dictate purchases — buy the air can only when a job needs it.",
+     "Reinvest repair profits into the next upgrade.",
+     "Never sell the screwdriver — it is always needed."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Tool FAQ 2",
+    "items": [
+     [
+      "Can I upgrade the brush more than once?",
+      "Unverified — upgrade tiers are not confirmed."
+     ],
+     [
+      "Does the sonic bath replace the brush?",
+      "No — it is a deep-clean station; the brush stays the daily workhorse."
+     ],
+     [
+      "Is the shredder better than selling parts?",
+      "It is the confirmed passive option; direct sales are not separately confirmed."
+     ],
+     [
+      "When do I stop upgrading tools?",
+      "When repairs feel fast and clean — the exact ceiling is unverified."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "The right tool order saves money and keeps repairs fast; the wrong order wastes your early profit. A tool bought too early is money idle; a tool bought too late is money lost to slow repairs. This page keeps that balance in your favour. Revisit this page before every big purchase: the order above is the difference between a shop that grows and a shop that stalls. Your tools are the only real expense in ReStory; spending on the right ones at the right time is the whole game of shopkeeping. The order above keeps that balance in your favour from day one."
+ },
+ "online-orders": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "A healthy daily rhythm",
+    "body": "Keep orders flowing without burning reputation:",
+    "items": [
+     "Check the order board first thing — up to 11 online orders a day.",
+     "Sort by deadline; do the tightest first.",
+     "Match orders to the tools and parts you actually have.",
+     "Bank the wins: fulfilled orders feed WWW (25) and Internet Business (100)."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Orders FAQ",
+    "items": [
+     [
+      "Do online orders pay more than walk-ins?",
+      "Unverified — exact payouts are not confirmed, but they are repeatable income."
+     ],
+     [
+      "Can I ignore online orders?",
+      "Yes, but they are the main repeatable income and feed two achievements."
+     ],
+     [
+      "What happens at 0 reputation?",
+      "Unverified — the exact floor is not confirmed; keep deliveries clean to stay safe."
+     ],
+     [
+      "Are there order types?",
+      "Unverified — order variety is not yet confirmed."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "First week of online orders",
+    "body": "Build reputation safely before chasing volume:",
+    "items": [
+     [
+      "Day 1: take one order",
+      "Learn the deadline rhythm without pressure."
+     ],
+     [
+      "Days 2-3: take two",
+      "Balance walk-ins with online work."
+     ],
+     [
+      "Check deadlines every morning",
+      "Tightest first, always."
+     ],
+     [
+      "Celebrate the milestones",
+      "WWW at 25 orders, Internet Business at 100 (achievements)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Deadline FAQ",
+    "items": [
+     [
+      "What is the deadline exactly?",
+      "3 days per order (source: allthings.how)."
+     ],
+     [
+      "Can I extend a deadline?",
+      "Unverified — no confirmed extension mechanic."
+     ],
+     [
+      "Do online customers review you?",
+      "Yes — First Reviews and Getting Popular achievements track reviews."
+     ],
+     [
+      "Is reputation the same for online and walk-in?",
+      "Unverified — we will confirm the shared reputation model."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Orders FAQ 2",
+    "items": [
+     [
+      "What if I take too many orders?",
+      "Missed deadlines cost reputation — take fewer than you can finish."
+     ],
+     [
+      "Do online orders appear randomly?",
+      "The board offers daily orders; exact variety is unverified."
+     ],
+     [
+      "Is there a max reputation?",
+      "Unverified — the ceiling is not confirmed."
+     ],
+     [
+      "Do orders teach new devices?",
+      "Some orders may need licensed devices; the link is unverified."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Used well, online orders become your steadiest income; used badly, they burn reputation you worked to build. The rhythm is simple: read the board, sort by deadline, deliver clean. The results compound into reputation and achievements. Most players find their rhythm by the end of week one; this page makes that week shorter. The board refreshes daily, so a calm morning check beats a panicked evening scramble every time. Most players find their rhythm by the end of week one; this page makes that week shorter and the reputation curve gentler. The board refreshes daily, so a calm morning check beats a panicked evening scramble every time — and every deadline met is reputation banked."
+ },
+ "licenses": {
+  "sections": [
+   {
+    "type": "table",
+    "heading": "License milestones at a glance",
+    "columns": [
+     "Milestone",
+     "What we know"
+    ],
+    "rows": [
+     [
+      "Official Partner",
+      "First confirmed milestone; opens official lines like Atari (achievement name)."
+     ],
+     [
+      "Golden Partner",
+      "Requires 5 licenses (confirmed achievement)."
+     ],
+     [
+      "Are You Serious?",
+      "The most expensive license in the game (achievement name)."
+     ],
+     [
+      "Platinum Partner",
+      "Requires every license (confirmed achievement)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "License FAQ",
+    "items": [
+     [
+      "Do licenses cost money?",
+      "Presumably yes — the 'Are You Serious?' achievement implies a price; exact costs unverified."
+     ],
+     [
+      "Can I lose a license?",
+      "Unverified — no confirmed mechanic."
+     ],
+     [
+      "Are licenses per device or per category?",
+      "Unverified — the grouping is not confirmed."
+     ],
+     [
+      "Do licenses expire?",
+      "Unverified — no confirmed expiry mechanic."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "How to earn your first license",
+    "body": "A practical path based on the confirmed license chain:",
+    "items": [
+     [
+      "Grow the shop's basics",
+      "Repairs, cash and reputation are the fuel for licenses."
+     ],
+     [
+      "Repair the devices you can access",
+      "Progress naturally unlocks what the shop can take on."
+     ],
+     [
+      "Watch for the Official Partner milestone",
+      "The first confirmed step toward official lines like Atari."
+     ],
+     [
+      "Plan for Golden and Platinum",
+      "5 licenses for Golden, all for Platinum (confirmed achievements)."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "License FAQ 2",
+    "items": [
+     [
+      "Do licenses matter for the story?",
+      "Yes — the official description ties licensed progression to the main path."
+     ],
+     [
+      "Is the most expensive license worth it?",
+      "It is required for the 'Are You Serious?' achievement — completionists need it."
+     ],
+     [
+      "Do licenses unlock customers?",
+      "Unverified — the link to customers is not confirmed."
+     ],
+     [
+      "Can I see my licenses in-game?",
+      "Unverified — we will confirm the UI."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "License FAQ 3",
+    "items": [
+     [
+      "Should I rush for Platinum?",
+      "No — enjoy the path; Golden and Platinum are completion goals."
+     ],
+     [
+      "Do licenses unlock prices?",
+      "Unverified — pricing tied to licenses is not confirmed."
+     ],
+     [
+      "Is the first license free?",
+      "Unverified — entry cost is not confirmed."
+     ],
+     [
+      "Can I preview license requirements?",
+      "Unverified — in-game preview is not confirmed."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Licenses are the spine of progression in ReStory — understanding them early saves you from stalling mid-game. Think of licenses as gates rather than goals: each one opens new work, new devices and new story. Understanding the chain is how you avoid grinding the wrong devices. If a device feels locked, the answer is almost always a license — check this chain before you grind. Think of licenses as the shop's curriculum: each one is a lesson that unlocks the next tier of work and story. If a device ever feels locked, the answer is almost always a license — check this chain before you grind the wrong bench. Think of licenses as the shop's curriculum: each one is a lesson that unlocks the next tier of work, devices and story beats. And because licenses drive the story, every license earned is also a chapter unlocked — progress here is never wasted."
+ },
+ "economy": {
+  "sections": [
+   {
+    "type": "steps",
+    "heading": "A flipping walkthrough",
+    "body": "The Flipper achievement rewards buy-low, fix-up, sell-high:",
+    "items": [
+     [
+      "Buy or accept cheap devices",
+      "Look for devices you can restore for less than their resale value."
+     ],
+     [
+      "Repair them cleanly",
+      "A clean repair raises value and reputation."
+     ],
+     [
+      "Sell at the right moment",
+      "Resell for profit — the exact margins are unverified."
+     ],
+     [
+      "Reinvest in tools",
+      "Better tools make each flip faster and cheaper."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Economy FAQ",
+    "items": [
+     [
+      "What is the fastest passive income?",
+      "Tip jar early, shredder mid-game — both pay while you work (sources: intoindiegames, allthings.how)."
+     ],
+     [
+      "Is flipping risky?",
+      "Only if you overpay; repair cleanly and the Flipper achievement confirms the loop exists."
+     ],
+     [
+      "What should I never sell?",
+      "Keep a parts stockpile for Frugal (10 days without buying)."
+     ],
+     [
+      "Does painting/reprogramming pay?",
+      "No — confirmed not profitable early (source: intoindiegames)."
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "heading": "Early income checklist",
+    "body": "A day-one money plan built from confirmed mechanics:",
+    "items": [
+     "Fix small walk-ins first — fast, safe cash.",
+     "Add the tip jar early for passive income.",
+     "Feed spare parts to the shredder instead of hoarding.",
+     "Start online orders once the loop is comfortable.",
+     "Keep a parts stockpile for Frugal (10 days without buying)."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Money FAQ 2",
+    "items": [
+     [
+      "What should I buy with my first big profit?",
+      "The screwdriver upgrade — it pays back on every job."
+     ],
+     [
+      "Is hoarding parts smart?",
+      "Partly — you need a stockpile for Frugal, but feed the surplus to the shredder."
+     ],
+     [
+      "How do I reach Millionaire?",
+      "Steady repairs, flipping and passive income — the exact pace is unverified."
+     ],
+     [
+      "Does the shop have bills?",
+      "Unverified — running costs are not confirmed."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Economy FAQ 2",
+    "items": [
+     [
+      "Is the shredder worth every part?",
+      "Feed the surplus, keep a stockpile for Frugal — balance both."
+     ],
+     [
+      "Do flips have a tax?",
+      "Unverified — no confirmed tax mechanic."
+     ],
+     [
+      "Should I always repair before selling?",
+      "A clean repair raises value — flipping confirms the loop."
+     ],
+     [
+      "What is the best daily routine for money?",
+      "Walk-ins + online orders + passive income, in that priority."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Money flows from three places: repairs, reselling, and passive income. This page shows how to keep all three running. The goal is not just to earn — it is to earn without burning out, so the shop stays open through the long achievements. The economy rewards patience: repair cleanly, resell smartly, and let passive income do the heavy lifting over time. Track your habits weekly — the shop that repairs cleanly, flips smartly and banks passive income is the shop that reaches Millionaire."
+ },
+ "endings": {
+  "sections": [
+   {
+    "type": "evidence",
+    "heading": "Story hints in hidden achievements",
+    "body": "The hidden achievements hint at story branches (names confirmed by allthings.how; triggers unverified):",
+    "items": [
+     [
+      "Ronin",
+      "A lone-wolf path — likely tied to refusing or isolating customers."
+     ],
+     [
+      "Melancholy",
+      "A bittersweet branch — likely tied to a customer outcome."
+     ],
+     [
+      "Globalization",
+      "A wider-world branch — likely tied to licenses or the internet."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Endings FAQ",
+    "items": [
+     [
+      "Can choices be undone?",
+      "Unverified — the story branches on choices; the notebook may help track them."
+     ],
+     [
+      "Do endings lock after a point?",
+      "Unverified — we will confirm once triggers are verified."
+     ],
+     [
+      "Is there a true ending?",
+      "Unverified — 'multiple endings' is confirmed, a 'true' one is not."
+     ],
+     [
+      "Should I play twice?",
+      "Probably — branching stories usually reward multiple playthroughs."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "How branches may open",
+    "body": "What likely drives the confirmed multiple endings:",
+    "items": [
+     [
+      "Customer choices",
+      "How you respond to each customer can change their story."
+     ],
+     [
+      "Repair quality",
+      "Clean vs rushed repairs shape outcomes."
+     ],
+     [
+      "Licensing milestones",
+      "Progressing licenses may unlock story beats."
+     ],
+     [
+      "Relationship choices",
+      "Following up on stories may open or close branches."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Branch FAQ",
+    "items": [
+     [
+      "Do I need all endings?",
+      "Only if you want the full story — there is no forced completion."
+     ],
+     [
+      "Can the story branch early?",
+      "Unverified — branch points are not yet confirmed."
+     ],
+     [
+      "Does the shop name matter?",
+      "Unverified — cosmetic effects are not confirmed."
+     ],
+     [
+      "Will patch notes reveal branches?",
+      "Watch the patch-notes guide; we track official updates."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Choice FAQ",
+    "items": [
+     [
+      "Do small choices matter as much as big ones?",
+      "Unverified — weight of each choice is not confirmed."
+     ],
+     [
+      "Can one choice ruin a run?",
+      "Unlikely — the game is chill; branches, not fail states."
+     ],
+     [
+      "Should I keep notes on choices?",
+      "The notebook helps; our guides will track branches as verified."
+     ],
+     [
+      "Do endings affect achievements?",
+      "Yes — Promise/Star/Legend of Akiba are story achievements."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Because endings depend on choices, the same customer can end up happy, sad, or somewhere unexpected depending on how you play. Our ending guide will grow as triggers get verified — check back, and keep notes on your choices while you play. Keep a small note of major choices as you play; when our verified ending flowchart lands, your notes will map straight onto it. Our ending guide will grow as triggers get verified; in the meantime, keep a small note of your major choices as you play. The branching story is the reason ReStory keeps players returning; knowing how branches work turns a first playthrough into a map for the second. Every branch you explore is a different read on the same shop — and that is exactly what makes a second playthrough feel new. Treat each run as a draft: choices you made once can be made differently next time, and the endings guide is here to help you see the shape of the whole tree."
+ },
+ "customers": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Types of choices you make",
+    "body": "Customer conversations branch in a few confirmed directions:",
+    "items": [
+     "How you respond during the repair talk.",
+     "Whether you accept, rush or refuse a job.",
+     "How carefully you repair (clean vs rushed).",
+     "Whether you follow up on a customer's story later."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Customer FAQ",
+    "items": [
+     [
+      "Do all customers have stories?",
+      "The official pitch says customers bring stories; not every visit may branch."
+     ],
+     [
+      "Can I fix a customer's life?",
+      "Choices affect both their lives and your shop (official description)."
+     ],
+     [
+      "Do repeat customers remember?",
+      "Unverified — recurring customers are not yet confirmed."
+     ],
+     [
+      "Are choices reversible?",
+      "Unverified — branch outcomes are not confirmed reversible."
+     ]
+    ]
+   },
+   {
+    "type": "steps",
+    "heading": "A customer visit, step by step",
+    "body": "The confirmed customer loop (official description + intoindiegames):",
+    "items": [
+     [
+      "They walk in with a device",
+      "Each device carries a story with it."
+     ],
+     [
+      "You take the job",
+      "Accept, rush or refuse — each choice matters."
+     ],
+     [
+      "You repair their device",
+      "Quality here shapes their outcome."
+     ],
+     [
+      "They come back changed",
+      "Revisit customers see the result of your choices."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Customer FAQ 2",
+    "items": [
+     [
+      "Can customers be refused?",
+      "You can refuse payment (Origami achievement); refusing the job is also a choice."
+     ],
+     [
+      "Do customers return for the story?",
+      "Likely — the official pitch is about hearing their stories."
+     ],
+     [
+      "Are customer stories voiced?",
+      "Unverified — audio presentation is not confirmed."
+     ],
+     [
+      "Do choices lock endings?",
+      "Almost certainly — the official description says choices determine endings."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Choice FAQ 2",
+    "items": [
+     [
+      "Is refusing a customer ever good?",
+      "Refusing payment is the Origami achievement — a deliberate choice."
+     ],
+     [
+      "Do happy customers return more?",
+      "Likely — reputation drives business; specifics unverified."
+     ],
+     [
+      "Are customer stories long?",
+      "The official pitch is narrative-driven; length unverified."
+     ],
+     [
+      "Do I need to remember each story?",
+      "The notebook and our customer guide keep you oriented."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Treating customers as people — not just jobs — is the core of the branching story. The story lives in the customers, and the customers live in your choices. Learning to read each visit is the difference between a shop and a story. Some customers will stay in your memory long after the shop closes — that is the point of the story. A customer remembered is a story advanced; a customer rushed is a branch closed. The choice is always yours to make. Some customers stay in your memory long after the shop closes — that is the whole point of the story. Treating customers as people rather than jobs is the heart of the branching story, and the reason the shop feels alive. Every visit is a small chapter, and every choice you make is the author. This page is your guide to reading the customers before they walk out. Whether a customer returns happy or changed is written by the choices you make today, not by luck."
+ },
+ "achievements-roadmap": {
+  "sections": [
+   {
+    "type": "faq",
+    "heading": "Roadmap FAQ",
+    "items": [
+     [
+      "Should I follow the roadmap exactly?",
+      "No — it is a recommended order; play naturally and it still works."
+     ],
+     [
+      "When should I start the 168-hour run?",
+      "When you can leave the game running; it is a time-gated achievement."
+     ],
+     [
+      "Does the bugged achievement block 100%?",
+      "In the current version, possibly — we flag it honestly (source: allthings.how)."
+     ],
+     [
+      "Do hidden achievements need a new save?",
+      "Unverified — likely tied to choices; a second save may help."
+     ]
+    ]
+   }
+  ]
+ },
+ "hidden-achievements": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Ways to hunt hidden achievements",
+    "body": "Practical hunting methods that respect the unverified triggers:",
+    "items": [
+     "Check the Steam overlay to see locked hidden tiles.",
+     "Try unusual customer choices (refuse, rush, follow up).",
+     "Replay story beats with different decisions.",
+     "Watch official patch notes for trigger hints."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Hidden achievement FAQ",
+    "items": [
+     [
+      "Are hidden achievements rare?",
+      "They are hidden, but all 5 are in the current build (source: allthings.how)."
+     ],
+     [
+      "Can I preview them without spoilers?",
+      "Steam shows locked tiles — enough to hunt without full spoilers."
+     ],
+     [
+      "Do they count toward the total?",
+      "Yes — all 5 count toward the 50."
+     ],
+     [
+      "Will you update triggers?",
+      "Yes — we publish verified triggers as we confirm them."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Hunting FAQ",
+    "items": [
+     [
+      "Should I look up triggers?",
+      "Only if you want — hunting blind is part of the fun."
+     ],
+     [
+      "Are hidden achievements easy to miss forever?",
+      "They are tied to choices; a new save can re-hunt them."
+     ],
+     [
+      "Do they have icons?",
+      "Steam shows them as locked tiles; icons exist in the achievement list."
+     ],
+     [
+      "Will our guide spoil them?",
+      "We list names and mark triggers unverified, so you choose."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Hidden achievements are not random; they reward specific, often unusual, behaviour in the shop. The five secrets are all obtainable in the current build — the challenge is noticing what the game rewards. If you want to hunt them yourself, stop here and play; the list below is for when you are ready. Hunt with curiosity, not pressure — the hidden achievements are designed to reward the attentive shopkeeper."
+ },
+ "zen-points": {
+  "sections": [
+   {
+    "type": "list",
+    "heading": "Zen shopping tips",
+    "body": "Getting to 100 Zen points efficiently (points from allthings.how):",
+    "items": [
+     "Start with high-value items: Ghostbusters (9), Kaiju (8), Prism (8).",
+     "Add Bonsai (7) and Stormtrooper (7) next.",
+     "Top up with mid items: Gloves (5), Shoji lamp (4), Billy Bass (4), Troll (4).",
+     "Only buy the low items (VHS 2, Daruma 2, Maneki-neko 3, Seashell 3) if still short."
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Zen FAQ 2",
+    "items": [
+     [
+      "Do knick-knacks do anything else?",
+      "Decoration only, as far as confirmed — the Zen achievement is the goal."
+     ],
+     [
+      "Can I sell knick-knacks?",
+      "Unverified — resale of decorations is not confirmed."
+     ],
+     [
+      "Is 100 the cap?",
+      "The achievement is at 100 points (source: allthings.how)."
+     ],
+     [
+      "Where do I see my Zen total?",
+      "In-game shop decoration UI — exact location unverified."
+     ]
+    ]
+   },
+   {
+    "type": "faq",
+    "heading": "Zen FAQ 3",
+    "items": [
+     [
+      "Do high-point items cost more?",
+      "Likely, but the per-yen efficiency is what matters (prices unverified)."
+     ],
+     [
+      "Can I buy duplicates?",
+      "Unverified — duplicates are not confirmed."
+     ],
+     [
+      "Is 100 points exactly the goal?",
+      "Yes — the A Place of Zen achievement is at 100 (source: allthings.how)."
+     ],
+     [
+      "Do knick-knacks ever unlock stories?",
+      "Unverified — decoration is their confirmed role."
+     ]
+    ]
+   }
+  ],
+  "intro_extra": "Decorating is not wasted money — it is the path to a hidden collection achievement. A few hundred yen of decoration can unlock a hidden achievement — worth planning early. Even a small shelf of knick-knacks moves you toward the 100-point achievement — every item counts."
+ }
+}

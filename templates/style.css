@@ -86,7 +86,7 @@ a:hover{text-decoration:underline}
 
 /* ---------- job board（今日工单板） ---------- */
 .jb{margin-bottom:40px}
-.panel-head{display:flex;align-items:baseline;gap:12px;margin-bottom:6px}
+.panel-head{display:flex;align-items:baseline;gap:6px 12px;flex-wrap:wrap;margin-bottom:6px}
 .panel-tag{font-family:var(--font-mono);font-size:.7rem;letter-spacing:.16em;color:var(--brass-deep);background:var(--sticker-bg);border:1px dashed var(--brass);padding:3px 9px;border-radius:6px;white-space:nowrap}
 .panel-head h2{font-family:var(--font-disp);font-weight:800;font-size:1.45rem;margin:0;color:var(--wood-deep)}
 .panel-lead{color:var(--ink-soft);margin:0 0 16px}

@@ -547,6 +547,11 @@ console.log(`✓ ${LANGS.length} locales × ${1+DATA.pages.length+3} pages｜sit
 
 function gen404(){
   const s = siteI18n(DEF);
-  const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>404 — ${esc(s.name)}</title><link rel="stylesheet" href="/css/style.css?v=${CSS_V}"></head><body class="home"><main class="shop"><section class="hero reveal"><div class="hero-paper"><div class="hero-copy"><span class="hero-kicker">404</span><h1>${esc(s.noMatch||"Not found")}</h1><p class="hero-lead">This page is missing — the part was probably lost in the drawer.</p><a class="btn btn-primary" href="/">${esc(s.navHome)}</a></div></div></section></main></body></html>`;
+  const hot = ["beginners-guide","all-devices","achievements","endings","tools","zen-points"].map(slug=>{
+    const p=DATA.pages.find(x=>x.slug===slug); if(!p) return "";
+    const t=pageOf(p,DEF);
+    return `<a class="rel-link" href="/${slug}"><span class="nav-ic">${iconOf(slug)}</span><span>${esc(t.title)}</span></a>`;
+  }).join("");
+  const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>404 — ${esc(s.name)}</title><link rel="stylesheet" href="/css/style.css?v=${CSS_V}"></head><body class="home"><main class="shop"><section class="hero reveal"><div class="hero-paper"><div class="hero-copy"><span class="hero-kicker">404</span><h1>${esc(s.noMatch||"Not found")}</h1><p class="hero-lead">This page is missing — the part was probably lost in the drawer.</p><a class="btn btn-primary" href="/">${esc(s.navHome)}</a><a class="btn btn-ghost" href="/beginners-guide">${esc(s.readGuide)}</a></div></div></section><section class="jb"><div class="panel-head"><span class="panel-tag">FIX IT</span><h2>Popular guides</h2></div><div class="jb-board">${hot}</div></section></main>${footer(DEF)}</body></html>`;
   fs.writeFileSync(path.join(OUT,"404.html"), html);
 }

@@ -558,7 +558,6 @@ const smN = KIT.writeSitemap(OUT, urls, LM);
 KIT.writeRobots(OUT, DATA.site.domain);
 KIT.writeAds(OUT, DATA.site.adsenseId);
 KIT.writeHeaders(OUT);
-KIT.writeRedirects(OUT, DATA.site.domain);
 KIT.writeIndexNowKey(OUT, DATA.site.indexNowKey);
 KIT.writeLlmsTxt(OUT, {
   siteName: DATA.site.name,

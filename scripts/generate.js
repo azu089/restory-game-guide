@@ -191,6 +191,7 @@ function footer(lang){
   document.addEventListener("keydown",function(e){ if(e.key==="Escape"){document.querySelectorAll("details.dd[open]").forEach(function(d){d.removeAttribute("open");});} });
 })();
 </script>
+${DATA.site.adsterra ? DATA.site.adsterra : ""}
 </body></html>`;
 }
 

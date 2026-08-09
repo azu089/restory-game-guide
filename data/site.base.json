@@ -1,94 +1,94 @@
 {
- "site": {
-  "name": "ReStory Guides",
-  "domain": "restorygameguides.com",
-  "tagline": "秋叶原 2005 维修工坊 — ReStory 维修物语全攻略",
-  "description": "ReStory (维修物语) guides: repair every device, achievements, endings, licenses, tools and beginners guide — in 10 languages.",
-  "language": "en",
-  "gaId": "G-P4KHJCG523",
-  "gscVerification": "",
-  "adsenseId": "",
-  "indexNowKey": "b2941a528783f04420b10d16fa045db0",
-  "ogImage": "/images/hero.jpg",
-  "languages": [
-   "en",
-   "zh-CN",
-   "zh-TW",
-   "ja",
-   "ko",
-   "fr",
-   "de",
-   "es",
-   "pt-BR",
-   "ru"
-  ],
-  "defaultLanguage": "en",
-  "affiliates": {},
-  "adsterra": "",
-  "i18n": {}
- },
- "game": {
-  "name": "ReStory: Chill Electronics Repairs",
-  "nameI18n": {
-   "en": "ReStory: Chill Electronics Repairs",
-   "zh-CN": "维修物语",
-   "zh-TW": "維修物語",
-   "ja": "リストーリー：まったり電子機器修理",
-   "ko": "리스토리: 힐링 전자제품 수리",
-   "fr": "ReStory : réparations électroniques relax",
-   "de": "ReStory: Chill Elektronik-Reparaturen",
-   "es": "ReStory: reparaciones de electrónica relajadas",
-   "pt-BR": "ReStory: consertos de eletrônicos relax",
-   "ru": "ReStory: расслабленный ремонт электроники"
+  "site": {
+    "name": "ReStory Guides",
+    "domain": "restorygameguides.com",
+    "tagline": "秋叶原 2005 维修工坊 — ReStory 维修物语全攻略",
+    "description": "ReStory (维修物语) guides: repair every device, achievements, endings, licenses, tools and beginners guide — in 10 languages.",
+    "language": "en",
+    "gaId": "G-P4KHJCG523",
+    "gscVerification": "",
+    "adsenseId": "",
+    "indexNowKey": "b2941a528783f04420b10d16fa045db0",
+    "ogImage": "/images/hero.jpg",
+    "languages": [
+      "en",
+      "zh-CN",
+      "zh-TW",
+      "ja",
+      "ko",
+      "fr",
+      "de",
+      "es",
+      "pt-BR",
+      "ru"
+    ],
+    "defaultLanguage": "en",
+    "affiliates": {},
+    "adsterra": "<script async=\"async\" data-cfasync=\"false\" src=\"https://pl30767301.effectivecpmnetwork.com/b99364f3ecebdef4ddf106371dd64b43/invoke.js\"></script> <div id=\"container-b99364f3ecebdef4ddf106371dd64b43\"></div>",
+    "i18n": {}
   },
-  "releaseDate": "August 6, 2026",
-  "platforms": [
-   "PC (Steam)",
-   "macOS"
-  ],
-  "genre": "Simulation / Indie / Narrative Shop Management",
-  "price": "$17.99 (10% off · $19.99)",
-  "steamUrl": "https://store.steampowered.com/app/3812600/ReStory_Chill_Electronics_Repairs/",
-  "intro": "ReStory is a chill, narrative-driven shop management simulator from the creators of I Am Future. Set in mid-2000s Tokyo, you run an electronics repair shop — restore nostalgic Y2K devices, talk to customers, and shape a branching story with multiple endings.",
-  "keyFacts": [
-   "Run a repair shop in mid-2000s Tokyo (Akihabara)",
-   "Restore nostalgic Y2K devices, including officially licensed Atari consoles",
-   "Branching storyline with multiple endings based on your choices",
-   "50 Steam achievements + trading cards + cloud saves",
-   "Official 9 languages + Traditional Chinese (10 total)",
-   "From the creators of I Am Future — published by tinyBuild"
-  ],
-  "stats": [
-   {
-    "value": "Aug 6, 2026",
-    "label": "Released"
-   },
-   {
-    "value": "50",
-    "label": "Achievements"
-   },
-   {
-    "value": "10",
-    "label": "Languages"
-   },
-   {
-    "value": "14+",
-    "label": "Repairable devices"
-   },
-   {
-    "value": "$17.99",
-    "label": "On Steam (10% off)"
-   },
-   {
-    "value": "1,828+",
-    "label": "Reviews in 3 days"
-   }
-  ],
-  "aboutPoints": [
-   "Facts checked against the official Steam store page and reputable sources (allthings.how, intoindiegames)",
-   "Anything still being verified is explicitly marked — we never invent details",
-   "Available in 10 languages; every page lists its own sources"
-  ]
- },
- "pages": []
+  "game": {
+    "name": "ReStory: Chill Electronics Repairs",
+    "nameI18n": {
+      "en": "ReStory: Chill Electronics Repairs",
+      "zh-CN": "维修物语",
+      "zh-TW": "維修物語",
+      "ja": "リストーリー：まったり電子機器修理",
+      "ko": "리스토리: 힐링 전자제품 수리",
+      "fr": "ReStory : réparations électroniques relax",
+      "de": "ReStory: Chill Elektronik-Reparaturen",
+      "es": "ReStory: reparaciones de electrónica relajadas",
+      "pt-BR": "ReStory: consertos de eletrônicos relax",
+      "ru": "ReStory: расслабленный ремонт электроники"
+    },
+    "releaseDate": "August 6, 2026",
+    "platforms": [
+      "PC (Steam)",
+      "macOS"
+    ],
+    "genre": "Simulation / Indie / Narrative Shop Management",
+    "price": "$17.99 (10% off · $19.99)",
+    "steamUrl": "https://store.steampowered.com/app/3812600/ReStory_Chill_Electronics_Repairs/",
+    "intro": "ReStory is a chill, narrative-driven shop management simulator from the creators of I Am Future. Set in mid-2000s Tokyo, you run an electronics repair shop — restore nostalgic Y2K devices, talk to customers, and shape a branching story with multiple endings.",
+    "keyFacts": [
+      "Run a repair shop in mid-2000s Tokyo (Akihabara)",
+      "Restore nostalgic Y2K devices, including officially licensed Atari consoles",
+      "Branching storyline with multiple endings based on your choices",
+      "50 Steam achievements + trading cards + cloud saves",
+      "Official 9 languages + Traditional Chinese (10 total)",
+      "From the creators of I Am Future — published by tinyBuild"
+    ],
+    "stats": [
+      {
+        "value": "Aug 6, 2026",
+        "label": "Released"
+      },
+      {
+        "value": "50",
+        "label": "Achievements"
+      },
+      {
+        "value": "10",
+        "label": "Languages"
+      },
+      {
+        "value": "14+",
+        "label": "Repairable devices"
+      },
+      {
+        "value": "$17.99",
+        "label": "On Steam (10% off)"
+      },
+      {
+        "value": "1,828+",
+        "label": "Reviews in 3 days"
+      }
+    ],
+    "aboutPoints": [
+      "Facts checked against the official Steam store page and reputable sources (allthings.how, intoindiegames)",
+      "Anything still being verified is explicitly marked — we never invent details",
+      "Available in 10 languages; every page lists its own sources"
+    ]
+  },
+  "pages": []
 }

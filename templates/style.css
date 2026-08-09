@@ -85,7 +85,7 @@ a:hover{text-decoration:underline}
 .btn-ghost:hover{background:var(--paper-3);transform:translateY(-2px);text-decoration:none}
 .hero-imgwrap{padding:0 26px 12px}
 .hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;border:1px solid var(--wood-line);box-shadow:var(--shadow)}
-.gauges{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--wood-line);border-top:1px solid var(--wood-line)}
+.gauges{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--wood-line);border-top:1px solid var(--wood-line);grid-column:1/-1;border-radius:0 0 20px 20px;overflow:hidden}
 .gauge{background:var(--paper-2);padding:14px 16px;text-align:center}
 .gauge b{display:block;font-family:var(--font-disp);font-size:1.05rem;color:var(--teal)}
 .gauge:nth-child(2) b{color:var(--pink)}
@@ -192,7 +192,7 @@ figcaption p{margin:8px 2px 0;font-size:.85rem;color:var(--ink-soft);font-style:
 .sticky-pin{width:14px;height:14px;border-radius:50%;background:var(--red);position:absolute;top:14px;right:20px;box-shadow:0 2px 4px rgba(0,0,0,.25)}
 
 /* ---------- bench page ---------- */
-.bench-wrap{max-width:1080px;margin:0 auto;padding:22px 20px 60px}
+.bench-wrap{max-width:1280px;margin:0 auto;padding:22px 20px 60px}
 .bench-bar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;font-family:var(--font-mono);font-size:.72rem;color:var(--ink-faint);border-bottom:2px solid var(--wood-line);padding-bottom:10px;margin-bottom:22px}
 .bench-code{color:var(--brass-deep);letter-spacing:.12em}
 .bench-home{margin-left:auto;color:var(--brass-deep);font-weight:700}
@@ -204,7 +204,7 @@ figcaption p{margin:8px 2px 0;font-size:.85rem;color:var(--ink-soft);font-style:
 .bench-lead{color:var(--ink-soft);margin:0;font-size:1.02rem}
 .bench-img{margin:18px -4px 0}
 .bench-img img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;border:1px solid var(--wood-line)}
-.bench-body{display:grid;grid-template-columns:230px minmax(0,1fr) 250px;gap:22px;align-items:start}
+.bench-body{display:grid;grid-template-columns:250px minmax(0,1fr) 280px;gap:24px;align-items:start}
 .bench-body > *{min-width:0}
 .cabinet-nav{position:sticky;top:84px;background:var(--paper-2);border:1px solid var(--wood-line);border-radius:14px;padding:14px}
 .cab-title{display:block;font-family:var(--font-mono);font-size:.7rem;letter-spacing:.14em;color:var(--brass-deep);margin-bottom:10px}

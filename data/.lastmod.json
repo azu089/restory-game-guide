@@ -1,0 +1,882 @@
+{
+  "https://restorygameguides.com/": {
+    "hash": "e7c4d0165143392f3e858a2e2953bbee",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/about": {
+    "hash": "ae4ac4e55d132d2693ec03692db9db15",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/achievements": {
+    "hash": "afd7a35887b96198328721f35fadb8b3",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/achievements-roadmap": {
+    "hash": "9cd2c880448645bba3452cc2e6e8ef47",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/all-devices": {
+    "hash": "99bf0198a65c68185bc70c67eaf347fa",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/beginners-guide": {
+    "hash": "120bd61607c91ee61d1e510f16901734",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/contact": {
+    "hash": "e2c0c326fc932c380c4ebd6c99850333",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/customers": {
+    "hash": "ae8192e934d927418c09d31d045984e0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/": {
+    "hash": "391266345cbb51e17d4547951d3f952d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/about": {
+    "hash": "b83808f40732f6342b06a1fdf5735066",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/achievements": {
+    "hash": "78da76adf9e283b04bdd1381a065505b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/achievements-roadmap": {
+    "hash": "fb3daff23f386374032b236f440af67f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/all-devices": {
+    "hash": "f2ad892a0b902a329bdcd087751d1800",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/beginners-guide": {
+    "hash": "988a2abcfcec6e64eb8fba9cf953fbaa",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/contact": {
+    "hash": "a3b503d8b89a9139c239acea62449886",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/customers": {
+    "hash": "ff9184b6ef0a57b8a4cbb1d187659b60",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/economy": {
+    "hash": "abd98645850454034d62272911637217",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/endings": {
+    "hash": "f36d49d6ea0c5e3e5fb13d706e516ac4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/faq": {
+    "hash": "d58add343a8c3ce4b82c8c70503a2812",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/guides": {
+    "hash": "687982308c2dbe5e88e6a3f2a83cf4f6",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/hidden-achievements": {
+    "hash": "5f9d20670b7297bad729d3612b52d28a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/licenses": {
+    "hash": "3d74fe5c8a17deff258eb4b6fa677f40",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/online-orders": {
+    "hash": "fff146b360855f11808c6c0b05bf9352",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/patch-notes": {
+    "hash": "982e42ace91df56cd83c9886469619d3",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/privacy": {
+    "hash": "cf12a1ba14ad4860f4283a730bc1307a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/repair-guide": {
+    "hash": "3addd981c58ba60942af5f18f01c424a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/steam-deck": {
+    "hash": "58dc28af5cd44ddeae263fc0163e83f6",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/system-requirements": {
+    "hash": "f524c737876b18420b2709a16b94daf0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/tools": {
+    "hash": "10bcc20458b0ac64fd0ecfce5204c66e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/de/zen-points": {
+    "hash": "0afe766aa82d13aaea5086c71a2fdac0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/economy": {
+    "hash": "1be3b3d9f6f49e746badd74f1e9b697f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/endings": {
+    "hash": "e7ad08901e28b9b76c3ad02d6b3a567b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/": {
+    "hash": "d01a3224048e63d53d9628db6bd8b793",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/about": {
+    "hash": "3bed8e777d5142a940a2daf4ac4e6ef7",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/achievements": {
+    "hash": "78edf6145a4540393114cf1f88c42aa5",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/achievements-roadmap": {
+    "hash": "abe8df967c2fbcd303e42bfef0361c34",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/all-devices": {
+    "hash": "27a506cc98f0cd4a45d887a244e559f5",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/beginners-guide": {
+    "hash": "2a6d7c475fe7e500d4fe876f70846b39",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/contact": {
+    "hash": "9d32bea63e846c7e9edc7d92ec62ed9b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/customers": {
+    "hash": "7cad23f98339ecda650d873f88058501",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/economy": {
+    "hash": "96129e73c2b05e3f12001bdf64111061",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/endings": {
+    "hash": "1f8661e35ae3f6d862fdc68600265698",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/faq": {
+    "hash": "6ac8ce21d98e6866e0d3568941c78a64",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/guides": {
+    "hash": "e38ccecf67f9cd418ae6106405e8c234",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/hidden-achievements": {
+    "hash": "be1c0f58f4708c69504d7bf5672eba08",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/licenses": {
+    "hash": "8f7f27a1e9def6d1b87403179fb40567",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/online-orders": {
+    "hash": "0d52f9a80ff58c907102eff756c85bc9",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/patch-notes": {
+    "hash": "c4216419b18ccc83c81b8447b86f3617",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/privacy": {
+    "hash": "0ccb077f8f186a1f1cd7fed61de5f504",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/repair-guide": {
+    "hash": "b333ce9cd5ce670d15e2d6949339cbb0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/steam-deck": {
+    "hash": "3efcb08eddbd2cfd621478db2c0a7af4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/system-requirements": {
+    "hash": "9fc6ed633af2b6500553ddde93490f07",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/tools": {
+    "hash": "9669c4d590624fda64df2df77bd4cd26",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/es/zen-points": {
+    "hash": "19dc5d923e47076ca852099e0746c248",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/faq": {
+    "hash": "9748419b25f0958daee0eb0ba49fcaf2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/": {
+    "hash": "d9548815cecd1458da7412cd4a62f21b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/about": {
+    "hash": "a54b878601fa2db5e1b2ba3b8b8ad71e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/achievements": {
+    "hash": "7de7e88a97d4c29056f80dee16155684",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/achievements-roadmap": {
+    "hash": "b437cb1426c4d69bb6e9f4a1a5d4de87",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/all-devices": {
+    "hash": "2b55cbb3ba6ca9184b0501c888dc86f4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/beginners-guide": {
+    "hash": "efcd20332b4b6f94c2cd374d98e81fa2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/contact": {
+    "hash": "c64e491ffb8b32d3967ac360da665017",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/customers": {
+    "hash": "5e25ced7fae0a5ecda6e3bf81a06744b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/economy": {
+    "hash": "28fb2174db3e00aa437acb66f0c2a382",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/endings": {
+    "hash": "8e9e4cb63598b6f5a034bbf11568d529",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/faq": {
+    "hash": "c48e8f4482a762273f71bc156cb77068",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/guides": {
+    "hash": "b1d243669b489529d99748819c976056",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/hidden-achievements": {
+    "hash": "b035a1fd9f9e44aec292ac09f1d3d0eb",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/licenses": {
+    "hash": "18fa59681f3826a6cbe650d3e0419dd2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/online-orders": {
+    "hash": "c171df0bdf33b819e8412f3fd9c18867",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/patch-notes": {
+    "hash": "5ed022c224d3a3a5ffd0d68713a42998",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/privacy": {
+    "hash": "2c91b868cc137999407ec4353d2160c9",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/repair-guide": {
+    "hash": "c1555e02f11728bed9b03bcd88c6db83",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/steam-deck": {
+    "hash": "87c5d972c726805658633daa3b22bfe9",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/system-requirements": {
+    "hash": "a62d46b09ca9da4f00d90c67985e668b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/tools": {
+    "hash": "087f92816cde3a5b94df3d9a6a8466ba",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/fr/zen-points": {
+    "hash": "1d38bc45133ac19f1c5c0b54400454a7",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/guides": {
+    "hash": "ed6df8c5a22cbfc72c8068b8489a1f38",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/hidden-achievements": {
+    "hash": "16e9f15de7fd550d79b4a7042e02d4f0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/": {
+    "hash": "e089c8d2ab6828da364ec2cac523a834",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/about": {
+    "hash": "d6afaf242d383f8da4b89d50feb75c98",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/achievements": {
+    "hash": "364e73c3b99bcb487ad053ae8a69f1f6",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/achievements-roadmap": {
+    "hash": "3f9f86868d4d8feea08cb245794e5aa4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/all-devices": {
+    "hash": "d9f438f05d447cb552fab410f520e26a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/beginners-guide": {
+    "hash": "bc4b06f6745dd8c2d81fd04d37fa0d17",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/contact": {
+    "hash": "1d998a7cfacc3746a42cf0e1c59deb94",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/customers": {
+    "hash": "2d89092260a7e96747e6380e108a0494",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/economy": {
+    "hash": "bb76111afdfd691e1f4a1967f33d9a6b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/endings": {
+    "hash": "e45e1899824750aed1875ebe44d249d4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/faq": {
+    "hash": "5d8b7b389aaa9fc28396a6ccdc889ac6",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/guides": {
+    "hash": "544a7e34083e8232bd4496104e9b5df4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/hidden-achievements": {
+    "hash": "9a5b84261f438994febf1e35acf0cd6c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/licenses": {
+    "hash": "97bec1d433a84a6602dfd3f739c39d2e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/online-orders": {
+    "hash": "bad533dc75b82ca2d0f3b0096099aced",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/patch-notes": {
+    "hash": "a77b5414831ee58c6398b917d15796ba",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/privacy": {
+    "hash": "127b17a519fb309b1bc47542e3f7c0d2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/repair-guide": {
+    "hash": "6922a04d849471aee91b34b29050eef0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/steam-deck": {
+    "hash": "109019373493fdf291d646cf1523b993",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/system-requirements": {
+    "hash": "7822ffbba87dfa2cc18b6f434f98acb1",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/tools": {
+    "hash": "279ed05e427b2806fcfafb3bf1fc160c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ja/zen-points": {
+    "hash": "adf19dde8a019dc557c2da61be961e4c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/": {
+    "hash": "0c51e38ac58e73cd09044f42521766ce",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/about": {
+    "hash": "06de712b574215058504c399fd8a661b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/achievements": {
+    "hash": "73adacc5cdcd7a5f71a2a65f9f06db4b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/achievements-roadmap": {
+    "hash": "99038940f2d3fed35595a1811d34b372",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/all-devices": {
+    "hash": "8fcb3d6a835d68dabb716f4c132912c7",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/beginners-guide": {
+    "hash": "933ecf41e687b8d6a02a5d13f4800983",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/contact": {
+    "hash": "7c3691535453cf6e248de694fee9d061",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/customers": {
+    "hash": "f4835d8234237ee060e514a2ab3d24a0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/economy": {
+    "hash": "ba68996f7cdb6f27a3a09c3db0c47847",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/endings": {
+    "hash": "de8755c17efa4e3980790f1a0a177f12",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/faq": {
+    "hash": "71ccb58a71b90dea645ea469f58ddca2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/guides": {
+    "hash": "1ababf87b62e7546a52e1e076687e854",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/hidden-achievements": {
+    "hash": "93d5bdc23cae97bbe60bd83e0ad06e99",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/licenses": {
+    "hash": "ee746ff36ff2d62b74da2cefa163fcad",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/online-orders": {
+    "hash": "8fa54bb6c4cba5cc9f390ad657b290a1",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/patch-notes": {
+    "hash": "670b87b81f3233ce8b32a05e174ff00b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/privacy": {
+    "hash": "593f26cb9867e1fadf9704f4ceb2c21d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/repair-guide": {
+    "hash": "cc6bfa114c7a46e6d154e6792b140b40",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/steam-deck": {
+    "hash": "a88e35188d740be180fd1728863f0c84",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/system-requirements": {
+    "hash": "4bade2a62e6abe09193d45009efc63fd",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/tools": {
+    "hash": "8652b534bb9ad0103e4b3eac90f0f4fa",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ko/zen-points": {
+    "hash": "80b5bb4ac26c7f3b0c0f252e33d39aa2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/licenses": {
+    "hash": "c3eec1153b728e3e7d160ab46a4fcc85",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/online-orders": {
+    "hash": "e3d19ad9751102a6c030f8dda74a0c3b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/patch-notes": {
+    "hash": "0e02e8a9dc477e8f007dd872e20a5b3e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/privacy": {
+    "hash": "72e7d17cb6d2cbdb21d7574d75d01abc",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/": {
+    "hash": "14ea2c59417ac0491b49bbdb55f4735e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/about": {
+    "hash": "e8a77082e10d7837f5cbc3e5e643091b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/achievements": {
+    "hash": "2b8924279f8ccd362ef14ce4fb99e7e8",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/achievements-roadmap": {
+    "hash": "a6ee4b170d70430f9b8684ba4d2270a1",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/all-devices": {
+    "hash": "37e91878675b42ace6069236c5dea047",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/beginners-guide": {
+    "hash": "ba036837b39a1dc024d4235068afabfc",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/contact": {
+    "hash": "3ae25f77a939c9e2c695d2a2b426ca3f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/customers": {
+    "hash": "1378a2e885f9409caac663a84feb9720",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/economy": {
+    "hash": "91bc79648b9f3c95a4f592bbedb316de",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/endings": {
+    "hash": "d2b4f843be0dbb2da02a1173fe982d70",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/faq": {
+    "hash": "f6d8b00a39e390f0da550b373c4c3931",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/guides": {
+    "hash": "10093e3683df5274301b5e8f44f51045",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/hidden-achievements": {
+    "hash": "a91bd326c114b24cf70bbf05d7004c2c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/licenses": {
+    "hash": "19373d2490dcf8d19b6c56a1f908ec52",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/online-orders": {
+    "hash": "4c3f1e39a7629fc95e0b6b044785b00c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/patch-notes": {
+    "hash": "affe73941fe6af38bd83caf6c373f2f6",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/privacy": {
+    "hash": "66718471299aa382a088492b1a12a055",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/repair-guide": {
+    "hash": "f9a96c7584644bbd989c85c113c23646",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/steam-deck": {
+    "hash": "dbc7e09a9ceb3f044527fe62bceebc5c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/system-requirements": {
+    "hash": "5feebc518e244c37a65e8c707b4811b5",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/tools": {
+    "hash": "b26bff393c287ca939371bbf9b27642e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/pt-BR/zen-points": {
+    "hash": "4d0427f41b2e6e39d5e85ea823217867",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/repair-guide": {
+    "hash": "ed477bb9bd99df8769280c1605343d40",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/": {
+    "hash": "cb030d414bc8811892f6a12b20210e61",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/about": {
+    "hash": "0d1d287aa417df6932c0145fa4a8ea18",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/achievements": {
+    "hash": "47e2024c2a9da9c3c0d7eeb40fcae408",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/achievements-roadmap": {
+    "hash": "155331111f58eb06385a675825352125",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/all-devices": {
+    "hash": "ad40e0c896e1908cc77829b370cd66b2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/beginners-guide": {
+    "hash": "f1bafa5bb4ae8f2f054e3f181bc4150e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/contact": {
+    "hash": "9543b8dafc331d1c9f128ecb7f5f10a2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/customers": {
+    "hash": "28d2225c13e8e72421372d42a6a065c2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/economy": {
+    "hash": "66049ca33c66a8769a97a6450665dbe4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/endings": {
+    "hash": "4d20b5ac010da9c77e8174c703c17db3",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/faq": {
+    "hash": "633c9a7d6f774c251bcdc8a4fe6718e8",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/guides": {
+    "hash": "4fd6ff1bb097036bda09118fa146a41f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/hidden-achievements": {
+    "hash": "4496c45678f75cd2c34a6a42151e4314",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/licenses": {
+    "hash": "2e306b6808622c4c53ef5e4cc5e27f34",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/online-orders": {
+    "hash": "9342ca4db56cce65e7d6a75bc26c4348",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/patch-notes": {
+    "hash": "02e966d9a9d02489951bd2351bd600b8",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/privacy": {
+    "hash": "70bd796e6a5406c56c81e1c570690035",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/repair-guide": {
+    "hash": "7c584b27ddd052e6f202369ef05f087d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/steam-deck": {
+    "hash": "f542520e1da9576cc8f79f9204e454f6",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/system-requirements": {
+    "hash": "595c7dee7cac22af3885fd000f36f853",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/tools": {
+    "hash": "9be8a9f328a771b5ecf0bbe1304fac7e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/ru/zen-points": {
+    "hash": "6393e5536d6329e0acb17192916b126c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/steam-deck": {
+    "hash": "5b87e6928b55b2182874c063fa15ebfd",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/system-requirements": {
+    "hash": "99168448d88f3f2a9c623ceab8d1e6e2",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/tools": {
+    "hash": "180f930c20f616ab9bc71c9fa23a7ac0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zen-points": {
+    "hash": "3d43c39ac6ee1b29d6a2dcab8fe2be73",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/": {
+    "hash": "2ff7ec896c3bb8607346db73025477e9",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/about": {
+    "hash": "00fd0c8c0739e102fd591b849b0e9554",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/achievements": {
+    "hash": "13b1f900b0b705d87d49e1e1a8a61eaa",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/achievements-roadmap": {
+    "hash": "83712c30bb4237e59b571893fe736f32",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/all-devices": {
+    "hash": "bcba8eb6dc12287f2cb9390c55ab3067",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/beginners-guide": {
+    "hash": "12f3d6389e13004f83b048e06eef946f",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/contact": {
+    "hash": "87a02fa36993bf704752fe4ac812f9a4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/customers": {
+    "hash": "75acbf3e858888fee773621e75781e22",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/economy": {
+    "hash": "44ceb5c673a33c57a8f2f913f20ce70a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/endings": {
+    "hash": "50781bc5a5921bd0fe2259fe54075e80",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/faq": {
+    "hash": "dad33fc65fa613dc9dd424728a5596d1",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/guides": {
+    "hash": "675592568c34eed2f2c584a1d0b7af66",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/hidden-achievements": {
+    "hash": "0b05f67e65b76c20ed6aebf00963d456",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/licenses": {
+    "hash": "7a421565519272df7519b4363526f651",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/online-orders": {
+    "hash": "ada40c38187490345bda44e62fb54747",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/patch-notes": {
+    "hash": "af387e3c1838d4616e1863a395d7a3b1",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/privacy": {
+    "hash": "b8b960fad71c106e6c7b8cf6784d74a0",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/repair-guide": {
+    "hash": "a9a37a38995eca1f98bb5e2115203bcb",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/steam-deck": {
+    "hash": "cd81bd83083c6261ef23e8ea0105d11d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/system-requirements": {
+    "hash": "eac563f6ff8f0b6abe75ccc21be91bcf",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/tools": {
+    "hash": "cb16cf20e5c54fdd91215aee19c33a92",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-CN/zen-points": {
+    "hash": "6285361eebc32d7b0ee0239b9794d2ac",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/": {
+    "hash": "bed2ed36302b177d841be07a2a28a2c1",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/about": {
+    "hash": "299f76ff31ffa46584143358e274c857",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/achievements": {
+    "hash": "8903289131a8581bb1d5317a0377efdf",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/achievements-roadmap": {
+    "hash": "069a169ddf4a6c00b406879bf9397538",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/all-devices": {
+    "hash": "97524686b07fa7d8dde7eaf346795eb4",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/beginners-guide": {
+    "hash": "a20d16f4c104ee04903f3ce8b8b07e31",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/contact": {
+    "hash": "622be901d3eff6f8e869dad6c1573532",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/customers": {
+    "hash": "809e4d7fbc1cb14373171e3955deb05c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/economy": {
+    "hash": "a1aad47ccf9a0104d5108b699ac94511",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/endings": {
+    "hash": "57c5b50f27cb4e09fa1b96a323b0953a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/faq": {
+    "hash": "7d80c8e9953ce857264ea9c01560a38a",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/guides": {
+    "hash": "67ccb6c690f0bdb5011de17096b32ef1",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/hidden-achievements": {
+    "hash": "20510d6ee98b4fa35107a15ee3be874d",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/licenses": {
+    "hash": "51b2b9a266dfa26841943ff186274955",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/online-orders": {
+    "hash": "6de1a0db4c5546a6968da6f0233e51ae",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/patch-notes": {
+    "hash": "2a21ceeeaea2aacdbb012ac495f7d633",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/privacy": {
+    "hash": "707695fd471708e2fcdff5d21d100257",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/repair-guide": {
+    "hash": "8757000160a182df7719348738fad68c",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/steam-deck": {
+    "hash": "39619317e9e807864ebe86d3e3d1dd3e",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/system-requirements": {
+    "hash": "6a592af76913fa9dbf398156dcde1fbd",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/tools": {
+    "hash": "ff9909ab5121dc0b1872f6d8b9d12a6b",
+    "date": "2026-08-09"
+  },
+  "https://restorygameguides.com/zh-TW/zen-points": {
+    "hash": "b68332180c81aa271074a1a67fce5a8e",
+    "date": "2026-08-09"
+  }
+}

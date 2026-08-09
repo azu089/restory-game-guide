@@ -8,12 +8,18 @@
 - G1 验证 ✅（44/55 主推，docs/20）→ 用户批准
 - G2 对标+设计方案 ✅（bench-results-restory.json + sites/restory/DESIGN-PLAN.md）→ 用户批准
 - G3 建站 ✅（本目录）
-- G4 双视角全维审计 ⏳
-- G5 部署 ｜ G6 复盘
+- G4 双视角全维审计 ✅（静态 + headless 35 项全过）
+- G5 部署 ✅（2026-08-09 上线 https://restorygameguides.com/）
+- G6 复盘 ⏳（D3/D7/D14，等 GSC/GA4 接入）
 
 ## 主题
 「秋叶原 2005 维修工坊」——暖纸+木+黄铜+印章三色；工单卡/拍立得/零件盒抽屉/状态印章/五步器；
 真交互：今日工单板筛选 / 修复循环勾选清单 / Zen 点数速算器。独立 UI 骨架，禁模板套娃。
+
+## 线上
+- https://restorygameguides.com/（Cloudflare Pages，GitHub azu089/restory-game-guide）
+- IndexNow 已提交 220 URL（Bing/Yandex/Seznam）
+- ⏳ 待用户 2 分钟：GSC 域名资源验证 + 创建 GA4 媒体资源（见下方）
 
 ## 构建
 ```bash
@@ -30,6 +36,12 @@ node ../../packages/site-kit/audit.js sites/restory
 - 每页 1-2 个 L0 来源，页面底部渲染来源
 - 10 语全量（en/zh-CN/zh-TW/ja/ko/fr/de/es/pt-BR/ru），无混排
 - 改内容只动 data/build_content.py 与 data/content_*.py，跑完两条命令，勿手改 site.json
+
+## GSC/GA4 待办（需 Google 登录，约 2 分钟）
+1. search.google.com/search-console → 添加资源 → 网域 → restorygameguides.com → 验证（Cloudflare 授权）→ 提交 sitemap https://restorygameguides.com/sitemap.xml
+2. analytics.google.com → 管理 → 创建媒体资源「ReStory Guides」→ 数据流 Web → 复制 G-XXXXXXX
+3. 告诉我 G-XXXXXXX → 我注入 site.json 重建部署
+4. 服务账号加入 GSC 资源用户（如果 gsc.js check 报错）
 
 ## 里程碑/复盘
 - D3/D7/D14：GSC 搜索词 + GA4 概览（领先指标：GA4 organic、Steam 需求信号、AI 引用份额）

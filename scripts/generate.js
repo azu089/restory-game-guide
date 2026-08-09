@@ -121,6 +121,7 @@ function gameLd(){
 function head(title, desc, extraLd, slug, lang, ogImage){
   const ld = JSON.stringify([siteLd(lang)].concat(extraLd || []));
     const gsc = DATA.site.gscVerification ? `<meta name="google-site-verification" content="${esc(DATA.site.gscVerification)}" />` : "";
+    const adsenseMeta = DATA.site.adsenseId ? `<meta name="google-adsense-account" content="ca-${esc(DATA.site.adsenseId)}" />` : "";
   const gaTag = DATA.site.gaId ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(DATA.site.gaId)}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${esc(DATA.site.gaId)}');</script>` : "";
   const og = ogImage || DATA.site.ogImage;
@@ -136,6 +137,7 @@ ${hreflang(slug)}
 <meta property="og:url" content="${urlOf(slug,lang)}"><meta property="og:image" content="https://${DATA.site.domain}${og}">
 <meta name="twitter:card" content="summary_large_image">
 ${gsc}
+${adsenseMeta}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">

@@ -116,7 +116,9 @@ function gameLd(){
 }
 function head(title, desc, extraLd, slug, lang, ogImage){
   const ld = JSON.stringify([siteLd(lang)].concat(extraLd || []));
-  const gsc = DATA.site.gscVerification ? `<meta name="google-site-verification" content="${esc(DATA.site.gscVerification)}" />` : "";
+    const gsc = DATA.site.gscVerification ? `<meta name="google-site-verification" content="${esc(DATA.site.gscVerification)}" />` : "";
+  const gaTag = DATA.site.gaId ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(DATA.site.gaId)}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${esc(DATA.site.gaId)}');</script>` : "";
   const og = ogImage || DATA.site.ogImage;
   return `<!doctype html>
 <html lang="${LANG_META[lang].html}"><head>
@@ -134,6 +136,7 @@ ${gsc}
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="/css/style.css?v=${CSS_V}">
 <script type="application/ld+json">${ld}</script>
+${gaTag}
 </head>`;
 }
 function header(lang, activeSlug){

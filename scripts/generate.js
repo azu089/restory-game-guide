@@ -307,6 +307,7 @@ ${header(lang, "")}
 <main class="shop">
   <section class="hero reveal">
     <div class="hero-paper">
+      <div class="hero-bg"><img class="hero-img" src="${esc(heroImg)}" alt="${esc(gname)}" loading="eager" width="1600" height="900"></div>
       <div class="hero-copy">
         <span class="hero-kicker">${esc(s.boardTag)}</span>
         <h1>${esc(gname)}</h1>
@@ -316,7 +317,6 @@ ${header(lang, "")}
           <a class="btn btn-ghost" href="${prefix}/beginners-guide">${esc(s.readGuide)}</a>
         </div>
       </div>
-      <div class="hero-imgwrap"><img class="hero-img" src="${esc(heroImg)}" alt="${esc(gname)}" loading="eager" width="1600" height="900"></div>
       <div class="gauges">${stats}</div>
     </div>
   </section>

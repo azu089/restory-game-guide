@@ -115,8 +115,7 @@ function gameLd(){
   return {"@context":"https://schema.org","@type":"VideoGame","name":g.name,
     "applicationCategory":"Game","operatingSystem":"Windows, macOS",
     "genre":g.genre,"datePublished":g.releaseDate,
-    "offers":{"@type":"Offer","price":g.price.match(/\d+\.\d+/)?.[0] || "17.99","priceCurrency":"USD"},
-    "aggregateRating":{"@type":"AggregateRating","ratingValue":"5","bestRating":"5","worstRating":"1","ratingCount":"0"}};
+    "offers":{"@type":"Offer","price":g.price.match(/\d+\.\d+/)?.[0] || "17.99","priceCurrency":"USD"}};
 }
 function head(title, desc, extraLd, slug, lang, ogImage){
   const ld = JSON.stringify([siteLd(lang)].concat(extraLd || []));

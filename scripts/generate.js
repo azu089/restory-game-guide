@@ -148,6 +148,7 @@ ${adsenseMeta}
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Nunito+Sans:wght@400;600;700;800&family=Space+Mono&family=M+PLUS+Rounded+1c:wght@400;500;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/style.css?v=${CSS_V}">
+${slug === "index" ? KIT.heroPreload({ srcset: HERO_SET, sizes: "100vw" }) : ""}
 <script type="application/ld+json">${ld}</script>
 ${gaTag}
 </head>`;

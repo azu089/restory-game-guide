@@ -345,7 +345,7 @@ ${header(lang, "")}
 <main class="shop">
   <section class="hero reveal">
     <div class="hero-paper">
-      <div class="hero-bg"><img class="hero-img" src="${esc(heroImg)}" alt="${esc(gname)}" loading="eager" width="1600" height="900"></div>
+      <div class="hero-bg">${KIT.picture({ src: heroImg, srcset: "/images/hero-640.jpg 640w, /images/hero-1280.jpg 1280w, /images/hero.jpg 1600w", sizes: "100vw", attrs: `class="hero-img" alt="${esc(gname)}" loading="eager" width="1600" height="900"` })}</div>
       <div class="hero-copy">
         <span class="hero-kicker">${esc(s.boardTag)}</span>
         <h1>${esc(gname)}</h1>

@@ -713,7 +713,7 @@ PAGES_KO = {
     {"type": "timeline", "heading": "업데이트 내역",
      "items": [
         ["2026년 8월 6일", "ReStory: 힐링 전자제품 수리가 Steam에서 출시됨($19.99, 10% 할인)."],
-        ["2026년 8월 11일", "첫 업데이트 출시(1.0.009r) — 공식 발표. 세부 내용 확인 중."],
+        ["2026년 8월 11일", "첫 업데이트 출시(v1.0.009r): 'How Did I Do It' / 'Frugal' / 'Platinum partner' 업적 조기 해금, Guitar Legend·MyPod 펌웨어 업데이트 버그, 경쟁 모드에서 인벤토리 사용 불가, IDM device 분해 오류, 메일 탭 새 메일 표시, 울트라와이드 화면 분해, 소닉 배스에 걸리는 가젯, Eggotchi/Goman/Brick Game 버그 수정(공식 패치 노트)."],
         ["TBD", "DLC(app 5034500) — 콘텐츠 확인 중."],
      ]},
     {"type": "steps", "heading": "업데이트를 따라가는 법",

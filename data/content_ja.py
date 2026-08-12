@@ -728,7 +728,7 @@ PAGES_JA = {
     {"type": "timeline", "heading": "更新履歴",
      "items": [
         ["2026 年 8 月 6 日", "ReStory: Chill Electronics Repairs が Steam で発売（$19.99、10% オフ）。"],
-        ["2026年8月11日", "初回アップデート配信（1.0.009r）——公式発表。詳細は検証中。"],
+        ["2026年8月11日", "初回アップデート配信（v1.0.009r）：「How Did I Do It」「Frugal」「Platinum partner」実績の早期解除、Guitar Legend と MyPod のファームウェア更新バグ、大会モードでインベントリを使えない問題、IDM device の分解エラー、メールタブの新着表示、UltraWide 画面での分解、ソニックバスに詰まるガジェット、Eggotchi/Goman/Brick Game のバグを修正（公式パッチノート）。"],
         ["TBD", "DLC（app 5034500）——内容は検証中。"],
      ]},
     {"type": "steps", "heading": "アップデートの追い方",

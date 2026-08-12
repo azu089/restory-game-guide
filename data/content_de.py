@@ -714,7 +714,7 @@ PAGES_DE = {
     {"type": "timeline", "heading": "Update-Verlauf",
      "items": [
         ["6. August 2026", "ReStory: Chill Elektronik-Reparaturen erscheint auf Steam ($19.99, 10% Rabatt)."],
-        ["11. August 2026", "Erstes Update ist live (1.0.009r) — offizielle Ankündigung; Details werden geprüft."],
+        ["11. August 2026", "Erstes Update ist live (v1.0.009r): vorzeitige Erfolgs-Freischaltungen 'How Did I Do It' / 'Frugal' / 'Platinum partner', Firmware-Update-Bug bei Guitar Legend & MyPod, Inventar im Wettkampfmodus, IDM-Gerät-Disassemblierung, E-Mail-Reiter-Anzeige, UltraWide-Disassemblierung, in der Sonic-Bad steckende Gadgets sowie Eggotchi / Goman / Brick-Game-Bugs (offizielle Patch-Notizen)."],
         ["TBD", "DLC (App 5034500) — Inhalt wird geprüft."],
      ]},
     {"type": "steps", "heading": "So verfolgst du Updates",

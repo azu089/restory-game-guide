@@ -728,7 +728,7 @@ PAGES_EN = {
     {"type": "timeline", "heading": "Update history",
      "items": [
         ["Aug 6, 2026", "ReStory: Chill Electronics Repairs launches on Steam ($19.99, 10% off)."],
-        ["Aug 11, 2026", "First update is live (1.0.009r) — official announcement; patch details being verified."],
+        ["Aug 11, 2026", "First update is live (v1.0.009r): fixed 'How Did I Do It' / 'Frugal' / 'Platinum partner' achievement unlocks, the Guitar Legend & MyPod firmware-update bug, using inventory in competition mode, IDM device disassembly, the mail-tab indicator, UltraWide disassembly, gadgets stuck in the sonic bath, and Eggotchi / Goman / Brick Game bugs (official patch notes)."],
         ["TBD", "DLC (app 5034500) — content being verified."],
      ]},
     {"type": "steps", "heading": "How to follow updates",

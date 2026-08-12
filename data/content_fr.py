@@ -714,7 +714,7 @@ PAGES_FR = {
     {"type": "timeline", "heading": "Historique des mises à jour",
      "items": [
         ["6 août 2026", "ReStory : réparations électroniques relax sort sur Steam ($19.99, −10 %)."],
-        ["11 août 2026", "Première mise à jour disponible (1.0.009r) — annonce officielle ; détails en cours de vérification."],
+        ["11 août 2026", "Première mise à jour disponible (v1.0.009r) : déblocages de succès précoces 'How Did I Do It' / 'Frugal' / 'Platinum partner', bug de mise à jour du firmware Guitar Legend & MyPod, inventaire en mode compétition, démontage de l'IDM device, indicateur d'e-mails, démontage en UltraWide, gadgets bloqués dans le bain à ultrasons, et bugs Eggotchi / Goman / Brick Game (notes officielles)."],
         ["À déterminer", "DLC (app 5034500) — contenu en cours de vérification."],
      ]},
     {"type": "steps", "heading": "Comment suivre les mises à jour",

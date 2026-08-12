@@ -703,6 +703,7 @@ PAGES_ZH_CN = {
     {"type": "timeline", "heading": "更新历史",
      "items": [
         ["2026-08-06", "维修物语在 Steam 发售（$19.99，9 折）。"],
+        ["2026-08-07", "发售 24 小时内销量突破 10 万份——同时 Steam 在线峰值 15,000、好评率 97%（官方公告）。"],
         ["2026-08-11", "首个更新已发布（v1.0.009r）：修复“How Did I Do It”“Frugal”“Platinum partner”成就提前解锁、Guitar Legend 与 MyPod 固件更新 bug、比赛模式无法使用背包、IDM device 拆卸错误、邮件标签不提示新邮件、UltraWide 屏幕拆卸问题、部分 gadget 卡在声波浴，以及 Eggotchi/Goman/Brick Game 的 bug（官方补丁说明）。"],
         ["待定", "DLC（app 5034500）——内容核实中。"],
      ]},

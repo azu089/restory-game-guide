@@ -707,6 +707,7 @@ PAGES_PT_BR = {
     {"type": "timeline", "heading": "Histórico de atualizações",
      "items": [
         ["6 de agosto de 2026", "ReStory: Chill Electronics Repairs é lançado na Steam ($19.99, com 10% de desconto)."],
+        ["7 de agosto de 2026", "100 mil cópias vendidas em 24 horas após o lançamento — com 15 mil jogadores simultâneos na Steam e 97% de avaliações positivas (anúncio oficial)."],
         ["11 de ago de 2026", "Primeira atualização disponível (v1.0.009r): desbloqueios antecipados das conquistas 'How Did I Do It' / 'Frugal' / 'Platinum partner', bug de firmware do Guitar Legend e MyPod, inventário no modo competição, desmontagem do dispositivo IDM, indicador de e-mails, desmontagem em UltraWide, gadgets presos no banho sônico e bugs de Eggotchi / Goman / Brick Game (notas oficiais)."],
         ["A definir", "DLC (app 5034500) — conteúdo em verificação."],
      ]},

@@ -729,6 +729,7 @@ PAGES_ES = {
     {"type": "timeline", "heading": "Historial de actualizaciones",
      "items": [
         ["6 de agosto de 2026", "ReStory: reparaciones de electrónica relajadas se lanza en Steam ($19.99, 10 % de descuento)."],
+        ["7 de agosto de 2026", "100 000 copias vendidas en las primeras 24 horas del lanzamiento — con 15 000 jugadores simultáneos en Steam y un 97 % de reseñas positivas (anuncio oficial)."],
         ["11 ago 2026", "Primera actualización disponible (v1.0.009r): desbloqueos tempranos de logros 'How Did I Do It' / 'Frugal' / 'Platinum partner', error de firmware de Guitar Legend y MyPod, inventario en modo competición, desmontaje del dispositivo IDM, indicador de correos, desmontaje en UltraWide, gadgets atascados en el baño sónico y errores de Eggotchi / Goman / Brick Game (notas oficiales)."],
         ["Por determinar", "DLC (app 5034500): contenido en verificación."],
      ]},

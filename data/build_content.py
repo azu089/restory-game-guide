@@ -480,9 +480,9 @@ for page in PAGES:
             table_rows.append([row["name"], condition, row["rarity"], labels[group_key]])
             row_attrs.append({"achievement-id": row["id"], "group": group_key})
         t["title"] = ui[0]
-        t["metaTitle"] = ui[0]
+        t["metaTitle"] = f"ReStory — {ui[0]}"
         t["intro"] = ui[1]
-        t["metaDescription"] = ui[1]
+        t["metaDescription"] = f"ReStory: {ui[1]}"
         t["sections"] = [
             {"type": "note", "heading": ui[0], "body": ui[1]},
             {"type": "table", "heading": ui[2], "columns": ui[3:7], "rows": table_rows,

@@ -1,1482 +1,1482 @@
 {
   "https://restorygameguides.com/": {
-    "hash": "fbfe8fb7bda1ea9d18d6ce7ee94a9241",
-    "date": "2026-08-12"
+    "hash": "b1c91d41f663b49c15ec9f47a9c0382e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/about": {
-    "hash": "d8764384cae1fe58b44389f576b34907",
-    "date": "2026-08-12"
+    "hash": "14e4f4f9340bdbae07c6889fa289dece",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/achievements": {
-    "hash": "7ac3ca601a49f60410402ec69f499c9a",
-    "date": "2026-08-12"
+    "hash": "afa4d553e511890b1a93dcc27d5a02de",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/achievements-roadmap": {
-    "hash": "0f32239707e9324c60097c179e17791c",
-    "date": "2026-08-12"
+    "hash": "526c83d4e987eb77a4ce81b8446a2f6f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/all-devices": {
-    "hash": "215576bee33d45917aab0c00303de447",
-    "date": "2026-08-12"
+    "hash": "f1ced756134122f1ee822a29ee275b3e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/beginners-guide": {
-    "hash": "1e5ddd9210f8436c062391b26c6241c7",
-    "date": "2026-08-12"
+    "hash": "2c168498d8f99db66efae2afd3987a6b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/contact": {
-    "hash": "d1a289b41c01eda2a7acace14c0fcf6b",
-    "date": "2026-08-12"
+    "hash": "b41c8eb227683278e3f8bc90f8820936",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/customers": {
-    "hash": "52c8e715db1bbd466db8340b5d33493a",
-    "date": "2026-08-12"
+    "hash": "ba103438e4025272c84684b9c3cbdc62",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/": {
-    "hash": "5631de1b4876f7697ed40edf97e0441c",
-    "date": "2026-08-12"
+    "hash": "b93a966ebb7870a7af4ec4ff0bfd28d7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/about": {
-    "hash": "a477355c136a8424730065de60df9136",
-    "date": "2026-08-12"
+    "hash": "8d4da8910f7859bffbf3e10ed842788a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/achievements": {
-    "hash": "cb397dd6ec30b2cdd623d4d8723806c7",
-    "date": "2026-08-12"
+    "hash": "53b4c10d7b90b9b99f6a47b508f68966",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/achievements-roadmap": {
-    "hash": "3feaaded745a70e2ca2b53021835a15f",
-    "date": "2026-08-12"
+    "hash": "e6ae174cbac044a61990a6da003e25fe",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/all-devices": {
-    "hash": "f1d4a0af740e55db2f489c73d6bfd2c2",
-    "date": "2026-08-12"
+    "hash": "4f46501d2b46a6689f40c04f67863439",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/beginners-guide": {
-    "hash": "1f29bbf32c3a4ad1cf9d13a1b6297c0f",
-    "date": "2026-08-12"
+    "hash": "d87b709036af3acd48ef96b89b7f9e96",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/contact": {
-    "hash": "fcbe7870de0e6daf5472b021e14e541c",
-    "date": "2026-08-12"
+    "hash": "773ef25da032555191abc980fc02f3ba",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/customers": {
-    "hash": "d8936f077e3966c147cf03e8f604dc2c",
-    "date": "2026-08-12"
+    "hash": "374e2079086b5cd8d466f64daea4d265",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/atari-2600": {
-    "hash": "ea4db0d73fcaab8689db1b55dcba9620",
-    "date": "2026-08-12"
+    "hash": "54e34f73f932c150edf6967560c73935",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/atari-cx40": {
-    "hash": "36dc0e7613c8d36730ce4e02031ad3da",
-    "date": "2026-08-12"
+    "hash": "3ada4d3c76bb449045465bb411ced159",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/atari-lynx": {
-    "hash": "c781a27172027fa02fe0ea2df52467c6",
-    "date": "2026-08-12"
+    "hash": "04aa61052e3e8767f571c04c66106117",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/autorolla-razor": {
-    "hash": "80d32252d78c9bd34409ce5b9caa4735",
-    "date": "2026-08-12"
+    "hash": "7ce5bb3436009e44cd581dfc5d3bf20a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/eggotchi": {
-    "hash": "b6c4dec042af76cb1d0380d1e0aee6b3",
-    "date": "2026-08-12"
+    "hash": "3e56864410d11c868a84703e174c49c8",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/nony-goman": {
-    "hash": "c7d56754ef62166715af5d5fa85df093",
-    "date": "2026-08-12"
+    "hash": "f82cc83b5e3befb39c61aff9999cbafe",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/nony-playmachine": {
-    "hash": "15de48adb248fefcbbcabf2dd17515d5",
-    "date": "2026-08-12"
+    "hash": "3fe925ff2a4194da3d83d400b0ed6f12",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/nony-pmp": {
-    "hash": "78fb2e378647eb807974df74c37d7e7f",
-    "date": "2026-08-12"
+    "hash": "b7f453e29fd9dcdbf0c7ce7f7a09ac1a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/palaloid": {
-    "hash": "05e9545cc37f7dbbcb3eac9ede494c75",
-    "date": "2026-08-12"
+    "hash": "cf43afac22d977dd1fb23f63442c5bf9",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/patento-bs": {
-    "hash": "2b1779699b3b16cf3edb487e88f1f85d",
-    "date": "2026-08-12"
+    "hash": "a837620d3e6672d0e6d785519f6e903f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/pokia-3310": {
-    "hash": "0b7afaa0eab9921cc0b31b42b9e09bae",
-    "date": "2026-08-12"
+    "hash": "d54b5a81c587abb0e657c198a1d6ae52",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/pokia-njoy": {
-    "hash": "8f6fcac73ee0d5389e9346a196b4e847",
-    "date": "2026-08-12"
+    "hash": "49ed73372d5283c3fb3b72765dfd233b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/robodog": {
-    "hash": "b77a02cec8866126f06978711045cec6",
-    "date": "2026-08-12"
+    "hash": "da45116c5af10ec83d6afdcee0b072ef",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/unicorp-99l": {
-    "hash": "bdaf177c09ff6aa1fb1c1ba8fba3c313",
-    "date": "2026-08-12"
+    "hash": "b68d0e6cd4d359855c1370092a06f22e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/devices/walkie-talkie": {
-    "hash": "5f9ab15964de6a9a5cd7ee9bbdad5551",
-    "date": "2026-08-12"
+    "hash": "654ec0fac82416ee69616f8ec922936e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/economy": {
-    "hash": "7bdfe7fddfc7bc1c25cf76a06f9abbdd",
-    "date": "2026-08-12"
+    "hash": "584e0ab2bc968e560a7d9bbd88432369",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/endings": {
-    "hash": "69b4037545ce1b2199cbfbf5bfc39d1d",
-    "date": "2026-08-12"
+    "hash": "448dad775eaaed0660d754ad023469a9",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/faq": {
-    "hash": "693ef841c5bedad2445db747d4d50b13",
-    "date": "2026-08-12"
+    "hash": "e73b32556a7a3e8e90ab2f9778f32aba",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/guides": {
-    "hash": "eb132379c6fca8bf9fae3d7fd2ce2dfe",
-    "date": "2026-08-12"
+    "hash": "99b78079042ef76c7b773e232dd7b4e2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/hidden-achievements": {
-    "hash": "0c1ac3f5d36009ea2c28fdd3a4917365",
-    "date": "2026-08-12"
+    "hash": "174368cb8724246844445971550924d3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/licenses": {
-    "hash": "45ba8cf8089b49aa14b30554118bfdb9",
-    "date": "2026-08-12"
+    "hash": "c0607f7ca66a419dac46d59bf04eb704",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/online-orders": {
-    "hash": "42b6d55266b1e64929211d54a30e854f",
-    "date": "2026-08-12"
+    "hash": "8f9723a698ea1dc04789d53b83050d38",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/patch-notes": {
-    "hash": "36b11d20117cbb0e1ccf16b444fd5d9c",
-    "date": "2026-08-12"
+    "hash": "e1dad5be0edf22855c4caddbe12252b2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/privacy": {
-    "hash": "aaaf2e55d0a586836a1e33be96a07a71",
-    "date": "2026-08-12"
+    "hash": "5ecc57fdcf154dcad28bfb7865aab36c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/repair-guide": {
-    "hash": "488856311cb0689c90596297fff35817",
-    "date": "2026-08-12"
+    "hash": "66e0a0d2218244251da70bb0667e5c7f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/steam-deck": {
-    "hash": "62ee4d00e2eccd7b895b2769556ebd93",
-    "date": "2026-08-12"
+    "hash": "4bbdb2bf8501327b4a56ab3b32e598e7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/system-requirements": {
-    "hash": "7f80dc8912b209c34e4022db13bd324e",
-    "date": "2026-08-12"
+    "hash": "9ee28791ca2bacf019d97846dcc1562a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/tools": {
-    "hash": "d7b1395f479f3f0b58efca150f8b3cdd",
-    "date": "2026-08-12"
+    "hash": "c284ad3b534f120775830d86aa5a9777",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/de/zen-points": {
-    "hash": "aad281767adf5937c0c66532551730c3",
-    "date": "2026-08-12"
+    "hash": "2e4e31b5bec9fbb4e19e3e31f0f7e287",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/atari-2600": {
-    "hash": "800a9f07aaed3824d72d98d9c288cfe0",
-    "date": "2026-08-12"
+    "hash": "361efb7772843a9dda79a1a08baaf094",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/atari-cx40": {
-    "hash": "46b3ac19d89117b8da51f3434b4f9cfb",
-    "date": "2026-08-12"
+    "hash": "37c733a99cd07451045a692d693b7702",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/atari-lynx": {
-    "hash": "a3dcebba51152aa2979342812e9c39f5",
-    "date": "2026-08-12"
+    "hash": "62a3029b129691322c5d31552a472f8b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/autorolla-razor": {
-    "hash": "7b115155693bf1cc3b789474eede0795",
-    "date": "2026-08-12"
+    "hash": "41677d62d52a0cfab06ec25b40fb3d4a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/eggotchi": {
-    "hash": "6b64f465fe006a8baca968c92202b823",
-    "date": "2026-08-12"
+    "hash": "dbd491db5d2eb328bf3d7485feef58b3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/nony-goman": {
-    "hash": "d3828a16a0cf4dd8125ec6793c7b4ba3",
-    "date": "2026-08-12"
+    "hash": "e77e664ca3ae15d5e4384c040c9cd4b5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/nony-playmachine": {
-    "hash": "892a455a830b088c33983c2837242e41",
-    "date": "2026-08-12"
+    "hash": "b4c8f0c98188c7649fd66dc32a8b15da",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/nony-pmp": {
-    "hash": "50231c61cfcdfbdc9911ac85f717c762",
-    "date": "2026-08-12"
+    "hash": "960b1856c8a65deb3585f7094a0ebcd6",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/palaloid": {
-    "hash": "f084752db5e78bb8ada3f6bf2bf0daa0",
-    "date": "2026-08-12"
+    "hash": "15b12e965568d9d6a5e27ce44681b8a7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/patento-bs": {
-    "hash": "07c4546905053b20d94112f57102ff91",
-    "date": "2026-08-12"
+    "hash": "b1758831470d88cb7538c0e41de3744c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/pokia-3310": {
-    "hash": "50384421127cd6b13be992bcf2b1ea4d",
-    "date": "2026-08-12"
+    "hash": "9298ce125b319171296035b06222d25b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/pokia-njoy": {
-    "hash": "8c4bfe54f1dd63aae9c6067343f50d4e",
-    "date": "2026-08-12"
+    "hash": "312acae70716baab67d668164ca5074d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/robodog": {
-    "hash": "edfe2a9a7a61f6331614ca1d4f0708e4",
-    "date": "2026-08-12"
+    "hash": "255f1af2b9455142c789e72a64a25649",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/unicorp-99l": {
-    "hash": "75954cb99f3bf7227d92e85573550a2f",
-    "date": "2026-08-12"
+    "hash": "71a2319cd278911ecc66cb4e7a5d9ef0",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/devices/walkie-talkie": {
-    "hash": "dcaa2eeb07b77823921cee6f0a8a59c8",
-    "date": "2026-08-12"
+    "hash": "5c190162da464ef464554cc9cd8abb5b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/economy": {
-    "hash": "1c4783f7ca6472d8b3821422cd04198f",
-    "date": "2026-08-12"
+    "hash": "32463d42adc8ce2682341951d41494ce",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/endings": {
-    "hash": "72629348ad895b77f923fa227ec3fb4b",
-    "date": "2026-08-12"
+    "hash": "67e001576a8375f738548f4fd769a1b5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/": {
-    "hash": "6a6cf9d8291dbd34f63dc4f5afe68b21",
-    "date": "2026-08-12"
+    "hash": "43c707512ec0e83513eec606328aa95d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/about": {
-    "hash": "58f2eb9b2f254d539f51f77e11176379",
-    "date": "2026-08-12"
+    "hash": "a0178c04ef4f17089307759e85b5a106",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/achievements": {
-    "hash": "9ce947204edc553693a14ae8f040563e",
-    "date": "2026-08-12"
+    "hash": "7701690e4a767f150baca7998eb4595a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/achievements-roadmap": {
-    "hash": "c49ede2703a8cff54770c359efa3ef5f",
-    "date": "2026-08-12"
+    "hash": "8591b96edd0ce5672693388e6bf22922",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/all-devices": {
-    "hash": "ad8de1340f464ae2f30d2f56ec4dd61f",
-    "date": "2026-08-12"
+    "hash": "e58b9a1f47ef22d69b79ab40f971d3f0",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/beginners-guide": {
-    "hash": "84a5c2eeb1f84d258ba450a8cf18b40d",
-    "date": "2026-08-12"
+    "hash": "b6969408919aa2836cfde7a339e66e0f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/contact": {
-    "hash": "69d81026d97649bdc49dc3d0000870da",
-    "date": "2026-08-12"
+    "hash": "69eb89846e368e8fa608043beed1ae30",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/customers": {
-    "hash": "78047140f52ea64b52378f59d3aeb336",
-    "date": "2026-08-12"
+    "hash": "29e88258d7553cb12b9c3d6341e143db",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/atari-2600": {
-    "hash": "b00a97a0b03364f75de80ab736847b1b",
-    "date": "2026-08-12"
+    "hash": "c6cf6318998593764c306af03ab42d5c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/atari-cx40": {
-    "hash": "2dc5a5254f2b7c6c6d72bced63b0c276",
-    "date": "2026-08-12"
+    "hash": "bfa766ff2349cd0217e1a37c10842282",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/atari-lynx": {
-    "hash": "36b8caaa10a353b0be99d58f2d530cf6",
-    "date": "2026-08-12"
+    "hash": "f84e1f11123f5ff0cc87a87169cc7843",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/autorolla-razor": {
-    "hash": "5bdec1f34aad4b779d5db11e8d4f4fbd",
-    "date": "2026-08-12"
+    "hash": "304dcbbf946aad7c42f19fc0fc78cf6a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/eggotchi": {
-    "hash": "a77f41780dd5b6f98df5a046def19c5a",
-    "date": "2026-08-12"
+    "hash": "93a136eeb85223ea70d9d34109172f34",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/nony-goman": {
-    "hash": "0a3e393b8742730e0457dca76d8c595d",
-    "date": "2026-08-12"
+    "hash": "15c9d9bfdb758c8a1671d9a9139fb767",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/nony-playmachine": {
-    "hash": "f4541e999ae8ffd2b29fdf8f4be3f5dc",
-    "date": "2026-08-12"
+    "hash": "ea7b317819d43eab4adc244d168e8a41",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/nony-pmp": {
-    "hash": "f8ea9d9427b1f7483275a97e18ee484e",
-    "date": "2026-08-12"
+    "hash": "5a36fc9a95fb6a85f7614696c83e60f5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/palaloid": {
-    "hash": "7bcab9bb8fd52360b8ca6db22200d987",
-    "date": "2026-08-12"
+    "hash": "a7aca60bec5e00d8941dd019e937276e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/patento-bs": {
-    "hash": "eea0f166e7bbca04dbceac7f41e34bd3",
-    "date": "2026-08-12"
+    "hash": "164ec54d38cff37050fbc7a6061ba39b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/pokia-3310": {
-    "hash": "b54bb8a6344cab8598b024289a17bbfc",
-    "date": "2026-08-12"
+    "hash": "b513c14fc4a922030d896a0a74cd22f7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/pokia-njoy": {
-    "hash": "e73dedff70d0f910f33b424db7124afe",
-    "date": "2026-08-12"
+    "hash": "2b45b82ef606767e9456de4d6775b46a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/robodog": {
-    "hash": "442dfb5a885b0e901e632b20599dde81",
-    "date": "2026-08-12"
+    "hash": "c9449b3103bcf2861c1dc7cdca386c3d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/unicorp-99l": {
-    "hash": "7fcd84fdad499b7daab520a10c0bee6c",
-    "date": "2026-08-12"
+    "hash": "4d6b35f007c8f8f3cc5f193365821c8f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/devices/walkie-talkie": {
-    "hash": "6c2e65851ce0919d1257ccdd4a180b03",
-    "date": "2026-08-12"
+    "hash": "e86710bd67c1581edd3932abdd23e53f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/economy": {
-    "hash": "0cfc0bb59410658492206d9631a159ca",
-    "date": "2026-08-12"
+    "hash": "a57da7134d5633b87804fd6789f134ca",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/endings": {
-    "hash": "4cad086a95ec4563863bbae80fb686ad",
-    "date": "2026-08-12"
+    "hash": "5cef6086ed463b1de291c1de6ea23617",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/faq": {
-    "hash": "905f4a29a2b09480bafe2c696eb7a9bc",
-    "date": "2026-08-12"
+    "hash": "1585edee90889147679af06f67ce7f0a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/guides": {
-    "hash": "dc8788fd0cf7fa0d89e5bca49cd76f17",
-    "date": "2026-08-12"
+    "hash": "c61ca6905172308f48a4696ab0adea0c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/hidden-achievements": {
-    "hash": "de2d816f9db5f6389e9e90e169807704",
-    "date": "2026-08-12"
+    "hash": "ebed4eb34cbfbaf731f1431885a91ef9",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/licenses": {
-    "hash": "0326a9f9010c8d2660632fe72b8a61a7",
-    "date": "2026-08-12"
+    "hash": "8d606bcb85d1d11d4623748960b173e1",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/online-orders": {
-    "hash": "8679b91031ae5a3744fcb4b6b6f820c8",
-    "date": "2026-08-12"
+    "hash": "b159ce26ca7201511b63405b6c84dfb2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/patch-notes": {
-    "hash": "5f5a635da3ddf64fda29f82eea33cac1",
-    "date": "2026-08-12"
+    "hash": "e5350ac27948bb42b35b84a745f0d218",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/privacy": {
-    "hash": "c10b990c745f8346dfa7c34529ec6e73",
-    "date": "2026-08-12"
+    "hash": "532c7e88596754a334dfdc8e8b6002b7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/repair-guide": {
-    "hash": "9f4f11c2bb3ad25542bc6b577f07fb5d",
-    "date": "2026-08-12"
+    "hash": "a90104bf8993c85bcdc486f20701b360",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/steam-deck": {
-    "hash": "b352ff3b222c5961188dddecc6bbe796",
-    "date": "2026-08-12"
+    "hash": "a1e1d208c83a6b6845c56389c29931f2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/system-requirements": {
-    "hash": "334a6c2f9b9f0492186877baec5661a5",
-    "date": "2026-08-12"
+    "hash": "3fd5528da833e4f1e789a85177d2c2fe",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/tools": {
-    "hash": "70d2f1b99a4a0baa64578f0eac199611",
-    "date": "2026-08-12"
+    "hash": "b900268c566b7ca375a2817747e1316d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/es/zen-points": {
-    "hash": "517e10e0143ccd4d504ef9232a109fe7",
-    "date": "2026-08-12"
+    "hash": "ca07105073b34b6678e79b35e5b749b6",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/faq": {
-    "hash": "54b8e53db1d32e5251f75774dc1fcac0",
-    "date": "2026-08-12"
+    "hash": "ca9b21187014c47141b481de569de5f3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/": {
-    "hash": "a2cf0632e6eb65073a97350c045ed5a4",
-    "date": "2026-08-12"
+    "hash": "fd86b9e1acb499b6bcda439f95ad9884",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/about": {
-    "hash": "39627d3e7ae3a2076cbace0302eb69e4",
-    "date": "2026-08-12"
+    "hash": "438c06fa587071afb917a157f0d5cb12",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/achievements": {
-    "hash": "03807bd131c11f38cff8a354f47376c0",
-    "date": "2026-08-12"
+    "hash": "23c0e5f75e741d4313fb8c7bdcdbfc91",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/achievements-roadmap": {
-    "hash": "141d5f59ed04126cdcf48f322da2eeb1",
-    "date": "2026-08-12"
+    "hash": "4be8a90fe9a66e8b31f4cb5dc5bf5449",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/all-devices": {
-    "hash": "9ccd8197af9c6ae7decf2d7bab3e47be",
-    "date": "2026-08-12"
+    "hash": "ffd64ef39f7751162e53d845285c5e6e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/beginners-guide": {
-    "hash": "e7184dc1c93d93b957ee79ee61949657",
-    "date": "2026-08-12"
+    "hash": "7c3f49e79ddda9ce33e0cfd3030fa2a8",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/contact": {
-    "hash": "2dead7c71aaef2d732b04b1e54f6e948",
-    "date": "2026-08-12"
+    "hash": "26db5ad21d6334f6b343fc5d5f7b08ff",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/customers": {
-    "hash": "c3662d19ce910ca0f24949b708be8afa",
-    "date": "2026-08-12"
+    "hash": "fc7a921868646a98744abb600703d486",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/atari-2600": {
-    "hash": "728885407fe2394abc0464a6f2bd1586",
-    "date": "2026-08-12"
+    "hash": "901a45ac170de3aced4966bc9d2c56d6",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/atari-cx40": {
-    "hash": "abc3901c3f85da181aaf4204ec09297b",
-    "date": "2026-08-12"
+    "hash": "a5c1842926bbc16088e0a83cb2f33abf",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/atari-lynx": {
-    "hash": "a6e5c22863546e7c4c2123ccf472297b",
-    "date": "2026-08-12"
+    "hash": "fa65f4d328c4bab1bd0aca083d092400",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/autorolla-razor": {
-    "hash": "b85c92a71bc8ec9cb645fbcd21eb12f5",
-    "date": "2026-08-12"
+    "hash": "37c52baaf451b6b43aeaeeaffd544432",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/eggotchi": {
-    "hash": "f6edccaaf1dce13ae36eb87a3be2a02a",
-    "date": "2026-08-12"
+    "hash": "372c81b557c8fc7150058e37b9aad5e5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/nony-goman": {
-    "hash": "1811460d11fff12f8a2c278a8ba586ef",
-    "date": "2026-08-12"
+    "hash": "24bbd41a53ffa86f7b8e40ea9a8dbf42",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/nony-playmachine": {
-    "hash": "72dd210b1d2b0bc4216ab422d0286863",
-    "date": "2026-08-12"
+    "hash": "3afafad7f5221af39ee004d4d8f6d5e2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/nony-pmp": {
-    "hash": "defd9060d39a1eb0a04b1075cd901881",
-    "date": "2026-08-12"
+    "hash": "16f21b30cecddb5fb14e77f1a217fa5f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/palaloid": {
-    "hash": "5556040f8404f2525a6fc43afa7e6cd2",
-    "date": "2026-08-12"
+    "hash": "648240080856b7422624fc0351917e9a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/patento-bs": {
-    "hash": "e15e830c611a0595e76ee803d3c00e24",
-    "date": "2026-08-12"
+    "hash": "eec772d99fe10cb2e709c003e80514ff",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/pokia-3310": {
-    "hash": "c0ada937b8a594079b13c539a2e0ea38",
-    "date": "2026-08-12"
+    "hash": "9d1916921f1766928a247ba2bd6747b4",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/pokia-njoy": {
-    "hash": "b64bb2907fda785ff43af4ec72912ef8",
-    "date": "2026-08-12"
+    "hash": "673e5cd8a8e90b6d2a181faf324e83e6",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/robodog": {
-    "hash": "76e53abb28a5a8f8713b154610b7527c",
-    "date": "2026-08-12"
+    "hash": "c9aa067a05715a9503e89e99d8ad7119",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/unicorp-99l": {
-    "hash": "9776e1b95c66f3cf77d54b11467a6d83",
-    "date": "2026-08-12"
+    "hash": "95326df7e8685578b4306361a679c255",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/devices/walkie-talkie": {
-    "hash": "c38d2096613c87ebef6296c560647d76",
-    "date": "2026-08-12"
+    "hash": "2ac657ec49ee31d96898e4f3599dec8c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/economy": {
-    "hash": "cdc8bd48ca6020dbcd65c4020446357e",
-    "date": "2026-08-12"
+    "hash": "20947de7c96ba4b337b0a8ed224ce467",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/endings": {
-    "hash": "cb5588df4403969f6115305696f58183",
-    "date": "2026-08-12"
+    "hash": "c04daf9f1799bfabe9a2a2f44c8eea46",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/faq": {
-    "hash": "0b03d66169bbf1f9bb1760342574277f",
-    "date": "2026-08-12"
+    "hash": "b611c0cc123b4a07363c9ddf955d1e8d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/guides": {
-    "hash": "ea77f6d5f98825a15b76365d92ee4e74",
-    "date": "2026-08-12"
+    "hash": "98221b72f9fe00ea220e04e0cadb02f3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/hidden-achievements": {
-    "hash": "e8576ed2697992e8ecd7147d1d7e8568",
-    "date": "2026-08-12"
+    "hash": "8222a2dbae3c935fbb7a7d87da223931",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/licenses": {
-    "hash": "fff516136b60926cbaacbf7cc8d84304",
-    "date": "2026-08-12"
+    "hash": "e8f39694586fcacdedfe249d4108d24e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/online-orders": {
-    "hash": "2513e861a5b20ed24c577852beeff77a",
-    "date": "2026-08-12"
+    "hash": "2ef10baa77f59e3ac5d5d812b1546bee",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/patch-notes": {
-    "hash": "4f660d1a82d820fab6a725fa2e97afd7",
-    "date": "2026-08-12"
+    "hash": "5213187ed975c529d5aa6499e5c36b2f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/privacy": {
-    "hash": "b48d67f3dc8e7b54f19bf0bf343fb7aa",
-    "date": "2026-08-12"
+    "hash": "ce3e664038576c4d52feba038c7c6ec7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/repair-guide": {
-    "hash": "c0737d3ca2c90ae576374bdd2946cecf",
-    "date": "2026-08-12"
+    "hash": "33f7a3474b11830b8a9adc08bb0e9af3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/steam-deck": {
-    "hash": "6ffc2cefe79f654973adf8d6d97244e7",
-    "date": "2026-08-12"
+    "hash": "1ce538c0a8b716e3636c5f95b9d58dd8",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/system-requirements": {
-    "hash": "cf6ba525c486c15f646f1e5b4ea8dffe",
-    "date": "2026-08-12"
+    "hash": "aa0e5438eb1e269fb307f85a45e89cf7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/tools": {
-    "hash": "6524b13241d1992294601861672b3d67",
-    "date": "2026-08-12"
+    "hash": "157fbb1077e55b56eeb92c0873d607de",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/fr/zen-points": {
-    "hash": "5976349d44e9ad3a6cd727a3b1bca356",
-    "date": "2026-08-12"
+    "hash": "918c89c412a7611d2b77b2548eddbea5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/guides": {
-    "hash": "df1e7859ee8122fedecc1ecb3833c42b",
-    "date": "2026-08-12"
+    "hash": "2b2a386b9840d61817c7eeee6418432c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/hidden-achievements": {
-    "hash": "916abca581448fce9e80a6e833cf9545",
-    "date": "2026-08-12"
+    "hash": "dd8f1aac38e19b95dd18f41181e6b8cd",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/": {
-    "hash": "ae06ec54a42fe78dad2d3ece26caeb6d",
-    "date": "2026-08-12"
+    "hash": "8c8b3007742c52252d05b26de4cd3668",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/about": {
-    "hash": "fb9a375bedc383fa585e7501f9a5c1e9",
-    "date": "2026-08-12"
+    "hash": "4aa88bcc8bfee0fe1677d608fc0622cf",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/achievements": {
-    "hash": "2d7517b740012567c8d8c9d5d2250577",
-    "date": "2026-08-12"
+    "hash": "430c7b82bc9aef60c938191b49b399a1",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/achievements-roadmap": {
-    "hash": "9641fd95dc6a80120c117e5a86a28f08",
-    "date": "2026-08-12"
+    "hash": "db92a787cbaff3005687c96645daf1a8",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/all-devices": {
-    "hash": "8a0e99bfaab0427dfd0068fb369e2702",
-    "date": "2026-08-12"
+    "hash": "b0a3c90bd0da1f61658ae28d774bf332",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/beginners-guide": {
-    "hash": "4a95f86ebc9cec03080e4e70b7f59882",
-    "date": "2026-08-12"
+    "hash": "e2db7a8c6b8dfbb4075a478a1574177f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/contact": {
-    "hash": "bb112095c1a199a35504d9d40ab14122",
-    "date": "2026-08-12"
+    "hash": "917ae4af88802ecde58ae85d8e5b80c3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/customers": {
-    "hash": "6cb4888ae02e311db7fe38df213e5414",
-    "date": "2026-08-12"
+    "hash": "152a47b6637524fe67358e15b6b4aa69",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/atari-2600": {
-    "hash": "eb85cc2f884a2851f0b9dd70f3cd97c9",
-    "date": "2026-08-12"
+    "hash": "9902d6cfe31dfe494e9c369a7ad05ce7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/atari-cx40": {
-    "hash": "70246bd9f14aa761816fe802edda0528",
-    "date": "2026-08-12"
+    "hash": "8d24c76c151249d82a07429f51e40242",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/atari-lynx": {
-    "hash": "02fbcacf2e515d2004e2b266431bde1c",
-    "date": "2026-08-12"
+    "hash": "e083b9726c53492b8b6243024a7969fb",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/autorolla-razor": {
-    "hash": "484c3bf19f8edbee938866060ca911bc",
-    "date": "2026-08-12"
+    "hash": "bdb7715cc5f52baf8cc743b716557524",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/eggotchi": {
-    "hash": "94ac64d89cc44231ed8ebac1b3a570ff",
-    "date": "2026-08-12"
+    "hash": "5181d1a0e64910febcd5e5a55afc115f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/nony-goman": {
-    "hash": "5594b1a3ce08671c90259e22416f6036",
-    "date": "2026-08-12"
+    "hash": "d14ad818d82098fd22d9bacceb1e15a8",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/nony-playmachine": {
-    "hash": "d7c3f285269607e8f0234cef9ca6a975",
-    "date": "2026-08-12"
+    "hash": "0608bf9f4b5f0e63df9f1203becfd3ff",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/nony-pmp": {
-    "hash": "d43754ac1c25588a6fe8211e4e51062f",
-    "date": "2026-08-12"
+    "hash": "8006b32dcceb647fd86d7046bfc3fe06",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/palaloid": {
-    "hash": "c4abb76b1125dec1f384a5b170ccfa47",
-    "date": "2026-08-12"
+    "hash": "2b339eb108dba78613cdd12396f4e4cd",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/patento-bs": {
-    "hash": "18ff5369948263cc3f0882c9ef04a88a",
-    "date": "2026-08-12"
+    "hash": "e6e194f8c3a2438abf841200011deee5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/pokia-3310": {
-    "hash": "0ef3d4897969c18510ae140da0d9f070",
-    "date": "2026-08-12"
+    "hash": "27c93d1b9d42667d3a0ae38ae1f080f0",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/pokia-njoy": {
-    "hash": "59575a4283414f5bc944eb35321fa0a0",
-    "date": "2026-08-12"
+    "hash": "bcf856a2710bf51b72b6ed8b60a82081",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/robodog": {
-    "hash": "e48e6e9b27b0e5b6d78445208bee9a0c",
-    "date": "2026-08-12"
+    "hash": "ab2ddfb42bad6f2838a73e3efd45c14e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/unicorp-99l": {
-    "hash": "28e1aa6b73164ba50abe708f87c280a3",
-    "date": "2026-08-12"
+    "hash": "616d92d437ea1f9e1fec35d569ee3720",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/devices/walkie-talkie": {
-    "hash": "3e5ca8be690658955ccbe7297159a894",
-    "date": "2026-08-12"
+    "hash": "f62224c7c5d1e2b2422e88dc2d3fe9e4",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/economy": {
-    "hash": "a99ca7f08cacdf8e3d2f058d0d7cbb1c",
-    "date": "2026-08-12"
+    "hash": "f47ccc69c898d5f26d9012a5414c4afe",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/endings": {
-    "hash": "9ab98e6ee5693da3ce1f8b41e876a0dc",
-    "date": "2026-08-12"
+    "hash": "cdae264717c78ba133b373edd9e348b5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/faq": {
-    "hash": "23cca9a15629eb1b9da090a20bb45084",
-    "date": "2026-08-12"
+    "hash": "c8c46512966c13c4a91aa3243b60b060",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/guides": {
-    "hash": "cd6ba99d10b6f6228beb1dd3ead989ab",
-    "date": "2026-08-12"
+    "hash": "ecc321bde4f9b9ae689f6e5544d07510",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/hidden-achievements": {
-    "hash": "d2313aef69f352a8d2001f37517bcaaf",
-    "date": "2026-08-12"
+    "hash": "bb39fa2d4cbf1c2ee35c2037b5223762",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/licenses": {
-    "hash": "75e2c19acc6e9269176519533e3e5f78",
-    "date": "2026-08-12"
+    "hash": "c7f043b632b84ff8edcbf7fd1f38e8a1",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/online-orders": {
-    "hash": "d7dc6b423f6d663b48ee35e2a672e3ba",
-    "date": "2026-08-12"
+    "hash": "3acbdd14dce52361bd5e2c9dbd2c0f8b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/patch-notes": {
-    "hash": "527becfd48db09b5f362ddda23e4d22b",
-    "date": "2026-08-12"
+    "hash": "3495668e2772b63b6c0bd6a8d038d0dc",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/privacy": {
-    "hash": "9c16784eaf380e054328572dedd99b14",
-    "date": "2026-08-12"
+    "hash": "38153c4913432b621ea3c597bbb742f6",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/repair-guide": {
-    "hash": "fed8a6e5ec667dab4acd9b963f9298e7",
-    "date": "2026-08-12"
+    "hash": "434f778b42cb4d07a73f5424bd89338b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/steam-deck": {
-    "hash": "05132b12bdf2b74b678b586facfb3d73",
-    "date": "2026-08-12"
+    "hash": "56a075a6a63ac1c10bd43039cc247fa9",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/system-requirements": {
-    "hash": "a4dddc04f559657f2446184fc743cca1",
-    "date": "2026-08-12"
+    "hash": "6f4cb0fc8faaba2ca9d3ba8a3528d885",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/tools": {
-    "hash": "317a86353104539a9ad5497bbe3a2cf4",
-    "date": "2026-08-12"
+    "hash": "36eda3f5f544b712ee0243ad568e2b2e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ja/zen-points": {
-    "hash": "1a53e652c20b4c3d61c105df512649cc",
-    "date": "2026-08-12"
+    "hash": "ea615dd919aeaeef77a249e1f4e63b95",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/": {
-    "hash": "1af8a63cb99336c1596ee31b6e54a2e5",
-    "date": "2026-08-12"
+    "hash": "543f7dc1a2d72bae946e3a67c79c259d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/about": {
-    "hash": "e9d9d22184a320864511dc3f1d7b8f03",
-    "date": "2026-08-12"
+    "hash": "46dc3700834665bbe81eeed6b5915215",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/achievements": {
-    "hash": "82266e7a2dbeeac6471d3ec43211d85c",
-    "date": "2026-08-12"
+    "hash": "84d4e0029e91666bc29820ed2df5ebb5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/achievements-roadmap": {
-    "hash": "ce230d599b21f24dfee9e26d9c8ee215",
-    "date": "2026-08-12"
+    "hash": "43debe6c94d71639f67ea58f935e0d1e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/all-devices": {
-    "hash": "f3b531098fd93bfacb09eabaca60a1dc",
-    "date": "2026-08-12"
+    "hash": "af703bb4c575400216fbefbb2cacc672",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/beginners-guide": {
-    "hash": "f8af953f987fee0ef669be45304ad1fd",
-    "date": "2026-08-12"
+    "hash": "8dfe9c01e2d7db99234623fd64cc8b26",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/contact": {
-    "hash": "45ec0cfac08acade891fa7ca6e6aa6c5",
-    "date": "2026-08-12"
+    "hash": "04a6685d2a86fcca7135db193f4c4a89",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/customers": {
-    "hash": "6dd243af0894179d19f84ef96abeff41",
-    "date": "2026-08-12"
+    "hash": "a5fa54785cb21e093e47ae700a984d27",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/atari-2600": {
-    "hash": "e7f901824b382490137817374e8477cd",
-    "date": "2026-08-12"
+    "hash": "00f87dcb2547a96f745d28fe5381dede",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/atari-cx40": {
-    "hash": "b4259b21e7b7d5aedd71df26cc5268b1",
-    "date": "2026-08-12"
+    "hash": "ef2ad399e9333ab68f7927bff095719f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/atari-lynx": {
-    "hash": "784848d0874edb58de10efc24b66a329",
-    "date": "2026-08-12"
+    "hash": "36d0cb77c9bd8ce018feffa6b6ddd3aa",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/autorolla-razor": {
-    "hash": "f3fcf6a92fb092056281da9d563e0007",
-    "date": "2026-08-12"
+    "hash": "576007e4a6a9ea58f45c560873980c81",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/eggotchi": {
-    "hash": "d80bf436d1975958ececf9a6174b1771",
-    "date": "2026-08-12"
+    "hash": "a8b423a424146600542784ae1df6896d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/nony-goman": {
-    "hash": "6b1fc9d3e4ada48d4a51cc7b5844448a",
-    "date": "2026-08-12"
+    "hash": "d76b5b78cda80f4f088650d382be040a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/nony-playmachine": {
-    "hash": "45357e81b8c272450b69e7829c685f34",
-    "date": "2026-08-12"
+    "hash": "a5a145b42c7d02aea6d33018abdeb308",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/nony-pmp": {
-    "hash": "9a38424000e3ccd18f32db122b42fe1c",
-    "date": "2026-08-12"
+    "hash": "dfb3963886a3fe277a795bdb05df3e40",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/palaloid": {
-    "hash": "1b9201c5484e9a539903f671e340e516",
-    "date": "2026-08-12"
+    "hash": "653d038579c0e3aafd06a8784a41df2a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/patento-bs": {
-    "hash": "81e8fb0bd5aede2253afd6ceedcb3fed",
-    "date": "2026-08-12"
+    "hash": "5f31e24610c798ee8213bbc59148371a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/pokia-3310": {
-    "hash": "8a51d0c16a0f3a882e48e5ee59eaa343",
-    "date": "2026-08-12"
+    "hash": "81fb4818e14b8df9d7b9a320d4cbd7b1",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/pokia-njoy": {
-    "hash": "8ebc20a386c48a6600618bc1e05efd0c",
-    "date": "2026-08-12"
+    "hash": "588aedc9fc3baee61ee9de3fa8cf61f8",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/robodog": {
-    "hash": "3747d86c363499c8e91832262103f3d9",
-    "date": "2026-08-12"
+    "hash": "769dc3bf8a8c4e75a7239b9f2da3635f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/unicorp-99l": {
-    "hash": "a9f78bf1c26786052591df786aea584f",
-    "date": "2026-08-12"
+    "hash": "14afe43899a3930dd65a3ac33a340723",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/devices/walkie-talkie": {
-    "hash": "8d1c6f205b91520220c8d37d6475a340",
-    "date": "2026-08-12"
+    "hash": "f45b0eb818ffa70131a79b7c74386ad2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/economy": {
-    "hash": "d9fadbdec8ff05ab2a5ecb15329c9111",
-    "date": "2026-08-12"
+    "hash": "156e65b4cc995d7a86f0d165d42de78f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/endings": {
-    "hash": "021465e35b03f68858d4b42e839f3505",
-    "date": "2026-08-12"
+    "hash": "26cca381df2fae1925758e20227c6b76",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/faq": {
-    "hash": "03c5268b112dbb92a2a869c507a2e9aa",
-    "date": "2026-08-12"
+    "hash": "e45c6622d963b77427667e35687a1609",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/guides": {
-    "hash": "0a50f4cafcab4ef392d7cd9fa391d287",
-    "date": "2026-08-12"
+    "hash": "075e05fc4dd07977b78be296c873fafa",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/hidden-achievements": {
-    "hash": "7704f421cfdb91e9d7fafeb31c2a2266",
-    "date": "2026-08-12"
+    "hash": "5aed4613c032e6e04811a3e4e7a7e7b8",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/licenses": {
-    "hash": "d8c17a177661fd0077dd0660821928b8",
-    "date": "2026-08-12"
+    "hash": "1f9c40e5bb1cadb38a9722a24b27e9cf",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/online-orders": {
-    "hash": "738cb3cdfd93329fabdf2fda9645ceb6",
-    "date": "2026-08-12"
+    "hash": "ae8373f9f6b58464355f684858e4607a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/patch-notes": {
-    "hash": "7ec25544995c559229433c43f9c8fdca",
-    "date": "2026-08-12"
+    "hash": "7b04e1ede63f7d3fa8944124266fb59f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/privacy": {
-    "hash": "3a694bf304772f2aab92def9c24c37de",
-    "date": "2026-08-12"
+    "hash": "44cde1bf21bac004e3a17166afe29d30",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/repair-guide": {
-    "hash": "6ad7af3524f166fda07a58e042f4d941",
-    "date": "2026-08-12"
+    "hash": "400a54307cb216e69b9c2164cc29d73f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/steam-deck": {
-    "hash": "f1d710c7f1bb1278c0afdc35a2d02fbf",
-    "date": "2026-08-12"
+    "hash": "38487384bde27632180a180a88ec2373",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/system-requirements": {
-    "hash": "73f6d063ccfd14bc960ff3fc9ecd7c47",
-    "date": "2026-08-12"
+    "hash": "2b04bb72d9724a350487046968def4d7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/tools": {
-    "hash": "04d70b3909e9ff3d89eb793ec857d3ae",
-    "date": "2026-08-12"
+    "hash": "6a349fcb35c261a2a9f2d76882f30833",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ko/zen-points": {
-    "hash": "6a9a3e1a5515daf195ca9f3e160eb440",
-    "date": "2026-08-12"
+    "hash": "3ec54d126bdc65a23de0ea462b95da3a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/licenses": {
-    "hash": "8ff450f285763120119c6dd427a4ed57",
-    "date": "2026-08-12"
+    "hash": "617fd7228f49c910cbfb97d63ada5c20",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/online-orders": {
-    "hash": "62d38722dae65038a6b049d12fa02692",
-    "date": "2026-08-12"
+    "hash": "15e72fd3f764069ddb6cae73d52173d3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/patch-notes": {
-    "hash": "e4e3164cdaf87fc8fe5e618bdc2fe189",
-    "date": "2026-08-12"
+    "hash": "0faef3e6dca63aa1dd862cc587f2e65c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/privacy": {
-    "hash": "7fac8e03720f4b08d98762f32838de2d",
-    "date": "2026-08-12"
+    "hash": "39c2b6a80c709d10dc94ea6cbd5b6526",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/": {
-    "hash": "12789c1bd8c3207237fbee6edb36ca9f",
-    "date": "2026-08-12"
+    "hash": "0aeb30e83ef51728131cb9bc24f3bff1",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/about": {
-    "hash": "8846d07840abd85a7579a4ddf3674d36",
-    "date": "2026-08-12"
+    "hash": "6eb18490aa50c1ba7638727064d69f8b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/achievements": {
-    "hash": "752f8184b94294ed02b604910f6a41ae",
-    "date": "2026-08-12"
+    "hash": "cda379c6fd8a3cee829478d8d5ea27dc",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/achievements-roadmap": {
-    "hash": "c556215df4ab1444709f7a0aa3c7b535",
-    "date": "2026-08-12"
+    "hash": "f32a70e462d8879e9192264daa04153b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/all-devices": {
-    "hash": "b22fd01cfc0b42f8ab21eb26a36cc47c",
-    "date": "2026-08-12"
+    "hash": "c064647c28554cfe56742db1de84274b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/beginners-guide": {
-    "hash": "977e7cc1831a581cf7ec45938820bb90",
-    "date": "2026-08-12"
+    "hash": "1f97508eb993a5553a83ef2991c1216c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/contact": {
-    "hash": "0fd6b3f9e8f4111b981073534eada523",
-    "date": "2026-08-12"
+    "hash": "245c17ec9ddb5f99d9f162e6bf5dfe2e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/customers": {
-    "hash": "9df37aaa37db2932ca01e973d3ac8f6d",
-    "date": "2026-08-12"
+    "hash": "f1e1c69a84228860a6d1baee1e81e541",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/atari-2600": {
-    "hash": "83ceccc76ccce5e09c90eccd8ad5266c",
-    "date": "2026-08-12"
+    "hash": "2d999738c5be72762a406e8d81f38ac7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/atari-cx40": {
-    "hash": "a167f29613850ec0996504d042221c73",
-    "date": "2026-08-12"
+    "hash": "2a45f8c81f942862d0054c380d411ee4",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/atari-lynx": {
-    "hash": "7dbb1a4d8414854c466143678b7222e6",
-    "date": "2026-08-12"
+    "hash": "32999f9dae6f6c9c5825638debaebacc",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/autorolla-razor": {
-    "hash": "df0fed722dc5cac2eeda71720851433f",
-    "date": "2026-08-12"
+    "hash": "e4b6d5d7dd456b96b62578ec862cad82",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/eggotchi": {
-    "hash": "ad4807f786c46e1ea5d016af663244ed",
-    "date": "2026-08-12"
+    "hash": "e83e345a2884dce98fd98720eeca4a5d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/nony-goman": {
-    "hash": "ced22a3035f45319e0190a5ccddd9a89",
-    "date": "2026-08-12"
+    "hash": "ea98774c9dc98696d69285724859ad3a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/nony-playmachine": {
-    "hash": "708ec15639e79b2059e82c60b5e4a2a3",
-    "date": "2026-08-12"
+    "hash": "f2cbdf84ea4420f08e231de16d0d2209",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/nony-pmp": {
-    "hash": "9c033bfb5d3bd1c4ce1f8597a82a39e2",
-    "date": "2026-08-12"
+    "hash": "6298ef856d14897674f5795cce496230",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/palaloid": {
-    "hash": "fdb429c3304a1e9a90dd219426411595",
-    "date": "2026-08-12"
+    "hash": "b29df794369ebd74c280d48614215de3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/patento-bs": {
-    "hash": "11b8e8a7002edbcf255c55034e4125e7",
-    "date": "2026-08-12"
+    "hash": "2f8eac3bdfbf3217a9efe6c7d5a722b8",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/pokia-3310": {
-    "hash": "5b0eae07c1b149e01b4878445f46fb2f",
-    "date": "2026-08-12"
+    "hash": "607341eca2eefc700819544ebd1aa458",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/pokia-njoy": {
-    "hash": "47d20bcc2cc18b707776a2bd5e8d0a33",
-    "date": "2026-08-12"
+    "hash": "e064ecb62c95cd9419215e28a3afb7db",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/robodog": {
-    "hash": "3298bbbfdc504b9877d3f6c4f8dbef9e",
-    "date": "2026-08-12"
+    "hash": "150286601b9677ae9c050e4eed4a34fa",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/unicorp-99l": {
-    "hash": "ff2bb476285a5dfda1a78c47cac1ca2c",
-    "date": "2026-08-12"
+    "hash": "6496517a25011726173442405dce58c2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/devices/walkie-talkie": {
-    "hash": "342a923a43c0d9bd3d0341983b6df28f",
-    "date": "2026-08-12"
+    "hash": "85502247b1b886b0345e060aa66e865a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/economy": {
-    "hash": "b01440e5b2ac9b943971cd843df1ff79",
-    "date": "2026-08-12"
+    "hash": "304d586d0565ab7f63ba7864b9de9711",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/endings": {
-    "hash": "9560bc9bd610572f626d9fe794cb4675",
-    "date": "2026-08-12"
+    "hash": "db3bdffbba683ee87467d9b13c4057ce",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/faq": {
-    "hash": "53d2c585e899248a9263a718ef4239b9",
-    "date": "2026-08-12"
+    "hash": "a4c76a4d53aa3dc2016534808812ebdd",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/guides": {
-    "hash": "5182b77b6fe6c5a1f83eb00d4990d784",
-    "date": "2026-08-12"
+    "hash": "d87d50957fae87cc85fb213d2b76ca83",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/hidden-achievements": {
-    "hash": "f36769a4b4482f763d67a09bb18deca7",
-    "date": "2026-08-12"
+    "hash": "d621c72baa8ac816b2c30cd86ba80ba8",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/licenses": {
-    "hash": "9d8be65272275e9e87d6d42d299e534b",
-    "date": "2026-08-12"
+    "hash": "0cb6733cf24f676c122cce5e5c76c614",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/online-orders": {
-    "hash": "cde6034adde64cf4f125cabea5ffb956",
-    "date": "2026-08-12"
+    "hash": "7bef64e006c5a0e89da7eae55c468cc5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/patch-notes": {
-    "hash": "045367fbc9b77895d139176143b0f9e2",
-    "date": "2026-08-12"
+    "hash": "dc766c08a9ba609a7cec15c5f81a9ac1",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/privacy": {
-    "hash": "55d50c51c82591f1cdd80354f522d8eb",
-    "date": "2026-08-12"
+    "hash": "ac8dfd5d4dda3f013b8ad5e04f3f2c37",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/repair-guide": {
-    "hash": "db237040b7197c5cdf9c0b79addabb81",
-    "date": "2026-08-12"
+    "hash": "e160e581d94801130b248c60c67e3643",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/steam-deck": {
-    "hash": "fbdfe6fad609b42d28a7e1c4eb1bf9b6",
-    "date": "2026-08-12"
+    "hash": "11b22eefa8b1ea86d02d17593f592371",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/system-requirements": {
-    "hash": "39b93d1149d0eda978ac78847e5052de",
-    "date": "2026-08-12"
+    "hash": "fbc75eb06ec02ee7a8f3635dbda41f1b",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/tools": {
-    "hash": "e2b1ad1951c983e37352b365532d0939",
-    "date": "2026-08-12"
+    "hash": "32335f6170e5c660fe49137f8b378f69",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/pt-BR/zen-points": {
-    "hash": "052cd5275211a175046f768236635c18",
-    "date": "2026-08-12"
+    "hash": "1488d4b063c9a2dd119e33e7fe72e318",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/repair-guide": {
-    "hash": "bd0bbf5c40d53a891a6f751cec87e2f6",
-    "date": "2026-08-12"
+    "hash": "cf97139530d5c91d8cd2add23e68f543",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/": {
-    "hash": "91e2b461010ed1ef6d510d3d0f009d22",
-    "date": "2026-08-12"
+    "hash": "4f33bb8cd0974bd7a5d4882d9fe31cb4",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/about": {
-    "hash": "f15dce917198f2a64d01a0f04f266599",
-    "date": "2026-08-12"
+    "hash": "9e0323bca9ed9b51c5045d6838dae867",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/achievements": {
-    "hash": "dcdec7815e70f30c73c69c769c83c388",
-    "date": "2026-08-12"
+    "hash": "10d36f7d32a5a2c44e997ca364d92bb9",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/achievements-roadmap": {
-    "hash": "6dc278bffdad10407529d6d791f9f05b",
-    "date": "2026-08-12"
+    "hash": "7a00a67a6c9130286430df3dfc662fd5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/all-devices": {
-    "hash": "32eea195dffcec229f80dd3ffe424fc6",
-    "date": "2026-08-12"
+    "hash": "7804bf9bbf2abc627d2095576a7333f7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/beginners-guide": {
-    "hash": "720a50a42e158b4e96f83d4a01a3765a",
-    "date": "2026-08-12"
+    "hash": "54f65877e2af884f1bd2d3cab4b6084d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/contact": {
-    "hash": "1226d732c076daeaad7f8486bb7565c3",
-    "date": "2026-08-12"
+    "hash": "089fc821ee471cd8797c4bd0e0e399b3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/customers": {
-    "hash": "8a37766054bccb78def5807392b66ea4",
-    "date": "2026-08-12"
+    "hash": "fdc7f89ac414013cd368b9c9a138caad",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/atari-2600": {
-    "hash": "9aefc8fb1c2b6883f577964849b9c134",
-    "date": "2026-08-12"
+    "hash": "22ed8444a1d23675285d7852f60edda2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/atari-cx40": {
-    "hash": "926005c6d46e80934f81dfd80a4dc8e1",
-    "date": "2026-08-12"
+    "hash": "92e51f16cbc8f848e513a3021fdbf4e9",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/atari-lynx": {
-    "hash": "1dd05bd995ecd8db4e9e7c2d7be6e164",
-    "date": "2026-08-12"
+    "hash": "bb4b1185a45a4b344da4447e51224d8c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/autorolla-razor": {
-    "hash": "fb345b39689052e23b54334f142fd86f",
-    "date": "2026-08-12"
+    "hash": "66ca79f8d97e725e678ae8cc931b3f00",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/eggotchi": {
-    "hash": "0337e37bdff10813e620a40dc3098c69",
-    "date": "2026-08-12"
+    "hash": "35ae16c839dac6ff3d0e0cc34170c497",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/nony-goman": {
-    "hash": "89e12923ed31fb5c6d7735eca3074c05",
-    "date": "2026-08-12"
+    "hash": "7e1cfc8e409af6d105fe218d7063091d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/nony-playmachine": {
-    "hash": "898f8c99824ae71abdf1c979095b1557",
-    "date": "2026-08-12"
+    "hash": "82e4bc21262c2d16a50e35d1797dbac1",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/nony-pmp": {
-    "hash": "53d609367b7737396faa516d2f0d18ab",
-    "date": "2026-08-12"
+    "hash": "e0ed3126d6fbdcfe8a6caef404a9854d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/palaloid": {
-    "hash": "8d94e87a997832bd7a54ba266375a519",
-    "date": "2026-08-12"
+    "hash": "f5858af3b8465fa513d7a50c64ae8bd6",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/patento-bs": {
-    "hash": "8833ae823131239cff3b75869e5cfe6d",
-    "date": "2026-08-12"
+    "hash": "210a818ba5966523809a658b42773304",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/pokia-3310": {
-    "hash": "43f6472a3f5e9ee7934fc87cb1316671",
-    "date": "2026-08-12"
+    "hash": "3e8d150f8bbb0643890517d7a09b7067",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/pokia-njoy": {
-    "hash": "9a0e3fb44d04088dda1b6976936642f0",
-    "date": "2026-08-12"
+    "hash": "5815172b6cd8349275b212735bd0ec0e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/robodog": {
-    "hash": "3c2d4d354ec2613a08d03afe34aebbdb",
-    "date": "2026-08-12"
+    "hash": "5a8a2371adb2e7490da05c9796b9c935",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/unicorp-99l": {
-    "hash": "adb228779de75d5715610eb92ae8109e",
-    "date": "2026-08-12"
+    "hash": "1a3c6cfbd13944a4dc7c96b117e84d93",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/devices/walkie-talkie": {
-    "hash": "f063c6dfe145095aecd3480b112ea27a",
-    "date": "2026-08-12"
+    "hash": "2e1146a65597f1b9d0a7d792b41db407",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/economy": {
-    "hash": "fcadc14600424ad764e3496664602044",
-    "date": "2026-08-12"
+    "hash": "7ca4e0f653368a13560372662a1cfd2e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/endings": {
-    "hash": "cffcdc0d4ebe956942cd533fe2e93f8f",
-    "date": "2026-08-12"
+    "hash": "d09f8b3e493f97e19dc505be6bd66a1f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/faq": {
-    "hash": "2c2f87e239d17266f0d7b57952f72fe7",
-    "date": "2026-08-12"
+    "hash": "c8441733a13d4d25699f197797db6eef",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/guides": {
-    "hash": "20353653a7d1e652a4b742a2e69eaee9",
-    "date": "2026-08-12"
+    "hash": "b989492c6d3955b75fc8fa091c61eccf",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/hidden-achievements": {
-    "hash": "e246385d4328c97cd483d30e9a9de93f",
-    "date": "2026-08-12"
+    "hash": "0284b9a280546daacf425b035e62162e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/licenses": {
-    "hash": "237b7e1e74ec8495579926f33b81a2f9",
-    "date": "2026-08-12"
+    "hash": "afb2c19db0d53182d6a84e9798b509a9",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/online-orders": {
-    "hash": "1e88d7a8b4c5b4f36691fcfe60d21815",
-    "date": "2026-08-12"
+    "hash": "69e31dd65b9d86317081384da1002ca2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/patch-notes": {
-    "hash": "066075cbf634b0d18a418c768d0a19fe",
-    "date": "2026-08-12"
+    "hash": "1460f411a7929e9121e7ff9de37dd232",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/privacy": {
-    "hash": "109b64f03ef476e7be116538c25c1161",
-    "date": "2026-08-12"
+    "hash": "50eb3a643d9289a1487ab68230dbd05f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/repair-guide": {
-    "hash": "4f3217ab592987d807560d755f73dd3a",
-    "date": "2026-08-12"
+    "hash": "9e5519deb8c03f454d8550836cb80609",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/steam-deck": {
-    "hash": "f63dd5511e45ebfcbb15bca4314de1df",
-    "date": "2026-08-12"
+    "hash": "26b97461c33c7212b660d4fab59b80b4",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/system-requirements": {
-    "hash": "a4d385e60a971b276c56a00107512aa0",
-    "date": "2026-08-12"
+    "hash": "6bdff6dfa6baa35b04df9e7bd7c7e0a5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/tools": {
-    "hash": "b454b23719092e998e0bc89b1d7ca36d",
-    "date": "2026-08-12"
+    "hash": "a359cf706a8a82598235f66043c0c9bb",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/ru/zen-points": {
-    "hash": "7a6b1b8a35e17548c0b896704014fa91",
-    "date": "2026-08-12"
+    "hash": "0201176cdcbdedb690416b40637375c3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/steam-deck": {
-    "hash": "5cf9b14962aa339f78e8219e76670c19",
-    "date": "2026-08-12"
+    "hash": "5914fdf9d418d611c52e6b33ef55fae2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/system-requirements": {
-    "hash": "8b5aec8d2aa4ae2e6051bdea4a7aaa5a",
-    "date": "2026-08-12"
+    "hash": "5f8ecfd4c8f4daa6c6e606dfb6f9d5fa",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/tools": {
-    "hash": "0fe2895a64d4afca0be0e53ae8d31bd8",
-    "date": "2026-08-12"
+    "hash": "d6b069d3642d22c5fc03d3aaa985a365",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zen-points": {
-    "hash": "696eaafa34626457639f12a8056ce9ec",
-    "date": "2026-08-12"
+    "hash": "b87f389ed3f2d7c6a283baf174a22447",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/": {
-    "hash": "b4ce157b3a41532232285fee7dfc1095",
-    "date": "2026-08-12"
+    "hash": "8f4174f62d9c005790937a3f29e9f184",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/about": {
-    "hash": "c26bca3dede02507cde164fc78f36cc6",
-    "date": "2026-08-12"
+    "hash": "3af83a5db607028dd08f89e2842eae9f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/achievements": {
-    "hash": "caea18a380b5fe73e1dc8f4419da007f",
-    "date": "2026-08-12"
+    "hash": "1e58993877ae801c474169d4b955f625",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/achievements-roadmap": {
-    "hash": "dc7a8ff5aefef2cc9bfdb1b2f437f318",
-    "date": "2026-08-12"
+    "hash": "aead5abbebfddac457c30572c8af81f0",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/all-devices": {
-    "hash": "5c571cddd4d474e9e210986982b14777",
-    "date": "2026-08-12"
+    "hash": "25b84fe169d374a1e3616734ebc09894",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/beginners-guide": {
-    "hash": "d439997cab6566dc7ab27f599c758a0b",
-    "date": "2026-08-12"
+    "hash": "8450987884bb9fbc38c88c857727261a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/contact": {
-    "hash": "fe5ba5ae9375bd912e3bd073fa1bb048",
-    "date": "2026-08-12"
+    "hash": "f31f05b85dd08b6567a6074182d96227",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/customers": {
-    "hash": "6ed9a110f3dae30e923c12d755ac1132",
-    "date": "2026-08-12"
+    "hash": "fdcd873bd09630c9b83bf9d558ee224f",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/atari-2600": {
-    "hash": "49cd7a5be8c382ef8c95483c7464e6f0",
-    "date": "2026-08-12"
+    "hash": "9583f8a458f55fbd3531267112ee5bac",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/atari-cx40": {
-    "hash": "7e5e828a797a0b4c22755a41c9c1ae63",
-    "date": "2026-08-12"
+    "hash": "5219bd2923cb66a60adb26fe8d22f841",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/atari-lynx": {
-    "hash": "d4c6e8214e09f16ea4fbfac836a3849e",
-    "date": "2026-08-12"
+    "hash": "03202612fd30e2dd6f51efde2702ed93",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/autorolla-razor": {
-    "hash": "2348e0d87658aefaef2ea316c272565c",
-    "date": "2026-08-12"
+    "hash": "5a179c50623eda86a27be014948ba0a7",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/eggotchi": {
-    "hash": "c7158e8ed05d94ab466300c5d23a9713",
-    "date": "2026-08-12"
+    "hash": "59d42892b61ae98ce20d0aac4d7a607c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/nony-goman": {
-    "hash": "bd80f82c18c9044af986ca592be92aa2",
-    "date": "2026-08-12"
+    "hash": "682d3504bf25895753ac57d14cd7f854",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/nony-playmachine": {
-    "hash": "9790e672d9d4a02300da0e3b1bbe3af3",
-    "date": "2026-08-12"
+    "hash": "91789df352366376d79ccf3d66c53584",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/nony-pmp": {
-    "hash": "1c713529f98daaf64e0762a888a9817c",
-    "date": "2026-08-12"
+    "hash": "cdf58fadc951d538bb46d1ab806eda1d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/palaloid": {
-    "hash": "445aadb18f63e7a42597fc70bd50439c",
-    "date": "2026-08-12"
+    "hash": "e2ef809903b4aacadf041a2fc91c2df3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/patento-bs": {
-    "hash": "9f6b6cacef94f7b2643c110fe0c1880a",
-    "date": "2026-08-12"
+    "hash": "07651fdd236d017b882f9b22de5e771d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/pokia-3310": {
-    "hash": "3318f74f69ec199ccd768487134a1b41",
-    "date": "2026-08-12"
+    "hash": "e59ecd553bb1e704de99708c8e933d3d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/pokia-njoy": {
-    "hash": "a8d4e6bbe2e37625dea4ac3be523b9ba",
-    "date": "2026-08-12"
+    "hash": "2a3343623504ad0e94ea5667bdd19212",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/robodog": {
-    "hash": "6794a453804755bf7b603654dac1ae4e",
-    "date": "2026-08-12"
+    "hash": "cdf5b7e7c09418e58350e09065056049",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/unicorp-99l": {
-    "hash": "9d7ed750eef56a3c75c5f2c85c76d335",
-    "date": "2026-08-12"
+    "hash": "5383dccdd4c5f4c6c726002267a2e570",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/devices/walkie-talkie": {
-    "hash": "250d2b9ba48728c7f783c16dbb3c6979",
-    "date": "2026-08-12"
+    "hash": "362c788cdc60d3b3eb32db5aa2c38f60",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/economy": {
-    "hash": "02b24a598776213af5e8593ea4225718",
-    "date": "2026-08-12"
+    "hash": "eec2aa04ca9cef0e745e7553b54515f8",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/endings": {
-    "hash": "e6b8121946bb53b66e8607bd743d2220",
-    "date": "2026-08-12"
+    "hash": "613e47db2c8705562db260431368d78c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/faq": {
-    "hash": "8a862543bfa925d43ff72af3dcd388c1",
-    "date": "2026-08-12"
+    "hash": "db878881caa2a2f977c5854af1351dae",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/guides": {
-    "hash": "0ded1e43d4678cbb824447d39bf4252c",
-    "date": "2026-08-12"
+    "hash": "13a1872758f0437e208c8c3c1820aca1",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/hidden-achievements": {
-    "hash": "850c23b23f6dfce8b36c435b49ff6727",
-    "date": "2026-08-12"
+    "hash": "4d5d87bb1cb861769ef779886aa57a2e",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/licenses": {
-    "hash": "edae5617533cd2fbeeec8a541aea465a",
-    "date": "2026-08-12"
+    "hash": "6bccc25912df8efbcde62ed2031daf89",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/online-orders": {
-    "hash": "4ddc910e14cf949a2c54c4b3ee2d2989",
-    "date": "2026-08-12"
+    "hash": "f417847270ffa4ef483a89f81ac11852",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/patch-notes": {
-    "hash": "57f24d76af86fd502b02cf2c0ccd10fd",
-    "date": "2026-08-12"
+    "hash": "41aad52d0ac85e406700bb557706111a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/privacy": {
-    "hash": "9b24b9f889bea1f864a7032cfe5fa076",
-    "date": "2026-08-12"
+    "hash": "d2312d7a2f8c9b665a2ed17af66cbee2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/repair-guide": {
-    "hash": "4cff9a9ca1ed33771a5ba34eba7cc505",
-    "date": "2026-08-12"
+    "hash": "b5cfe8e52624a66b1d60f29b03916411",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/steam-deck": {
-    "hash": "81b0217a30ad8b70f53e01d13e30a709",
-    "date": "2026-08-12"
+    "hash": "3e2f1b6d61554846b8af88128dd4e7bf",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/system-requirements": {
-    "hash": "d909a41e91de8bc420a5925f4daa7c47",
-    "date": "2026-08-12"
+    "hash": "79593e2fe24f8cec9195f909bd9bdffb",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/tools": {
-    "hash": "c17a8f65e392b5d807f2e78c7246e5b4",
-    "date": "2026-08-12"
+    "hash": "d8eed4cbfa18ee757c1e568aca2971ff",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-CN/zen-points": {
-    "hash": "398aa295a7f44b5823e6244433c1495e",
-    "date": "2026-08-12"
+    "hash": "055cd1fb11f99cea7046d6d1b65feb57",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/": {
-    "hash": "147495bda1ad331e7ccef1c0ace4dffa",
-    "date": "2026-08-12"
+    "hash": "6388d09ea691b1c48f49167791637ab0",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/about": {
-    "hash": "ae45afaef95365074d6300fb3fc3ba8a",
-    "date": "2026-08-12"
+    "hash": "e9a3879bf1e7a0d6cd16cb735597bac3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/achievements": {
-    "hash": "26244011799befa84c98c9c657736cfe",
-    "date": "2026-08-12"
+    "hash": "12eb417fac17dbf13916172ff2b196b1",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/achievements-roadmap": {
-    "hash": "132baa627b57e763993d133a8666144b",
-    "date": "2026-08-12"
+    "hash": "de4debb8dc78c70fdcfb766d68adf943",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/all-devices": {
-    "hash": "21122f9c6f0a722acf67bf7320308366",
-    "date": "2026-08-12"
+    "hash": "3a50a5c7923368e9336384e93b6f3acf",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/beginners-guide": {
-    "hash": "bea84f726eb18ec7859faacba11a0317",
-    "date": "2026-08-12"
+    "hash": "fdffeafbf3f6a700f228a6f029e38bf3",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/contact": {
-    "hash": "83de91ec3eb7bb6974ace6dd8c4e7a3e",
-    "date": "2026-08-12"
+    "hash": "37866e2997764a54970c6e4f2055fa69",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/customers": {
-    "hash": "4d0d90880df66a51068d6a990980dc81",
-    "date": "2026-08-12"
+    "hash": "67020766e10e163a81050d2bbea20f78",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/atari-2600": {
-    "hash": "a6006599b139498cb65c81fcb8a934c8",
-    "date": "2026-08-12"
+    "hash": "ea5617880ba8dae2c5ff5fb6a3d6e550",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/atari-cx40": {
-    "hash": "15e8d699b20952462304a1d5d6a4bf86",
-    "date": "2026-08-12"
+    "hash": "b00dbdad487c2aee073061e999f24c29",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/atari-lynx": {
-    "hash": "3c61d1d7442c98af1685faf704955896",
-    "date": "2026-08-12"
+    "hash": "805b32668a0b9f3ddf91ca340beec33d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/autorolla-razor": {
-    "hash": "250b9faeab43293f3ea8dca127ffcc40",
-    "date": "2026-08-12"
+    "hash": "feb2880cfb58d2de5f405dcf90b2e267",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/eggotchi": {
-    "hash": "7d36d6d2bd17429c0ec728696168617c",
-    "date": "2026-08-12"
+    "hash": "13e029077789ba639db2123494ecd3ad",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/nony-goman": {
-    "hash": "3ff1f3c2ef9e6762510eb53f29c65bfe",
-    "date": "2026-08-12"
+    "hash": "dc89dab46705a3dc7e9395d9e57f0f92",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/nony-playmachine": {
-    "hash": "74f5c63866c332952e846ee6a2aa016e",
-    "date": "2026-08-12"
+    "hash": "919a1865daa52f9728baa841df8fe4de",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/nony-pmp": {
-    "hash": "a53323b82de7afc81d5aaf60a48269ff",
-    "date": "2026-08-12"
+    "hash": "3dcfcb4063565bfd7b65a1d7c7372150",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/palaloid": {
-    "hash": "21141d9b99c21e66760555af71793429",
-    "date": "2026-08-12"
+    "hash": "5bf1699afdc9d5a42ad44617eb0e4eca",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/patento-bs": {
-    "hash": "330ebffc9c0516b88bae6b8c323bc2ee",
-    "date": "2026-08-12"
+    "hash": "a331b775765f54c83f142f7f4511ec57",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/pokia-3310": {
-    "hash": "0594d68f171f7c47ade9f6a03d541e21",
-    "date": "2026-08-12"
+    "hash": "4c8ea70f864ffd7497ae639895a49fc2",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/pokia-njoy": {
-    "hash": "e05a9dc935d6b7086f92a2a61a080c56",
-    "date": "2026-08-12"
+    "hash": "023cc184f7d3018db88183a32375ec24",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/robodog": {
-    "hash": "2af752577cd98c22f5af293e949ab3a8",
-    "date": "2026-08-12"
+    "hash": "2c7cc83a511ee08167df34a8cc612acc",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/unicorp-99l": {
-    "hash": "d942b34eec5e40a32b0edb7c4a16d7b7",
-    "date": "2026-08-12"
+    "hash": "22b39767826e27e3c0fe1ac90bb1963c",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/devices/walkie-talkie": {
-    "hash": "a63ce1db9c2be01c17add4a045f08e93",
-    "date": "2026-08-12"
+    "hash": "88fa6c0d51aeef050fe420897abe85b5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/economy": {
-    "hash": "f6fbb903f89c076150c03af20e5eee19",
-    "date": "2026-08-12"
+    "hash": "5d7ccfb6afdaa132c9d5f8050fa4b32d",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/endings": {
-    "hash": "60f2c799f2b6243ac6c191630d00c5c7",
-    "date": "2026-08-12"
+    "hash": "cfdf217ab4e5d82c808d649f450641f9",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/faq": {
-    "hash": "d80b76e09b57aa11f55f917a54805a32",
-    "date": "2026-08-12"
+    "hash": "c6de6d4f6535ec5b7396318a4f665f48",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/guides": {
-    "hash": "649dcec47ee498b1d91df30a5a9809a7",
-    "date": "2026-08-12"
+    "hash": "bed951527b6fd788f9500ae8c6a1e1e9",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/hidden-achievements": {
-    "hash": "9d42abea812bb0129f65987f8750fcf5",
-    "date": "2026-08-12"
+    "hash": "cbb25e2c8297aa261b36eaa295d22f33",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/licenses": {
-    "hash": "5e4a568f4b3c853472e7f5a1b6c32d41",
-    "date": "2026-08-12"
+    "hash": "91c116e70c858ca08a6532d0a7e4e7a9",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/online-orders": {
-    "hash": "757cda71b578f130574009f57b67f74d",
-    "date": "2026-08-12"
+    "hash": "41ace875561497a2b46a5348799162d0",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/patch-notes": {
-    "hash": "52254588acca79b1d4000707988691f6",
-    "date": "2026-08-12"
+    "hash": "b7b30ffdb778506d93b86f8d898c9369",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/privacy": {
-    "hash": "f2302a216757c59a5408c439199d0d0a",
-    "date": "2026-08-12"
+    "hash": "2d0ccddd27b8e5ee2de466960699006a",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/repair-guide": {
-    "hash": "1d6ad8c11054a253568638a297d88ffd",
-    "date": "2026-08-12"
+    "hash": "9e3476b31bde6878858da36eae43b6af",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/steam-deck": {
-    "hash": "12c3acb5224708ce03a02ad698b496d3",
-    "date": "2026-08-12"
+    "hash": "df47ed5881d81983332c234b5f3228a5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/system-requirements": {
-    "hash": "2a570a90f67b3b52f0b6a2fc49b50c72",
-    "date": "2026-08-12"
+    "hash": "94366d9b60119bd802b45cacaacc40a5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/tools": {
-    "hash": "c828bc5973e3845aeac77735bb16926b",
-    "date": "2026-08-12"
+    "hash": "454c2b0aa612943a7ae7f08ef7ba5ec5",
+    "date": "2026-08-13"
   },
   "https://restorygameguides.com/zh-TW/zen-points": {
-    "hash": "b67680cb73a86e973a473ca9075f819f",
-    "date": "2026-08-12"
+    "hash": "7d8718e7cb1e675112e7e84c6f3b4fd5",
+    "date": "2026-08-13"
   }
 }

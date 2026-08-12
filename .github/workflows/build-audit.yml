@@ -1,0 +1,29 @@
+name: Build & Audit
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  build-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build
+        run: node scripts/generate.js
+      - name: Audit
+        run: node scripts/lib/audit.js .
+      - name: Assert deterministic build
+        run: |
+          find public -type f -print0 | sort -z | xargs -0 sha256sum > /tmp/a.sha
+          node scripts/generate.js
+          find public -type f -print0 | sort -z | xargs -0 sha256sum > /tmp/b.sha
+          diff /tmp/a.sha /tmp/b.sha

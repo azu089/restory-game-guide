@@ -195,7 +195,9 @@ function header(lang, activeSlug){
   const group1 = ["beginners-guide","repair-guide","all-devices","tools","online-orders","licenses","economy"];
   const group2 = ["achievements","achievements-roadmap","hidden-achievements","zen-points"];
   const group3 = ["endings","customers","steam-deck","system-requirements","faq","patch-notes"];
-  const dd = (label, key, slugs) => `<details class="dd" ${activeSlug && slugs.includes(activeSlug) ? "open" : ""}><summary>${esc(label)}</summary><div class="dd-menu">${slugs.map(navLink).join("")}</div></details>`;
+  // Keep dropdowns closed on page load. Auto-opening the active group covers
+  // most of the first mobile viewport and delays access to the actual answer.
+  const dd = (label, key, slugs) => `<details class="dd"><summary>${esc(label)}</summary><div class="dd-menu">${slugs.map(navLink).join("")}</div></details>`;
   const langItems = LANGS.map(l=>{
     const cur = l===lang;
     return `<a class="lang-item${cur?" on":""}" href="${urlOf(activeSlug && activeSlug!=="index" ? activeSlug : "index", l)}"><span class="lang-flag">${FLAGS[l]||""}</span><span>${LANG_META[l].name}</span>${cur?'<span class="lang-cur">✓</span>':""}</a>`;
@@ -310,6 +312,33 @@ function repairChecklist(lang){
   </section>`;
 }
 
+function endingTracker(lang){
+  const I18N = {
+    en:["Ending branch log","Record what you actually chose and saw. Notes stay in this browser and are not uploaded.","Customer or story moment","In-game day","Exact choice","Result observed","Saved locally","Save log","Clear"],
+    "zh-CN":["结局分支记录器","只记录你实际选择并看到的结果。内容仅保存在当前浏览器，不会上传。","顾客或剧情节点","游戏日期","选择原文","观察到的结果","已保存在本机","保存记录","清空"],
+    "zh-TW":["結局分支記錄器","只記錄你實際選擇並看到的結果。內容僅保存在目前瀏覽器，不會上傳。","顧客或劇情節點","遊戲日期","選擇原文","觀察到的結果","已儲存在本機","儲存記錄","清空"],
+    ja:["エンディング分岐ログ","実際に選んだ内容と確認できた結果を記録します。メモはこのブラウザだけに保存され、送信されません。","客または物語の場面","ゲーム内の日付","選んだ文言","確認した結果","ローカルに保存済み","ログを保存","消去"],
+    ko:["엔딩 분기 기록","직접 선택하고 확인한 결과만 기록하세요. 메모는 이 브라우저에만 저장되며 업로드되지 않습니다.","손님 또는 스토리 장면","게임 내 날짜","선택한 문구","확인한 결과","로컬에 저장됨","기록 저장","지우기"],
+    fr:["Journal des embranchements","Notez uniquement le choix effectué et le résultat observé. Les notes restent dans ce navigateur.","Client ou moment de l'histoire","Jour en jeu","Choix exact","Résultat observé","Enregistré localement","Enregistrer","Effacer"],
+    de:["Enden-Verzweigungsprotokoll","Notiere nur die tatsächliche Wahl und das beobachtete Ergebnis. Die Notizen bleiben in diesem Browser.","Kunde oder Story-Moment","Spieltag","Genauer Wortlaut der Wahl","Beobachtetes Ergebnis","Lokal gespeichert","Protokoll speichern","Löschen"],
+    es:["Registro de ramas de finales","Anota solo lo que elegiste y viste. Las notas se guardan únicamente en este navegador.","Cliente o momento de la historia","Día del juego","Elección exacta","Resultado observado","Guardado localmente","Guardar registro","Borrar"],
+    "pt-BR":["Registro de ramos dos finais","Registre apenas o que você escolheu e observou. As notas ficam somente neste navegador.","Cliente ou momento da história","Dia no jogo","Escolha exata","Resultado observado","Salvo localmente","Salvar registro","Limpar"],
+    ru:["Журнал веток концовок","Записывайте только выбранный вариант и увиденный результат. Заметки хранятся только в этом браузере.","Клиент или сюжетный момент","День в игре","Точный выбор","Наблюдаемый результат","Сохранено локально","Сохранить","Очистить"]
+  };
+  const t = I18N[lang] || I18N.en;
+  return `<section class="ending-tracker tracker reveal" id="ending-tracker" data-tool="ending_branch_log">
+    <div class="panel-head"><span class="panel-tag">EVIDENCE LOG</span><h2>${esc(t[0])}</h2></div>
+    <p class="panel-lead">${esc(t[1])}</p>
+    <div class="ending-fields">
+      <label>${esc(t[2])}<input type="text" data-ending-field="moment" autocomplete="off"></label>
+      <label>${esc(t[3])}<input type="text" data-ending-field="day" autocomplete="off"></label>
+      <label class="wide">${esc(t[4])}<textarea data-ending-field="choice" rows="3"></textarea></label>
+      <label class="wide">${esc(t[5])}<textarea data-ending-field="result" rows="3"></textarea></label>
+    </div>
+    <div class="ending-actions"><button type="button" class="btn btn-primary" id="ending-save">${esc(t[7])}</button><button type="button" class="btn btn-ghost" id="ending-clear">${esc(t[8])}</button><span id="ending-status" aria-live="polite">${esc(t[6])}</span></div>
+  </section>`;
+}
+
 /* ---------- home ---------- */
 function renderHome(lang){
   const s = siteI18n(lang);
@@ -415,6 +444,7 @@ function renderPage(lang, page){
   let sections2 = (t.sections||[]).map(x => renderSection(x, lang)).join("");
   // 真交互挂载
   if (page.slug === "zen-points") sections2 += zenCalc(lang);
+  if (page.slug === "endings") sections2 += endingTracker(lang);
   if (page.slug === "all-devices") {
     const devPages = DATA.pages.filter(x=>x.slug.startsWith("devices/"));
     const grid = devPages.map(dp=>{
@@ -497,6 +527,17 @@ function renderPage(lang, page){
       if(reset) reset.addEventListener("click",function(){ sum=0; draw(); });
       function draw(){ total.textContent=sum; fill.style.width=Math.min(100,sum)+"%"; total.classList.toggle("done",sum>=100); }
       draw();
+    }
+    // 结局分支记录器：只使用 localStorage，不上传文本内容。
+    var et=document.getElementById("ending-tracker"); if(et){
+      var ekey="restory-ending-log-"+document.documentElement.lang;
+      var efields=et.querySelectorAll("[data-ending-field]");
+      try { var edata=JSON.parse(localStorage.getItem(ekey)||"{}"); efields.forEach(function(f){f.value=edata[f.getAttribute("data-ending-field")]||"";}); } catch(e) {}
+      et.querySelector("#ending-save").addEventListener("click",function(){
+        var data={}; efields.forEach(function(f){data[f.getAttribute("data-ending-field")]=f.value;});
+        localStorage.setItem(ekey,JSON.stringify(data)); et.querySelector("#ending-status").classList.add("show");
+      });
+      et.querySelector("#ending-clear").addEventListener("click",function(){ efields.forEach(function(f){f.value="";}); localStorage.removeItem(ekey); et.querySelector("#ending-status").classList.remove("show"); });
     }
   })();
   </script>`;

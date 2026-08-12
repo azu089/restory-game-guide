@@ -407,6 +407,9 @@ def _load_addons(lg):
 def _merge_addons(page, lg, addons):
     t = page["i18n"].get(lg)
     if not t: return
+    # The endings add-ons contained speculative branch theories. Until exact
+    # triggers are verified at L0, keep this page deliberately concise.
+    if page["slug"] == "endings": return
     a = addons.get(page["slug"])
     if not a: return
     if a.get("intro_extra") and t.get("intro"):

@@ -22566,30 +22566,30 @@
    "sections": [
     {
      "type": "steps",
-     "heading": "What drives the endings",
+     "heading": "What is confirmed",
      "items": [
       [
-       "Your choices",
-       "Customer interactions and story decisions shape which ending you reach."
+       "Multiple endings",
+       "The official Steam description explicitly confirms a branching story with multiple endings."
       ],
       [
-       "Customer stories",
-       "Each customer's personal story advances as you repair their devices."
+       "Choices matter",
+       "The same official description says your decisions affect customers' lives and your shop."
       ],
       [
-       "Licenses",
-       "The licensed progression (Atari line etc.) is part of the main story path."
+       "Triggers are not verified",
+       "No reliable source currently gives the exact ending count, names or choice requirements."
       ]
      ]
     },
     {
      "type": "list",
-     "heading": "What we know about the branches",
+     "heading": "How to make your run useful",
      "items": [
-      "There are multiple endings (confirmed on the official Steam page).",
-      "Endings depend on the choices you make during the story.",
-      "Customer stories branch — the same customer can end up in different states.",
-      "The hidden achievements (Ronin, Melancholy, Globalization) hint at story-related branches."
+      "Write down the exact wording of major dialogue choices instead of guessing what they control.",
+      "Record the customer, in-game day and choice in the branch log below.",
+      "If the game offers a usable save point, keep it before a major decision.",
+      "Compare one changed choice at a time; that is the fastest way to verify a trigger."
      ]
     },
     {
@@ -22601,19 +22601,19 @@
        "Unknown yet — we are verifying the exact count."
       ],
       [
-       "Can I see all endings in one playthrough?",
-       "Almost certainly not — the story branches on choices, so multiple playthroughs are likely needed."
+       "Is there a confirmed true ending?",
+       "No. Multiple endings are confirmed, but a true ending is not."
       ],
       [
-       "Does the shop matter or only the story?",
-       "Both — the shop progression (licenses, reputation) is tied into the story path."
+       "Can I see all endings in one playthrough?",
+       "Unknown. We have not found a verified source for replay or save requirements."
       ]
      ]
     },
     {
      "type": "note",
      "heading": "Being verified",
-     "body": "The exact number of endings, their names and trigger conditions are on our unverified list. We will publish a full ending flowchart once verified."
+     "body": "Verification status checked August 13, 2026. We will only publish ending names or a flowchart after the conditions can be reproduced or sourced reliably."
     }
    ],
    "sources": [
@@ -22658,34 +22658,34 @@
      "title": "ReStory Endings Guide: Every Branch",
      "metaTitle": "ReStory Endings: Multiple Endings and Branch Guide",
      "metaDescription": "ReStory has multiple endings based on your choices. What we know about the branching story, what drives it, and what is still being verified.",
-     "intro": "ReStory's official description confirms a branching storyline with multiple endings that depend on your choices. The exact ending list and triggers are still being verified — this page tracks everything we know.Because endings depend on choices, the same customer can end up happy, sad, or somewhere unexpected depending on how you play. Our ending guide will grow as triggers get verified — check back, and keep notes on your choices while you play. Keep a small note of major choices as you play; when our verified ending flowchart lands, your notes will map straight onto it. Our ending guide will grow as triggers get verified; in the meantime, keep a small note of your major choices as you play. The branching story is the reason ReStory keeps players returning; knowing how branches work turns a first playthrough into a map for the second. Every branch you explore is a different read on the same shop — and that is exactly what makes a second playthrough feel new. Treat each run as a draft: choices you made once can be made differently next time, and the endings guide is here to help you see the shape of the whole tree.",
+     "intro": "ReStory's official description confirms a branching storyline with multiple endings that depend on your choices. The exact ending list and triggers are still being verified — this page tracks everything we know.",
      "sections": [
       {
        "type": "steps",
-       "heading": "What drives the endings",
+       "heading": "What is confirmed",
        "items": [
         [
-         "Your choices",
-         "Customer interactions and story decisions shape which ending you reach."
+         "Multiple endings",
+         "The official Steam description explicitly confirms a branching story with multiple endings."
         ],
         [
-         "Customer stories",
-         "Each customer's personal story advances as you repair their devices."
+         "Choices matter",
+         "The same official description says your decisions affect customers' lives and your shop."
         ],
         [
-         "Licenses",
-         "The licensed progression (Atari line etc.) is part of the main story path."
+         "Triggers are not verified",
+         "No reliable source currently gives the exact ending count, names or choice requirements."
         ]
        ]
       },
       {
        "type": "list",
-       "heading": "What we know about the branches",
+       "heading": "How to make your run useful",
        "items": [
-        "There are multiple endings (confirmed on the official Steam page).",
-        "Endings depend on the choices you make during the story.",
-        "Customer stories branch — the same customer can end up in different states.",
-        "The hidden achievements (Ronin, Melancholy, Globalization) hint at story-related branches."
+        "Write down the exact wording of major dialogue choices instead of guessing what they control.",
+        "Record the customer, in-game day and choice in the branch log below.",
+        "If the game offers a usable save point, keep it before a major decision.",
+        "Compare one changed choice at a time; that is the fastest way to verify a trigger."
        ]
       },
       {
@@ -22697,127 +22697,19 @@
          "Unknown yet — we are verifying the exact count."
         ],
         [
-         "Can I see all endings in one playthrough?",
-         "Almost certainly not — the story branches on choices, so multiple playthroughs are likely needed."
+         "Is there a confirmed true ending?",
+         "No. Multiple endings are confirmed, but a true ending is not."
         ],
         [
-         "Does the shop matter or only the story?",
-         "Both — the shop progression (licenses, reputation) is tied into the story path."
+         "Can I see all endings in one playthrough?",
+         "Unknown. We have not found a verified source for replay or save requirements."
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Being verified",
-       "body": "The exact number of endings, their names and trigger conditions are on our unverified list. We will publish a full ending flowchart once verified."
-      },
-      {
-       "type": "evidence",
-       "heading": "Story hints in hidden achievements",
-       "body": "The hidden achievements hint at story branches (names confirmed by allthings.how; triggers unverified):",
-       "items": [
-        [
-         "Ronin",
-         "A lone-wolf path — likely tied to refusing or isolating customers."
-        ],
-        [
-         "Melancholy",
-         "A bittersweet branch — likely tied to a customer outcome."
-        ],
-        [
-         "Globalization",
-         "A wider-world branch — likely tied to licenses or the internet."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Endings FAQ",
-       "items": [
-        [
-         "Can choices be undone?",
-         "Unverified — the story branches on choices; the notebook may help track them."
-        ],
-        [
-         "Do endings lock after a point?",
-         "Unverified — we will confirm once triggers are verified."
-        ],
-        [
-         "Is there a true ending?",
-         "Unverified — 'multiple endings' is confirmed, a 'true' one is not."
-        ],
-        [
-         "Should I play twice?",
-         "Probably — branching stories usually reward multiple playthroughs."
-        ]
-       ]
-      },
-      {
-       "type": "steps",
-       "heading": "How branches may open",
-       "body": "What likely drives the confirmed multiple endings:",
-       "items": [
-        [
-         "Customer choices",
-         "How you respond to each customer can change their story."
-        ],
-        [
-         "Repair quality",
-         "Clean vs rushed repairs shape outcomes."
-        ],
-        [
-         "Licensing milestones",
-         "Progressing licenses may unlock story beats."
-        ],
-        [
-         "Relationship choices",
-         "Following up on stories may open or close branches."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Branch FAQ",
-       "items": [
-        [
-         "Do I need all endings?",
-         "Only if you want the full story — there is no forced completion."
-        ],
-        [
-         "Can the story branch early?",
-         "Unverified — branch points are not yet confirmed."
-        ],
-        [
-         "Does the shop name matter?",
-         "Unverified — cosmetic effects are not confirmed."
-        ],
-        [
-         "Will patch notes reveal branches?",
-         "Watch the patch-notes guide; we track official updates."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Choice FAQ",
-       "items": [
-        [
-         "Do small choices matter as much as big ones?",
-         "Unverified — weight of each choice is not confirmed."
-        ],
-        [
-         "Can one choice ruin a run?",
-         "Unlikely — the game is chill; branches, not fail states."
-        ],
-        [
-         "Should I keep notes on choices?",
-         "The notebook helps; our guides will track branches as verified."
-        ],
-        [
-         "Do endings affect achievements?",
-         "Yes — Promise/Star/Legend of Akiba are story achievements."
-        ]
-       ]
+       "body": "Verification status checked August 13, 2026. We will only publish ending names or a flowchart after the conditions can be reproduced or sourced reliably."
       }
      ],
      "sources": [
@@ -22830,34 +22722,34 @@
      "title": "维修物语结局攻略：全分支",
      "metaTitle": "维修物语结局：多结局与分支攻略",
      "metaDescription": "维修物语基于选择有多结局。我们已知的分支剧情、什么决定结局，以及仍在核实的内容。",
-     "intro": "维修物语的官方描述确认：分支剧情、多个结局，结局取决于你的选择。确切结局数量与触发条件仍在核实——本页跟踪我们已知的一切。因为结局取决于选择，同一位顾客会因你的玩法走向圆满、遗憾或意想不到的境地。我们的结局攻略会随触发条件核实不断补充——玩的时候记得给重要选择做笔记，等核实的结局流程图落地，你的笔记能直接对上。分支剧情正是 ReStory 让玩家反复回来的原因；搞懂分支，第一次通关就会变成第二次的地图。",
+     "intro": "维修物语的官方描述确认：分支剧情、多个结局，结局取决于你的选择。确切结局数量与触发条件仍在核实——本页跟踪我们已知的一切。",
      "sections": [
       {
        "type": "steps",
-       "heading": "什么决定结局",
+       "heading": "已经确认的事实",
        "items": [
         [
-         "你的选择",
-         "顾客互动与剧情决策决定你走向哪个结局。"
+         "存在多个结局",
+         "Steam 官方描述明确确认了分支剧情与多个结局。"
         ],
         [
-         "顾客故事",
-         "每修好一位顾客的设备，他们的个人故事就前进一步。"
+         "选择会产生影响",
+         "同一官方描述确认，你的决定会影响顾客的人生与店铺。"
         ],
         [
-         "许可",
-         "许可进度（Atari 线等）是主线剧情的一部分。"
+         "触发条件尚未核实",
+         "目前没有可靠来源给出准确结局数、名称或选择条件。"
         ]
        ]
       },
       {
        "type": "list",
-       "heading": "我们对分支的已知信息",
+       "heading": "怎样记录本周目",
        "items": [
-        "存在多个结局（官方 Steam 页面确认）。",
-        "结局取决于你剧情中的选择。",
-        "顾客故事会分支——同一位顾客可能走向不同状态。",
-        "隐藏成就（Ronin、Melancholy、Globalization）暗示剧情相关分支。"
+        "记录重大对话选项的原文，不猜测它控制了什么。",
+        "在下方分支记录器中写下顾客、游戏日期与选择。",
+        "如果游戏允许在关键决定前保留可用存档，就先保留一份。",
+        "每次只改变一个选项进行对照，这是验证触发器最快的方法。"
        ]
       },
       {
@@ -22869,127 +22761,19 @@
          "未知——我们正在核实确切数量。"
         ],
         [
-         "一局能看到全部结局吗？",
-         "几乎不可能——剧情随选择分支，大概率需要多周目。"
+         "已确认存在真结局吗？",
+         "没有。已确认有多个结局，但没有可靠来源确认“真结局”。"
         ],
         [
-         "店铺经营只影响剧情吗？",
-         "两者都影响——店铺进度（许可、声誉）与剧情线挂钩。"
+         "一局能看到全部结局吗？",
+         "未知。目前没有找到可核验的周目或存档要求。"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "核实中",
-       "body": "结局的确切数量、名称与触发条件在待补清单上。确认后我们会发布完整结局流程图。"
-      },
-      {
-       "type": "evidence",
-       "heading": "隐藏成就里的剧情线索",
-       "body": "隐藏成就暗示剧情分支（名称由 allthings.how 确认；触发条件待补）：",
-       "items": [
-        [
-         "Ronin",
-         "独狼路线——可能与拒绝或孤立顾客有关。"
-        ],
-        [
-         "Melancholy",
-         "苦涩的分支——可能与某位顾客的结局有关。"
-        ],
-        [
-         "Globalization",
-         "更广阔世界的分支——可能与许可或网络有关。"
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "结局 FAQ",
-       "items": [
-        [
-         "选择能撤销吗？",
-         "待补——剧情随选择分支；笔记本可能帮你追踪。"
-        ],
-        [
-         "结局会在某个点锁定吗？",
-         "待补——触发条件核实后会确认。"
-        ],
-        [
-         "有真结局吗？",
-         "待补——已确认「多结局」，「真结局」未确认。"
-        ],
-        [
-         "要玩两遍吗？",
-         "很可能——分支剧情通常奖励多周目。"
-        ]
-       ]
-      },
-      {
-       "type": "steps",
-       "heading": "分支可能怎么打开",
-       "body": "已确认多结局背后的可能驱动：",
-       "items": [
-        [
-         "顾客选择",
-         "你对每位顾客的回应会改变他们的故事。"
-        ],
-        [
-         "维修质量",
-         "干净 vs 仓促的维修塑造结果。"
-        ],
-        [
-         "许可里程碑",
-         "推进许可可能解锁剧情节点。"
-        ],
-        [
-         "关系选择",
-         "跟进故事可能打开或关闭分支。"
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "分支 FAQ",
-       "items": [
-        [
-         "需要打完全部结局吗？",
-         "只有想看完整个故事才需要——没有强制完成。"
-        ],
-        [
-         "分支会早早就分叉吗？",
-         "待补——分支点未确认。"
-        ],
-        [
-         "店铺名字有影响吗？",
-         "待补——外观影响未确认。"
-        ],
-        [
-         "补丁说明会揭示分支吗？",
-         "关注补丁日志页；我们追踪官方更新。"
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "选择 FAQ",
-       "items": [
-        [
-         "小选择和大选择一样重要吗？",
-         "待补——每个选择的权重未确认。"
-        ],
-        [
-         "一个选择会毁掉整局吗？",
-         "不太可能——游戏很治愈；是分支，不是失败即死。"
-        ],
-        [
-         "要给选择做笔记吗？",
-         "笔记本有帮助；我们的攻略会随核实追踪分支。"
-        ],
-        [
-         "结局影响成就吗？",
-         "影响——Promise/Star/Legend of Akiba 都是剧情成就。"
-        ]
-       ]
+       "body": "核验状态更新于 2026 年 8 月 13 日。只有条件可复现或有可靠来源后，我们才会发布结局名称或流程图。"
       }
      ],
      "sources": [
@@ -23002,7 +22786,7 @@
      "title": "ReStory エンディングガイド：すべての分岐",
      "metaTitle": "ReStory エンディング：複数エンドと分岐ガイド",
      "metaDescription": "ReStory は選択で複数のエンディングに分岐。分岐ストーリーの仕組み、進行要素、検証中の内容を紹介。",
-     "intro": "ReStory の公式説明で、選択に応じて複数のエンディングに分岐するストーリーが確認されています。正確なエンディング一覧と発生条件はまだ検証中——このページでは判明しているすべてをまとめます。 エンディングは選択に依存するため、同じ客でも、プレイの仕方次第で幸せな結末にも、悲しい結末にも、あるいは予想外の結末にもなります。トリガーが検証されるにつれて、エンディングガイドも拡充していきます——またチェックしてください。プレイ中は主要な選択を小さなメモに残しておきましょう。検証済みのエンディングフローチャートが公開されたとき、あなたのメモがそのまま対応付けられます。分岐するストーリーこそ、ReStory にプレイヤーが戻ってくる理由です。分岐の仕組みを知っていれば、最初のプレイが 2 周目の地図になります。",
+     "intro": "ReStory の公式説明で、選択に応じて複数のエンディングに分岐するストーリーが確認されています。正確なエンディング一覧と発生条件はまだ検証中——このページでは判明しているすべてをまとめます。",
      "sections": [
       {
        "type": "steps",
@@ -23054,114 +22838,6 @@
        "type": "note",
        "heading": "検証中",
        "body": "エンディングの正確な数、名称、発生条件は未検証リストに載っています。検証でき次第、完全なエンディングフローチャートを公開します。"
-      },
-      {
-       "type": "evidence",
-       "heading": "隠し実績に隠されたストーリーヒント",
-       "body": "隠し実績はストーリーの分岐を示唆しています（名前は allthings.how で確認済み、トリガーは未検証）：",
-       "items": [
-        [
-         "Ronin",
-         "孤高の道——客を断る・孤立させる選択に関係しそう。"
-        ],
-        [
-         "Melancholy",
-         "ほろ苦い分岐——ある客の結末に関係しそう。"
-        ],
-        [
-         "Globalization",
-         "より広い世界への分岐——ライセンスやインターネットに関係しそう。"
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "エンディング FAQ",
-       "items": [
-        [
-         "選択はやり直せる？",
-         "未検証——ストーリーは選択で分岐します。ノートが追跡に役立つかもしれません。"
-        ],
-        [
-         "ある時点でエンディングは固定される？",
-         "未検証——トリガーが検証され次第お知らせします。"
-        ],
-        [
-         "トゥルーエンディングはある？",
-         "未検証——「複数のエンディング」は確認済みですが、「真の」エンディングは確認されていません。"
-        ],
-        [
-         "2 周プレイすべき？",
-         "おそらく——分岐ストーリーは通常、複数周を報酬にします。"
-        ]
-       ]
-      },
-      {
-       "type": "steps",
-       "heading": "分岐が開く仕組み",
-       "body": "確認済みの複数エンディングを動かすとみられる要素：",
-       "items": [
-        [
-         "客への対応",
-         "各客への応対が、そのストーリーを変えることがあります。"
-        ],
-        [
-         "修理の質",
-         "きれいな修理と急いだ修理で結末が変わります。"
-        ],
-        [
-         "ライセンスの節目",
-         "ライセンスの進行がストーリーの場面を解放するかもしれません。"
-        ],
-        [
-         "関係性の選択",
-         "ストーリーを追いかけることで、分岐が開いたり閉じたりします。"
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "分岐 FAQ",
-       "items": [
-        [
-         "すべてのエンディングが必要？",
-         "完全なストーリーを知りたい場合だけです——強制コンプリートはありません。"
-        ],
-        [
-         "ストーリーは早く分岐する？",
-         "未検証——分岐ポイントはまだ確認されていません。"
-        ],
-        [
-         "お店の名前は重要？",
-         "未検証——見た目だけの効果は確認されていません。"
-        ],
-        [
-         "パッチノートで分岐が明かされる？",
-         "パッチノートガイドをチェックしてください。公式アップデートを追跡しています。"
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "選択 FAQ",
-       "items": [
-        [
-         "小さな選択も大きな選択と同じくらい重要？",
-         "未検証——各選択の重みは確認されていません。"
-        ],
-        [
-         "1 つの選択でプレイが台無しになる？",
-         "おそらくなし——このゲームはまったり系。失敗状態ではなく分岐です。"
-        ],
-        [
-         "選択のメモを取るべき？",
-         "ノートが役立ちます。当ガイドも検証が進み次第、分岐を追跡します。"
-        ],
-        [
-         "エンディングは実績に影響する？",
-         "はい——Promise/Star/Legend of Akiba はストーリー実績です。"
-        ]
-       ]
       }
      ],
      "sources": [
@@ -23174,7 +22850,7 @@
      "title": "ReStory 엔딩 가이드: 모든 분기",
      "metaTitle": "ReStory 엔딩: 여러 엔딩 · 분기 가이드",
      "metaDescription": "ReStory에는 선택에 따른 여러 엔딩이 있습니다. 분기형 스토리, 엔딩을 결정하는 요소, 아직 확인 중인 내용.",
-     "intro": "ReStory의 공식 설명은 선택에 따라 달라지는 여러 엔딩이 있는 분기형 스토리라인을 확인해 줍니다. 정확한 엔딩 목록과 발동 조건은 아직 확인 중이며 — 이 페이지는 지금까지 알려진 모든 것을 기록합니다.엔딩은 선택에 달려 있기 때문에, 같은 손님이라도 플레이 방식에 따라 행복하거나, 슬프거나, 예상 밖의 상태로 끝날 수 있습니다. 엔딩 가이드는 발동 조건이 검증되는 대로 계속 늘어납니다 — 다시 확인해 주시고, 플레이하면서 선택을 메모해 두세요. 플레이하면서 중요한 선택을 간단히 메모해 두세요; 검증된 엔딩 플로우차트가 나오면, 당신의 메모가 그 위에 그대로 대응됩니다. 엔딩 가이드는 발동 조건이 검증되는 대로 계속 늘어납니다; 그동안 플레이하면서 중요한 선택을 간단히 메모해 두세요. 분기형 스토리는 플레이어가 ReStory에 다시 돌아오게 하는 이유이며, 분기 작동 방식을 알면 첫 회차가 두 번째 회차를 위한 지도가 됩니다.",
+     "intro": "ReStory의 공식 설명은 선택에 따라 달라지는 여러 엔딩이 있는 분기형 스토리라인을 확인해 줍니다. 정확한 엔딩 목록과 발동 조건은 아직 확인 중이며 — 이 페이지는 지금까지 알려진 모든 것을 기록합니다.",
      "sections": [
       {
        "type": "steps",
@@ -23226,114 +22902,6 @@
        "type": "note",
        "heading": "확인 중",
        "body": "정확한 엔딩 개수, 이름, 발동 조건은 미검증 목록에 있습니다. 검증되는 대로 전체 엔딩 플로우차트를 게시하겠습니다."
-      },
-      {
-       "type": "evidence",
-       "heading": "숨은 업적 속 스토리 힌트",
-       "body": "숨은 업적들이 스토리 분기를 암시합니다(이름은 allthings.how에서 확인; 발동 조건은 미검증):",
-       "items": [
-        [
-         "Ronin",
-         "고독한 늑대의 길 — 손님을 거절하거나 고립시키는 것과 관련될 가능성이 높습니다."
-        ],
-        [
-         "Melancholy",
-         "달콤쌉싸름한 분기 — 손님의 결과와 관련될 가능성이 높습니다."
-        ],
-        [
-         "Globalization",
-         "더 넓은 세계로 가는 분기 — 라이선스나 인터넷과 관련될 가능성이 높습니다."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "엔딩 FAQ",
-       "items": [
-        [
-         "선택을 되돌릴 수 있나요?",
-         "미검증 — 스토리는 선택에 따라 분기합니다; 공책이 선택을 추적하는 데 도움이 될 수 있습니다."
-        ],
-        [
-         "어느 시점 이후 엔딩이 잠기나요?",
-         "미검증 — 발동 조건이 검증되면 확인하겠습니다."
-        ],
-        [
-         "진짜 엔딩이 있나요?",
-         "미검증 — '멀티플 엔딩'은 확인되었지만, '진짜' 엔딩은 확인되지 않았습니다."
-        ],
-        [
-         "두 번 플레이해야 하나요?",
-         "아마도 그럴 것입니다 — 분기형 스토리는 보통 여러 회차 플레이를 보상합니다."
-        ]
-       ]
-      },
-      {
-       "type": "steps",
-       "heading": "분기가 열리는 방식",
-       "body": "확인된 멀티플 엔딩을 이끄는 요인:",
-       "items": [
-        [
-         "손님 선택",
-         "각 손님에게 응답하는 방식이 그들의 스토리를 바꿀 수 있습니다."
-        ],
-        [
-         "수리 품질",
-         "깔끔한 수리와 서두른 수리가 결과를 결정합니다."
-        ],
-        [
-         "라이선스 이정표",
-         "라이선스 진행이 스토리 비트를 해금할 수 있습니다."
-        ],
-        [
-         "관계 선택",
-         "스토리를 따라가는 것이 분기를 열거나 닫을 수 있습니다."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "분기 FAQ",
-       "items": [
-        [
-         "모든 엔딩이 필요한가요?",
-         "전체 스토리를 원할 때만 그렇습니다 — 강제된 100% 달성은 없습니다."
-        ],
-        [
-         "스토리가 일찍 분기할 수 있나요?",
-         "미검증 — 분기 지점은 아직 확인되지 않았습니다."
-        ],
-        [
-         "가게 이름이 중요하나요?",
-         "미검증 — 외형적 효과는 확인되지 않았습니다."
-        ],
-        [
-         "패치 노트가 분기를 알려줄까요?",
-         "패치 노트 가이드를 주시하세요; 공식 업데이트를 추적합니다."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "선택 FAQ",
-       "items": [
-        [
-         "작은 선택도 큰 선택만큼 중요하나요?",
-         "미검증 — 각 선택의 비중은 확인되지 않았습니다."
-        ],
-        [
-         "한 번의 선택이 플레이를 망칠 수 있나요?",
-         "그럴 가능성은 낮습니다 — 게임은 힐링 게임이며, 실패 상태가 아닌 분기만 있습니다."
-        ],
-        [
-         "선택에 대한 메모를 남겨야 하나요?",
-         "공책이 도움이 됩니다; 가이드가 검증되는 대로 분기를 추적하겠습니다."
-        ],
-        [
-         "엔딩이 업적에 영향을 주나요?",
-         "네 — Promise/Star/Legend of Akiba는 스토리 업적입니다."
-        ]
-       ]
       }
      ],
      "sources": [
@@ -23346,7 +22914,7 @@
      "title": "Guide des fins de ReStory : toutes les branches",
      "metaTitle": "Fins de ReStory : les fins multiples et les embranchements",
      "metaDescription": "ReStory propose plusieurs fins selon vos choix. Ce que nous savons de l'histoire à embranchements, ce qui la pilote et ce qui reste à vérifier.",
-     "intro": "La description officielle de ReStory confirme une histoire à embranchements avec plusieurs fins qui dépendent de vos choix. La liste exacte des fins et leurs déclencheurs sont encore en cours de vérification — cette page suit tout ce que nous savons. Comme les fins dépendent des choix, le même client peut finir heureux, triste, ou quelque part d'inattendu selon la façon dont vous jouez. Comme les fins dépendent des choix, le même client peut finir heureux, triste, ou quelque part d'inattendu selon la façon dont vous jouez. Notre guide des fins s'étoffera au fur et à mesure que les déclencheurs seront vérifiés — revenez, et gardez des notes sur vos choix pendant que vous jouez. Notez vos choix majeurs au fil de la partie ; quand notre organigramme vérifié des fins arrivera, vos notes s'y appliqueront directement. Notre guide des fins s'étoffera au fur et à mesure que les déclencheurs seront vérifiés ; en attendant, gardez une petite note de vos choix majeurs pendant que vous jouez. Notez vos choix majeurs au fil de la partie ; quand notre organigramme vérifié des fins arrivera, vos notes s'y appliqueront directement. L'histoire à embranchements est la raison pour laquelle ReStory fait revenir les joueurs ; savoir comment fonctionnent les embranchements transforme une première partie en carte pour la seconde.",
+     "intro": "La description officielle de ReStory confirme une histoire à embranchements avec plusieurs fins qui dépendent de vos choix. La liste exacte des fins et leurs déclencheurs sont encore en cours de vérification — cette page suit tout ce que nous savons.",
      "sections": [
       {
        "type": "steps",
@@ -23398,114 +22966,6 @@
        "type": "note",
        "heading": "En cours de vérification",
        "body": "Le nombre exact de fins, leurs noms et leurs conditions de déclenchement figurent sur notre liste des éléments non vérifiés. Nous publierons un organigramme complet des fins une fois vérifié."
-      },
-      {
-       "type": "evidence",
-       "heading": "Les indices d'histoire dans les succès cachés",
-       "body": "Les succès cachés laissent deviner des embranchements d'histoire (noms confirmés par allthings.how ; déclencheurs non vérifiés) :",
-       "items": [
-        [
-         "Ronin",
-         "Un chemin de loup solitaire — probablement lié au fait de refuser ou d'isoler les clients."
-        ],
-        [
-         "Melancholy",
-         "Un embranchement doux-amer — probablement lié à l'issue d'un client."
-        ],
-        [
-         "Globalization",
-         "Un embranchement vers le monde extérieur — probablement lié aux licences ou à Internet."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "FAQ fins",
-       "items": [
-        [
-         "Les choix peuvent-ils être annulés ?",
-         "Non vérifié — l'histoire se ramifie selon les choix ; le carnet peut aider à les suivre."
-        ],
-        [
-         "Les fins se verrouillent-elles à un moment donné ?",
-         "Non vérifié — nous confirmerons une fois les déclencheurs vérifiés."
-        ],
-        [
-         "Y a-t-il une vraie fin ?",
-         "Non vérifié — « plusieurs fins » est confirmé, une fin « véritable » ne l'est pas."
-        ],
-        [
-         "Dois-je y jouer deux fois ?",
-         "Probablement — les histoires à embranchements récompensent généralement plusieurs parties."
-        ]
-       ]
-      },
-      {
-       "type": "steps",
-       "heading": "Comment les embranchements peuvent s'ouvrir",
-       "body": "Ce qui pilote probablement les multiples fins confirmées :",
-       "items": [
-        [
-         "Choix face aux clients",
-         "La façon dont vous répondez à chaque client peut changer son histoire."
-        ],
-        [
-         "Qualité de la réparation",
-         "Les réparations propres ou bâclées façonnent les issues."
-        ],
-        [
-         "Jalons de licences",
-         "Progresser dans les licences peut débloquer des moments d'histoire."
-        ],
-        [
-         "Choix relationnels",
-         "Donner suite aux histoires peut ouvrir ou fermer des embranchements."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "FAQ embranchements",
-       "items": [
-        [
-         "Ai-je besoin de toutes les fins ?",
-         "Seulement si vous voulez l'histoire complète — aucune complétion forcée."
-        ],
-        [
-         "L'histoire peut-elle se ramifier tôt ?",
-         "Non vérifié — les points de ramification ne sont pas encore confirmés."
-        ],
-        [
-         "Le nom de la boutique compte-t-il ?",
-         "Non vérifié — les effets cosmétiques ne sont pas confirmés."
-        ],
-        [
-         "Les notes de mise à jour révéleront-elles les embranchements ?",
-         "Consultez le guide des notes de mise à jour ; nous suivons les mises à jour officielles."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "FAQ choix",
-       "items": [
-        [
-         "Les petits choix comptent-ils autant que les grands ?",
-         "Non vérifié — le poids de chaque choix n'est pas confirmé."
-        ],
-        [
-         "Un choix peut-il ruiner une partie ?",
-         "Peu probable — le jeu est relaxant ; des embranchements, pas des états d'échec."
-        ],
-        [
-         "Dois-je garder des notes sur mes choix ?",
-         "Le carnet aide ; nos guides suivront les embranchements au fur et à mesure de leur vérification."
-        ],
-        [
-         "Les fins affectent-elles les succès ?",
-         "Oui — Promise/Star/Legend of Akiba sont des succès d'histoire."
-        ]
-       ]
       }
      ],
      "sources": [
@@ -23518,7 +22978,7 @@
      "title": "ReStory Enden-Guide: Jede Verzweigung",
      "metaTitle": "ReStory Enden: Mehrere Enden and Verzweigungs-Guide",
      "metaDescription": "ReStory hat mehrere Enden, die von deinen Entscheidungen abhängen. Was wir über die verzweigte Story wissen und was noch geprüft wird.",
-     "intro": "Die offizielle Beschreibung von ReStory bestätigt eine verzweigte Storyline mit mehreren Enden, die von deinen Entscheidungen abhängen. Die genaue Enden-Liste und die Auslöser werden noch geprüft — diese Seite verfolgt alles, was wir wissen.Da Enden von Entscheidungen abhängen, kann derselbe Kunde je nach Spielweise glücklich, traurig oder irgendwo unerwartet enden. Unser Enden-Guide wächst, sobald Auslöser verifiziert werden — schau wieder vorbei und halte beim Spielen Notizen zu deinen Entscheidungen. Führe beim Spielen eine kleine Notiz über wichtige Entscheidungen; wenn unser verifiziertes Enden-Flussdiagramm erscheint, lassen sich deine Notizen direkt darauf abbilden. Unser Enden-Guide wächst, sobald Auslöser verifiziert werden; halte in der Zwischenzeit beim Spielen eine kleine Notiz über deine wichtigen Entscheidungen. Die verzweigte Geschichte ist der Grund, warum ReStory Spieler zurückkehren lässt; zu wissen, wie Verzweigungen funktionieren, macht aus einem ersten Durchlauf eine Karte für den zweiten.",
+     "intro": "Die offizielle Beschreibung von ReStory bestätigt eine verzweigte Storyline mit mehreren Enden, die von deinen Entscheidungen abhängen. Die genaue Enden-Liste und die Auslöser werden noch geprüft — diese Seite verfolgt alles, was wir wissen.",
      "sections": [
       {
        "type": "steps",
@@ -23570,114 +23030,6 @@
        "type": "note",
        "heading": "Wird geprüft",
        "body": "Die genaue Anzahl der Enden, ihre Namen und Auslösebedingungen stehen auf unserer Liste nicht verifizierter Punkte. Wir veröffentlichen ein vollständiges Enden-Flussdiagramm, sobald es verifiziert ist."
-      },
-      {
-       "type": "evidence",
-       "heading": "Story-Hinweise in versteckten Errungenschaften",
-       "body": "Die versteckten Errungenschaften deuten auf Story-Verzweigungen hin (Namen von allthings.how bestätigt; Auslöser nicht verifiziert):",
-       "items": [
-        [
-         "Ronin",
-         "Ein Einzelgänger-Pfad — wahrscheinlich an das Ablehnen oder Isolieren von Kunden gebunden."
-        ],
-        [
-         "Melancholy",
-         "Ein bittersüßer Zweig — wahrscheinlich an einen Kundenausgang gebunden."
-        ],
-        [
-         "Globalization",
-         "Ein Zweig der größeren Welt — wahrscheinlich an Lizenzen oder das Internet gebunden."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Enden-FAQ",
-       "items": [
-        [
-         "Können Entscheidungen rückgängig gemacht werden?",
-         "Nicht verifiziert — die Story verzweigt sich über Entscheidungen; das Notizbuch kann helfen, sie zu verfolgen."
-        ],
-        [
-         "Sperren sich Enden ab einem Punkt?",
-         "Nicht verifiziert — wir bestätigen es, sobald Auslöser verifiziert sind."
-        ],
-        [
-         "Gibt es ein wahres Ende?",
-         "Nicht verifiziert — 'mehrere Enden' ist bestätigt, ein 'wahres' nicht."
-        ],
-        [
-         "Sollte ich zweimal spielen?",
-         "Wahrscheinlich — verzweigte Geschichten belohnen meist mehrere Durchläufe."
-        ]
-       ]
-      },
-      {
-       "type": "steps",
-       "heading": "Wie sich Verzweigungen öffnen können",
-       "body": "Was die bestätigten mehreren Enden wahrscheinlich antreibt:",
-       "items": [
-        [
-         "Kundenentscheidungen",
-         "Wie du auf jeden Kunden reagierst, kann seine Geschichte verändern."
-        ],
-        [
-         "Reparaturqualität",
-         "Saubere vs. gehetzte Reparaturen formen die Ausgänge."
-        ],
-        [
-         "Lizenz-Meilensteine",
-         "Das Vorankommen bei Lizenzen kann Story-Momente freischalten."
-        ],
-        [
-         "Beziehungsentscheidungen",
-         "Das Nachverfolgen von Geschichten kann Zweige öffnen oder schließen."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Verzweigungs-FAQ",
-       "items": [
-        [
-         "Brauche ich alle Enden?",
-         "Nur, wenn du die ganze Story willst — es gibt keinen erzwungenen Abschluss."
-        ],
-        [
-         "Kann die Story früh verzweigen?",
-         "Nicht verifiziert — Verzweigungspunkte sind noch nicht bestätigt."
-        ],
-        [
-         "Spielt der Ladenname eine Rolle?",
-         "Nicht verifiziert — kosmetische Effekte sind nicht bestätigt."
-        ],
-        [
-         "Werden Patch-Notizen Verzweigungen verraten?",
-         "Beobachte den Patch-Notizen-Guide; wir verfolgen offizielle Updates."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Entscheidungs-FAQ",
-       "items": [
-        [
-         "Sind kleine Entscheidungen so wichtig wie große?",
-         "Nicht verifiziert — das Gewicht jeder Entscheidung ist nicht bestätigt."
-        ],
-        [
-         "Kann eine Entscheidung einen Durchlauf ruinieren?",
-         "Unwahrscheinlich — das Spiel ist entspannend; Verzweigungen statt Fail-States."
-        ],
-        [
-         "Sollte ich Notizen zu Entscheidungen führen?",
-         "Das Notizbuch hilft; unsere Guides verfolgen Zweige, sobald sie verifiziert sind."
-        ],
-        [
-         "Beeinflussen Enden Errungenschaften?",
-         "Ja — Promise/Star/Legend of Akiba sind Story-Errungenschaften."
-        ]
-       ]
       }
      ],
      "sources": [
@@ -23690,7 +23042,7 @@
      "title": "Guía de finales de ReStory: todas las ramas",
      "metaTitle": "Finales de ReStory: múltiples finales y guía de ramas",
      "metaDescription": "ReStory tiene múltiples finales según tus decisiones. Lo que sabemos sobre la historia ramificada, qué la impulsa y qué sigue en verificación.",
-     "intro": "La descripción oficial de ReStory confirma una historia ramificada con múltiples finales que dependen de tus decisiones. La lista exacta de finales y sus desencadenantes siguen en verificación; esta página registra todo lo que sabemos.Como los finales dependen de las decisiones, el mismo cliente puede acabar feliz, triste o en un sitio inesperado según cómo juegues. Nuestra guía de finales crecerá a medida que se verifiquen los desencadenantes; vuelve a consultarla y anota tus decisiones mientras juegas. Lleva una pequeña nota de las decisiones importantes; cuando publiquemos el diagrama de flujo de finales verificado, tus notas encajarán directamente en él. La historia ramificada es la razón por la que ReStory hace volver a los jugadores: saber cómo funcionan las ramas convierte una primera partida en el mapa de la segunda.",
+     "intro": "La descripción oficial de ReStory confirma una historia ramificada con múltiples finales que dependen de tus decisiones. La lista exacta de finales y sus desencadenantes siguen en verificación; esta página registra todo lo que sabemos.",
      "sections": [
       {
        "type": "steps",
@@ -23742,114 +23094,6 @@
        "type": "note",
        "heading": "En verificación",
        "body": "El número exacto de finales, sus nombres y sus condiciones de desencadenamiento están en nuestra lista de sin verificar. Publicaremos un diagrama completo de finales cuando se verifique."
-      },
-      {
-       "type": "evidence",
-       "heading": "Pistas de la historia en los logros ocultos",
-       "body": "Los logros ocultos apuntan a ramas de la historia (nombres confirmados por allthings.how; desencadenantes sin verificar):",
-       "items": [
-        [
-         "Ronin",
-         "Un camino de lobo solitario: probablemente ligado a rechazar o aislar a los clientes."
-        ],
-        [
-         "Melancholy",
-         "Una rama agridulce: probablemente ligada al desenlace de un cliente."
-        ],
-        [
-         "Globalization",
-         "Una rama de mundo más amplio: probablemente ligada a las licencias o a internet."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Preguntas frecuentes sobre finales",
-       "items": [
-        [
-         "¿Las decisiones se pueden deshacer?",
-         "Sin verificar: la historia se ramifica según las decisiones; el cuaderno puede ayudar a seguirlas."
-        ],
-        [
-         "¿Los finales se bloquean a partir de cierto punto?",
-         "Sin verificar: lo confirmaremos cuando los desencadenantes estén verificados."
-        ],
-        [
-         "¿Hay un final verdadero?",
-         "Sin verificar: 'múltiples finales' está confirmado, un final 'verdadero' no."
-        ],
-        [
-         "¿Debo jugar dos veces?",
-         "Probablemente: las historias ramificadas suelen recompensar varias partidas."
-        ]
-       ]
-      },
-      {
-       "type": "steps",
-       "heading": "Cómo pueden abrirse las ramas",
-       "body": "Lo que probablemente impulsa los múltiples finales confirmados:",
-       "items": [
-        [
-         "Decisiones con los clientes",
-         "Cómo respondes a cada cliente puede cambiar su historia."
-        ],
-        [
-         "Calidad de la reparación",
-         "Las reparaciones limpias o apresuradas dan forma a los desenlaces."
-        ],
-        [
-         "Hitos de licencias",
-         "Progresar en las licencias puede desbloquear momentos de la historia."
-        ],
-        [
-         "Decisiones de relación",
-         "Seguir las historias puede abrir o cerrar ramas."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Preguntas frecuentes sobre ramas",
-       "items": [
-        [
-         "¿Necesito todos los finales?",
-         "Solo si quieres la historia completa: no hay una completitud forzada."
-        ],
-        [
-         "¿Puede ramificarse la historia pronto?",
-         "Sin verificar: los puntos de ramificación aún no están confirmados."
-        ],
-        [
-         "¿Importa el nombre de la tienda?",
-         "Sin verificar: los efectos cosméticos no están confirmados."
-        ],
-        [
-         "¿Las notas del parche revelarán las ramas?",
-         "Consulta la guía de notas del parche; seguimos las actualizaciones oficiales."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Preguntas frecuentes sobre decisiones",
-       "items": [
-        [
-         "¿Las decisiones pequeñas importan tanto como las grandes?",
-         "Sin verificar: el peso de cada decisión no está confirmado."
-        ],
-        [
-         "¿Puede una decisión arruinar la partida?",
-         "Poco probable: el juego es relajado; hay ramas, no estados de fracaso."
-        ],
-        [
-         "¿Debería anotar mis decisiones?",
-         "El cuaderno ayuda; nuestras guías seguirán las ramas a medida que se verifiquen."
-        ],
-        [
-         "¿Los finales afectan a los logros?",
-         "Sí: Promise, Star y Legend of Akiba son logros de la historia."
-        ]
-       ]
       }
      ],
      "sources": [
@@ -23862,7 +23106,7 @@
      "title": "Guia de Finais de ReStory: Todos os Ramos",
      "metaTitle": "Finais de ReStory: Vários Finais e Guia de Ramos",
      "metaDescription": "ReStory tem vários finais baseados nas suas escolhas: o que sabemos sobre a história ramificada, o que a conduz e o que ainda está em verificação.",
-     "intro": "A descrição oficial de ReStory confirma uma história ramificada com vários finais que dependem das suas escolhas. A lista exata de finais e os gatilhos ainda estão sendo verificados — esta página registra tudo o que sabemos.Como os finais dependem das escolhas, o mesmo cliente pode terminar feliz, triste ou em algum lugar inesperado, dependendo de como você joga. Nosso guia de finais vai crescer conforme os gatilhos forem verificados — volte sempre e anote suas escolhas enquanto joga. Mantenha uma pequena anotação das escolhas principais enquanto joga; quando o fluxograma verificado de finais chegar, suas anotações vão se encaixar direto nele. Nosso guia de finais vai crescer conforme os gatilhos forem verificados; enquanto isso, anote suas escolhas principais enquanto joga. A história ramificada é o motivo pelo qual ReStory faz os jogadores voltarem; saber como os ramos funcionam transforma a primeira partida em um mapa para a segunda.",
+     "intro": "A descrição oficial de ReStory confirma uma história ramificada com vários finais que dependem das suas escolhas. A lista exata de finais e os gatilhos ainda estão sendo verificados — esta página registra tudo o que sabemos.",
      "sections": [
       {
        "type": "steps",
@@ -23914,114 +23158,6 @@
        "type": "note",
        "heading": "Em verificação",
        "body": "O número exato de finais, seus nomes e as condições de gatilho estão na nossa lista de não verificados. Publicaremos um fluxograma completo dos finais assim que for verificado."
-      },
-      {
-       "type": "evidence",
-       "heading": "Dicas da história nas conquistas ocultas",
-       "body": "As conquistas ocultas dão pistas sobre os ramos da história (nomes confirmados por allthings.how; gatilhos não verificados):",
-       "items": [
-        [
-         "Ronin",
-         "Um caminho de lobo solitário — provavelmente ligado a recusar ou isolar clientes."
-        ],
-        [
-         "Melancholy",
-         "Um ramo agridoce — provavelmente ligado ao desfecho de um cliente."
-        ],
-        [
-         "Globalization",
-         "Um ramo de mundo mais amplo — provavelmente ligado a licenças ou à internet."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Perguntas frequentes sobre finais",
-       "items": [
-        [
-         "As escolhas podem ser desfeitas?",
-         "Não verificado — a história se ramifica pelas escolhas; o caderno pode ajudar a acompanhá-las."
-        ],
-        [
-         "Os finais são travados após certo ponto?",
-         "Não verificado — vamos confirmar assim que os gatilhos forem verificados."
-        ],
-        [
-         "Existe um final verdadeiro?",
-         "Não verificado — 'vários finais' é confirmado; um 'verdadeiro' não é."
-        ],
-        [
-         "Devo jogar duas vezes?",
-         "Provavelmente — histórias ramificadas costumam recompensar várias partidas."
-        ]
-       ]
-      },
-      {
-       "type": "steps",
-       "heading": "Como os ramos podem se abrir",
-       "body": "O que provavelmente conduz os vários finais confirmados:",
-       "items": [
-        [
-         "Escolhas dos clientes",
-         "Como você responde a cada cliente pode mudar a história dele."
-        ],
-        [
-         "Qualidade do conserto",
-         "Consertos limpos versus apressados moldam os desfechos."
-        ],
-        [
-         "Marcos de licenças",
-         "Progredir nas licenças pode desbloquear momentos de história."
-        ],
-        [
-         "Escolhas de relacionamento",
-         "Dar continuidade às histórias pode abrir ou fechar ramos."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Perguntas frequentes sobre ramos",
-       "items": [
-        [
-         "Preciso de todos os finais?",
-         "Só se você quiser a história completa — não há conclusão forçada."
-        ],
-        [
-         "A história pode se ramificar cedo?",
-         "Não verificado — os pontos de ramificação ainda não são confirmados."
-        ],
-        [
-         "O nome da loja importa?",
-         "Não verificado — efeitos cosméticos não são confirmados."
-        ],
-        [
-         "As notas de atualização vão revelar os ramos?",
-         "Acompanhe o guia de notas de atualização; monitoramos os anúncios oficiais."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "Perguntas frequentes sobre escolhas",
-       "items": [
-        [
-         "Escolhas pequenas importam tanto quanto as grandes?",
-         "Não verificado — o peso de cada escolha não é confirmado."
-        ],
-        [
-         "Uma escolha pode arruinar uma partida?",
-         "Improvável — o jogo é tranquilo; são ramos, não estados de derrota."
-        ],
-        [
-         "Devo anotar minhas escolhas?",
-         "O caderno ajuda; nossos guias vão acompanhar os ramos conforme forem verificados."
-        ],
-        [
-         "Os finais afetam as conquistas?",
-         "Sim — Promise/Star/Legend of Akiba são conquistas de história."
-        ]
-       ]
       }
      ],
      "sources": [
@@ -24034,7 +23170,7 @@
      "title": "Гайд по концовкам ReStory: все ветки",
      "metaTitle": "Концовки ReStory: несколько концовок и ветки",
      "metaDescription": "В ReStory несколько концовок, зависящих от выбора. Что мы знаем о ветвящемся сюжете, что его определяет и что ещё проверяется.",
-     "intro": "Официальное описание ReStory подтверждает ветвящийся сюжет с несколькими концовками, зависящими от выбора. Точный список концовок и триггеры ещё проверяются — эта страница отслеживает всё, что мы знаем.Поскольку концовки зависят от выборов, один и тот же клиент может закончить счастливо, грустно или где-то неожиданно — в зависимости от того, как вы играете. Наш гайд по концовкам будет расти по мере проверки триггеров; заглядывайте снова и делайте заметки о своих выборах, пока играете. Записывайте ключевые выборы по ходу игры: когда появится проверенная схема концовок, ваши заметки лягут на неё напрямую. Ветвящийся сюжет — причина, по которой игроки возвращаются в ReStory; понимание веток превращает первое прохождение в карту для второго.",
+     "intro": "Официальное описание ReStory подтверждает ветвящийся сюжет с несколькими концовками, зависящими от выбора. Точный список концовок и триггеры ещё проверяются — эта страница отслеживает всё, что мы знаем.",
      "sections": [
       {
        "type": "steps",
@@ -24086,114 +23222,6 @@
        "type": "note",
        "heading": "Проверяется",
        "body": "Точное число концовок, их названия и условия триггеров в нашем списке непроверенного. Полную схему концовок опубликуем после проверки."
-      },
-      {
-       "type": "evidence",
-       "heading": "Сюжетные подсказки в скрытых достижениях",
-       "body": "Скрытые достижения намекают на сюжетные ветки (названия подтверждены allthings.how; триггеры не проверены):",
-       "items": [
-        [
-         "Ronin",
-         "Путь одиночки — вероятно, связан с отказами клиентам или изоляцией."
-        ],
-        [
-         "Melancholy",
-         "Горько-сладкая ветка — вероятно, связана с исходом клиента."
-        ],
-        [
-         "Globalization",
-         "Ветка о большом мире — вероятно, связана с лицензиями или интернетом."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "FAQ по концовкам",
-       "items": [
-        [
-         "Можно ли отменить выборы?",
-         "Не проверено — сюжет ветвится от выборов; блокнот может помочь их отслеживать."
-        ],
-        [
-         "Концовки блокируются после какого-то момента?",
-         "Не проверено — подтвердим после проверки триггеров."
-        ],
-        [
-         "Есть ли истинная концовка?",
-         "Не проверено — подтверждены «несколько концовок», «истинная» — нет."
-        ],
-        [
-         "Стоит ли играть дважды?",
-         "Вероятно — ветвящиеся истории обычно вознаграждают повторные прохождения."
-        ]
-       ]
-      },
-      {
-       "type": "steps",
-       "heading": "Как могут открываться ветки",
-       "body": "Что, вероятно, движет подтверждёнными множественными концовками:",
-       "items": [
-        [
-         "Выборы клиентов",
-         "То, как вы отвечаете клиенту, может изменить его историю."
-        ],
-        [
-         "Качество ремонта",
-         "Чистый и поспешный ремонт формируют исходы."
-        ],
-        [
-         "Лицензионные вехи",
-         "Продвижение по лицензиям может открывать сюжетные повороты."
-        ],
-        [
-         "Выборы в отношениях",
-         "Возвращение к историям может открывать или закрывать ветки."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "FAQ по веткам",
-       "items": [
-        [
-         "Нужны ли все концовки?",
-         "Только если хотите полную историю — принудительного 100% нет."
-        ],
-        [
-         "Сюжет может ветвиться рано?",
-         "Не проверено — точки ветвления пока не подтверждены."
-        ],
-        [
-         "Имя мастерской имеет значение?",
-         "Не проверено — косметические эффекты не подтверждены."
-        ],
-        [
-         "Патчноуты раскроют ветки?",
-         "Следите за гайдом по патчам; мы отслеживаем официальные обновления."
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "FAQ по выборам",
-       "items": [
-        [
-         "Мелкие выборы так же важны, как крупные?",
-         "Не проверено — вес каждого выбора не подтверждён."
-        ],
-        [
-         "Один выбор может испортить прохождение?",
-         "Вряд ли — игра расслабленная; ветки, а не проигрышные состояния."
-        ],
-        [
-         "Стоит ли записывать выборы?",
-         "Блокнот помогает; наши гайды будут отслеживать ветки по мере проверки."
-        ],
-        [
-         "Концовки влияют на достижения?",
-         "Да — Promise/Star/Legend of Akiba — сюжетные достижения."
-        ]
-       ]
       }
      ],
      "sources": [
@@ -24206,34 +23234,34 @@
      "title": "維修物語結局攻略：全分支",
      "metaTitle": "維修物語結局：多結局與分支攻略",
      "metaDescription": "維修物語基於選擇有多結局。我們已知的分支劇情、什麼決定結局，以及仍在核實的內容。",
-     "intro": "維修物語的官方描述確認：分支劇情、多個結局，結局取決於你的選擇。確切結局數量與觸發條件仍在核實——本頁跟蹤我們已知的一切。因為結局取決於選擇，同一位顧客會因你的玩法走向圓滿、遺憾或意想不到的境地。我們的結局攻略會隨觸發條件核實不斷補充——玩的時候記得給重要選擇做筆記，等核實的結局流程圖落地，你的筆記能直接對上。分支劇情正是 ReStory 讓玩家反覆回來的原因；搞懂分支，第一次通關就會變成第二次的地圖。",
+     "intro": "維修物語的官方描述確認：分支劇情、多個結局，結局取決於你的選擇。確切結局數量與觸發條件仍在核實——本頁跟蹤我們已知的一切。",
      "sections": [
       {
        "type": "steps",
-       "heading": "什麼決定結局",
+       "heading": "已經確認的事實",
        "items": [
         [
-         "你的選擇",
-         "顧客互動與劇情決策決定你走向哪個結局。"
+         "存在多個結局",
+         "Steam 官方描述明確確認了分支劇情與多個結局。"
         ],
         [
-         "顧客故事",
-         "每修好一位顧客的設備，他們的個人故事就前進一步。"
+         "選擇會產生影響",
+         "同一官方描述確認，你的決定會影響顧客的人生與店鋪。"
         ],
         [
-         "許可",
-         "許可進度（Atari 線等）是主線劇情的一部分。"
+         "觸發條件尚未核實",
+         "目前沒有可靠來源給出準確結局數、名稱或選擇條件。"
         ]
        ]
       },
       {
        "type": "list",
-       "heading": "我們對分支的已知信息",
+       "heading": "怎樣記錄本周目",
        "items": [
-        "存在多個結局（官方 Steam 頁面確認）。",
-        "結局取決於你劇情中的選擇。",
-        "顧客故事會分支——同一位顧客可能走向不同狀態。",
-        "隱藏成就（Ronin、Melancholy、Globalization）暗示劇情相關分支。"
+        "記錄重大對話選項的原文，不猜測它控制了什麼。",
+        "在下方分支記錄器中寫下顧客、遊戲日期與選擇。",
+        "如果遊戲允許在關鍵決定前保留可用存檔，就先保留一份。",
+        "每次只改變一個選項進行對照，這是驗證觸發器最快的方法。"
        ]
       },
       {
@@ -24245,127 +23273,19 @@
          "未知——我們正在核實確切數量。"
         ],
         [
-         "一局能看到全部結局嗎？",
-         "幾乎不可能——劇情隨選擇分支，大概率需要多周目。"
+         "已確認存在真結局嗎？",
+         "沒有。已確認有多個結局，但沒有可靠來源確認“真結局”。"
         ],
         [
-         "店鋪經營隻影響劇情嗎？",
-         "兩者都影響——店鋪進度（許可、聲譽）與劇情線掛鉤。"
+         "一局能看到全部結局嗎？",
+         "未知。目前沒有找到可核驗的周目或存檔要求。"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "核實中",
-       "body": "結局的確切數量、名稱與觸發條件在待補清單上。確認後我們會發布完整結局流程圖。"
-      },
-      {
-       "type": "evidence",
-       "heading": "隱藏成就裡的劇情線索",
-       "body": "隱藏成就暗示劇情分支（名稱由 allthings.how 確認；觸發條件待補）：",
-       "items": [
-        [
-         "Ronin",
-         "獨狼路線——可能與拒絕或孤立顧客有關。"
-        ],
-        [
-         "Melancholy",
-         "苦澀的分支——可能與某位顧客的結局有關。"
-        ],
-        [
-         "Globalization",
-         "更廣闊世界的分支——可能與許可或網絡有關。"
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "結局 FAQ",
-       "items": [
-        [
-         "選擇能撤銷嗎？",
-         "待補——劇情隨選擇分支；筆記本可能幫你追蹤。"
-        ],
-        [
-         "結局會在某個點鎖定嗎？",
-         "待補——觸發條件核實後會確認。"
-        ],
-        [
-         "有真結局嗎？",
-         "待補——已確認「多結局」，「真結局」未確認。"
-        ],
-        [
-         "要玩兩遍嗎？",
-         "很可能——分支劇情通常獎勵多周目。"
-        ]
-       ]
-      },
-      {
-       "type": "steps",
-       "heading": "分支可能怎麼打開",
-       "body": "已確認多結局背後的可能驅動：",
-       "items": [
-        [
-         "顧客選擇",
-         "你對每位顧客的回應會改變他們的故事。"
-        ],
-        [
-         "維修質量",
-         "乾淨 vs 倉促的維修塑造結果。"
-        ],
-        [
-         "許可里程碑",
-         "推進許可可能解鎖劇情節點。"
-        ],
-        [
-         "關係選擇",
-         "跟進故事可能打開或關閉分支。"
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "分支 FAQ",
-       "items": [
-        [
-         "需要打完全部結局嗎？",
-         "只有想看完整個故事才需要——沒有強制完成。"
-        ],
-        [
-         "分支會早早就分叉嗎？",
-         "待補——分支點未確認。"
-        ],
-        [
-         "店鋪名字有影響嗎？",
-         "待補——外觀影響未確認。"
-        ],
-        [
-         "補丁說明會揭示分支嗎？",
-         "關注補丁日誌頁；我們追蹤官方更新。"
-        ]
-       ]
-      },
-      {
-       "type": "faq",
-       "heading": "選擇 FAQ",
-       "items": [
-        [
-         "小選擇和大選擇一樣重要嗎？",
-         "待補——每個選擇的權重未確認。"
-        ],
-        [
-         "一個選擇會毀掉整局嗎？",
-         "不太可能——遊戲很治癒；是分支，不是失敗即死。"
-        ],
-        [
-         "要給選擇做筆記嗎？",
-         "筆記本有幫助；我們的攻略會隨核實追蹤分支。"
-        ],
-        [
-         "結局影響成就嗎？",
-         "影響——Promise/Star/Legend of Akiba 都是劇情成就。"
-        ]
-       ]
+       "body": "核驗狀態更新於 2026 年 8 月 13 日。只有條件可復現或有可靠來源後，我們才會發佈結局名稱或流程圖。"
       }
      ],
      "sources": [

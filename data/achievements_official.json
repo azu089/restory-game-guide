@@ -1,0 +1,3027 @@
+{
+  "source": "https://steamcommunity.com/stats/3812600/achievements",
+  "retrieved": "2026-08-13",
+  "total": 50,
+  "locales": {
+    "en": [
+      {
+        "id": "01",
+        "name": "How did I do this?",
+        "condition": "Repair a part using a soldering iron",
+        "rarity": "100.0%"
+      },
+      {
+        "id": "02",
+        "name": "First fix!",
+        "condition": "Repair a device for the first time",
+        "rarity": "98.5%"
+      },
+      {
+        "id": "03",
+        "name": "All bills paid!",
+        "condition": "Pay 2 bills",
+        "rarity": "95.9%"
+      },
+      {
+        "id": "04",
+        "name": "Master of the Internet",
+        "condition": "Accept an order by email for the first time",
+        "rarity": "94.4%"
+      },
+      {
+        "id": "05",
+        "name": "First reviews!",
+        "condition": "Get 5 reviews for your work",
+        "rarity": "87.6%"
+      },
+      {
+        "id": "06",
+        "name": "Official Partner",
+        "condition": "Buy any license",
+        "rarity": "84.4%"
+      },
+      {
+        "id": "07",
+        "name": "Twist and turn",
+        "condition": "Buy a professional screwdriver",
+        "rarity": "82.5%"
+      },
+      {
+        "id": "08",
+        "name": "Flipper",
+        "condition": "Buy 5 devices at the marketplace",
+        "rarity": "75.7%"
+      },
+      {
+        "id": "09",
+        "name": "Big cleaning!",
+        "condition": "Remove dirt and dust from 100 parts",
+        "rarity": "75.6%"
+      },
+      {
+        "id": "10",
+        "name": "Clean Job",
+        "condition": "Clean the workshop",
+        "rarity": "72.7%"
+      },
+      {
+        "id": "11",
+        "name": "WWW",
+        "condition": "Complete 25 email orders",
+        "rarity": "69.3%"
+      },
+      {
+        "id": "12",
+        "name": "Lootbox",
+        "condition": "Buy a box of parts",
+        "rarity": "68.1%"
+      },
+      {
+        "id": "13",
+        "name": "Getting popular!",
+        "condition": "Get 25 reviews for your work",
+        "rarity": "66.6%"
+      },
+      {
+        "id": "14",
+        "name": "Origami",
+        "condition": "Help a child out for free",
+        "rarity": "64.4%"
+      },
+      {
+        "id": "15",
+        "name": "Golden Partner",
+        "condition": "Acquire 5 licenses",
+        "rarity": "64.0%"
+      },
+      {
+        "id": "16",
+        "name": "Business Shark",
+        "condition": "Earn more than 100 000 yen in a single day",
+        "rarity": "57.6%"
+      },
+      {
+        "id": "17",
+        "name": "Custom orders available!",
+        "condition": "Paint a device by a client’s order for the first time",
+        "rarity": "53.6%"
+      },
+      {
+        "id": "18",
+        "name": "Frugal",
+        "condition": "Do not buy any new parts for 10 days in a row",
+        "rarity": "51.9%"
+      },
+      {
+        "id": "19",
+        "name": "Millionaire!",
+        "condition": "Earn 1 000 000 yen",
+        "rarity": "46.7%"
+      },
+      {
+        "id": "20",
+        "name": "Hands Free",
+        "condition": "Buy an automatic ultrasonic bath for cleaning",
+        "rarity": "46.2%"
+      },
+      {
+        "id": "21",
+        "name": "A Place Of Zen",
+        "condition": "Accumulate more than 100 Zen points",
+        "rarity": "45.6%"
+      },
+      {
+        "id": "22",
+        "name": "Best shop in Akiba!",
+        "condition": "Get 50 reviews for your work",
+        "rarity": "44.3%"
+      },
+      {
+        "id": "23",
+        "name": "Shredder",
+        "condition": "Buy a shredder for broken parts",
+        "rarity": "44.2%"
+      },
+      {
+        "id": "24",
+        "name": "Cozy!",
+        "condition": "Buy something to make the workshop more cozy",
+        "rarity": "43.5%"
+      },
+      {
+        "id": "25",
+        "name": "Promise of Akiba",
+        "condition": "Win in a device assmebly competition",
+        "rarity": "38.9%"
+      },
+      {
+        "id": "26",
+        "name": "Garage sale!",
+        "condition": "Buy 25 devices at the marketplace",
+        "rarity": "38.8%"
+      },
+      {
+        "id": "27",
+        "name": "Star of Akiba",
+        "condition": "Win in 3 different device assembly competitions",
+        "rarity": "36.2%"
+      },
+      {
+        "id": "28",
+        "name": "Making money!",
+        "condition": "Sell 5 devices in total",
+        "rarity": "35.5%"
+      },
+      {
+        "id": "29",
+        "name": "Hacking 101",
+        "condition": "Reprogram a device for the first time",
+        "rarity": "31.5%"
+      },
+      {
+        "id": "30",
+        "name": "Internet Business",
+        "condition": "Complete 100 email orders",
+        "rarity": "27.2%"
+      },
+      {
+        "id": "31",
+        "name": "Employee of the Month",
+        "condition": "Play through 30 days",
+        "rarity": "20.3%"
+      },
+      {
+        "id": "32",
+        "name": "Instant Cool",
+        "condition": "Apply a sticker to a device",
+        "rarity": "18.6%"
+      },
+      {
+        "id": "33",
+        "name": "Akiba never sleeps!",
+        "condition": "Do not end the day for 7 days in a row",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "34",
+        "name": "Rock for the ages!",
+        "condition": "",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "35",
+        "name": "Jack of all trades",
+        "condition": "Complete an order that involves painting, cleaning, repair and hacking",
+        "rarity": "7.3%"
+      },
+      {
+        "id": "36",
+        "name": "Are you serious? This is absurd!",
+        "condition": "Buy the most expensive license",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "37",
+        "name": "Ghost in the frame",
+        "condition": "Eye in the sky looking at you...",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "38",
+        "name": "Instant Cool-er",
+        "condition": "Apply 25 stickers",
+        "rarity": "3.3%"
+      },
+      {
+        "id": "39",
+        "name": "Platinum Partner",
+        "condition": "Acquire all licenses",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "40",
+        "name": "Bankrupt",
+        "condition": "Get an overdue bill warning",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "41",
+        "name": "Gambler",
+        "condition": "Buy 50 boxes of parts",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "42",
+        "name": "Ronin",
+        "condition": "It is possible to perfectly fulfill one's calling as a warrior.",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "43",
+        "name": "Melancholy",
+        "condition": "I don’t need no normal people!",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "44",
+        "name": "Quarterly Report",
+        "condition": "Play through 90 days",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "45",
+        "name": "Globalization",
+        "condition": "",
+        "rarity": "1.8%"
+      },
+      {
+        "id": "46",
+        "name": "Sticker Bombing",
+        "condition": "Apply 100 stickers",
+        "rarity": "1.7%"
+      },
+      {
+        "id": "47",
+        "name": "Legend of Akiba",
+        "condition": "Win in at least 1 assembly competition for each device",
+        "rarity": "1.4%"
+      },
+      {
+        "id": "48",
+        "name": "Galactic cleaning!",
+        "condition": "Remove dirt and dust from 1000 parts",
+        "rarity": "1.2%"
+      },
+      {
+        "id": "49",
+        "name": "11001",
+        "condition": "Reprogram 25 devices",
+        "rarity": "0.9%"
+      },
+      {
+        "id": "50",
+        "name": "Akiba Feels Like Home",
+        "condition": "Play through 365 days",
+        "rarity": "0.5%"
+      }
+    ],
+    "zh-CN": [
+      {
+        "id": "01",
+        "name": "怎么做到的？",
+        "condition": "使用电烙铁修复一个零件",
+        "rarity": "100.0%"
+      },
+      {
+        "id": "02",
+        "name": "首修！",
+        "condition": "首次修复一件设备",
+        "rarity": "98.5%"
+      },
+      {
+        "id": "03",
+        "name": "费都交了！",
+        "condition": "支付2份账单",
+        "rarity": "95.9%"
+      },
+      {
+        "id": "04",
+        "name": "互联网大师",
+        "condition": "首次通过电子邮件接受订单",
+        "rarity": "94.4%"
+      },
+      {
+        "id": "05",
+        "name": "首批评论！",
+        "condition": "获得5条服务评论",
+        "rarity": "87.6%"
+      },
+      {
+        "id": "06",
+        "name": "官方合作伙伴",
+        "condition": "购买任意许可证",
+        "rarity": "84.4%"
+      },
+      {
+        "id": "07",
+        "name": "拧来扭去",
+        "condition": "购买专业螺丝刀",
+        "rarity": "82.5%"
+      },
+      {
+        "id": "08",
+        "name": "倒卖商",
+        "condition": "在市场上购买5台设备",
+        "rarity": "75.7%"
+      },
+      {
+        "id": "09",
+        "name": "大扫除！",
+        "condition": "给100个零件除尘除灰",
+        "rarity": "75.6%"
+      },
+      {
+        "id": "10",
+        "name": "打扫卫生",
+        "condition": "清理工作室",
+        "rarity": "72.7%"
+      },
+      {
+        "id": "11",
+        "name": "WWW",
+        "condition": "完成25个电子邮件订单",
+        "rarity": "69.3%"
+      },
+      {
+        "id": "12",
+        "name": "战利品箱",
+        "condition": "购买一盒零件",
+        "rarity": "68.1%"
+      },
+      {
+        "id": "13",
+        "name": "人气渐增！",
+        "condition": "获得25条服务评论",
+        "rarity": "66.6%"
+      },
+      {
+        "id": "14",
+        "name": "折纸",
+        "condition": "免费帮助一名儿童",
+        "rarity": "64.4%"
+      },
+      {
+        "id": "15",
+        "name": "黄金合作伙伴",
+        "condition": "获取5张许可证",
+        "rarity": "64.0%"
+      },
+      {
+        "id": "16",
+        "name": "商界大鳄",
+        "condition": "单日赚取超过十万日元",
+        "rarity": "57.6%"
+      },
+      {
+        "id": "17",
+        "name": "定制订单来了！",
+        "condition": "首次按照客户的订单涂绘设备",
+        "rarity": "53.6%"
+      },
+      {
+        "id": "18",
+        "name": "勤俭持家",
+        "condition": "连续10天不购买任何新零件",
+        "rarity": "51.9%"
+      },
+      {
+        "id": "19",
+        "name": "百万富豪！",
+        "condition": "赚取一百万日元",
+        "rarity": "46.7%"
+      },
+      {
+        "id": "20",
+        "name": "解放双手",
+        "condition": "购买一台自动超声清洁机",
+        "rarity": "46.2%"
+      },
+      {
+        "id": "21",
+        "name": "温馨小窝",
+        "condition": "累计获得超过100温馨点数",
+        "rarity": "45.6%"
+      },
+      {
+        "id": "22",
+        "name": "秋叶原最佳店铺！",
+        "condition": "获得50条服务评论",
+        "rarity": "44.3%"
+      },
+      {
+        "id": "23",
+        "name": "粉碎机",
+        "condition": "购买用于破损零件的粉碎机",
+        "rarity": "44.2%"
+      },
+      {
+        "id": "24",
+        "name": "好温馨！",
+        "condition": "购买物品来提升工作室的温馨度",
+        "rarity": "43.5%"
+      },
+      {
+        "id": "25",
+        "name": "秋叶原之诺",
+        "condition": "在设备组装比赛中获胜",
+        "rarity": "38.9%"
+      },
+      {
+        "id": "26",
+        "name": "车库甩卖！",
+        "condition": "在市场上购买25台设备",
+        "rarity": "38.8%"
+      },
+      {
+        "id": "27",
+        "name": "秋叶原之星",
+        "condition": "在3场不同的设备组装比赛中获胜",
+        "rarity": "36.2%"
+      },
+      {
+        "id": "28",
+        "name": "赚钱！",
+        "condition": "总计出售5台设备",
+        "rarity": "35.5%"
+      },
+      {
+        "id": "29",
+        "name": "黑客入门",
+        "condition": "首次给设备重新编程",
+        "rarity": "31.5%"
+      },
+      {
+        "id": "30",
+        "name": "线上业务",
+        "condition": "完成100个电子邮件订单",
+        "rarity": "27.2%"
+      },
+      {
+        "id": "31",
+        "name": "月度优秀员工",
+        "condition": "游戏日累计到达30天",
+        "rarity": "20.3%"
+      },
+      {
+        "id": "32",
+        "name": "秒变时尚",
+        "condition": "给设备贴上贴纸",
+        "rarity": "18.6%"
+      },
+      {
+        "id": "33",
+        "name": "秋叶原永不眠！",
+        "condition": "连续7天不打烊",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "34",
+        "name": "摇滚不朽！",
+        "condition": "",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "35",
+        "name": "全能师傅",
+        "condition": "完成一份同时涉及涂绘、清洁、维修和破解的订单",
+        "rarity": "7.3%"
+      },
+      {
+        "id": "36",
+        "name": "滑天下之大稽！",
+        "condition": "购买最昂贵的许可证",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "37",
+        "name": "红桶传书",
+        "condition": "楼上楼下，互相牵挂……",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "38",
+        "name": "秒变更时尚",
+        "condition": "贴上25张贴纸",
+        "rarity": "3.3%"
+      },
+      {
+        "id": "39",
+        "name": "铂金合作伙伴",
+        "condition": "获取所有许可证",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "40",
+        "name": "破产",
+        "condition": "收到逾期账单警告",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "41",
+        "name": "赌徒",
+        "condition": "购买50盒零件",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "42",
+        "name": "浪人",
+        "condition": "完美履行自己作为战士的使命是有可能的",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "43",
+        "name": "忧郁",
+        "condition": "我不需要什么正常人！",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "44",
+        "name": "季度报告",
+        "condition": "游戏日累计到达90天",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "45",
+        "name": "全球化",
+        "condition": "",
+        "rarity": "1.8%"
+      },
+      {
+        "id": "46",
+        "name": "贴纸轰炸",
+        "condition": "贴上100张贴纸",
+        "rarity": "1.7%"
+      },
+      {
+        "id": "47",
+        "name": "秋叶原传奇",
+        "condition": "在每种设备类型的组装比赛中至少获胜1次",
+        "rarity": "1.4%"
+      },
+      {
+        "id": "48",
+        "name": "超级大扫除！",
+        "condition": "给1000个零件除尘除灰",
+        "rarity": "1.2%"
+      },
+      {
+        "id": "49",
+        "name": "11001",
+        "condition": "给25台设备重新编程",
+        "rarity": "0.9%"
+      },
+      {
+        "id": "50",
+        "name": "秋叶原是我家",
+        "condition": "游戏日累计到达365天",
+        "rarity": "0.5%"
+      }
+    ],
+    "zh-TW": [
+      {
+        "id": "01",
+        "name": "How did I do this?",
+        "condition": "Repair a part using a soldering iron",
+        "rarity": "100.0%"
+      },
+      {
+        "id": "02",
+        "name": "First fix!",
+        "condition": "Repair a device for the first time",
+        "rarity": "98.5%"
+      },
+      {
+        "id": "03",
+        "name": "All bills paid!",
+        "condition": "Pay 2 bills",
+        "rarity": "95.9%"
+      },
+      {
+        "id": "04",
+        "name": "Master of the Internet",
+        "condition": "Accept an order by email for the first time",
+        "rarity": "94.4%"
+      },
+      {
+        "id": "05",
+        "name": "First reviews!",
+        "condition": "Get 5 reviews for your work",
+        "rarity": "87.6%"
+      },
+      {
+        "id": "06",
+        "name": "Official Partner",
+        "condition": "Buy any license",
+        "rarity": "84.4%"
+      },
+      {
+        "id": "07",
+        "name": "Twist and turn",
+        "condition": "Buy a professional screwdriver",
+        "rarity": "82.5%"
+      },
+      {
+        "id": "08",
+        "name": "Flipper",
+        "condition": "Buy 5 devices at the marketplace",
+        "rarity": "75.7%"
+      },
+      {
+        "id": "09",
+        "name": "Big cleaning!",
+        "condition": "Remove dirt and dust from 100 parts",
+        "rarity": "75.6%"
+      },
+      {
+        "id": "10",
+        "name": "Clean Job",
+        "condition": "Clean the workshop",
+        "rarity": "72.7%"
+      },
+      {
+        "id": "11",
+        "name": "WWW",
+        "condition": "Complete 25 email orders",
+        "rarity": "69.3%"
+      },
+      {
+        "id": "12",
+        "name": "Lootbox",
+        "condition": "Buy a box of parts",
+        "rarity": "68.1%"
+      },
+      {
+        "id": "13",
+        "name": "Getting popular!",
+        "condition": "Get 25 reviews for your work",
+        "rarity": "66.6%"
+      },
+      {
+        "id": "14",
+        "name": "Origami",
+        "condition": "Help a child out for free",
+        "rarity": "64.4%"
+      },
+      {
+        "id": "15",
+        "name": "Golden Partner",
+        "condition": "Acquire 5 licenses",
+        "rarity": "64.0%"
+      },
+      {
+        "id": "16",
+        "name": "Business Shark",
+        "condition": "Earn more than 100 000 yen in a single day",
+        "rarity": "57.6%"
+      },
+      {
+        "id": "17",
+        "name": "Custom orders available!",
+        "condition": "Paint a device by a client’s order for the first time",
+        "rarity": "53.6%"
+      },
+      {
+        "id": "18",
+        "name": "Frugal",
+        "condition": "Do not buy any new parts for 10 days in a row",
+        "rarity": "51.9%"
+      },
+      {
+        "id": "19",
+        "name": "Millionaire!",
+        "condition": "Earn 1 000 000 yen",
+        "rarity": "46.7%"
+      },
+      {
+        "id": "20",
+        "name": "Hands Free",
+        "condition": "Buy an automatic ultrasonic bath for cleaning",
+        "rarity": "46.2%"
+      },
+      {
+        "id": "21",
+        "name": "A Place Of Zen",
+        "condition": "Accumulate more than 100 Zen points",
+        "rarity": "45.6%"
+      },
+      {
+        "id": "22",
+        "name": "Best shop in Akiba!",
+        "condition": "Get 50 reviews for your work",
+        "rarity": "44.3%"
+      },
+      {
+        "id": "23",
+        "name": "Shredder",
+        "condition": "Buy a shredder for broken parts",
+        "rarity": "44.2%"
+      },
+      {
+        "id": "24",
+        "name": "Cozy!",
+        "condition": "Buy something to make the workshop more cozy",
+        "rarity": "43.5%"
+      },
+      {
+        "id": "25",
+        "name": "Promise of Akiba",
+        "condition": "Win in a device assmebly competition",
+        "rarity": "38.9%"
+      },
+      {
+        "id": "26",
+        "name": "Garage sale!",
+        "condition": "Buy 25 devices at the marketplace",
+        "rarity": "38.8%"
+      },
+      {
+        "id": "27",
+        "name": "Star of Akiba",
+        "condition": "Win in 3 different device assembly competitions",
+        "rarity": "36.2%"
+      },
+      {
+        "id": "28",
+        "name": "Making money!",
+        "condition": "Sell 5 devices in total",
+        "rarity": "35.5%"
+      },
+      {
+        "id": "29",
+        "name": "Hacking 101",
+        "condition": "Reprogram a device for the first time",
+        "rarity": "31.5%"
+      },
+      {
+        "id": "30",
+        "name": "Internet Business",
+        "condition": "Complete 100 email orders",
+        "rarity": "27.2%"
+      },
+      {
+        "id": "31",
+        "name": "Employee of the Month",
+        "condition": "Play through 30 days",
+        "rarity": "20.3%"
+      },
+      {
+        "id": "32",
+        "name": "Instant Cool",
+        "condition": "Apply a sticker to a device",
+        "rarity": "18.6%"
+      },
+      {
+        "id": "33",
+        "name": "Akiba never sleeps!",
+        "condition": "Do not end the day for 7 days in a row",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "34",
+        "name": "Rock for the ages!",
+        "condition": "",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "35",
+        "name": "Jack of all trades",
+        "condition": "Complete an order that involves painting, cleaning, repair and hacking",
+        "rarity": "7.3%"
+      },
+      {
+        "id": "36",
+        "name": "Are you serious? This is absurd!",
+        "condition": "Buy the most expensive license",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "37",
+        "name": "Ghost in the frame",
+        "condition": "Eye in the sky looking at you...",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "38",
+        "name": "Instant Cool-er",
+        "condition": "Apply 25 stickers",
+        "rarity": "3.3%"
+      },
+      {
+        "id": "39",
+        "name": "Platinum Partner",
+        "condition": "Acquire all licenses",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "40",
+        "name": "Bankrupt",
+        "condition": "Get an overdue bill warning",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "41",
+        "name": "Gambler",
+        "condition": "Buy 50 boxes of parts",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "42",
+        "name": "Ronin",
+        "condition": "It is possible to perfectly fulfill one's calling as a warrior.",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "43",
+        "name": "Melancholy",
+        "condition": "I don’t need no normal people!",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "44",
+        "name": "Quarterly Report",
+        "condition": "Play through 90 days",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "45",
+        "name": "Globalization",
+        "condition": "",
+        "rarity": "1.8%"
+      },
+      {
+        "id": "46",
+        "name": "Sticker Bombing",
+        "condition": "Apply 100 stickers",
+        "rarity": "1.7%"
+      },
+      {
+        "id": "47",
+        "name": "Legend of Akiba",
+        "condition": "Win in at least 1 assembly competition for each device",
+        "rarity": "1.4%"
+      },
+      {
+        "id": "48",
+        "name": "Galactic cleaning!",
+        "condition": "Remove dirt and dust from 1000 parts",
+        "rarity": "1.2%"
+      },
+      {
+        "id": "49",
+        "name": "11001",
+        "condition": "Reprogram 25 devices",
+        "rarity": "0.9%"
+      },
+      {
+        "id": "50",
+        "name": "Akiba Feels Like Home",
+        "condition": "Play through 365 days",
+        "rarity": "0.5%"
+      }
+    ],
+    "ja": [
+      {
+        "id": "01",
+        "name": "うまくできた？",
+        "condition": "はんだごてを使って部品を修理する",
+        "rarity": "100.0%"
+      },
+      {
+        "id": "02",
+        "name": "はじめての修理！",
+        "condition": "デバイスをはじめて修理する",
+        "rarity": "98.5%"
+      },
+      {
+        "id": "03",
+        "name": "支払い完了！",
+        "condition": "請求書を2件支払う",
+        "rarity": "95.9%"
+      },
+      {
+        "id": "04",
+        "name": "インターネットの達人",
+        "condition": "Eメールではじめて注文を受ける",
+        "rarity": "94.4%"
+      },
+      {
+        "id": "05",
+        "name": "はじめてのレビュー！",
+        "condition": "仕事のレビューを5件受ける",
+        "rarity": "87.6%"
+      },
+      {
+        "id": "06",
+        "name": "公式パートナー",
+        "condition": "いずれかのライセンスを買う",
+        "rarity": "84.4%"
+      },
+      {
+        "id": "07",
+        "name": "ねじって回して",
+        "condition": "プロ用ドライバーを買う",
+        "rarity": "82.5%"
+      },
+      {
+        "id": "08",
+        "name": "積極的な売買",
+        "condition": "マーケットプレイスでデバイスを5個買う",
+        "rarity": "75.7%"
+      },
+      {
+        "id": "09",
+        "name": "大掃除！",
+        "condition": "100個の部品から汚れを落とす",
+        "rarity": "75.6%"
+      },
+      {
+        "id": "10",
+        "name": "清掃業務",
+        "condition": "作業場を掃除する",
+        "rarity": "72.7%"
+      },
+      {
+        "id": "11",
+        "name": "WWW",
+        "condition": "Eメールによる注文を25件完了する",
+        "rarity": "69.3%"
+      },
+      {
+        "id": "12",
+        "name": "ルートボックス",
+        "condition": "部品箱を買う",
+        "rarity": "68.1%"
+      },
+      {
+        "id": "13",
+        "name": "人気上昇中",
+        "condition": "仕事のレビューを25件受ける",
+        "rarity": "66.6%"
+      },
+      {
+        "id": "14",
+        "name": "折り紙",
+        "condition": "無償で子供を手助けする",
+        "rarity": "64.4%"
+      },
+      {
+        "id": "15",
+        "name": "ゴールドパートナー",
+        "condition": "ライセンスを5つ手に入れる",
+        "rarity": "64.0%"
+      },
+      {
+        "id": "16",
+        "name": "貪欲なビジネス",
+        "condition": "1日のうちに100,000円以上稼ぐ",
+        "rarity": "57.6%"
+      },
+      {
+        "id": "17",
+        "name": "特別注文も受け付けてます！",
+        "condition": "はじめて、お客様の注文に応じてデバイスを塗装する",
+        "rarity": "53.6%"
+      },
+      {
+        "id": "18",
+        "name": "倹約家",
+        "condition": "10日連続で、新しい部品を購入しないでいる",
+        "rarity": "51.9%"
+      },
+      {
+        "id": "19",
+        "name": "百万長者！",
+        "condition": "1,000,000円稼ぐ",
+        "rarity": "46.7%"
+      },
+      {
+        "id": "20",
+        "name": "ハンズフリー",
+        "condition": "超音波洗浄機を買って洗浄を自動化する",
+        "rarity": "46.2%"
+      },
+      {
+        "id": "21",
+        "name": "心の落ち着く場所",
+        "condition": "快適度を100ポイント以上得る",
+        "rarity": "45.6%"
+      },
+      {
+        "id": "22",
+        "name": "アキバいちの修理店！",
+        "condition": "仕事のレビューを50件受ける",
+        "rarity": "44.3%"
+      },
+      {
+        "id": "23",
+        "name": "粉々に裁断",
+        "condition": "壊れた部品の処分用にシュレッダーを買う",
+        "rarity": "44.2%"
+      },
+      {
+        "id": "24",
+        "name": "快適度アップ！",
+        "condition": "作業場の快適度を上げるものを買う",
+        "rarity": "43.5%"
+      },
+      {
+        "id": "25",
+        "name": "アキバの新進気鋭",
+        "condition": "デバイス組立チャレンジに勝つ",
+        "rarity": "38.9%"
+      },
+      {
+        "id": "26",
+        "name": "ガレージセール！",
+        "condition": "マーケットプレイスでデバイスを25個買う",
+        "rarity": "38.8%"
+      },
+      {
+        "id": "27",
+        "name": "アキバのスター",
+        "condition": "3種類のデバイスで組立チャレンジに勝つ",
+        "rarity": "36.2%"
+      },
+      {
+        "id": "28",
+        "name": "事業は順調！",
+        "condition": "デバイスを累計5つ売る",
+        "rarity": "35.5%"
+      },
+      {
+        "id": "29",
+        "name": "ハッキング入門",
+        "condition": "はじめてデバイスを再プログラミングする",
+        "rarity": "31.5%"
+      },
+      {
+        "id": "30",
+        "name": "インターネットビジネス",
+        "condition": "Eメールによる注文を100件完了する",
+        "rarity": "27.2%"
+      },
+      {
+        "id": "31",
+        "name": "今月の最優秀従業員",
+        "condition": "30日間プレイする",
+        "rarity": "20.3%"
+      },
+      {
+        "id": "32",
+        "name": "あっという間にカッコよく",
+        "condition": "ステッカーをデバイスに張る",
+        "rarity": "18.6%"
+      },
+      {
+        "id": "33",
+        "name": "不夜城アキバ",
+        "condition": "7日連続で、一日を終了しないでいる",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "34",
+        "name": "時代を超えたロック",
+        "condition": "",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "35",
+        "name": "何でも屋",
+        "condition": "塗装、掃除、修理、ハッキングを必要とする注文を完了する",
+        "rarity": "7.3%"
+      },
+      {
+        "id": "36",
+        "name": "本気？どう考えてもボッタクリ！",
+        "condition": "最も高価なライセンスを買う",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "37",
+        "name": "GHOST IN THE FRAME",
+        "condition": "空に浮かぶ目が見つめている…",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "38",
+        "name": "あっという間にもっとカッコよく",
+        "condition": "ステッカーを25枚張る",
+        "rarity": "3.3%"
+      },
+      {
+        "id": "39",
+        "name": "プラチナパートナー",
+        "condition": "すべてのライセンスを手に入れる",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "40",
+        "name": "破産",
+        "condition": "請求書の延滞警告を受け取る",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "41",
+        "name": "ギャンブラー",
+        "condition": "部品箱を50箱買う",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "42",
+        "name": "浪人",
+        "condition": "ある者の戦士としての天命を完璧に全うさせることは可能だ",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "43",
+        "name": "メランコリー",
+        "condition": "普通の人なんて要らない！",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "44",
+        "name": "四半期業務報告",
+        "condition": "90日間プレイする",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "45",
+        "name": "グローバル化",
+        "condition": "",
+        "rarity": "1.8%"
+      },
+      {
+        "id": "46",
+        "name": "ステッカーボム",
+        "condition": "ステッカーを100枚張る",
+        "rarity": "1.7%"
+      },
+      {
+        "id": "47",
+        "name": "アキバのレジェンド",
+        "condition": "全種類のデバイスで各1回以上、組立チャレンジに勝つ",
+        "rarity": "1.4%"
+      },
+      {
+        "id": "48",
+        "name": "銀河級の大掃除！",
+        "condition": "1000個の部品から汚れを落とす",
+        "rarity": "1.2%"
+      },
+      {
+        "id": "49",
+        "name": "11001",
+        "condition": "25個のデバイスを再プログラミングする",
+        "rarity": "0.9%"
+      },
+      {
+        "id": "50",
+        "name": "アキバこそ自分の居場所",
+        "condition": "365日間プレイする",
+        "rarity": "0.5%"
+      }
+    ],
+    "ko": [
+      {
+        "id": "01",
+        "name": "내가 이걸 어떻게 했담?",
+        "condition": "납땜 인두를 사용해서 부품 한 개를 수리하세요",
+        "rarity": "100.0%"
+      },
+      {
+        "id": "02",
+        "name": "첫 수리!",
+        "condition": "처음으로 기기 수리를 마치세요",
+        "rarity": "98.5%"
+      },
+      {
+        "id": "03",
+        "name": "납부 완료!",
+        "condition": "청구서 2개를 납부하세요",
+        "rarity": "95.9%"
+      },
+      {
+        "id": "04",
+        "name": "인터넷의 대가",
+        "condition": "이메일로 첫 주문을 받으세요",
+        "rarity": "94.4%"
+      },
+      {
+        "id": "05",
+        "name": "첫 리뷰!",
+        "condition": "작업 결과에 대한 리뷰를 5개 받으세요",
+        "rarity": "87.6%"
+      },
+      {
+        "id": "06",
+        "name": "공식 파트너",
+        "condition": "아무 라이선스나 구입하세요",
+        "rarity": "84.4%"
+      },
+      {
+        "id": "07",
+        "name": "돌리고 비틀고",
+        "condition": "전문가용 드라이버를 구입하세요",
+        "rarity": "82.5%"
+      },
+      {
+        "id": "08",
+        "name": "플리퍼",
+        "condition": "장터에서 기기 5개를 구입하세요",
+        "rarity": "75.7%"
+      },
+      {
+        "id": "09",
+        "name": "대청소!",
+        "condition": "100개의 부품에서 흙먼지를 제거하세요",
+        "rarity": "75.6%"
+      },
+      {
+        "id": "10",
+        "name": "깔끔한 직업",
+        "condition": "작업실을 청소하세요",
+        "rarity": "72.7%"
+      },
+      {
+        "id": "11",
+        "name": "WWW",
+        "condition": "이메일 의뢰를 25회 완료하세요",
+        "rarity": "69.3%"
+      },
+      {
+        "id": "12",
+        "name": "루트박스",
+        "condition": "부품 상자 한 개를 구입하세요",
+        "rarity": "68.1%"
+      },
+      {
+        "id": "13",
+        "name": "인기가 치솟는 중!",
+        "condition": "작업 결과에 대한 리뷰를 25개 받으세요",
+        "rarity": "66.6%"
+      },
+      {
+        "id": "14",
+        "name": "종이접기",
+        "condition": "아이를 공짜로 도와주세요",
+        "rarity": "64.4%"
+      },
+      {
+        "id": "15",
+        "name": "골든 파트너",
+        "condition": "라이선스 5개를 취득하세요",
+        "rarity": "64.0%"
+      },
+      {
+        "id": "16",
+        "name": "공격적인 사업가",
+        "condition": "하루에 100,000엔 이상을 벌어들이세요",
+        "rarity": "57.6%"
+      },
+      {
+        "id": "17",
+        "name": "커스텀 주문도 받아요!",
+        "condition": "고객의 의뢰를 받아 처음으로 기기를 도색하세요",
+        "rarity": "53.6%"
+      },
+      {
+        "id": "18",
+        "name": "근검절약",
+        "condition": "10일 연속으로 새 부품을 한 개도 구입하지 마세요",
+        "rarity": "51.9%"
+      },
+      {
+        "id": "19",
+        "name": "백만장자다!",
+        "condition": "1,000,000엔을 벌어들이세요",
+        "rarity": "46.7%"
+      },
+      {
+        "id": "20",
+        "name": "핸즈프리",
+        "condition": "초음파 자동 세척기를 구입하세요",
+        "rarity": "46.2%"
+      },
+      {
+        "id": "21",
+        "name": "편안한 장소",
+        "condition": "편안함 점수를 100점 이상 모으세요",
+        "rarity": "45.6%"
+      },
+      {
+        "id": "22",
+        "name": "아키바 최고의 가게!",
+        "condition": "작업 결과에 대한 리뷰를 50개 받으세요",
+        "rarity": "44.3%"
+      },
+      {
+        "id": "23",
+        "name": "파쇄기",
+        "condition": "고장난 부품을 처리할 파쇄기를 구입하세요",
+        "rarity": "44.2%"
+      },
+      {
+        "id": "24",
+        "name": "안락하군!",
+        "condition": "작업실을 보다 편안하게 만들 무언가를 구입하세요",
+        "rarity": "43.5%"
+      },
+      {
+        "id": "25",
+        "name": "아키바의 유망주",
+        "condition": "기기 조립 대회에서 한 번 승리하세요",
+        "rarity": "38.9%"
+      },
+      {
+        "id": "26",
+        "name": "차고 세일!",
+        "condition": "장터에서 기기 25개를 구입하세요",
+        "rarity": "38.8%"
+      },
+      {
+        "id": "27",
+        "name": "아키바의 별",
+        "condition": "3가지 기기 조립 대회에서 승리하세요",
+        "rarity": "36.2%"
+      },
+      {
+        "id": "28",
+        "name": "돈 좀 벌어볼까!",
+        "condition": "총 5개의 기기를 판매하세요",
+        "rarity": "35.5%"
+      },
+      {
+        "id": "29",
+        "name": "해킹의 기본",
+        "condition": "기기를 처음으로 재프로그래밍 하세요",
+        "rarity": "31.5%"
+      },
+      {
+        "id": "30",
+        "name": "인터넷 사업",
+        "condition": "이메일 의뢰를 100회 완료하세요",
+        "rarity": "27.2%"
+      },
+      {
+        "id": "31",
+        "name": "이달의 직원",
+        "condition": "30일 동안 플레이하세요",
+        "rarity": "20.3%"
+      },
+      {
+        "id": "32",
+        "name": "즉시 멋지게",
+        "condition": "기기에 스티커 한 장을 붙이세요",
+        "rarity": "18.6%"
+      },
+      {
+        "id": "33",
+        "name": "아키바는 잠들지 않아!",
+        "condition": "하루를 끝마치지 않고 7일을 연속으로 보내세요",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "34",
+        "name": "세기의 락 공연!",
+        "condition": "",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "35",
+        "name": "만물박사",
+        "condition": "도색, 세척, 수리, 해킹을 모두 포함하는 의뢰를 1회 완료하세요",
+        "rarity": "7.3%"
+      },
+      {
+        "id": "36",
+        "name": "진짜? 말도 안 돼!",
+        "condition": "가장 비싼 라이선스를 구입하세요",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "37",
+        "name": "액자 속의 유령",
+        "condition": "하늘의 눈이 당신을 바라봅니다...",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "38",
+        "name": "즉시 더 멋지게",
+        "condition": "스티커 25장을 붙이세요",
+        "rarity": "3.3%"
+      },
+      {
+        "id": "39",
+        "name": "플래티넘 파트너",
+        "condition": "모든 라이선스를 취득하세요",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "40",
+        "name": "파산",
+        "condition": "연체 경고를 받으세요",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "41",
+        "name": "도박꾼",
+        "condition": "부품 상자 50개를 구입하세요",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "42",
+        "name": "낭인",
+        "condition": "전사의 소명을 완전히 달성하는 건 충분히 가능한 일입니다.",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "43",
+        "name": "우울",
+        "condition": "평범한 사람은 필요 없습니다!",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "44",
+        "name": "분기 보고",
+        "condition": "90일 동안 플레이하세요",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "45",
+        "name": "세계화",
+        "condition": "",
+        "rarity": "1.8%"
+      },
+      {
+        "id": "46",
+        "name": "스티커 폭격",
+        "condition": "스티커 100장을 붙이세요",
+        "rarity": "1.7%"
+      },
+      {
+        "id": "47",
+        "name": "아키바의 전설",
+        "condition": "각각의 유형의 기기 조립 대회에서 최소 1회 승리하세요",
+        "rarity": "1.4%"
+      },
+      {
+        "id": "48",
+        "name": "은하 대청소!",
+        "condition": "1000개의 부품에서 흙먼지를 제거하세요",
+        "rarity": "1.2%"
+      },
+      {
+        "id": "49",
+        "name": "11001",
+        "condition": "25개의 기기를 재프로그래밍 하세요",
+        "rarity": "0.9%"
+      },
+      {
+        "id": "50",
+        "name": "나의 고향 아키바",
+        "condition": "365일 동안 플레이하세요",
+        "rarity": "0.5%"
+      }
+    ],
+    "fr": [
+      {
+        "id": "01",
+        "name": "Comment fer ?",
+        "condition": "Réparer un composant avec un fer à souder",
+        "rarity": "100.0%"
+      },
+      {
+        "id": "02",
+        "name": "Première réparation !",
+        "condition": "Réparer un appareil pour la première fois",
+        "rarity": "98.5%"
+      },
+      {
+        "id": "03",
+        "name": "Comptabilité à jour !",
+        "condition": "Payer 2 factures",
+        "rarity": "95.9%"
+      },
+      {
+        "id": "04",
+        "name": "Sensei du net",
+        "condition": "Prendre une commande par email pour la première fois",
+        "rarity": "94.4%"
+      },
+      {
+        "id": "05",
+        "name": "Premiers avis !",
+        "condition": "Obtenir 5 avis",
+        "rarity": "87.6%"
+      },
+      {
+        "id": "06",
+        "name": "Partenaire officiel",
+        "condition": "Acheter une licence",
+        "rarity": "84.4%"
+      },
+      {
+        "id": "07",
+        "name": "Tournez manette",
+        "condition": "Acheter un tournevis professionnel",
+        "rarity": "82.5%"
+      },
+      {
+        "id": "08",
+        "name": "Chineur",
+        "condition": "Acheter 5 appareils en ligne",
+        "rarity": "75.7%"
+      },
+      {
+        "id": "09",
+        "name": "Nettoyage de printemps !",
+        "condition": "Retirer la crasse et la poussière de 100 pièces détachées",
+        "rarity": "75.6%"
+      },
+      {
+        "id": "10",
+        "name": "C'est du propre",
+        "condition": "Nettoyer la boutique",
+        "rarity": "72.7%"
+      },
+      {
+        "id": "11",
+        "name": "WWW",
+        "condition": "Honorer 25 commandes par email",
+        "rarity": "69.3%"
+      },
+      {
+        "id": "12",
+        "name": "Lootbox",
+        "condition": "Acheter une boîte de pièces détachées",
+        "rarity": "68.1%"
+      },
+      {
+        "id": "13",
+        "name": "Enseigne populaire !",
+        "condition": "Obtenir 25 avis",
+        "rarity": "66.6%"
+      },
+      {
+        "id": "14",
+        "name": "Origami",
+        "condition": "Aider un enfant gratuitement",
+        "rarity": "64.4%"
+      },
+      {
+        "id": "15",
+        "name": "Partenaire or",
+        "condition": "Obtenir 5 licences",
+        "rarity": "64.0%"
+      },
+      {
+        "id": "16",
+        "name": "Prospère",
+        "condition": "Gagner plus de 100 000 yens en une journée",
+        "rarity": "57.6%"
+      },
+      {
+        "id": "17",
+        "name": "Commandes personnalisées disponibles !",
+        "condition": "Peindre un appareil à la demande du client pour la première fois",
+        "rarity": "53.6%"
+      },
+      {
+        "id": "18",
+        "name": "Disette",
+        "condition": "Ne pas acheter de pièces détachées pendant 10 jours",
+        "rarity": "51.9%"
+      },
+      {
+        "id": "19",
+        "name": "Millionnaire !",
+        "condition": "Gagner 1 000 000 yens",
+        "rarity": "46.7%"
+      },
+      {
+        "id": "20",
+        "name": "Sans les mains",
+        "condition": "Acheter un bain à ultrasons",
+        "rarity": "46.2%"
+      },
+      {
+        "id": "21",
+        "name": "Temple zen",
+        "condition": "Accumuler plus de 100 points de zen",
+        "rarity": "45.6%"
+      },
+      {
+        "id": "22",
+        "name": "Meilleure adresse d'Akiba !",
+        "condition": "Obtenir 50 avis",
+        "rarity": "44.3%"
+      },
+      {
+        "id": "23",
+        "name": "Broyeur",
+        "condition": "Acheter un broyeur",
+        "rarity": "44.2%"
+      },
+      {
+        "id": "24",
+        "name": "Zen !",
+        "condition": "Acheter de quoi décorer la boutique",
+        "rarity": "43.5%"
+      },
+      {
+        "id": "25",
+        "name": "Espoir d'Akiba",
+        "condition": "Gagner un tournoi d'assemblage",
+        "rarity": "38.9%"
+      },
+      {
+        "id": "26",
+        "name": "Brocanteur !",
+        "condition": "Acheter 25 appareils en ligne",
+        "rarity": "38.8%"
+      },
+      {
+        "id": "27",
+        "name": "Étoile d'Akiba",
+        "condition": "Gagner 3 tournois d'assemblage différents",
+        "rarity": "36.2%"
+      },
+      {
+        "id": "28",
+        "name": "Argent facile !",
+        "condition": "Vendre un total de 5 appareils",
+        "rarity": "35.5%"
+      },
+      {
+        "id": "29",
+        "name": "Hacking élémentaire",
+        "condition": "Reprogrammer un appareil pour la première fois",
+        "rarity": "31.5%"
+      },
+      {
+        "id": "30",
+        "name": "Entreprise en ligne",
+        "condition": "Honorer 100 commandes par email",
+        "rarity": "27.2%"
+      },
+      {
+        "id": "31",
+        "name": "Employé du mois",
+        "condition": "Jouer pendant 30 jours",
+        "rarity": "20.3%"
+      },
+      {
+        "id": "32",
+        "name": "Super stylé",
+        "condition": "Coller un autocollant",
+        "rarity": "18.6%"
+      },
+      {
+        "id": "33",
+        "name": "Akiba ne dort jamais !",
+        "condition": "Ne pas mettre fin à la journée 7 jours de suite",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "34",
+        "name": "Concert du siècle !",
+        "condition": "",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "35",
+        "name": "Touche-à-tout",
+        "condition": "Honorer une commande impliquant peinture, nettoyage, réparation et reprogrammation",
+        "rarity": "7.3%"
+      },
+      {
+        "id": "36",
+        "name": "Sérieusement ? C'est abusé !",
+        "condition": "Acheter la licence la plus chère",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "37",
+        "name": "Le fantôme dans la machine",
+        "condition": "L’œil dans le ciel est pointé sur toi...",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "38",
+        "name": "Mégastylé",
+        "condition": "Coller 25 autocollants",
+        "rarity": "3.3%"
+      },
+      {
+        "id": "39",
+        "name": "Partenaire platine",
+        "condition": "Obtenir toutes les licences",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "40",
+        "name": "Banqueroute",
+        "condition": "Recevoir une notification de facture impayée",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "41",
+        "name": "Joueur",
+        "condition": "Acheter 50 boîtes de pièces détachées",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "42",
+        "name": "Ronin",
+        "condition": "Il est possible de répondre à l'appel du guerrier.",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "43",
+        "name": "Mélancolie",
+        "condition": "Je n’ai pas besoin de gens normaux !",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "44",
+        "name": "Bilan trimestriel",
+        "condition": "Jouer pendant 90 jours",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "45",
+        "name": "Globalisation",
+        "condition": "",
+        "rarity": "1.8%"
+      },
+      {
+        "id": "46",
+        "name": "Colleur fou",
+        "condition": "Coller 100 autocollants",
+        "rarity": "1.7%"
+      },
+      {
+        "id": "47",
+        "name": "Légende d'Akiba",
+        "condition": "Gagner au moins 1 tournoi d'assemblage pour chaque sorte d'appareil",
+        "rarity": "1.4%"
+      },
+      {
+        "id": "48",
+        "name": "Nettoyage galactique !",
+        "condition": "Retirer la crasse et la poussière de 1000 pièces détachées",
+        "rarity": "1.2%"
+      },
+      {
+        "id": "49",
+        "name": "11001",
+        "condition": "Reprogrammer 25 appareils",
+        "rarity": "0.9%"
+      },
+      {
+        "id": "50",
+        "name": "Akiba c'est chez moi",
+        "condition": "Jouer pendant 365 jours",
+        "rarity": "0.5%"
+      }
+    ],
+    "de": [
+      {
+        "id": "01",
+        "name": "Wie ging das noch mal?",
+        "condition": "Repariere ein Teil mithilfe eines Lötkolbens.",
+        "rarity": "100.0%"
+      },
+      {
+        "id": "02",
+        "name": "Nichts zu schwör",
+        "condition": "Repariere zum ersten Mal ein Gerät.",
+        "rarity": "98.5%"
+      },
+      {
+        "id": "03",
+        "name": "Alles abgehakt!",
+        "condition": "Bezahle 2 Rechnungen.",
+        "rarity": "95.9%"
+      },
+      {
+        "id": "04",
+        "name": "Moderne Technik",
+        "condition": "Nimm zum ersten Mal eine Bestellung per E-Mail an.",
+        "rarity": "94.4%"
+      },
+      {
+        "id": "05",
+        "name": "Erste Rückmeldungen",
+        "condition": "Bekomme 5 Rezensionen für deine Arbeit.",
+        "rarity": "87.6%"
+      },
+      {
+        "id": "06",
+        "name": "Offiziell anerkannt",
+        "condition": "Kaufe eine beliebige Lizenz.",
+        "rarity": "84.4%"
+      },
+      {
+        "id": "07",
+        "name": "Den richtigen Dreh",
+        "condition": "Kauf einen Profi-Schraubenzieher.",
+        "rarity": "82.5%"
+      },
+      {
+        "id": "08",
+        "name": "Kaufrausch",
+        "condition": "Kaufe 5 Geräte auf dem Onlinemarktplatz.",
+        "rarity": "75.7%"
+      },
+      {
+        "id": "09",
+        "name": "Große Putzaktion",
+        "condition": "Säubere und entstaube 100 Teile.",
+        "rarity": "75.6%"
+      },
+      {
+        "id": "10",
+        "name": "Blitzsauber",
+        "condition": "Mach die Werkstatt sauber.",
+        "rarity": "72.7%"
+      },
+      {
+        "id": "11",
+        "name": "WWW",
+        "condition": "Schließe 25 Aufträge aus E-Mails ab.",
+        "rarity": "69.3%"
+      },
+      {
+        "id": "12",
+        "name": "Lootbox",
+        "condition": "Kaufe eine Kiste mit Ersatzteilen.",
+        "rarity": "68.1%"
+      },
+      {
+        "id": "13",
+        "name": "Wachsende Beliebtheit",
+        "condition": "Bekomme 25 Rezensionen für deine Arbeit.",
+        "rarity": "66.6%"
+      },
+      {
+        "id": "14",
+        "name": "Origami",
+        "condition": "Hilf einem Kind ohne Bezahlung.",
+        "rarity": "64.4%"
+      },
+      {
+        "id": "15",
+        "name": "Goldstatus",
+        "condition": "Besorge dir 5 Lizenzen.",
+        "rarity": "64.0%"
+      },
+      {
+        "id": "16",
+        "name": "Unternehmergeist",
+        "condition": "Verdiene an einem Tag mehr als 100 000 Yen.",
+        "rarity": "57.6%"
+      },
+      {
+        "id": "17",
+        "name": "Persönlicher Service",
+        "condition": "Bemale zum ersten Mal ein Gerät nach Anweisung des Kunden.",
+        "rarity": "53.6%"
+      },
+      {
+        "id": "18",
+        "name": "Geizkragen",
+        "condition": "Kaufe 10 Tage in Folge keine neuen Teile.",
+        "rarity": "51.9%"
+      },
+      {
+        "id": "19",
+        "name": "Ich wär so gerne Millionär",
+        "condition": "Verdiene 1 000 000 Yen.",
+        "rarity": "46.7%"
+      },
+      {
+        "id": "20",
+        "name": "Keine Drecksarbeit mehr",
+        "condition": "Kauf einen Ultraschallreiniger.",
+        "rarity": "46.2%"
+      },
+      {
+        "id": "21",
+        "name": "Zen-Oase",
+        "condition": "Sammle mehr als 100 Gemütlichkeitspunkte.",
+        "rarity": "45.6%"
+      },
+      {
+        "id": "22",
+        "name": "Der beste Laden in Akiba!",
+        "condition": "Bekomme 50 Rezensionen für deine Arbeit.",
+        "rarity": "44.3%"
+      },
+      {
+        "id": "23",
+        "name": "Schredder",
+        "condition": "Kauf einen Schredder für defekte Teile.",
+        "rarity": "44.2%"
+      },
+      {
+        "id": "24",
+        "name": "Richtig gemütlich",
+        "condition": "Kauf etwas, um die Werkstatt gemütlicher zu gestalten.",
+        "rarity": "43.5%"
+      },
+      {
+        "id": "25",
+        "name": "Hoffnung von Akiba",
+        "condition": "Gewinne einen Reparaturwettbewerb.",
+        "rarity": "38.9%"
+      },
+      {
+        "id": "26",
+        "name": "Ausverkauf",
+        "condition": "Kaufe 25 Geräte auf dem Onlinemarktplatz.",
+        "rarity": "38.8%"
+      },
+      {
+        "id": "27",
+        "name": "Star von Akiba",
+        "condition": "Gewinne 3 unterschiedliche Reparaturwettbewerbe.",
+        "rarity": "36.2%"
+      },
+      {
+        "id": "28",
+        "name": "Kohle scheffeln",
+        "condition": "Verkaufe insgesamt 5 Geräte.",
+        "rarity": "35.5%"
+      },
+      {
+        "id": "29",
+        "name": "Hacking für Anfänger",
+        "condition": "Programmiere zum ersten Mal ein Gerät um.",
+        "rarity": "31.5%"
+      },
+      {
+        "id": "30",
+        "name": "Dotcom-Unternehmen",
+        "condition": "Schließe 100 Aufträge aus E-Mails ab.",
+        "rarity": "27.2%"
+      },
+      {
+        "id": "31",
+        "name": "Mitarbeiter des Monats",
+        "condition": "Spiele für 30 Tage.",
+        "rarity": "20.3%"
+      },
+      {
+        "id": "32",
+        "name": "Gleich viel cooler",
+        "condition": "Wende einen Sticker auf ein Gerät an.",
+        "rarity": "18.6%"
+      },
+      {
+        "id": "33",
+        "name": "Akiba schläft nie!",
+        "condition": "Beende den Tag 7 Tage in Folge lang nicht.",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "34",
+        "name": "Das rockt!",
+        "condition": "",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "35",
+        "name": "Von allem ein bisschen",
+        "condition": "Schließe einen Auftrag ab, der Malen, Reinigen, Reparieren und Hacking beinhaltet.",
+        "rarity": "7.3%"
+      },
+      {
+        "id": "36",
+        "name": "Das ist doch absurd!",
+        "condition": "Kauf dir die teuerste Lizenz.",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "37",
+        "name": "Ghost in the Frame",
+        "condition": "Du wirst beobachtet …",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "38",
+        "name": "Gleich noch viel cooler",
+        "condition": "Wende 25 Sticker an.",
+        "rarity": "3.3%"
+      },
+      {
+        "id": "39",
+        "name": "Platinstatus",
+        "condition": "Besorge dir alle Lizenzen.",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "40",
+        "name": "Insolvenz",
+        "condition": "Erhalte eine Zahlungsmahnung.",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "41",
+        "name": "Zocken",
+        "condition": "Kaufe 50 Kisten mit Ersatzteilen.",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "42",
+        "name": "Ronin",
+        "condition": "Manche ruft eben der Pfad des Kriegers.",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "43",
+        "name": "Melancholie",
+        "condition": "Wer braucht schon normale Menschen?",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "44",
+        "name": "Quartalsbericht",
+        "condition": "Spiele für 90 Tage.",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "45",
+        "name": "Globalisierung",
+        "condition": "",
+        "rarity": "1.8%"
+      },
+      {
+        "id": "46",
+        "name": "Stickerwut",
+        "condition": "Wende 100 Sticker an.",
+        "rarity": "1.7%"
+      },
+      {
+        "id": "47",
+        "name": "Legende von Akiba",
+        "condition": "Gewinne mindestens 1 Reparaturwettbewerb pro Gerätetyp.",
+        "rarity": "1.4%"
+      },
+      {
+        "id": "48",
+        "name": "Riesige Putzaktion",
+        "condition": "Säubere und entstaube 1000 Teile.",
+        "rarity": "1.2%"
+      },
+      {
+        "id": "49",
+        "name": "11001",
+        "condition": "Programmiere 25 Geräte um.",
+        "rarity": "0.9%"
+      },
+      {
+        "id": "50",
+        "name": "Akiba ist mein Zuhause",
+        "condition": "Spiele für 365 Tage.",
+        "rarity": "0.5%"
+      }
+    ],
+    "es": [
+      {
+        "id": "01",
+        "name": "¿Cómo lo he hecho?",
+        "condition": "Repara una pieza con un soldador.",
+        "rarity": "100.0%"
+      },
+      {
+        "id": "02",
+        "name": "¡Primera reparación!",
+        "condition": "Repara tu primer dispositivo.",
+        "rarity": "98.5%"
+      },
+      {
+        "id": "03",
+        "name": "¡Morosos fuera!",
+        "condition": "Paga 2 facturas.",
+        "rarity": "95.9%"
+      },
+      {
+        "id": "04",
+        "name": "Sensei de internet",
+        "condition": "Acepta tu primer pedido por correo electrónico.",
+        "rarity": "94.4%"
+      },
+      {
+        "id": "05",
+        "name": "¡Primeras reseñas!",
+        "condition": "Consigue 5 reseñas.",
+        "rarity": "87.6%"
+      },
+      {
+        "id": "06",
+        "name": "Colaborador oficial",
+        "condition": "Compra cualquier licencia.",
+        "rarity": "84.4%"
+      },
+      {
+        "id": "07",
+        "name": "Gira y aprieta",
+        "condition": "Compra un destornillador profesional.",
+        "rarity": "82.5%"
+      },
+      {
+        "id": "08",
+        "name": "Economista",
+        "condition": "Compra 5 dispositivos en el mercado.",
+        "rarity": "75.7%"
+      },
+      {
+        "id": "09",
+        "name": "¡Como los chorros del oro!",
+        "condition": "Elimina la suciedad y el polvo de 100 piezas.",
+        "rarity": "75.6%"
+      },
+      {
+        "id": "10",
+        "name": "Trabajo impecable",
+        "condition": "Limpia el taller.",
+        "rarity": "72.7%"
+      },
+      {
+        "id": "11",
+        "name": "WWW",
+        "condition": "Completa 25 pedidos por correo electrónico.",
+        "rarity": "69.3%"
+      },
+      {
+        "id": "12",
+        "name": "Caja de botín",
+        "condition": "Compra una caja de repuestos.",
+        "rarity": "68.1%"
+      },
+      {
+        "id": "13",
+        "name": "¡En boca de todos!",
+        "condition": "Consigue 25 reseñas.",
+        "rarity": "66.6%"
+      },
+      {
+        "id": "14",
+        "name": "Origami",
+        "condition": "Ayuda a un niño de forma gratuita.",
+        "rarity": "64.4%"
+      },
+      {
+        "id": "15",
+        "name": "Colaborador de oro",
+        "condition": "Consigue 5 licencias.",
+        "rarity": "64.0%"
+      },
+      {
+        "id": "16",
+        "name": "Tiburón de los negocios",
+        "condition": "Consigue más de 100 000 ¥ en un solo día.",
+        "rarity": "57.6%"
+      },
+      {
+        "id": "17",
+        "name": "¡Se aceptan pedidos personalizados!",
+        "condition": "Pinta un dispositivo por primera vez a petición del cliente.",
+        "rarity": "53.6%"
+      },
+      {
+        "id": "18",
+        "name": "Ahorro",
+        "condition": "No compres piezas nuevas durante 10 días seguidos.",
+        "rarity": "51.9%"
+      },
+      {
+        "id": "19",
+        "name": "¡Pasta gansa!",
+        "condition": "Consigue 1 000 000 ¥.",
+        "rarity": "46.7%"
+      },
+      {
+        "id": "20",
+        "name": "Manos libres",
+        "condition": "Compra un baño ultrasónico automático para la limpieza.",
+        "rarity": "46.2%"
+      },
+      {
+        "id": "21",
+        "name": "Lugar zen",
+        "condition": "Consigue más de 100 puntos de calidez.",
+        "rarity": "45.6%"
+      },
+      {
+        "id": "22",
+        "name": "¡El mejor taller de Akiba!",
+        "condition": "Consigue 50 reseñas.",
+        "rarity": "44.3%"
+      },
+      {
+        "id": "23",
+        "name": "Trituradora",
+        "condition": "Compra una trituradora para piezas rotas.",
+        "rarity": "44.2%"
+      },
+      {
+        "id": "24",
+        "name": "¡Qué acogedor!",
+        "condition": "Compra algo para que el taller resulte más acogedor.",
+        "rarity": "43.5%"
+      },
+      {
+        "id": "25",
+        "name": "Promesa de Akiba",
+        "condition": "Gana un concurso de montaje de dispositivos.",
+        "rarity": "38.9%"
+      },
+      {
+        "id": "26",
+        "name": "¡Mercadillo!",
+        "condition": "Compra 25 dispositivos en el mercado.",
+        "rarity": "38.8%"
+      },
+      {
+        "id": "27",
+        "name": "Estrella de Akiba",
+        "condition": "Gana en tres concursos diferentes de montaje de dispositivos.",
+        "rarity": "36.2%"
+      },
+      {
+        "id": "28",
+        "name": "¡A forrarse!",
+        "condition": "Vende 5 dispositivos.",
+        "rarity": "35.5%"
+      },
+      {
+        "id": "29",
+        "name": "Hackerman",
+        "condition": "Reprograma tu primer dispositivo.",
+        "rarity": "31.5%"
+      },
+      {
+        "id": "30",
+        "name": "Negocios en línea",
+        "condition": "Completa 100 pedidos por correo electrónico.",
+        "rarity": "27.2%"
+      },
+      {
+        "id": "31",
+        "name": "Empleado del mes",
+        "condition": "Juega durante 30 días.",
+        "rarity": "20.3%"
+      },
+      {
+        "id": "32",
+        "name": "Molonidad instantánea",
+        "condition": "Pon una pegatina en un dispositivo.",
+        "rarity": "18.6%"
+      },
+      {
+        "id": "33",
+        "name": "¡Akiba nunca duerme!",
+        "condition": "No termines el día durante 7 días seguidos.",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "34",
+        "name": "¡El rock manda!",
+        "condition": "",
+        "rarity": "10.8%"
+      },
+      {
+        "id": "35",
+        "name": "Manitas absoluto",
+        "condition": "Completa un encargo que incluya trabajos de pintura, limpieza, reparación y hackeo.",
+        "rarity": "7.3%"
+      },
+      {
+        "id": "36",
+        "name": "¿En serio? ¡Menudo disparate!",
+        "condition": "Compra la licencia más cara.",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "37",
+        "name": "Fantasma en el caparazón",
+        "condition": "El ojo en el cielo te observa...",
+        "rarity": "5.9%"
+      },
+      {
+        "id": "38",
+        "name": "Molonidad absoluta",
+        "condition": "Pon 25 pegatinas.",
+        "rarity": "3.3%"
+      },
+      {
+        "id": "39",
+        "name": "Colaborador de platino",
+        "condition": "Consigue todas las licencias.",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "40",
+        "name": "Bancarrota",
+        "condition": "Recibe un aviso de factura vencida.",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "41",
+        "name": "Todo al rojo",
+        "condition": "Compra 50 cajas de repuestos.",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "42",
+        "name": "Ronin",
+        "condition": "Es posible cumplir a la perfección con la vocación de guerrero.",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "43",
+        "name": "Melancolía",
+        "condition": "¡No necesito a gente normal!",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "44",
+        "name": "Informe trimestral",
+        "condition": "Juega durante 90 días.",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "45",
+        "name": "Globalización",
+        "condition": "",
+        "rarity": "1.8%"
+      },
+      {
+        "id": "46",
+        "name": "Pegatinas para todos",
+        "condition": "Pon 100 pegatinas.",
+        "rarity": "1.7%"
+      },
+      {
+        "id": "47",
+        "name": "Leyenda de Akiba",
+        "condition": "Gana al menos un concurso de montaje por cada tipo de dispositivo.",
+        "rarity": "1.4%"
+      },
+      {
+        "id": "48",
+        "name": "¡Ni una mota de polvo!",
+        "condition": "Elimina la suciedad y el polvo de 1000 piezas.",
+        "rarity": "1.2%"
+      },
+      {
+        "id": "49",
+        "name": "11001",
+        "condition": "Reprograma 25 dispositivos.",
+        "rarity": "0.9%"
+      },
+      {
+        "id": "50",
+        "name": "Como en Akiba en ningún sitio",
+        "condition": "Juega durante 365 días.",
+        "rarity": "0.5%"
+      }
+    ],
+    "pt-BR": [
+      {
+        "id": "01",
+        "name": "How did I do this?",
+        "condition": "Repair a part using a soldering iron",
+        "rarity": "100.0%"
+      },
+      {
+        "id": "02",
+        "name": "First fix!",
+        "condition": "Repair a device for the first time",
+        "rarity": "99.2%"
+      },
+      {
+        "id": "03",
+        "name": "All bills paid!",
+        "condition": "Pay 2 bills",
+        "rarity": "96.7%"
+      },
+      {
+        "id": "04",
+        "name": "Master of the Internet",
+        "condition": "Accept an order by email for the first time",
+        "rarity": "95.1%"
+      },
+      {
+        "id": "05",
+        "name": "First reviews!",
+        "condition": "Get 5 reviews for your work",
+        "rarity": "88.4%"
+      },
+      {
+        "id": "06",
+        "name": "Official Partner",
+        "condition": "Buy any license",
+        "rarity": "85.2%"
+      },
+      {
+        "id": "07",
+        "name": "Twist and turn",
+        "condition": "Buy a professional screwdriver",
+        "rarity": "83.2%"
+      },
+      {
+        "id": "08",
+        "name": "Flipper",
+        "condition": "Buy 5 devices at the marketplace",
+        "rarity": "76.3%"
+      },
+      {
+        "id": "09",
+        "name": "Big cleaning!",
+        "condition": "Remove dirt and dust from 100 parts",
+        "rarity": "76.3%"
+      },
+      {
+        "id": "10",
+        "name": "Clean Job",
+        "condition": "Clean the workshop",
+        "rarity": "73.3%"
+      },
+      {
+        "id": "11",
+        "name": "WWW",
+        "condition": "Complete 25 email orders",
+        "rarity": "70.0%"
+      },
+      {
+        "id": "12",
+        "name": "Lootbox",
+        "condition": "Buy a box of parts",
+        "rarity": "68.7%"
+      },
+      {
+        "id": "13",
+        "name": "Getting popular!",
+        "condition": "Get 25 reviews for your work",
+        "rarity": "67.3%"
+      },
+      {
+        "id": "14",
+        "name": "Origami",
+        "condition": "Help a child out for free",
+        "rarity": "65.0%"
+      },
+      {
+        "id": "15",
+        "name": "Golden Partner",
+        "condition": "Acquire 5 licenses",
+        "rarity": "64.7%"
+      },
+      {
+        "id": "16",
+        "name": "Business Shark",
+        "condition": "Earn more than 100 000 yen in a single day",
+        "rarity": "58.2%"
+      },
+      {
+        "id": "17",
+        "name": "Custom orders available!",
+        "condition": "Paint a device by a client’s order for the first time",
+        "rarity": "54.2%"
+      },
+      {
+        "id": "18",
+        "name": "Frugal",
+        "condition": "Do not buy any new parts for 10 days in a row",
+        "rarity": "51.9%"
+      },
+      {
+        "id": "19",
+        "name": "Millionaire!",
+        "condition": "Earn 1 000 000 yen",
+        "rarity": "47.2%"
+      },
+      {
+        "id": "20",
+        "name": "Hands Free",
+        "condition": "Buy an automatic ultrasonic bath for cleaning",
+        "rarity": "46.7%"
+      },
+      {
+        "id": "21",
+        "name": "A Place Of Zen",
+        "condition": "Accumulate more than 100 Zen points",
+        "rarity": "46.1%"
+      },
+      {
+        "id": "22",
+        "name": "Best shop in Akiba!",
+        "condition": "Get 50 reviews for your work",
+        "rarity": "44.8%"
+      },
+      {
+        "id": "23",
+        "name": "Shredder",
+        "condition": "Buy a shredder for broken parts",
+        "rarity": "44.7%"
+      },
+      {
+        "id": "24",
+        "name": "Cozy!",
+        "condition": "Buy something to make the workshop more cozy",
+        "rarity": "44.0%"
+      },
+      {
+        "id": "25",
+        "name": "Promise of Akiba",
+        "condition": "Win in a device assmebly competition",
+        "rarity": "39.4%"
+      },
+      {
+        "id": "26",
+        "name": "Garage sale!",
+        "condition": "Buy 25 devices at the marketplace",
+        "rarity": "39.2%"
+      },
+      {
+        "id": "27",
+        "name": "Star of Akiba",
+        "condition": "Win in 3 different device assembly competitions",
+        "rarity": "36.6%"
+      },
+      {
+        "id": "28",
+        "name": "Making money!",
+        "condition": "Sell 5 devices in total",
+        "rarity": "35.9%"
+      },
+      {
+        "id": "29",
+        "name": "Hacking 101",
+        "condition": "Reprogram a device for the first time",
+        "rarity": "31.9%"
+      },
+      {
+        "id": "30",
+        "name": "Internet Business",
+        "condition": "Complete 100 email orders",
+        "rarity": "27.6%"
+      },
+      {
+        "id": "31",
+        "name": "Employee of the Month",
+        "condition": "Play through 30 days",
+        "rarity": "20.6%"
+      },
+      {
+        "id": "32",
+        "name": "Instant Cool",
+        "condition": "Apply a sticker to a device",
+        "rarity": "18.8%"
+      },
+      {
+        "id": "33",
+        "name": "Rock for the ages!",
+        "condition": "",
+        "rarity": "11.0%"
+      },
+      {
+        "id": "34",
+        "name": "Akiba never sleeps!",
+        "condition": "Do not end the day for 7 days in a row",
+        "rarity": "10.9%"
+      },
+      {
+        "id": "35",
+        "name": "Jack of all trades",
+        "condition": "Complete an order that involves painting, cleaning, repair and hacking",
+        "rarity": "7.5%"
+      },
+      {
+        "id": "36",
+        "name": "Are you serious? This is absurd!",
+        "condition": "Buy the most expensive license",
+        "rarity": "6.1%"
+      },
+      {
+        "id": "37",
+        "name": "Ghost in the frame",
+        "condition": "Eye in the sky looking at you...",
+        "rarity": "6.0%"
+      },
+      {
+        "id": "38",
+        "name": "Instant Cool-er",
+        "condition": "Apply 25 stickers",
+        "rarity": "3.4%"
+      },
+      {
+        "id": "39",
+        "name": "Platinum Partner",
+        "condition": "Acquire all licenses",
+        "rarity": "2.9%"
+      },
+      {
+        "id": "40",
+        "name": "Bankrupt",
+        "condition": "Get an overdue bill warning",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "41",
+        "name": "Gambler",
+        "condition": "Buy 50 boxes of parts",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "42",
+        "name": "Melancholy",
+        "condition": "I don’t need no normal people!",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "43",
+        "name": "Ronin",
+        "condition": "It is possible to perfectly fulfill one's calling as a warrior.",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "44",
+        "name": "Quarterly Report",
+        "condition": "Play through 90 days",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "45",
+        "name": "Globalization",
+        "condition": "",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "46",
+        "name": "Sticker Bombing",
+        "condition": "Apply 100 stickers",
+        "rarity": "1.8%"
+      },
+      {
+        "id": "47",
+        "name": "Legend of Akiba",
+        "condition": "Win in at least 1 assembly competition for each device",
+        "rarity": "1.5%"
+      },
+      {
+        "id": "48",
+        "name": "Galactic cleaning!",
+        "condition": "Remove dirt and dust from 1000 parts",
+        "rarity": "1.3%"
+      },
+      {
+        "id": "49",
+        "name": "11001",
+        "condition": "Reprogram 25 devices",
+        "rarity": "0.9%"
+      },
+      {
+        "id": "50",
+        "name": "Akiba Feels Like Home",
+        "condition": "Play through 365 days",
+        "rarity": "0.5%"
+      }
+    ],
+    "ru": [
+      {
+        "id": "01",
+        "name": "Как я это сделал?",
+        "condition": "Починить деталь при помощи паяльника",
+        "rarity": "100.0%"
+      },
+      {
+        "id": "02",
+        "name": "Первый ремонт!",
+        "condition": "Починить первое устройство",
+        "rarity": "99.2%"
+      },
+      {
+        "id": "03",
+        "name": "Никому не должен!",
+        "condition": "Оплатить 2 счета",
+        "rarity": "96.7%"
+      },
+      {
+        "id": "04",
+        "name": "Освоить интернет",
+        "condition": "Принять первый заказ по email",
+        "rarity": "95.1%"
+      },
+      {
+        "id": "05",
+        "name": "Первые отзывы!",
+        "condition": "Получить 5 отзывов о работе",
+        "rarity": "88.4%"
+      },
+      {
+        "id": "06",
+        "name": "Официальный партнер",
+        "condition": "Купить любую лицензию",
+        "rarity": "85.2%"
+      },
+      {
+        "id": "07",
+        "name": "От винта!",
+        "condition": "Купить профессиональную отвертку",
+        "rarity": "83.2%"
+      },
+      {
+        "id": "08",
+        "name": "Старьевщик",
+        "condition": "Купить 5 устройств на барахолке",
+        "rarity": "76.3%"
+      },
+      {
+        "id": "09",
+        "name": "Большая чистка!",
+        "condition": "Очистить 100 деталей от грязи и пыли",
+        "rarity": "76.3%"
+      },
+      {
+        "id": "10",
+        "name": "Чистюля",
+        "condition": "Прибраться в мастерской",
+        "rarity": "73.3%"
+      },
+      {
+        "id": "11",
+        "name": "WWW",
+        "condition": "Выполнить 25 заказов по email",
+        "rarity": "70.0%"
+      },
+      {
+        "id": "12",
+        "name": "Лутбокс",
+        "condition": "Купить коробку с деталями",
+        "rarity": "68.7%"
+      },
+      {
+        "id": "13",
+        "name": "Набираем популярность!",
+        "condition": "Получить 25 отзывов о работе",
+        "rarity": "67.3%"
+      },
+      {
+        "id": "14",
+        "name": "Оригами",
+        "condition": "Помочь ребенку бесплатно",
+        "rarity": "65.0%"
+      },
+      {
+        "id": "15",
+        "name": "Золотой партнер",
+        "condition": "Получить 5 лицензий",
+        "rarity": "64.7%"
+      },
+      {
+        "id": "16",
+        "name": "Акула бизнеса",
+        "condition": "Заработать более 100 000 за один день",
+        "rarity": "58.2%"
+      },
+      {
+        "id": "17",
+        "name": "Делаем кастом!",
+        "condition": "Покрасить первое устройство для клиента",
+        "rarity": "54.2%"
+      },
+      {
+        "id": "18",
+        "name": "Экономим!",
+        "condition": "Не покупать новые деталей 10 дней подряд",
+        "rarity": "51.9%"
+      },
+      {
+        "id": "19",
+        "name": "Миллионер!",
+        "condition": "Заработать 1 000 000 йен",
+        "rarity": "47.2%"
+      },
+      {
+        "id": "20",
+        "name": "Свободные руки",
+        "condition": "Купить ванну для автоматической очистки от грязи",
+        "rarity": "46.7%"
+      },
+      {
+        "id": "21",
+        "name": "Уютное гнездышко",
+        "condition": "Накопить более 100 уюта",
+        "rarity": "46.1%"
+      },
+      {
+        "id": "22",
+        "name": "Лучшее место Акибы!",
+        "condition": "Получить 50 отзывов о работе",
+        "rarity": "44.8%"
+      },
+      {
+        "id": "23",
+        "name": "Шредер",
+        "condition": "Купить шредер для сломанных деталей",
+        "rarity": "44.7%"
+      },
+      {
+        "id": "24",
+        "name": "Уютненько!",
+        "condition": "Купить что-нибудь для улучшения уюта в мастерской",
+        "rarity": "44.0%"
+      },
+      {
+        "id": "25",
+        "name": "Гроза Акибы",
+        "condition": "Выиграть первое соревнование по сборке устройства",
+        "rarity": "39.4%"
+      },
+      {
+        "id": "26",
+        "name": "Гаражная распродажа!",
+        "condition": "Купить 25 устройств на барахолке",
+        "rarity": "39.2%"
+      },
+      {
+        "id": "27",
+        "name": "Звезда Акибы",
+        "condition": "Выиграть 3 соревнования по разным устройствам",
+        "rarity": "36.6%"
+      },
+      {
+        "id": "28",
+        "name": "Делаем деньги!",
+        "condition": "Продать 5 любых устройств",
+        "rarity": "35.9%"
+      },
+      {
+        "id": "29",
+        "name": "Я хакер!",
+        "condition": "Перепрограммировать первое устройство",
+        "rarity": "31.9%"
+      },
+      {
+        "id": "30",
+        "name": "Бизнес в интернете!",
+        "condition": "Выполнить 100 заказов по email",
+        "rarity": "27.6%"
+      },
+      {
+        "id": "31",
+        "name": "Работник месяца",
+        "condition": "Поиграть 30 дней",
+        "rarity": "20.6%"
+      },
+      {
+        "id": "32",
+        "name": "Так круче!",
+        "condition": "Наклеить стикер на устройство",
+        "rarity": "18.8%"
+      },
+      {
+        "id": "33",
+        "name": "Рок на века!",
+        "condition": "",
+        "rarity": "11.0%"
+      },
+      {
+        "id": "34",
+        "name": "Акиба никогда не спит!",
+        "condition": "Не заканчивать день 7 дней подряд",
+        "rarity": "10.9%"
+      },
+      {
+        "id": "35",
+        "name": "Человек-швейцарский нож",
+        "condition": "Выполнить заказ с покраской, починкой, очисткой и взломом",
+        "rarity": "7.5%"
+      },
+      {
+        "id": "36",
+        "name": "Абсурд, вы серьезно?",
+        "condition": "Купить самую дорогую лицензию",
+        "rarity": "6.1%"
+      },
+      {
+        "id": "37",
+        "name": "Призрак в оболочке",
+        "condition": "Глаз в небе, смотрю за тобой...",
+        "rarity": "6.0%"
+      },
+      {
+        "id": "38",
+        "name": "Так еще круче!",
+        "condition": "Наклеить 25 стикеров",
+        "rarity": "3.4%"
+      },
+      {
+        "id": "39",
+        "name": "Платиновый партнер",
+        "condition": "Получить все лицензии",
+        "rarity": "2.9%"
+      },
+      {
+        "id": "40",
+        "name": "Кому должен - прощаю!",
+        "condition": "Просрочить счета",
+        "rarity": "2.8%"
+      },
+      {
+        "id": "41",
+        "name": "Лудоман",
+        "condition": "Купить 50 коробок с деталями",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "42",
+        "name": "Меланхолия",
+        "condition": "Мне не нужны обычные люди!",
+        "rarity": "2.6%"
+      },
+      {
+        "id": "43",
+        "name": "Ронин",
+        "condition": "У самурая нет цели, только путь!",
+        "rarity": "2.5%"
+      },
+      {
+        "id": "44",
+        "name": "Квартальный отчет",
+        "condition": "Поиграть 90 дней",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "45",
+        "name": "Глобализация",
+        "condition": "",
+        "rarity": "1.9%"
+      },
+      {
+        "id": "46",
+        "name": "Стикер-бомбинг",
+        "condition": "Наклеить 100 стикеров",
+        "rarity": "1.8%"
+      },
+      {
+        "id": "47",
+        "name": "Легенда Акибы",
+        "condition": "Выиграть как минимум 1 соревнование по каждому устройству",
+        "rarity": "1.5%"
+      },
+      {
+        "id": "48",
+        "name": "Вселенская зачистка!",
+        "condition": "Очистить 1000 деталей от грязи и пыли",
+        "rarity": "1.3%"
+      },
+      {
+        "id": "49",
+        "name": "11001",
+        "condition": "Перепрограммировать 25 устройств",
+        "rarity": "0.9%"
+      },
+      {
+        "id": "50",
+        "name": "Акиба - дом родной!",
+        "condition": "Поиграть 365 дней",
+        "rarity": "0.5%"
+      }
+    ]
+  }
+}

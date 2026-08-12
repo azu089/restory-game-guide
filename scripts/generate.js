@@ -263,12 +263,27 @@ function renderSection(s, lang){
       return `<section class="panel-block reveal" id="${id}"><div class="panel-head"><span class="panel-tag">${tag}</span><h2>${esc(s.heading)}</h2></div>${s.body?`<p class="panel-lead">${esc(s.body)}</p>`:""}<ul class="part-list">${items}</ul></section>`;
     }
     case "table": {
-      const headRow = (s.columns||[]).map(c=>`<th>${esc(c)}</th>`).join("");
+      const isAchievementTracker = s.tracker === "achievements";
+      const trackerLabels = s.trackerLabels || [];
+      const headRow = (isAchievementTracker ? `<th class="ach-check-head"><span class="sr-only">${esc(trackerLabels[3]||"Completed")}</span></th>` : "") + (s.columns||[]).map(c=>`<th>${esc(c)}</th>`).join("");
       const attrsOf = i => { const a=(s.rowAttrs||[])[i]; if(!a) return ""; return " "+Object.entries(a).map(([k,v])=>`data-${k}="${esc(v)}"`).join(" "); };
-      const rows = (s.rows||[]).map((r,i)=>`<tr${attrsOf(i)}>${r.map(c=>`<td>${esc(c)}</td>`).join("")}</tr>`).join("");
-      const cls = s.rowAttrs ? "data-table filterable" : "data-table";
+      const rows = (s.rows||[]).map((r,i)=>`<tr${attrsOf(i)}>${isAchievementTracker ? `<td class="ach-check-cell"><label><input type="checkbox" data-ach-check aria-label="${esc(r[0])}"><span aria-hidden="true"></span></label></td>` : ""}${r.map(c=>`<td>${esc(c)}</td>`).join("")}</tr>`).join("");
+      const cls = `data-table${s.rowAttrs ? " filterable" : ""}${isAchievementTracker ? " achievement-table" : ""}`;
       const noMatch = s.noMatch || st.noMatch || "No matching entries";
-      return `<section class="panel-block reveal" id="${id}"><div class="panel-head"><span class="panel-tag">${tag}</span><h2>${esc(s.heading)}</h2></div>${s.body?`<p class="panel-lead">${esc(s.body)}</p>`:""}<div class="${cls}"><table><thead><tr>${headRow}</tr></thead><tbody>${rows}</tbody></table><p class="table-empty" hidden>${esc(noMatch)}</p></div></section>`;
+      let trackerControls = "";
+      if (isAchievementTracker) {
+        const groups = new Map();
+        (s.rows||[]).forEach((r,i)=>{ const key=(s.rowAttrs||[])[i]?.group; if(key && !groups.has(key)) groups.set(key,r[3]); });
+        const options = [...groups].map(([key,label])=>`<option value="${esc(key)}">${esc(label)}</option>`).join("");
+        trackerControls = `<div class="ach-toolbar">
+          <label class="ach-search"><span class="sr-only">${esc(trackerLabels[0]||"Search achievements")}</span><input type="search" data-ach-search placeholder="${esc(trackerLabels[0]||"Search achievements…")}" autocomplete="off"></label>
+          <label class="ach-group"><span class="sr-only">${esc(trackerLabels[1]||"All groups")}</span><select data-ach-group><option value="">${esc(trackerLabels[1]||"All groups")}</option>${options}</select></label>
+          <label class="ach-hide"><input type="checkbox" data-ach-hide> <span>${esc(trackerLabels[2]||"Hide completed")}</span></label>
+          <strong class="ach-progress" data-ach-progress aria-live="polite">0 / ${(s.rows||[]).length} ${esc(trackerLabels[3]||"completed")}</strong>
+          <button type="button" class="ach-reset" data-ach-reset>${esc(trackerLabels[4]||"Reset progress")}</button>
+        </div><p class="ach-save-note">${esc(trackerLabels[6]||"Progress is saved only in this browser.")}</p>`;
+      }
+      return `<section class="panel-block reveal${isAchievementTracker ? " tracker" : ""}" id="${id}"${isAchievementTracker ? ` data-tool="achievement_tracker" data-completed-label="${esc(trackerLabels[3]||"completed")}"` : ""}><div class="panel-head"><span class="panel-tag">${tag}</span><h2>${esc(s.heading)}</h2></div>${s.body?`<p class="panel-lead">${esc(s.body)}</p>`:""}${trackerControls}<div class="${cls}"><table><thead><tr>${headRow}</tr></thead><tbody>${rows}</tbody></table><p class="table-empty" hidden>${esc(noMatch)}</p></div></section>`;
     }
     case "faq": {
       const items = (s.items||[]).map(([q,a])=>`<details class="panel-faq"><summary><span class="panel-q" aria-hidden="true">${SVG.question||"?"}</span><span>${esc(q)}</span><span class="pm">+</span></summary><div class="panel-a">${esc(a)}</div></details>`).join("");
@@ -540,6 +555,33 @@ function renderPage(lang, page){
         localStorage.setItem(ekey,JSON.stringify(data)); et.querySelector("#ending-status").classList.add("show");
       });
       et.querySelector("#ending-clear").addEventListener("click",function(){ efields.forEach(function(f){f.value="";}); localStorage.removeItem(ekey); et.querySelector("#ending-status").classList.remove("show"); });
+    }
+    // 官方成就追踪器：稳定 ID 跨语言共享，进度仅存在本机。
+    var at=document.querySelector('[data-tool="achievement_tracker"]'); if(at){
+      var akey="restory-achievements-v1", rows=Array.from(at.querySelectorAll("tbody tr"));
+      var search=at.querySelector("[data-ach-search]"), group=at.querySelector("[data-ach-group]"), hide=at.querySelector("[data-ach-hide]");
+      var progress=at.querySelector("[data-ach-progress]"), empty=at.querySelector(".table-empty"), done={};
+      try { done=JSON.parse(localStorage.getItem(akey)||"{}"); } catch(e) { done={}; }
+      function drawAchievements(){
+        var q=(search.value||"").trim().toLocaleLowerCase(), g=group.value, n=0, visible=0;
+        rows.forEach(function(row){
+          var id=row.getAttribute("data-achievement-id"), checked=!!done[id], box=row.querySelector("[data-ach-check]");
+          box.checked=checked; row.classList.toggle("is-complete",checked); if(checked)n++;
+          var matchText=!q || row.textContent.toLocaleLowerCase().indexOf(q)!==-1;
+          var matchGroup=!g || row.getAttribute("data-group")===g;
+          var show=matchText && matchGroup && !(hide.checked && checked);
+          row.hidden=!show; if(show)visible++;
+        });
+        progress.textContent=n+" / "+rows.length+" "+at.getAttribute("data-completed-label");
+        empty.hidden=visible!==0;
+      }
+      rows.forEach(function(row){ row.querySelector("[data-ach-check]").addEventListener("change",function(e){
+        var id=row.getAttribute("data-achievement-id"); if(e.target.checked)done[id]=true;else delete done[id];
+        localStorage.setItem(akey,JSON.stringify(done)); drawAchievements();
+      }); });
+      search.addEventListener("input",drawAchievements); group.addEventListener("change",drawAchievements); hide.addEventListener("change",drawAchievements);
+      at.querySelector("[data-ach-reset]").addEventListener("click",function(){ done={}; localStorage.removeItem(akey); drawAchievements(); });
+      drawAchievements();
     }
   })();
   </script>`;

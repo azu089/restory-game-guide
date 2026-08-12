@@ -170,6 +170,31 @@ a:hover{text-decoration:underline}
 .data-table tbody tr:last-child td{border-bottom:0}
 .data-table tbody tr:hover td{background:rgba(46,196,182,.06)}
 .table-empty{padding:16px;color:var(--ink-faint);text-align:center}
+.sr-only{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+.ach-toolbar{display:grid;grid-template-columns:minmax(180px,1fr) minmax(150px,.6fr) auto auto auto;gap:10px;align-items:center;margin:0 0 10px}
+.ach-toolbar input[type="search"],.ach-toolbar select{width:100%;min-height:42px;border:1px solid var(--line-strong);border-radius:10px;background:var(--panel-3);color:var(--ink);padding:9px 11px;font:inherit}
+.ach-toolbar input[type="search"]:focus,.ach-toolbar select:focus{outline:2px solid var(--teal);outline-offset:2px}
+.ach-hide{display:flex;align-items:center;gap:7px;white-space:nowrap;color:var(--ink-soft);font-size:.86rem}
+.ach-hide input{accent-color:var(--teal)}
+.ach-progress{white-space:nowrap;color:var(--teal-soft);font-family:var(--font-mono);font-size:.8rem}
+.ach-reset{min-height:42px;border:1px solid var(--line-strong);border-radius:10px;background:transparent;color:var(--ink-soft);padding:8px 11px;cursor:pointer}
+.ach-reset:hover{border-color:var(--pink);color:var(--ink)}
+.ach-save-note{margin:0 0 12px;color:var(--ink-faint);font-size:.78rem}
+.achievement-table th:nth-child(2),.achievement-table td:nth-child(2){min-width:185px;color:var(--ink)}
+.achievement-table th:nth-child(3),.achievement-table td:nth-child(3){min-width:260px}
+.achievement-table th:nth-child(4),.achievement-table td:nth-child(4){white-space:nowrap;text-align:right}
+.achievement-table th:nth-child(5),.achievement-table td:nth-child(5){white-space:nowrap}
+.ach-check-head,.ach-check-cell{width:46px;min-width:46px;text-align:center!important;padding-left:10px!important;padding-right:6px!important}
+.ach-check-cell label{display:inline-grid;place-items:center;width:28px;height:28px;cursor:pointer}
+.ach-check-cell input{position:absolute;opacity:0;pointer-events:none}
+.ach-check-cell span{width:20px;height:20px;border:2px solid var(--line-strong);border-radius:6px;background:var(--panel-3);position:relative}
+.ach-check-cell input:focus-visible + span{outline:2px solid var(--teal);outline-offset:2px}
+.ach-check-cell input:checked + span{background:var(--teal);border-color:var(--teal)}
+.ach-check-cell input:checked + span::after{content:"";position:absolute;left:5px;top:1px;width:5px;height:10px;border:solid #071615;border-width:0 2px 2px 0;transform:rotate(45deg)}
+.achievement-table tr.is-complete td:not(.ach-check-cell){opacity:.5;text-decoration-color:var(--ink-faint)}
+.achievement-table tr[hidden]{display:none}
+@media(max-width:900px){.ach-toolbar{grid-template-columns:1fr 1fr}.ach-search{grid-column:1/-1}.ach-progress{justify-self:start}.ach-reset{justify-self:stretch}}
+@media(max-width:560px){.ach-toolbar{grid-template-columns:1fr}.ach-search{grid-column:auto}.ach-toolbar>*{width:100%}.ach-hide{min-height:38px}.ach-progress{padding:5px 0}.achievement-table table{min-width:720px}}
 
 /* ---------- FAQ ---------- */
 .panel-faq{border:1px solid var(--line);border-radius:12px;margin:10px 0;background:var(--panel);overflow:hidden}

@@ -28,6 +28,8 @@ const today = new Date().toISOString().slice(0,10);
 const urlOf = KIT.createUrl({ domain: DATA.site.domain, defaultLang: DEF });
 const LM = KIT.createLastmod({ manifestPath: path.join(ROOT,"data",".lastmod.json"), today });
 const HERO_SET = "/images/hero-640.jpg 640w, /images/hero-1280.jpg 1280w, /images/hero.jpg 1600w";
+const UPDATED_LABEL = { en:"Updated", "zh-CN":"更新于", "zh-TW":"更新於", ja:"更新日", ko:"업데이트", es:"Actualizado", fr:"Mis à jour", de:"Aktualisiert", "pt-BR":"Atualizado", ru:"Обновлено" };
+const updLabel = lang => UPDATED_LABEL[lang] || "Updated";
 const LANG_META = {
   "en":    { flag: "🇬🇧", name: "English",      html: "en" },
   "zh-CN": { flag: "🇨🇳", name: "简体中文",     html: "zh-CN" },
@@ -216,7 +218,7 @@ function footer(lang){
   return `<footer class="site-foot">
   <div class="foot-inner">
     <div class="foot-note">${esc(s.footerNote)}</div>
-    <div class="foot-src">${esc(s.footerSource)}</div>
+    <div class="foot-src">${esc(s.footerSource)} · ${updLabel(lang)} ${today}</div>
     <nav class="foot-nav"><a href="${prefix}/about">${esc(s.aboutTitle)}</a> · <a href="${prefix}/privacy">${esc(s.privacyTitle)}</a> · <a href="${prefix}/contact">${esc(s.contactTitle)}</a></nav>
   </div>
 ${renderAmazonAffiliate(lang)}

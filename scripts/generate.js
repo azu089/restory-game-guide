@@ -231,6 +231,7 @@ ${renderAmazonAffiliate(lang)}
 })();
 </script>
 ${DATA.site.adsterra ? DATA.site.adsterra : ""}
+${KIT.decisionEventsScript()}
 </body></html>`;
 }
 

@@ -714,7 +714,7 @@ PAGES_FR = {
     {"type": "timeline", "heading": "Historique des mises à jour",
      "items": [
         ["6 août 2026", "ReStory : réparations électroniques relax sort sur Steam ($19.99, −10 %)."],
-        ["À déterminer", "Premier patch post-lancement — suivi en cours."],
+        ["11 août 2026", "Première mise à jour disponible (1.0.009r) — annonce officielle ; détails en cours de vérification."],
         ["À déterminer", "DLC (app 5034500) — contenu en cours de vérification."],
      ]},
     {"type": "steps", "heading": "Comment suivre les mises à jour",

@@ -728,7 +728,7 @@ PAGES_JA = {
     {"type": "timeline", "heading": "更新履歴",
      "items": [
         ["2026 年 8 月 6 日", "ReStory: Chill Electronics Repairs が Steam で発売（$19.99、10% オフ）。"],
-        ["TBD", "発売後初のパッチ——追跡中。"],
+        ["2026年8月11日", "初回アップデート配信（1.0.009r）——公式発表。詳細は検証中。"],
         ["TBD", "DLC（app 5034500）——内容は検証中。"],
      ]},
     {"type": "steps", "heading": "アップデートの追い方",

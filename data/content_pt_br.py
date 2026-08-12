@@ -707,7 +707,7 @@ PAGES_PT_BR = {
     {"type": "timeline", "heading": "Histórico de atualizações",
      "items": [
         ["6 de agosto de 2026", "ReStory: Chill Electronics Repairs é lançado na Steam ($19.99, com 10% de desconto)."],
-        ["A definir", "Primeiro patch pós-lançamento — em acompanhamento."],
+        ["11 de ago de 2026", "Primeira atualização disponível (1.0.009r) — anúncio oficial; detalhes em verificação."],
         ["A definir", "DLC (app 5034500) — conteúdo em verificação."],
      ]},
     {"type": "steps", "heading": "Como acompanhar as atualizações",

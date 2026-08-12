@@ -729,7 +729,7 @@ PAGES_ES = {
     {"type": "timeline", "heading": "Historial de actualizaciones",
      "items": [
         ["6 de agosto de 2026", "ReStory: reparaciones de electrónica relajadas se lanza en Steam ($19.99, 10 % de descuento)."],
-        ["Por determinar", "Primer parche posterior al lanzamiento: en seguimiento."],
+        ["11 ago 2026", "Primera actualización disponible (1.0.009r) — anuncio oficial; detalles en verificación."],
         ["Por determinar", "DLC (app 5034500): contenido en verificación."],
      ]},
     {"type": "steps", "heading": "Cómo seguir las actualizaciones",

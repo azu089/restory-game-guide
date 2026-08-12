@@ -728,7 +728,7 @@ PAGES_EN = {
     {"type": "timeline", "heading": "Update history",
      "items": [
         ["Aug 6, 2026", "ReStory: Chill Electronics Repairs launches on Steam ($19.99, 10% off)."],
-        ["TBD", "First post-launch patch — being tracked."],
+        ["Aug 11, 2026", "First update is live (1.0.009r) — official announcement; patch details being verified."],
         ["TBD", "DLC (app 5034500) — content being verified."],
      ]},
     {"type": "steps", "heading": "How to follow updates",

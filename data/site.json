@@ -22801,8 +22801,8 @@
          "デバイスを修理するたびに、各客の個人的なストーリーが進みます。"
         ],
         [
-         "ライセンス",
-         "ライセンス進行（Atari シリーズなど）もメインストーリーの一部です。"
+         "条件は未検証",
+         "正確なエンディング数、名称、選択条件を示す信頼できる情報源はまだありません。"
         ]
        ]
       },
@@ -22812,8 +22812,8 @@
        "items": [
         "複数のエンディングがある（公式 Steam ページで確認済み）。",
         "エンディングはストーリー中の選択によって変わる。",
-        "客のストーリーも分岐——同じ客でも異なる結末になり得る。",
-        "隠し実績（Ronin、Melancholy、Globalization）がストーリー関連の分岐を示唆している。"
+        "個別の客の分岐条件はまだ検証されていない。",
+        "隠し実績の発生条件も未検証で、エンディング条件の証拠としては扱わない。"
        ]
       },
       {
@@ -22826,11 +22826,11 @@
         ],
         [
          "1 周で全エンディングを見られる？",
-         "ほぼ間違いなく不可——ストーリーは選択で分岐するため、複数周回が必要でしょう。"
+         "不明です。周回数やセーブ条件を確認できる信頼できる情報源はまだありません。"
         ],
         [
          "店の要素も重要？ストーリーだけ？",
-         "両方——店の進行（ライセンス、評判）はストーリーに組み込まれています。"
+         "不明です。公式説明は選択の影響を確認していますが、個別の変数は公開していません。"
         ]
        ]
       },
@@ -22865,8 +22865,8 @@
          "손님의 기기를 수리하면서 각 손님의 개인 스토리가 진행됩니다."
         ],
         [
-         "라이선스",
-         "라이선스 진행(Atari 라인 등)은 메인 스토리 경로의 일부입니다."
+         "조건은 미확인",
+         "정확한 엔딩 수, 이름, 선택 조건을 제시하는 신뢰할 수 있는 출처는 아직 없습니다."
         ]
        ]
       },
@@ -22876,8 +22876,8 @@
        "items": [
         "여러 엔딩이 있습니다(공식 Steam 페이지에서 확인).",
         "엔딩은 스토리 중 내리는 선택에 따라 달라집니다.",
-        "손님 스토리는 분기합니다 — 같은 손님이 다른 상태로 끝날 수 있습니다.",
-        "숨은 업적(Ronin, Melancholy, Globalization)이 스토리 관련 분기를 암시합니다."
+        "개별 손님 분기의 조건은 아직 확인되지 않았습니다.",
+        "숨은 업적의 발동 조건도 미확인이므로 엔딩 조건의 증거로 사용하지 않습니다."
        ]
       },
       {
@@ -22890,11 +22890,11 @@
         ],
         [
          "한 번의 플레이로 모든 엔딩을 볼 수 있나요?",
-         "거의 확실히 아닙니다 — 스토리가 선택에 따라 분기하므로 여러 번 플레이해야 할 가능성이 높습니다."
+         "알 수 없습니다. 회차나 저장 조건에 대한 검증된 출처를 찾지 못했습니다."
         ],
         [
          "가게가 중요할까요, 스토리만 중요할까요?",
-         "둘 다입니다 — 가게 진행(라이선스, 평판)이 스토리 경로와 연결되어 있습니다."
+         "알 수 없습니다. 공식 설명은 선택의 영향을 확인하지만 개별 변수는 공개하지 않습니다."
         ]
        ]
       },
@@ -22929,8 +22929,8 @@
          "L'histoire personnelle de chaque client avance à mesure que vous réparez ses appareils."
         ],
         [
-         "Les licences",
-         "La progression sous licence (gamme Atari, etc.) fait partie du chemin principal de l'histoire."
+         "Déclencheurs non vérifiés",
+         "Aucune source fiable ne donne encore le nombre exact de fins, leurs noms ou les choix requis."
         ]
        ]
       },
@@ -22940,8 +22940,8 @@
        "items": [
         "Il existe plusieurs fins (confirmé sur la page Steam officielle).",
         "Les fins dépendent des choix que vous faites pendant l'histoire.",
-        "Les histoires de clients se ramifient — le même client peut finir dans des situations différentes.",
-        "Les succès cachés (Ronin, Melancholy, Globalization) suggèrent des embranchements liés à l'histoire."
+        "Les conditions des branches individuelles des clients ne sont pas encore vérifiées.",
+        "Les conditions des succès cachés restent inconnues et ne constituent pas une preuve des fins."
        ]
       },
       {
@@ -22954,11 +22954,11 @@
         ],
         [
          "Puis-je voir toutes les fins en une seule partie ?",
-         "Presque certainement non — l'histoire se ramifie selon les choix, plusieurs parties seront donc probablement nécessaires."
+         "Inconnu. Nous n'avons pas trouvé de source vérifiée sur les parties ou sauvegardes requises."
         ],
         [
          "La boutique compte-t-elle ou seulement l'histoire ?",
-         "Les deux — la progression de la boutique (licences, réputation) est liée au chemin de l'histoire."
+         "Inconnu. La description officielle confirme l'effet des choix, mais ne détaille pas les variables."
         ]
        ]
       },
@@ -22993,8 +22993,8 @@
          "Die persönliche Geschichte jedes Kunden schreitet voran, während du seine Geräte reparierst."
         ],
         [
-         "Lizenzen",
-         "Die lizenzierte Progression (Atari-Reihe usw.) ist Teil des Hauptstory-Pfads."
+         "Auslöser nicht verifiziert",
+         "Keine zuverlässige Quelle nennt bisher die genaue Anzahl, Namen oder erforderlichen Entscheidungen."
         ]
        ]
       },
@@ -23004,8 +23004,8 @@
        "items": [
         "Es gibt mehrere Enden (auf der offiziellen Steam-Seite bestätigt).",
         "Die Enden hängen von den Entscheidungen ab, die du während der Story triffst.",
-        "Kundengeschichten verzweigen sich — derselbe Kunde kann in unterschiedlichen Zuständen enden.",
-        "Die versteckten Errungenschaften (Ronin, Melancholy, Globalization) deuten auf storybezogene Verzweigungen hin."
+        "Die Bedingungen einzelner Kundenverzweigungen sind noch nicht verifiziert.",
+        "Auch die Auslöser versteckter Errungenschaften sind unbekannt und kein Beleg für Endenbedingungen."
        ]
       },
       {
@@ -23018,11 +23018,11 @@
         ],
         [
          "Kann ich in einem Durchlauf alle Enden sehen?",
-         "Fast sicher nicht — die Story verzweigt sich über Entscheidungen, daher sind vermutlich mehrere Durchläufe nötig."
+         "Unbekannt. Es gibt keine verifizierte Quelle zu nötigen Durchläufen oder Speicherständen."
         ],
         [
          "Zählt nur die Story oder auch der Laden?",
-         "Beides — die Laden-Progression (Lizenzen, Ruf) ist in den Story-Pfad eingebunden."
+         "Unbekannt. Die offizielle Beschreibung bestätigt den Einfluss von Entscheidungen, nennt aber keine einzelnen Variablen."
         ]
        ]
       },
@@ -23057,8 +23057,8 @@
          "La historia personal de cada cliente avanza a medida que reparas sus dispositivos."
         ],
         [
-         "Las licencias",
-         "La progresión con licencias (línea Atari, etc.) forma parte del camino principal de la historia."
+         "Desencadenantes sin verificar",
+         "Ninguna fuente fiable ofrece todavía el número exacto, los nombres o las decisiones necesarias."
         ]
        ]
       },
@@ -23068,8 +23068,8 @@
        "items": [
         "Hay múltiples finales (confirmado en la página oficial de Steam).",
         "Los finales dependen de las decisiones que tomas durante la historia.",
-        "Las historias de los clientes se ramifican: el mismo cliente puede acabar en estados distintos.",
-        "Los logros ocultos (Ronin, Melancholy, Globalization) insinúan ramas relacionadas con la historia."
+        "Las condiciones de las ramas individuales de los clientes aún no están verificadas.",
+        "Los desencadenantes de los logros ocultos también son desconocidos y no prueban condiciones de finales."
        ]
       },
       {
@@ -23082,11 +23082,11 @@
         ],
         [
          "¿Puedo ver todos los finales en una sola partida?",
-         "Casi seguro que no: la historia se ramifica según las decisiones, así que probablemente necesites varias partidas."
+         "Se desconoce. No encontramos una fuente verificada sobre partidas o guardados necesarios."
         ],
         [
          "¿Importa la tienda o solo la historia?",
-         "Ambas: la progresión de la tienda (licencias, reputación) está ligada al camino de la historia."
+         "Se desconoce. La descripción oficial confirma el efecto de las decisiones, pero no detalla variables concretas."
         ]
        ]
       },
@@ -23121,8 +23121,8 @@
          "A história pessoal de cada cliente avança conforme você conserta os aparelhos deles."
         ],
         [
-         "Licenças",
-         "A progressão de licenças (linha Atari etc.) faz parte do caminho principal da história."
+         "Gatilhos não verificados",
+         "Nenhuma fonte confiável informa ainda o número exato, os nomes ou as escolhas necessárias."
         ]
        ]
       },
@@ -23132,8 +23132,8 @@
        "items": [
         "Existem vários finais (confirmado na página oficial da Steam).",
         "Os finais dependem das escolhas que você faz durante a história.",
-        "As histórias dos clientes se ramificam — o mesmo cliente pode terminar em situações diferentes.",
-        "As conquistas ocultas (Ronin, Melancholy, Globalization) sugerem ramos relacionados à história."
+        "As condições dos ramos individuais dos clientes ainda não foram verificadas.",
+        "Os gatilhos das conquistas ocultas também são desconhecidos e não comprovam condições de finais."
        ]
       },
       {
@@ -23146,11 +23146,11 @@
         ],
         [
          "Consigo ver todos os finais em uma única partida?",
-         "Quase certamente não — a história se ramifica pelas escolhas, então provavelmente serão necessárias várias partidas."
+         "Não se sabe. Não encontramos fonte verificada sobre partidas ou saves necessários."
         ],
         [
          "A loja importa ou só a história?",
-         "Ambos — a progressão da loja (licenças, reputação) está ligada ao caminho da história."
+         "Não se sabe. A descrição oficial confirma o efeito das escolhas, mas não detalha variáveis específicas."
         ]
        ]
       },
@@ -23185,8 +23185,8 @@
          "Личная история каждого клиента продвигается по мере ремонта их устройств."
         ],
         [
-         "Лицензии",
-         "Лицензионный прогресс (линейка Atari и т.д.) — часть основного сюжетного пути."
+         "Триггеры не проверены",
+         "Надёжного источника с точным числом, названиями или нужными выборами пока нет."
         ]
        ]
       },
@@ -23196,8 +23196,8 @@
        "items": [
         "Концовок несколько (подтверждено на официальной странице Steam).",
         "Концовки зависят от выбора в сюжете.",
-        "Истории клиентов ветвятся — один и тот же клиент может оказаться в разных состояниях.",
-        "Скрытые достижения (Ronin, Melancholy, Globalization) намекают на сюжетные ветки."
+        "Условия отдельных веток клиентов пока не проверены.",
+        "Триггеры скрытых достижений также неизвестны и не доказывают условия концовок."
        ]
       },
       {
@@ -23210,11 +23210,11 @@
         ],
         [
          "Можно ли увидеть все концовки за одно прохождение?",
-         "Почти наверняка нет — сюжет ветвится от выборов, так что понадобятся повторные прохождения."
+         "Неизвестно. Проверенного источника о нужных прохождениях или сохранениях нет."
         ],
         [
          "Мастерская влияет или только сюжет?",
-         "И то и другое — прогресс мастерской (лицензии, репутация) связан с сюжетным путём."
+         "Неизвестно. Официальное описание подтверждает влияние выбора, но не перечисляет конкретные переменные."
         ]
        ]
       },

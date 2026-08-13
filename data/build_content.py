@@ -557,16 +557,16 @@ for page in PAGES:
             t["sections"] = [{"type":"note", "heading":u["hiddenTitle"], "body":u["hiddenIntro"]}, {"type":"table", "heading":u["hiddenHead"], "columns":[_ACH_UI[lg][3], _ACH_UI[lg][4]], "rows":[[r["name"], r["condition"] or u["hiddenCondition"]] for r in hidden_rows]}]
 # 设备网格文案（无则用英文，避免空）
 _DEV_T = {
- "en": ["Device step pages","Each device has its own page with the repair loop, weak points and an interactive checklist."],
- "zh-CN": ["设备步骤页","每台设备都有自己的页面：修复循环、薄弱点与交互式检查清单。"],
- "zh-TW": ["設備步驟頁","每台設備都有自己的頁面：修復循環、薄弱點與互動式檢查清單。"],
- "ja": ["デバイス別ステップ","各デバイスに修理ループ・弱点・インタラクティブチェックリストのページがあります。"],
- "ko": ["기기별 단계 페이지","각 기기에는 수리 루프, 약점, 대화형 체크리스트 페이지가 있습니다."],
- "fr": ["Pages par appareil","Chaque appareil a sa page : boucle de réparation, points faibles et checklist interactive."],
- "de": ["Geräte-Schritt-Seiten","Jedes Gerät hat seine eigene Seite: Reparaturzyklus, Schwachstellen und interaktive Checkliste."],
- "es": ["Páginas por dispositivo","Cada dispositivo tiene su página: bucle de reparación, puntos débiles y lista interactiva."],
- "pt-BR": ["Páginas por aparelho","Cada aparelho tem sua página: ciclo de conserto, pontos fracos e checklist interativo."],
- "ru": ["Страницы устройств","У каждого устройства есть своя страница: цикл ремонта, слабые места и интерактивный чек-лист."],
+ "en": ["Device profiles","Each profile lists the verified device name and family, official Atari status where supported, and marks the device-specific procedure as unknown."],
+ "zh-CN": ["设备资料","每份资料列出已核实的设备名称与类别；有来源支持时标注 Atari 官方授权，并明确设备专属流程未知。"],
+ "zh-TW": ["裝置資料","每份資料列出已核實的裝置名稱與類別；有來源支持時標註 Atari 官方授權，並明確裝置專屬流程未知。"],
+ "ja": ["デバイス資料","各資料には確認済みのデバイス名と分類、出典がある場合のAtari公式ライセンス状況を掲載し、固有手順は不明と明記します。"],
+ "ko": ["기기 자료","각 자료에는 확인된 기기 이름과 분류, 출처가 있는 경우 Atari 공식 라이선스 상태가 있으며 기기별 절차는 알려지지 않았다고 표시합니다."],
+ "fr": ["Fiches appareils","Chaque fiche indique le nom et la famille vérifiés, le statut Atari officiel lorsqu'il est étayé, et précise que la procédure propre à l'appareil est inconnue."],
+ "de": ["Geräteprofile","Jedes Profil nennt den verifizierten Gerätenamen und die Familie, bei Beleg den offiziellen Atari-Status, und kennzeichnet den gerätespezifischen Ablauf als unbekannt."],
+ "es": ["Fichas de dispositivos","Cada ficha muestra el nombre y la familia verificados, el estado oficial de Atari cuando está respaldado, y marca el procedimiento específico como desconocido."],
+ "pt-BR": ["Perfis de aparelhos","Cada perfil mostra nome e família verificados, status oficial da Atari quando respaldado e informa que o procedimento específico é desconhecido."],
+ "ru": ["Профили устройств","В каждом профиле указаны подтверждённые название и категория, официальный статус Atari при наличии источника, а процедура отмечена как неизвестная."],
 }
 for lg, (t, l) in _DEV_T.items():
     SITE_I18N[lg]["devicesTitle"] = t

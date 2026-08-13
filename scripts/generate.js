@@ -466,7 +466,7 @@ function renderPage(lang, page){
       const t = pageOf(dp, lang);
       return `<a class="dev-link" href="${prefix}/${dp.slug}"><span class="dev-ic">${iconOf(dp.slug)}</span><span class="dev-tx">${esc(t.title)}</span><span class="dev-go">${SVG.arrow}</span></a>`;
     }).join("");
-    sections2 += `<section class="panel-block reveal" id="dev-grid"><div class="panel-head"><span class="panel-tag">${esc(siteI18n(lang).boardTag)}</span><h2>${esc(siteI18n(lang).devicesTitle || "Device step pages")}</h2></div><p class="panel-lead">${esc(siteI18n(lang).devicesLead || "Each device has its own page with the repair loop, weak points and an interactive checklist.")}</p><div class="dev-grid">${grid}</div></section>`;
+    sections2 += `<section class="panel-block reveal" id="dev-grid"><div class="panel-head"><span class="panel-tag">${esc(siteI18n(lang).boardTag)}</span><h2>${esc(siteI18n(lang).devicesTitle || "Device profiles")}</h2></div><p class="panel-lead">${esc(siteI18n(lang).devicesLead || "Each profile lists the verified device name and family, official Atari status where supported, and marks the device-specific procedure as unknown.")}</p><div class="dev-grid">${grid}</div></section>`;
   }
   if (page.slug === "repair-guide") sections2 += repairChecklist(lang);
   const srcList = page.sources || [];
@@ -676,7 +676,7 @@ gen404();
 const urls = [];
 for (const lang of LANGS) {
   urls.push({ loc: urlOf("index",lang), priority: "1.0" });
-  for (const p of DATA.pages) urls.push({ loc: urlOf(p.slug,lang), priority: "0.8" });
+  for (const p of DATA.pages.filter(p=>!p.slug.startsWith("devices/"))) urls.push({ loc: urlOf(p.slug,lang), priority: "0.8" });
   for (const sp of ["about","privacy","contact"]) urls.push({ loc: urlOf(sp,lang), priority: "0.3" });
 }
 const smN = KIT.writeSitemap(OUT, urls, LM);

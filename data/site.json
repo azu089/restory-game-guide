@@ -31671,9 +31671,9 @@
   {
    "slug": "devices/atari-2600",
    "title": "Atari 2600 — Device Profile",
-   "metaTitle": "Atari 2600 — ReStory Device Profile",
-   "metaDescription": "Atari 2600: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Atari 2600 — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Atari 2600 in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Atari 2600 in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -31753,9 +31753,9 @@
    "i18n": {
     "en": {
      "title": "Atari 2600 — Device Profile",
-     "metaTitle": "Atari 2600 — ReStory Device Profile",
-     "metaDescription": "Atari 2600: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Atari 2600 — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Atari 2600 in ReStory. Includes its source-supported family and verification status; the device-specific procedure i…",
+     "intro": "Device profile and reference for Atari 2600 in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -31802,10 +31802,10 @@
      "icon": "console"
     },
     "zh-CN": {
-     "title": "Atari 2600 修复指南 — 设备资料",
-     "metaTitle": "Atari 2600 修复指南 — ReStory 设备资料",
-     "metaDescription": "Atari 2600 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Atari 2600 — 设备资料",
+     "metaTitle": "Atari 2600 — ReStory 设备参考",
+     "metaDescription": "Atari 2600 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Atari 2600 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -31852,10 +31852,10 @@
      "icon": "console"
     },
     "ja": {
-     "title": "Atari 2600  — デバイス情報",
-     "metaTitle": "Atari 2600  — ReStory デバイス情報",
-     "metaDescription": "Atari 2600 : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Atari 2600 — デバイス情報",
+     "metaTitle": "Atari 2600 — ReStory デバイス資料",
+     "metaDescription": "ReStory の Atari 2600 デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Atari 2600 デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -31903,9 +31903,9 @@
     },
     "ko": {
      "title": "Atari 2600 — 기기 정보",
-     "metaTitle": "Atari 2600 — ReStory 기기 정보",
-     "metaDescription": "Atari 2600: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Atari 2600 — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Atari 2600 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Atari 2600 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -31952,10 +31952,10 @@
      "icon": "console"
     },
     "fr": {
-     "title": "Atari 2600 : guide de réparation — Fiche appareil",
-     "metaTitle": "Atari 2600 : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Atari 2600 : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Atari 2600 — Fiche appareil",
+     "metaTitle": "Atari 2600 — Référence appareil ReStory",
+     "metaDescription": "Fiche de Atari 2600 dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Atari 2600 dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -32003,9 +32003,9 @@
     },
     "de": {
      "title": "Atari 2600 — Geräteprofil",
-     "metaTitle": "Atari 2600 — ReStory Geräteprofil",
-     "metaDescription": "Atari 2600: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Atari 2600 — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Atari 2600 in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Atari 2600 in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -32052,10 +32052,10 @@
      "icon": "console"
     },
     "es": {
-     "title": "Guía de reparación de Atari 2600 — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Atari 2600 — Ficha de dispositivo d…",
-     "metaDescription": "Guía de reparación de Atari 2600: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Atari 2600 — Ficha del dispositivo",
+     "metaTitle": "Atari 2600 — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Atari 2600 en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Atari 2600 en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -32102,10 +32102,10 @@
      "icon": "console"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Atari 2600 — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Atari 2600 — Perfil de aparelho de Re…",
-     "metaDescription": "Guia de Conserto do Atari 2600: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Atari 2600 — Perfil do aparelho",
+     "metaTitle": "Atari 2600 — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Atari 2600 em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Atari 2600 em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -32153,9 +32153,9 @@
     },
     "ru": {
      "title": "Atari 2600 — Профиль устройства",
-     "metaTitle": "Atari 2600 — Профиль устройства ReStory",
-     "metaDescription": "Atari 2600: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Atari 2600 — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Atari 2600 в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Atari 2600 в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -32202,10 +32202,10 @@
      "icon": "console"
     },
     "zh-TW": {
-     "title": "Atari 2600 修復指南 — 設備資料",
-     "metaTitle": "Atari 2600 修復指南 — ReStory 設備資料",
-     "metaDescription": "Atari 2600 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Atari 2600 — 設備資料",
+     "metaTitle": "Atari 2600 — ReStory 設備參考",
+     "metaDescription": "Atari 2600 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Atari 2600 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -32256,9 +32256,9 @@
   {
    "slug": "devices/atari-lynx",
    "title": "Atari Lynx — Device Profile",
-   "metaTitle": "Atari Lynx — ReStory Device Profile",
-   "metaDescription": "Atari Lynx: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Atari Lynx — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Atari Lynx in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Atari Lynx in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -32338,9 +32338,9 @@
    "i18n": {
     "en": {
      "title": "Atari Lynx — Device Profile",
-     "metaTitle": "Atari Lynx — ReStory Device Profile",
-     "metaDescription": "Atari Lynx: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Atari Lynx — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Atari Lynx in ReStory. Includes its source-supported family and verification status; the device-specific procedure i…",
+     "intro": "Device profile and reference for Atari Lynx in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -32387,10 +32387,10 @@
      "icon": "handheld"
     },
     "zh-CN": {
-     "title": "Atari Lynx 修复指南 — 设备资料",
-     "metaTitle": "Atari Lynx 修复指南 — ReStory 设备资料",
-     "metaDescription": "Atari Lynx 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Atari Lynx — 设备资料",
+     "metaTitle": "Atari Lynx — ReStory 设备参考",
+     "metaDescription": "Atari Lynx 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Atari Lynx 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -32437,10 +32437,10 @@
      "icon": "handheld"
     },
     "ja": {
-     "title": "Atari Lynx  — デバイス情報",
-     "metaTitle": "Atari Lynx  — ReStory デバイス情報",
-     "metaDescription": "Atari Lynx : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Atari Lynx — デバイス情報",
+     "metaTitle": "Atari Lynx — ReStory デバイス資料",
+     "metaDescription": "ReStory の Atari Lynx デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Atari Lynx デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -32488,9 +32488,9 @@
     },
     "ko": {
      "title": "Atari Lynx — 기기 정보",
-     "metaTitle": "Atari Lynx — ReStory 기기 정보",
-     "metaDescription": "Atari Lynx: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Atari Lynx — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Atari Lynx 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Atari Lynx 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -32537,10 +32537,10 @@
      "icon": "handheld"
     },
     "fr": {
-     "title": "Atari Lynx : guide de réparation — Fiche appareil",
-     "metaTitle": "Atari Lynx : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Atari Lynx : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Atari Lynx — Fiche appareil",
+     "metaTitle": "Atari Lynx — Référence appareil ReStory",
+     "metaDescription": "Fiche de Atari Lynx dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Atari Lynx dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -32588,9 +32588,9 @@
     },
     "de": {
      "title": "Atari Lynx — Geräteprofil",
-     "metaTitle": "Atari Lynx — ReStory Geräteprofil",
-     "metaDescription": "Atari Lynx: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Atari Lynx — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Atari Lynx in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Atari Lynx in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -32637,10 +32637,10 @@
      "icon": "handheld"
     },
     "es": {
-     "title": "Guía de reparación de Atari Lynx — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Atari Lynx — Ficha de dispositivo d…",
-     "metaDescription": "Guía de reparación de Atari Lynx: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Atari Lynx — Ficha del dispositivo",
+     "metaTitle": "Atari Lynx — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Atari Lynx en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Atari Lynx en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -32687,10 +32687,10 @@
      "icon": "handheld"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Atari Lynx — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Atari Lynx — Perfil de aparelho de Re…",
-     "metaDescription": "Guia de Conserto do Atari Lynx: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Atari Lynx — Perfil do aparelho",
+     "metaTitle": "Atari Lynx — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Atari Lynx em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Atari Lynx em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -32738,9 +32738,9 @@
     },
     "ru": {
      "title": "Atari Lynx — Профиль устройства",
-     "metaTitle": "Atari Lynx — Профиль устройства ReStory",
-     "metaDescription": "Atari Lynx: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Atari Lynx — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Atari Lynx в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Atari Lynx в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -32787,10 +32787,10 @@
      "icon": "handheld"
     },
     "zh-TW": {
-     "title": "Atari Lynx 修復指南 — 設備資料",
-     "metaTitle": "Atari Lynx 修復指南 — ReStory 設備資料",
-     "metaDescription": "Atari Lynx 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Atari Lynx — 設備資料",
+     "metaTitle": "Atari Lynx — ReStory 設備參考",
+     "metaDescription": "Atari Lynx 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Atari Lynx 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -32841,9 +32841,9 @@
   {
    "slug": "devices/atari-cx40",
    "title": "Atari CX40 — Device Profile",
-   "metaTitle": "Atari CX40 — ReStory Device Profile",
-   "metaDescription": "Atari CX40: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Atari CX40 — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Atari CX40 in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Atari CX40 in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -32923,9 +32923,9 @@
    "i18n": {
     "en": {
      "title": "Atari CX40 — Device Profile",
-     "metaTitle": "Atari CX40 — ReStory Device Profile",
-     "metaDescription": "Atari CX40: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Atari CX40 — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Atari CX40 in ReStory. Includes its source-supported family and verification status; the device-specific procedure i…",
+     "intro": "Device profile and reference for Atari CX40 in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -32972,10 +32972,10 @@
      "icon": "console"
     },
     "zh-CN": {
-     "title": "Atari CX40 修复指南 — 设备资料",
-     "metaTitle": "Atari CX40 修复指南 — ReStory 设备资料",
-     "metaDescription": "Atari CX40 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Atari CX40 — 设备资料",
+     "metaTitle": "Atari CX40 — ReStory 设备参考",
+     "metaDescription": "Atari CX40 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Atari CX40 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -33022,10 +33022,10 @@
      "icon": "console"
     },
     "ja": {
-     "title": "Atari CX40  — デバイス情報",
-     "metaTitle": "Atari CX40  — ReStory デバイス情報",
-     "metaDescription": "Atari CX40 : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Atari CX40 — デバイス情報",
+     "metaTitle": "Atari CX40 — ReStory デバイス資料",
+     "metaDescription": "ReStory の Atari CX40 デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Atari CX40 デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -33073,9 +33073,9 @@
     },
     "ko": {
      "title": "Atari CX40 — 기기 정보",
-     "metaTitle": "Atari CX40 — ReStory 기기 정보",
-     "metaDescription": "Atari CX40: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Atari CX40 — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Atari CX40 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Atari CX40 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -33122,10 +33122,10 @@
      "icon": "console"
     },
     "fr": {
-     "title": "Atari CX40 : guide de réparation — Fiche appareil",
-     "metaTitle": "Atari CX40 : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Atari CX40 : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Atari CX40 — Fiche appareil",
+     "metaTitle": "Atari CX40 — Référence appareil ReStory",
+     "metaDescription": "Fiche de Atari CX40 dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Atari CX40 dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -33173,9 +33173,9 @@
     },
     "de": {
      "title": "Atari CX40 — Geräteprofil",
-     "metaTitle": "Atari CX40 — ReStory Geräteprofil",
-     "metaDescription": "Atari CX40: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Atari CX40 — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Atari CX40 in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Atari CX40 in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -33222,10 +33222,10 @@
      "icon": "console"
     },
     "es": {
-     "title": "Guía de reparación de Atari CX40 — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Atari CX40 — Ficha de dispositivo d…",
-     "metaDescription": "Guía de reparación de Atari CX40: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Atari CX40 — Ficha del dispositivo",
+     "metaTitle": "Atari CX40 — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Atari CX40 en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Atari CX40 en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -33272,10 +33272,10 @@
      "icon": "console"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Atari CX40 — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Atari CX40 — Perfil de aparelho de Re…",
-     "metaDescription": "Guia de Conserto do Atari CX40: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Atari CX40 — Perfil do aparelho",
+     "metaTitle": "Atari CX40 — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Atari CX40 em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Atari CX40 em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -33323,9 +33323,9 @@
     },
     "ru": {
      "title": "Atari CX40 — Профиль устройства",
-     "metaTitle": "Atari CX40 — Профиль устройства ReStory",
-     "metaDescription": "Atari CX40: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Atari CX40 — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Atari CX40 в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Atari CX40 в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -33372,10 +33372,10 @@
      "icon": "console"
     },
     "zh-TW": {
-     "title": "Atari CX40 修復指南 — 設備資料",
-     "metaTitle": "Atari CX40 修復指南 — ReStory 設備資料",
-     "metaDescription": "Atari CX40 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Atari CX40 — 設備資料",
+     "metaTitle": "Atari CX40 — ReStory 設備參考",
+     "metaDescription": "Atari CX40 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Atari CX40 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -33426,9 +33426,9 @@
   {
    "slug": "devices/nony-playmachine",
    "title": "Nony PlayMachine — Device Profile",
-   "metaTitle": "Nony PlayMachine — ReStory Device Profile",
-   "metaDescription": "Nony PlayMachine: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Nony PlayMachine — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Nony PlayMachine in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Nony PlayMachine in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -33504,9 +33504,9 @@
    "i18n": {
     "en": {
      "title": "Nony PlayMachine — Device Profile",
-     "metaTitle": "Nony PlayMachine — ReStory Device Profile",
-     "metaDescription": "Nony PlayMachine: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Nony PlayMachine — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Nony PlayMachine in ReStory. Includes its source-supported family and verification status; the device-specific proce…",
+     "intro": "Device profile and reference for Nony PlayMachine in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -33549,10 +33549,10 @@
      "icon": "handheld"
     },
     "zh-CN": {
-     "title": "Nony PlayMachine 修复指南 — 设备资料",
-     "metaTitle": "Nony PlayMachine 修复指南 — Re…",
-     "metaDescription": "Nony PlayMachine 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Nony PlayMachine — 设备资料",
+     "metaTitle": "Nony PlayMachine — ReStory 设…",
+     "metaDescription": "Nony PlayMachine 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Nony PlayMachine 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -33595,10 +33595,10 @@
      "icon": "handheld"
     },
     "ja": {
-     "title": "Nony PlayMachine  — デバイス情報",
-     "metaTitle": "Nony PlayMachine  — ReStory デ…",
-     "metaDescription": "Nony PlayMachine : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Nony PlayMachine — デバイス情報",
+     "metaTitle": "Nony PlayMachine — ReStory デ…",
+     "metaDescription": "ReStory の Nony PlayMachine デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Nony PlayMachine デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -33643,8 +33643,8 @@
     "ko": {
      "title": "Nony PlayMachine — 기기 정보",
      "metaTitle": "Nony PlayMachine — ReStory 기…",
-     "metaDescription": "Nony PlayMachine: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정…",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaDescription": "ReStory의 Nony PlayMachine 기기 정보입니다. 출처로 확인된 분류와 검증 상태…",
+     "intro": "ReStory의 Nony PlayMachine 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -33687,10 +33687,10 @@
      "icon": "handheld"
     },
     "fr": {
-     "title": "Nony PlayMachine : guide de réparation — Fiche appareil",
-     "metaTitle": "Nony PlayMachine : guide de réparation — Fiche appareil R…",
-     "metaDescription": "Nony PlayMachine : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Nony PlayMachine — Fiche appareil",
+     "metaTitle": "Nony PlayMachine — Référence appareil ReStory",
+     "metaDescription": "Fiche de Nony PlayMachine dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Nony PlayMachine dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -33734,9 +33734,9 @@
     },
     "de": {
      "title": "Nony PlayMachine — Geräteprofil",
-     "metaTitle": "Nony PlayMachine — ReStory Geräteprofil",
-     "metaDescription": "Nony PlayMachine: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Nony PlayMachine — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Nony PlayMachine in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Nony PlayMachine in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -33779,10 +33779,10 @@
      "icon": "handheld"
     },
     "es": {
-     "title": "Guía de reparación de Nony PlayMachine — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Nony PlayMachine — Ficha de disposi…",
-     "metaDescription": "Guía de reparación de Nony PlayMachine: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendien…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Nony PlayMachine — Ficha del dispositivo",
+     "metaTitle": "Nony PlayMachine — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Nony PlayMachine en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Nony PlayMachine en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -33825,10 +33825,10 @@
      "icon": "handheld"
     },
     "pt-BR": {
-     "title": "Guia de Conserto da Nony PlayMachine — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto da Nony PlayMachine — Perfil de aparelho…",
-     "metaDescription": "Guia de Conserto da Nony PlayMachine: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Nony PlayMachine — Perfil do aparelho",
+     "metaTitle": "Nony PlayMachine — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Nony PlayMachine em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Nony PlayMachine em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -33872,9 +33872,9 @@
     },
     "ru": {
      "title": "Nony PlayMachine — Профиль устройства",
-     "metaTitle": "Nony PlayMachine — Профиль устройства ReStory",
-     "metaDescription": "Nony PlayMachine: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Nony PlayMachine — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Nony PlayMachine в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Nony PlayMachine в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -33917,10 +33917,10 @@
      "icon": "handheld"
     },
     "zh-TW": {
-     "title": "Nony PlayMachine 修復指南 — 設備資料",
-     "metaTitle": "Nony PlayMachine 修復指南 — Re…",
-     "metaDescription": "Nony PlayMachine 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Nony PlayMachine — 設備資料",
+     "metaTitle": "Nony PlayMachine — ReStory 設…",
+     "metaDescription": "Nony PlayMachine 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Nony PlayMachine 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -33967,9 +33967,9 @@
   {
    "slug": "devices/nony-pmp",
    "title": "Nony PMP — Device Profile",
-   "metaTitle": "Nony PMP — ReStory Device Profile",
-   "metaDescription": "Nony PMP: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Nony PMP — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Nony PMP in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Nony PMP in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -34045,9 +34045,9 @@
    "i18n": {
     "en": {
      "title": "Nony PMP — Device Profile",
-     "metaTitle": "Nony PMP — ReStory Device Profile",
-     "metaDescription": "Nony PMP: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Nony PMP — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Nony PMP in ReStory. Includes its source-supported family and verification status; the device-specific procedure is…",
+     "intro": "Device profile and reference for Nony PMP in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -34090,10 +34090,10 @@
      "icon": "tape"
     },
     "zh-CN": {
-     "title": "Nony PMP 修复指南 — 设备资料",
-     "metaTitle": "Nony PMP 修复指南 — ReStory 设备资料",
-     "metaDescription": "Nony PMP 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Nony PMP — 设备资料",
+     "metaTitle": "Nony PMP — ReStory 设备参考",
+     "metaDescription": "Nony PMP 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Nony PMP 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -34136,10 +34136,10 @@
      "icon": "tape"
     },
     "ja": {
-     "title": "Nony PMP  — デバイス情報",
-     "metaTitle": "Nony PMP  — ReStory デバイス情報",
-     "metaDescription": "Nony PMP : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Nony PMP — デバイス情報",
+     "metaTitle": "Nony PMP — ReStory デバイス資料",
+     "metaDescription": "ReStory の Nony PMP デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Nony PMP デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -34183,9 +34183,9 @@
     },
     "ko": {
      "title": "Nony PMP — 기기 정보",
-     "metaTitle": "Nony PMP — ReStory 기기 정보",
-     "metaDescription": "Nony PMP: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Nony PMP — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Nony PMP 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Nony PMP 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -34228,10 +34228,10 @@
      "icon": "tape"
     },
     "fr": {
-     "title": "Nony PMP : guide de réparation — Fiche appareil",
-     "metaTitle": "Nony PMP : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Nony PMP : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Nony PMP — Fiche appareil",
+     "metaTitle": "Nony PMP — Référence appareil ReStory",
+     "metaDescription": "Fiche de Nony PMP dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Nony PMP dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -34275,9 +34275,9 @@
     },
     "de": {
      "title": "Nony PMP — Geräteprofil",
-     "metaTitle": "Nony PMP — ReStory Geräteprofil",
-     "metaDescription": "Nony PMP: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Nony PMP — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Nony PMP in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Nony PMP in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -34320,10 +34320,10 @@
      "icon": "tape"
     },
     "es": {
-     "title": "Guía de reparación de Nony PMP — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Nony PMP — Ficha de dispositivo de…",
-     "metaDescription": "Guía de reparación de Nony PMP: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de ve…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Nony PMP — Ficha del dispositivo",
+     "metaTitle": "Nony PMP — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Nony PMP en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Nony PMP en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -34366,10 +34366,10 @@
      "icon": "tape"
     },
     "pt-BR": {
-     "title": "Guia de Conserto da Nony PMP — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto da Nony PMP — Perfil de aparelho de ReSt…",
-     "metaDescription": "Guia de Conserto da Nony PMP: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Nony PMP — Perfil do aparelho",
+     "metaTitle": "Nony PMP — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Nony PMP em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Nony PMP em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -34413,9 +34413,9 @@
     },
     "ru": {
      "title": "Nony PMP — Профиль устройства",
-     "metaTitle": "Nony PMP — Профиль устройства ReStory",
-     "metaDescription": "Nony PMP: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Nony PMP — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Nony PMP в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Nony PMP в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -34458,10 +34458,10 @@
      "icon": "tape"
     },
     "zh-TW": {
-     "title": "Nony PMP 修復指南 — 設備資料",
-     "metaTitle": "Nony PMP 修復指南 — ReStory 設備資料",
-     "metaDescription": "Nony PMP 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Nony PMP — 設備資料",
+     "metaTitle": "Nony PMP — ReStory 設備參考",
+     "metaDescription": "Nony PMP 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Nony PMP 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -34508,9 +34508,9 @@
   {
    "slug": "devices/patento-bs",
    "title": "Patento BS — Device Profile",
-   "metaTitle": "Patento BS — ReStory Device Profile",
-   "metaDescription": "Patento BS: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Patento BS — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Patento BS in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Patento BS in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -34586,9 +34586,9 @@
    "i18n": {
     "en": {
      "title": "Patento BS — Device Profile",
-     "metaTitle": "Patento BS — ReStory Device Profile",
-     "metaDescription": "Patento BS: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Patento BS — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Patento BS in ReStory. Includes its source-supported family and verification status; the device-specific procedure i…",
+     "intro": "Device profile and reference for Patento BS in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -34631,10 +34631,10 @@
      "icon": "handheld"
     },
     "zh-CN": {
-     "title": "Patento BS 修复指南 — 设备资料",
-     "metaTitle": "Patento BS 修复指南 — ReStory 设备资料",
-     "metaDescription": "Patento BS 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Patento BS — 设备资料",
+     "metaTitle": "Patento BS — ReStory 设备参考",
+     "metaDescription": "Patento BS 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Patento BS 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -34677,10 +34677,10 @@
      "icon": "handheld"
     },
     "ja": {
-     "title": "Patento BS  — デバイス情報",
-     "metaTitle": "Patento BS  — ReStory デバイス情報",
-     "metaDescription": "Patento BS : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Patento BS — デバイス情報",
+     "metaTitle": "Patento BS — ReStory デバイス資料",
+     "metaDescription": "ReStory の Patento BS デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Patento BS デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -34724,9 +34724,9 @@
     },
     "ko": {
      "title": "Patento BS — 기기 정보",
-     "metaTitle": "Patento BS — ReStory 기기 정보",
-     "metaDescription": "Patento BS: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Patento BS — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Patento BS 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Patento BS 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -34769,10 +34769,10 @@
      "icon": "handheld"
     },
     "fr": {
-     "title": "Patento BS : guide de réparation — Fiche appareil",
-     "metaTitle": "Patento BS : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Patento BS : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Patento BS — Fiche appareil",
+     "metaTitle": "Patento BS — Référence appareil ReStory",
+     "metaDescription": "Fiche de Patento BS dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Patento BS dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -34816,9 +34816,9 @@
     },
     "de": {
      "title": "Patento BS — Geräteprofil",
-     "metaTitle": "Patento BS — ReStory Geräteprofil",
-     "metaDescription": "Patento BS: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Patento BS — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Patento BS in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Patento BS in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -34861,10 +34861,10 @@
      "icon": "handheld"
     },
     "es": {
-     "title": "Guía de reparación de Patento BS — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Patento BS — Ficha de dispositivo d…",
-     "metaDescription": "Guía de reparación de Patento BS: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Patento BS — Ficha del dispositivo",
+     "metaTitle": "Patento BS — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Patento BS en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Patento BS en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -34907,10 +34907,10 @@
      "icon": "handheld"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Patento BS — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Patento BS — Perfil de aparelho de Re…",
-     "metaDescription": "Guia de Conserto do Patento BS: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Patento BS — Perfil do aparelho",
+     "metaTitle": "Patento BS — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Patento BS em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Patento BS em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -34954,9 +34954,9 @@
     },
     "ru": {
      "title": "Patento BS — Профиль устройства",
-     "metaTitle": "Patento BS — Профиль устройства ReStory",
-     "metaDescription": "Patento BS: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Patento BS — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Patento BS в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Patento BS в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -34999,10 +34999,10 @@
      "icon": "handheld"
     },
     "zh-TW": {
-     "title": "Patento BS 修復指南 — 設備資料",
-     "metaTitle": "Patento BS 修復指南 — ReStory 設備資料",
-     "metaDescription": "Patento BS 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Patento BS — 設備資料",
+     "metaTitle": "Patento BS — ReStory 設備參考",
+     "metaDescription": "Patento BS 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Patento BS 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -35049,9 +35049,9 @@
   {
    "slug": "devices/autorolla-razor",
    "title": "Autorolla Razor — Device Profile",
-   "metaTitle": "Autorolla Razor — ReStory Device Profile",
-   "metaDescription": "Autorolla Razor: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Autorolla Razor — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Autorolla Razor in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Autorolla Razor in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -35127,9 +35127,9 @@
    "i18n": {
     "en": {
      "title": "Autorolla Razor — Device Profile",
-     "metaTitle": "Autorolla Razor — ReStory Device Profile",
-     "metaDescription": "Autorolla Razor: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Autorolla Razor — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Autorolla Razor in ReStory. Includes its source-supported family and verification status; the device-specific proced…",
+     "intro": "Device profile and reference for Autorolla Razor in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -35172,10 +35172,10 @@
      "icon": "phone"
     },
     "zh-CN": {
-     "title": "Autorolla Razor 修复指南 — 设备资料",
-     "metaTitle": "Autorolla Razor 修复指南 — ReS…",
-     "metaDescription": "Autorolla Razor 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Autorolla Razor — 设备资料",
+     "metaTitle": "Autorolla Razor — ReStory 设备参考",
+     "metaDescription": "Autorolla Razor 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Autorolla Razor 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -35218,10 +35218,10 @@
      "icon": "phone"
     },
     "ja": {
-     "title": "Autorolla Razor  — デバイス情報",
-     "metaTitle": "Autorolla Razor  — ReStory デ…",
-     "metaDescription": "Autorolla Razor : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Autorolla Razor — デバイス情報",
+     "metaTitle": "Autorolla Razor — ReStory デバ…",
+     "metaDescription": "ReStory の Autorolla Razor デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Autorolla Razor デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -35266,8 +35266,8 @@
     "ko": {
      "title": "Autorolla Razor — 기기 정보",
      "metaTitle": "Autorolla Razor — ReStory 기기…",
-     "metaDescription": "Autorolla Razor: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정…",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaDescription": "ReStory의 Autorolla Razor 기기 정보입니다. 출처로 확인된 분류와 검증 상태…",
+     "intro": "ReStory의 Autorolla Razor 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -35310,10 +35310,10 @@
      "icon": "phone"
     },
     "fr": {
-     "title": "Autorolla Razor : guide de réparation — Fiche appareil",
-     "metaTitle": "Autorolla Razor : guide de réparation — Fiche appareil Re…",
-     "metaDescription": "Autorolla Razor : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Autorolla Razor — Fiche appareil",
+     "metaTitle": "Autorolla Razor — Référence appareil ReStory",
+     "metaDescription": "Fiche de Autorolla Razor dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Autorolla Razor dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -35357,9 +35357,9 @@
     },
     "de": {
      "title": "Autorolla Razor — Geräteprofil",
-     "metaTitle": "Autorolla Razor — ReStory Geräteprofil",
-     "metaDescription": "Autorolla Razor: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Autorolla Razor — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Autorolla Razor in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Autorolla Razor in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -35402,10 +35402,10 @@
      "icon": "phone"
     },
     "es": {
-     "title": "Guía de reparación de Autorolla Razor — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Autorolla Razor — Ficha de disposit…",
-     "metaDescription": "Guía de reparación de Autorolla Razor: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendient…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Autorolla Razor — Ficha del dispositivo",
+     "metaTitle": "Autorolla Razor — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Autorolla Razor en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Autorolla Razor en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -35448,10 +35448,10 @@
      "icon": "phone"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Autorolla Razor — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Autorolla Razor — Perfil de aparelho…",
-     "metaDescription": "Guia de Conserto do Autorolla Razor: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Autorolla Razor — Perfil do aparelho",
+     "metaTitle": "Autorolla Razor — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Autorolla Razor em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Autorolla Razor em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -35495,9 +35495,9 @@
     },
     "ru": {
      "title": "Autorolla Razor — Профиль устройства",
-     "metaTitle": "Autorolla Razor — Профиль устройства ReStory",
-     "metaDescription": "Autorolla Razor: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Autorolla Razor — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Autorolla Razor в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Autorolla Razor в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -35540,10 +35540,10 @@
      "icon": "phone"
     },
     "zh-TW": {
-     "title": "Autorolla Razor 修復指南 — 設備資料",
-     "metaTitle": "Autorolla Razor 修復指南 — ReS…",
-     "metaDescription": "Autorolla Razor 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Autorolla Razor — 設備資料",
+     "metaTitle": "Autorolla Razor — ReStory 設備參考",
+     "metaDescription": "Autorolla Razor 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Autorolla Razor 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -35590,9 +35590,9 @@
   {
    "slug": "devices/pokia-3310",
    "title": "Pokia 3310 — Device Profile",
-   "metaTitle": "Pokia 3310 — ReStory Device Profile",
-   "metaDescription": "Pokia 3310: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Pokia 3310 — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Pokia 3310 in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Pokia 3310 in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -35668,9 +35668,9 @@
    "i18n": {
     "en": {
      "title": "Pokia 3310 — Device Profile",
-     "metaTitle": "Pokia 3310 — ReStory Device Profile",
-     "metaDescription": "Pokia 3310: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Pokia 3310 — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Pokia 3310 in ReStory. Includes its source-supported family and verification status; the device-specific procedure i…",
+     "intro": "Device profile and reference for Pokia 3310 in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -35713,10 +35713,10 @@
      "icon": "phone"
     },
     "zh-CN": {
-     "title": "Pokia 3310 修复指南 — 设备资料",
-     "metaTitle": "Pokia 3310 修复指南 — ReStory 设备资料",
-     "metaDescription": "Pokia 3310 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Pokia 3310 — 设备资料",
+     "metaTitle": "Pokia 3310 — ReStory 设备参考",
+     "metaDescription": "Pokia 3310 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Pokia 3310 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -35759,10 +35759,10 @@
      "icon": "phone"
     },
     "ja": {
-     "title": "Pokia 3310  — デバイス情報",
-     "metaTitle": "Pokia 3310  — ReStory デバイス情報",
-     "metaDescription": "Pokia 3310 : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Pokia 3310 — デバイス情報",
+     "metaTitle": "Pokia 3310 — ReStory デバイス資料",
+     "metaDescription": "ReStory の Pokia 3310 デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Pokia 3310 デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -35806,9 +35806,9 @@
     },
     "ko": {
      "title": "Pokia 3310 — 기기 정보",
-     "metaTitle": "Pokia 3310 — ReStory 기기 정보",
-     "metaDescription": "Pokia 3310: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Pokia 3310 — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Pokia 3310 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Pokia 3310 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -35851,10 +35851,10 @@
      "icon": "phone"
     },
     "fr": {
-     "title": "Pokia 3310 : guide de réparation — Fiche appareil",
-     "metaTitle": "Pokia 3310 : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Pokia 3310 : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Pokia 3310 — Fiche appareil",
+     "metaTitle": "Pokia 3310 — Référence appareil ReStory",
+     "metaDescription": "Fiche de Pokia 3310 dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Pokia 3310 dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -35898,9 +35898,9 @@
     },
     "de": {
      "title": "Pokia 3310 — Geräteprofil",
-     "metaTitle": "Pokia 3310 — ReStory Geräteprofil",
-     "metaDescription": "Pokia 3310: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Pokia 3310 — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Pokia 3310 in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Pokia 3310 in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -35943,10 +35943,10 @@
      "icon": "phone"
     },
     "es": {
-     "title": "Guía de reparación de Pokia 3310 — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Pokia 3310 — Ficha de dispositivo d…",
-     "metaDescription": "Guía de reparación de Pokia 3310: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Pokia 3310 — Ficha del dispositivo",
+     "metaTitle": "Pokia 3310 — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Pokia 3310 en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Pokia 3310 en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -35989,10 +35989,10 @@
      "icon": "phone"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Pokia 3310 — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Pokia 3310 — Perfil de aparelho de Re…",
-     "metaDescription": "Guia de Conserto do Pokia 3310: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Pokia 3310 — Perfil do aparelho",
+     "metaTitle": "Pokia 3310 — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Pokia 3310 em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Pokia 3310 em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -36036,9 +36036,9 @@
     },
     "ru": {
      "title": "Pokia 3310 — Профиль устройства",
-     "metaTitle": "Pokia 3310 — Профиль устройства ReStory",
-     "metaDescription": "Pokia 3310: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Pokia 3310 — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Pokia 3310 в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Pokia 3310 в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -36081,10 +36081,10 @@
      "icon": "phone"
     },
     "zh-TW": {
-     "title": "Pokia 3310 修復指南 — 設備資料",
-     "metaTitle": "Pokia 3310 修復指南 — ReStory 設備資料",
-     "metaDescription": "Pokia 3310 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Pokia 3310 — 設備資料",
+     "metaTitle": "Pokia 3310 — ReStory 設備參考",
+     "metaDescription": "Pokia 3310 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Pokia 3310 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -36131,9 +36131,9 @@
   {
    "slug": "devices/pokia-njoy",
    "title": "Pokia Njoy — Device Profile",
-   "metaTitle": "Pokia Njoy — ReStory Device Profile",
-   "metaDescription": "Pokia Njoy: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Pokia Njoy — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Pokia Njoy in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Pokia Njoy in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -36209,9 +36209,9 @@
    "i18n": {
     "en": {
      "title": "Pokia Njoy — Device Profile",
-     "metaTitle": "Pokia Njoy — ReStory Device Profile",
-     "metaDescription": "Pokia Njoy: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Pokia Njoy — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Pokia Njoy in ReStory. Includes its source-supported family and verification status; the device-specific procedure i…",
+     "intro": "Device profile and reference for Pokia Njoy in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -36254,10 +36254,10 @@
      "icon": "phone"
     },
     "zh-CN": {
-     "title": "Pokia Njoy 修复指南 — 设备资料",
-     "metaTitle": "Pokia Njoy 修复指南 — ReStory 设备资料",
-     "metaDescription": "Pokia Njoy 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Pokia Njoy — 设备资料",
+     "metaTitle": "Pokia Njoy — ReStory 设备参考",
+     "metaDescription": "Pokia Njoy 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Pokia Njoy 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -36300,10 +36300,10 @@
      "icon": "phone"
     },
     "ja": {
-     "title": "Pokia Njoy  — デバイス情報",
-     "metaTitle": "Pokia Njoy  — ReStory デバイス情報",
-     "metaDescription": "Pokia Njoy : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Pokia Njoy — デバイス情報",
+     "metaTitle": "Pokia Njoy — ReStory デバイス資料",
+     "metaDescription": "ReStory の Pokia Njoy デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Pokia Njoy デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -36347,9 +36347,9 @@
     },
     "ko": {
      "title": "Pokia Njoy — 기기 정보",
-     "metaTitle": "Pokia Njoy — ReStory 기기 정보",
-     "metaDescription": "Pokia Njoy: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Pokia Njoy — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Pokia Njoy 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Pokia Njoy 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -36392,10 +36392,10 @@
      "icon": "phone"
     },
     "fr": {
-     "title": "Pokia Njoy : guide de réparation — Fiche appareil",
-     "metaTitle": "Pokia Njoy : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Pokia Njoy : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Pokia Njoy — Fiche appareil",
+     "metaTitle": "Pokia Njoy — Référence appareil ReStory",
+     "metaDescription": "Fiche de Pokia Njoy dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Pokia Njoy dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -36439,9 +36439,9 @@
     },
     "de": {
      "title": "Pokia Njoy — Geräteprofil",
-     "metaTitle": "Pokia Njoy — ReStory Geräteprofil",
-     "metaDescription": "Pokia Njoy: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Pokia Njoy — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Pokia Njoy in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Pokia Njoy in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -36484,10 +36484,10 @@
      "icon": "phone"
     },
     "es": {
-     "title": "Guía de reparación de Pokia Njoy — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Pokia Njoy — Ficha de dispositivo d…",
-     "metaDescription": "Guía de reparación de Pokia Njoy: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Pokia Njoy — Ficha del dispositivo",
+     "metaTitle": "Pokia Njoy — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Pokia Njoy en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Pokia Njoy en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -36530,10 +36530,10 @@
      "icon": "phone"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Pokia Njoy — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Pokia Njoy — Perfil de aparelho de Re…",
-     "metaDescription": "Guia de Conserto do Pokia Njoy: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Pokia Njoy — Perfil do aparelho",
+     "metaTitle": "Pokia Njoy — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Pokia Njoy em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Pokia Njoy em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -36577,9 +36577,9 @@
     },
     "ru": {
      "title": "Pokia Njoy — Профиль устройства",
-     "metaTitle": "Pokia Njoy — Профиль устройства ReStory",
-     "metaDescription": "Pokia Njoy: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Pokia Njoy — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Pokia Njoy в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Pokia Njoy в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -36622,10 +36622,10 @@
      "icon": "phone"
     },
     "zh-TW": {
-     "title": "Pokia Njoy 修復指南 — 設備資料",
-     "metaTitle": "Pokia Njoy 修復指南 — ReStory 設備資料",
-     "metaDescription": "Pokia Njoy 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Pokia Njoy — 設備資料",
+     "metaTitle": "Pokia Njoy — ReStory 設備參考",
+     "metaDescription": "Pokia Njoy 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Pokia Njoy 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -36672,9 +36672,9 @@
   {
    "slug": "devices/eggotchi",
    "title": "Eggotchi — Device Profile",
-   "metaTitle": "Eggotchi — ReStory Device Profile",
-   "metaDescription": "Eggotchi: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Eggotchi — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Eggotchi in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Eggotchi in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -36750,9 +36750,9 @@
    "i18n": {
     "en": {
      "title": "Eggotchi — Device Profile",
-     "metaTitle": "Eggotchi — ReStory Device Profile",
-     "metaDescription": "Eggotchi: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Eggotchi — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Eggotchi in ReStory. Includes its source-supported family and verification status; the device-specific procedure is…",
+     "intro": "Device profile and reference for Eggotchi in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -36795,10 +36795,10 @@
      "icon": "chip"
     },
     "zh-CN": {
-     "title": "Eggotchi 修复指南 — 设备资料",
-     "metaTitle": "Eggotchi 修复指南 — ReStory 设备资料",
-     "metaDescription": "Eggotchi 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Eggotchi — 设备资料",
+     "metaTitle": "Eggotchi — ReStory 设备参考",
+     "metaDescription": "Eggotchi 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Eggotchi 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -36841,10 +36841,10 @@
      "icon": "chip"
     },
     "ja": {
-     "title": "Eggotchi  — デバイス情報",
-     "metaTitle": "Eggotchi  — ReStory デバイス情報",
-     "metaDescription": "Eggotchi : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Eggotchi — デバイス情報",
+     "metaTitle": "Eggotchi — ReStory デバイス資料",
+     "metaDescription": "ReStory の Eggotchi デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Eggotchi デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -36888,9 +36888,9 @@
     },
     "ko": {
      "title": "Eggotchi — 기기 정보",
-     "metaTitle": "Eggotchi — ReStory 기기 정보",
-     "metaDescription": "Eggotchi: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Eggotchi — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Eggotchi 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Eggotchi 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -36933,10 +36933,10 @@
      "icon": "chip"
     },
     "fr": {
-     "title": "Eggotchi : guide de réparation — Fiche appareil",
-     "metaTitle": "Eggotchi : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Eggotchi : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Eggotchi — Fiche appareil",
+     "metaTitle": "Eggotchi — Référence appareil ReStory",
+     "metaDescription": "Fiche de Eggotchi dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Eggotchi dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -36980,9 +36980,9 @@
     },
     "de": {
      "title": "Eggotchi — Geräteprofil",
-     "metaTitle": "Eggotchi — ReStory Geräteprofil",
-     "metaDescription": "Eggotchi: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Eggotchi — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Eggotchi in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Eggotchi in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -37025,10 +37025,10 @@
      "icon": "chip"
     },
     "es": {
-     "title": "Guía de reparación de Eggotchi — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Eggotchi — Ficha de dispositivo de…",
-     "metaDescription": "Guía de reparación de Eggotchi: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de ve…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Eggotchi — Ficha del dispositivo",
+     "metaTitle": "Eggotchi — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Eggotchi en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Eggotchi en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -37071,10 +37071,10 @@
      "icon": "chip"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Eggotchi — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Eggotchi — Perfil de aparelho de ReSt…",
-     "metaDescription": "Guia de Conserto do Eggotchi: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Eggotchi — Perfil do aparelho",
+     "metaTitle": "Eggotchi — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Eggotchi em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Eggotchi em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -37118,9 +37118,9 @@
     },
     "ru": {
      "title": "Eggotchi — Профиль устройства",
-     "metaTitle": "Eggotchi — Профиль устройства ReStory",
-     "metaDescription": "Eggotchi: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Eggotchi — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Eggotchi в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Eggotchi в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -37163,10 +37163,10 @@
      "icon": "chip"
     },
     "zh-TW": {
-     "title": "Eggotchi 修復指南 — 設備資料",
-     "metaTitle": "Eggotchi 修復指南 — ReStory 設備資料",
-     "metaDescription": "Eggotchi 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Eggotchi — 設備資料",
+     "metaTitle": "Eggotchi — ReStory 設備參考",
+     "metaDescription": "Eggotchi 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Eggotchi 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -37213,9 +37213,9 @@
   {
    "slug": "devices/nony-goman",
    "title": "Nony Goman — Device Profile",
-   "metaTitle": "Nony Goman — ReStory Device Profile",
-   "metaDescription": "Nony Goman: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Nony Goman — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Nony Goman in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Nony Goman in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -37291,9 +37291,9 @@
    "i18n": {
     "en": {
      "title": "Nony Goman — Device Profile",
-     "metaTitle": "Nony Goman — ReStory Device Profile",
-     "metaDescription": "Nony Goman: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Nony Goman — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Nony Goman in ReStory. Includes its source-supported family and verification status; the device-specific procedure i…",
+     "intro": "Device profile and reference for Nony Goman in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -37336,10 +37336,10 @@
      "icon": "tape"
     },
     "zh-CN": {
-     "title": "Nony Goman 修复指南 — 设备资料",
-     "metaTitle": "Nony Goman 修复指南 — ReStory 设备资料",
-     "metaDescription": "Nony Goman 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Nony Goman — 设备资料",
+     "metaTitle": "Nony Goman — ReStory 设备参考",
+     "metaDescription": "Nony Goman 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Nony Goman 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -37382,10 +37382,10 @@
      "icon": "tape"
     },
     "ja": {
-     "title": "Nony Goman  — デバイス情報",
-     "metaTitle": "Nony Goman  — ReStory デバイス情報",
-     "metaDescription": "Nony Goman : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Nony Goman — デバイス情報",
+     "metaTitle": "Nony Goman — ReStory デバイス資料",
+     "metaDescription": "ReStory の Nony Goman デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Nony Goman デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -37429,9 +37429,9 @@
     },
     "ko": {
      "title": "Nony Goman — 기기 정보",
-     "metaTitle": "Nony Goman — ReStory 기기 정보",
-     "metaDescription": "Nony Goman: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Nony Goman — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Nony Goman 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Nony Goman 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -37474,10 +37474,10 @@
      "icon": "tape"
     },
     "fr": {
-     "title": "Nony Goman : guide de réparation — Fiche appareil",
-     "metaTitle": "Nony Goman : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Nony Goman : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Nony Goman — Fiche appareil",
+     "metaTitle": "Nony Goman — Référence appareil ReStory",
+     "metaDescription": "Fiche de Nony Goman dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Nony Goman dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -37521,9 +37521,9 @@
     },
     "de": {
      "title": "Nony Goman — Geräteprofil",
-     "metaTitle": "Nony Goman — ReStory Geräteprofil",
-     "metaDescription": "Nony Goman: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Nony Goman — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Nony Goman in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Nony Goman in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -37566,10 +37566,10 @@
      "icon": "tape"
     },
     "es": {
-     "title": "Guía de reparación de Nony Goman — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Nony Goman — Ficha de dispositivo d…",
-     "metaDescription": "Guía de reparación de Nony Goman: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Nony Goman — Ficha del dispositivo",
+     "metaTitle": "Nony Goman — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Nony Goman en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Nony Goman en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -37612,10 +37612,10 @@
      "icon": "tape"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Nony Goman — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Nony Goman — Perfil de aparelho de Re…",
-     "metaDescription": "Guia de Conserto do Nony Goman: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Nony Goman — Perfil do aparelho",
+     "metaTitle": "Nony Goman — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Nony Goman em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Nony Goman em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -37659,9 +37659,9 @@
     },
     "ru": {
      "title": "Nony Goman — Профиль устройства",
-     "metaTitle": "Nony Goman — Профиль устройства ReStory",
-     "metaDescription": "Nony Goman: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Nony Goman — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Nony Goman в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Nony Goman в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -37704,10 +37704,10 @@
      "icon": "tape"
     },
     "zh-TW": {
-     "title": "Nony Goman 修復指南 — 設備資料",
-     "metaTitle": "Nony Goman 修復指南 — ReStory 設備資料",
-     "metaDescription": "Nony Goman 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Nony Goman — 設備資料",
+     "metaTitle": "Nony Goman — ReStory 設備參考",
+     "metaDescription": "Nony Goman 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Nony Goman 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -37754,9 +37754,9 @@
   {
    "slug": "devices/palaloid",
    "title": "Palaloid — Device Profile",
-   "metaTitle": "Palaloid — ReStory Device Profile",
-   "metaDescription": "Palaloid: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Palaloid — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Palaloid in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Palaloid in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -37832,9 +37832,9 @@
    "i18n": {
     "en": {
      "title": "Palaloid — Device Profile",
-     "metaTitle": "Palaloid — ReStory Device Profile",
-     "metaDescription": "Palaloid: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Palaloid — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Palaloid in ReStory. Includes its source-supported family and verification status; the device-specific procedure is…",
+     "intro": "Device profile and reference for Palaloid in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -37877,10 +37877,10 @@
      "icon": "camera"
     },
     "zh-CN": {
-     "title": "Palaloid 修复指南 — 设备资料",
-     "metaTitle": "Palaloid 修复指南 — ReStory 设备资料",
-     "metaDescription": "Palaloid 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Palaloid — 设备资料",
+     "metaTitle": "Palaloid — ReStory 设备参考",
+     "metaDescription": "Palaloid 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Palaloid 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -37923,10 +37923,10 @@
      "icon": "camera"
     },
     "ja": {
-     "title": "Palaloid  — デバイス情報",
-     "metaTitle": "Palaloid  — ReStory デバイス情報",
-     "metaDescription": "Palaloid : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Palaloid — デバイス情報",
+     "metaTitle": "Palaloid — ReStory デバイス資料",
+     "metaDescription": "ReStory の Palaloid デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Palaloid デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -37970,9 +37970,9 @@
     },
     "ko": {
      "title": "Palaloid — 기기 정보",
-     "metaTitle": "Palaloid — ReStory 기기 정보",
-     "metaDescription": "Palaloid: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Palaloid — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Palaloid 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Palaloid 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -38015,10 +38015,10 @@
      "icon": "camera"
     },
     "fr": {
-     "title": "Palaloid : guide de réparation — Fiche appareil",
-     "metaTitle": "Palaloid : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Palaloid : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Palaloid — Fiche appareil",
+     "metaTitle": "Palaloid — Référence appareil ReStory",
+     "metaDescription": "Fiche de Palaloid dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Palaloid dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -38062,9 +38062,9 @@
     },
     "de": {
      "title": "Palaloid — Geräteprofil",
-     "metaTitle": "Palaloid — ReStory Geräteprofil",
-     "metaDescription": "Palaloid: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Palaloid — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Palaloid in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Palaloid in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -38107,10 +38107,10 @@
      "icon": "camera"
     },
     "es": {
-     "title": "Guía de reparación de Palaloid — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Palaloid — Ficha de dispositivo de…",
-     "metaDescription": "Guía de reparación de Palaloid: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de ve…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Palaloid — Ficha del dispositivo",
+     "metaTitle": "Palaloid — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Palaloid en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Palaloid en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -38153,10 +38153,10 @@
      "icon": "camera"
     },
     "pt-BR": {
-     "title": "Guia de Conserto da Palaloid — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto da Palaloid — Perfil de aparelho de ReSt…",
-     "metaDescription": "Guia de Conserto da Palaloid: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Palaloid — Perfil do aparelho",
+     "metaTitle": "Palaloid — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Palaloid em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Palaloid em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -38200,9 +38200,9 @@
     },
     "ru": {
      "title": "Palaloid — Профиль устройства",
-     "metaTitle": "Palaloid — Профиль устройства ReStory",
-     "metaDescription": "Palaloid: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Palaloid — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Palaloid в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Palaloid в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -38245,10 +38245,10 @@
      "icon": "camera"
     },
     "zh-TW": {
-     "title": "Palaloid 修復指南 — 設備資料",
-     "metaTitle": "Palaloid 修復指南 — ReStory 設備資料",
-     "metaDescription": "Palaloid 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Palaloid — 設備資料",
+     "metaTitle": "Palaloid — ReStory 設備參考",
+     "metaDescription": "Palaloid 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Palaloid 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -38295,9 +38295,9 @@
   {
    "slug": "devices/walkie-talkie",
    "title": "Walkie-talkie — Device Profile",
-   "metaTitle": "Walkie-talkie — ReStory Device Profile",
-   "metaDescription": "Walkie-talkie: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Walkie-talkie — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Walkie-talkie in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Walkie-talkie in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -38373,9 +38373,9 @@
    "i18n": {
     "en": {
      "title": "Walkie-talkie — Device Profile",
-     "metaTitle": "Walkie-talkie — ReStory Device Profile",
-     "metaDescription": "Walkie-talkie: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Walkie-talkie — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Walkie-talkie in ReStory. Includes its source-supported family and verification status; the device-specific procedur…",
+     "intro": "Device profile and reference for Walkie-talkie in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -38418,10 +38418,10 @@
      "icon": "radio"
     },
     "zh-CN": {
-     "title": "Walkie-talkie 修复指南 — 设备资料",
-     "metaTitle": "Walkie-talkie 修复指南 — ReSto…",
-     "metaDescription": "Walkie-talkie 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Walkie-talkie — 设备资料",
+     "metaTitle": "Walkie-talkie — ReStory 设备参考",
+     "metaDescription": "Walkie-talkie 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Walkie-talkie 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -38464,10 +38464,10 @@
      "icon": "radio"
     },
     "ja": {
-     "title": "Walkie-talkie  — デバイス情報",
-     "metaTitle": "Walkie-talkie  — ReStory デバ…",
-     "metaDescription": "Walkie-talkie : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Walkie-talkie — デバイス情報",
+     "metaTitle": "Walkie-talkie — ReStory デバイス資料",
+     "metaDescription": "ReStory の Walkie-talkie デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Walkie-talkie デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -38511,9 +38511,9 @@
     },
     "ko": {
      "title": "Walkie-talkie — 기기 정보",
-     "metaTitle": "Walkie-talkie — ReStory 기기 정보",
-     "metaDescription": "Walkie-talkie: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Walkie-talkie — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Walkie-talkie 기기 정보입니다. 출처로 확인된 분류와 검증 상태를…",
+     "intro": "ReStory의 Walkie-talkie 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -38556,10 +38556,10 @@
      "icon": "radio"
     },
     "fr": {
-     "title": "Walkie-talkie : guide de réparation — Fiche appareil",
-     "metaTitle": "Walkie-talkie : guide de réparation — Fiche appareil ReSt…",
-     "metaDescription": "Walkie-talkie : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Walkie-talkie — Fiche appareil",
+     "metaTitle": "Walkie-talkie — Référence appareil ReStory",
+     "metaDescription": "Fiche de Walkie-talkie dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Walkie-talkie dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -38603,9 +38603,9 @@
     },
     "de": {
      "title": "Walkie-talkie — Geräteprofil",
-     "metaTitle": "Walkie-talkie — ReStory Geräteprofil",
-     "metaDescription": "Walkie-talkie: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Walkie-talkie — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Walkie-talkie in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Walkie-talkie in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -38648,10 +38648,10 @@
      "icon": "radio"
     },
     "es": {
-     "title": "Guía de reparación de Walkie-talkie — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Walkie-talkie — Ficha de dispositiv…",
-     "metaDescription": "Guía de reparación de Walkie-talkie: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Walkie-talkie — Ficha del dispositivo",
+     "metaTitle": "Walkie-talkie — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Walkie-talkie en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Walkie-talkie en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -38694,10 +38694,10 @@
      "icon": "radio"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Walkie-talkie — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Walkie-talkie — Perfil de aparelho de…",
-     "metaDescription": "Guia de Conserto do Walkie-talkie: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Walkie-talkie — Perfil do aparelho",
+     "metaTitle": "Walkie-talkie — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Walkie-talkie em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Walkie-talkie em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -38741,9 +38741,9 @@
     },
     "ru": {
      "title": "Walkie-talkie — Профиль устройства",
-     "metaTitle": "Walkie-talkie — Профиль устройства ReStory",
-     "metaDescription": "Walkie-talkie: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Walkie-talkie — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Walkie-talkie в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Walkie-talkie в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -38786,10 +38786,10 @@
      "icon": "radio"
     },
     "zh-TW": {
-     "title": "Walkie-talkie 修復指南 — 設備資料",
-     "metaTitle": "Walkie-talkie 修復指南 — ReSto…",
-     "metaDescription": "Walkie-talkie 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Walkie-talkie — 設備資料",
+     "metaTitle": "Walkie-talkie — ReStory 設備參考",
+     "metaDescription": "Walkie-talkie 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Walkie-talkie 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -38836,9 +38836,9 @@
   {
    "slug": "devices/unicorp-99l",
    "title": "Unicorp 99L — Device Profile",
-   "metaTitle": "Unicorp 99L — ReStory Device Profile",
-   "metaDescription": "Unicorp 99L: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Unicorp 99L — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Unicorp 99L in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Unicorp 99L in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -38914,9 +38914,9 @@
    "i18n": {
     "en": {
      "title": "Unicorp 99L — Device Profile",
-     "metaTitle": "Unicorp 99L — ReStory Device Profile",
-     "metaDescription": "Unicorp 99L: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Unicorp 99L — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Unicorp 99L in ReStory. Includes its source-supported family and verification status; the device-specific procedure…",
+     "intro": "Device profile and reference for Unicorp 99L in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -38959,10 +38959,10 @@
      "icon": "flash"
     },
     "zh-CN": {
-     "title": "Unicorp 99L 修复指南 — 设备资料",
-     "metaTitle": "Unicorp 99L 修复指南 — ReStory…",
-     "metaDescription": "Unicorp 99L 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Unicorp 99L — 设备资料",
+     "metaTitle": "Unicorp 99L — ReStory 设备参考",
+     "metaDescription": "Unicorp 99L 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Unicorp 99L 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -39005,10 +39005,10 @@
      "icon": "flash"
     },
     "ja": {
-     "title": "Unicorp 99L  — デバイス情報",
-     "metaTitle": "Unicorp 99L  — ReStory デバイス情報",
-     "metaDescription": "Unicorp 99L : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Unicorp 99L — デバイス情報",
+     "metaTitle": "Unicorp 99L — ReStory デバイス資料",
+     "metaDescription": "ReStory の Unicorp 99L デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Unicorp 99L デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -39052,9 +39052,9 @@
     },
     "ko": {
      "title": "Unicorp 99L — 기기 정보",
-     "metaTitle": "Unicorp 99L — ReStory 기기 정보",
-     "metaDescription": "Unicorp 99L: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Unicorp 99L — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Unicorp 99L 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Unicorp 99L 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -39097,10 +39097,10 @@
      "icon": "flash"
     },
     "fr": {
-     "title": "Unicorp 99L : guide de réparation — Fiche appareil",
-     "metaTitle": "Unicorp 99L : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Unicorp 99L : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Unicorp 99L — Fiche appareil",
+     "metaTitle": "Unicorp 99L — Référence appareil ReStory",
+     "metaDescription": "Fiche de Unicorp 99L dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Unicorp 99L dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -39144,9 +39144,9 @@
     },
     "de": {
      "title": "Unicorp 99L — Geräteprofil",
-     "metaTitle": "Unicorp 99L — ReStory Geräteprofil",
-     "metaDescription": "Unicorp 99L: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Unicorp 99L — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Unicorp 99L in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Unicorp 99L in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -39189,10 +39189,10 @@
      "icon": "flash"
     },
     "es": {
-     "title": "Guía de reparación de Unicorp 99L — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Unicorp 99L — Ficha de dispositivo…",
-     "metaDescription": "Guía de reparación de Unicorp 99L: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Unicorp 99L — Ficha del dispositivo",
+     "metaTitle": "Unicorp 99L — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Unicorp 99L en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Unicorp 99L en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -39235,10 +39235,10 @@
      "icon": "flash"
     },
     "pt-BR": {
-     "title": "Guia de Conserto da Unicorp 99L — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto da Unicorp 99L — Perfil de aparelho de R…",
-     "metaDescription": "Guia de Conserto da Unicorp 99L: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Unicorp 99L — Perfil do aparelho",
+     "metaTitle": "Unicorp 99L — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Unicorp 99L em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Unicorp 99L em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -39282,9 +39282,9 @@
     },
     "ru": {
      "title": "Unicorp 99L — Профиль устройства",
-     "metaTitle": "Unicorp 99L — Профиль устройства ReStory",
-     "metaDescription": "Unicorp 99L: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Unicorp 99L — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Unicorp 99L в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Unicorp 99L в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -39327,10 +39327,10 @@
      "icon": "flash"
     },
     "zh-TW": {
-     "title": "Unicorp 99L 修復指南 — 設備資料",
-     "metaTitle": "Unicorp 99L 修復指南 — ReStory…",
-     "metaDescription": "Unicorp 99L 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Unicorp 99L — 設備資料",
+     "metaTitle": "Unicorp 99L — ReStory 設備參考",
+     "metaDescription": "Unicorp 99L 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Unicorp 99L 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -39377,9 +39377,9 @@
   {
    "slug": "devices/robodog",
    "title": "Robodog — Device Profile",
-   "metaTitle": "Robodog — ReStory Device Profile",
-   "metaDescription": "Robodog: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-   "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+   "metaTitle": "Robodog — ReStory Device Reference",
+   "metaDescription": "Device profile and reference for Robodog in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "intro": "Device profile and reference for Robodog in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
    "sections": [
     {
      "type": "table",
@@ -39455,9 +39455,9 @@
    "i18n": {
     "en": {
      "title": "Robodog — Device Profile",
-     "metaTitle": "Robodog — ReStory Device Profile",
-     "metaDescription": "Robodog: This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
-     "intro": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.",
+     "metaTitle": "Robodog — ReStory Device Reference",
+     "metaDescription": "Device profile and reference for Robodog in ReStory. Includes its source-supported family and verification status; the device-specific procedure is u…",
+     "intro": "Device profile and reference for Robodog in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
      "sections": [
       {
        "type": "table",
@@ -39500,10 +39500,10 @@
      "icon": "dog"
     },
     "zh-CN": {
-     "title": "Robodog 修复指南 — 设备资料",
-     "metaTitle": "Robodog 修复指南 — ReStory 设备资料",
-     "metaDescription": "Robodog 修复指南: 本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
-     "intro": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。",
+     "title": "Robodog — 设备资料",
+     "metaTitle": "Robodog — ReStory 设备参考",
+     "metaDescription": "Robodog 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "intro": "Robodog 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -39546,10 +39546,10 @@
      "icon": "dog"
     },
     "ja": {
-     "title": "Robodog  — デバイス情報",
-     "metaTitle": "Robodog  — ReStory デバイス情報",
-     "metaDescription": "Robodog : ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
-     "intro": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。",
+     "title": "Robodog — デバイス情報",
+     "metaTitle": "Robodog — ReStory デバイス資料",
+     "metaDescription": "ReStory の Robodog デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "intro": "ReStory の Robodog デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -39593,9 +39593,9 @@
     },
     "ko": {
      "title": "Robodog — 기기 정보",
-     "metaTitle": "Robodog — ReStory 기기 정보",
-     "metaDescription": "Robodog: ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
-     "intro": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다.",
+     "metaTitle": "Robodog — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Robodog 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "intro": "ReStory의 Robodog 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -39638,10 +39638,10 @@
      "icon": "dog"
     },
     "fr": {
-     "title": "Robodog : guide de réparation — Fiche appareil",
-     "metaTitle": "Robodog : guide de réparation — Fiche appareil ReStory",
-     "metaDescription": "Robodog : guide de réparation: Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
-     "intro": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier.",
+     "title": "Robodog — Fiche appareil",
+     "metaTitle": "Robodog — Référence appareil ReStory",
+     "metaDescription": "Fiche de Robodog dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "intro": "Fiche de Robodog dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -39685,9 +39685,9 @@
     },
     "de": {
      "title": "Robodog — Geräteprofil",
-     "metaTitle": "Robodog — ReStory Geräteprofil",
-     "metaDescription": "Robodog: Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
-     "intro": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.",
+     "metaTitle": "Robodog — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Robodog in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "intro": "Profil von Robodog in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -39730,10 +39730,10 @@
      "icon": "dog"
     },
     "es": {
-     "title": "Guía de reparación de Robodog — Ficha del dispositivo",
-     "metaTitle": "Guía de reparación de Robodog — Ficha de dispositivo de R…",
-     "metaDescription": "Guía de reparación de Robodog: Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de ver…",
-     "intro": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación.",
+     "title": "Robodog — Ficha del dispositivo",
+     "metaTitle": "Robodog — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Robodog en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "intro": "Ficha de Robodog en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -39776,10 +39776,10 @@
      "icon": "dog"
     },
     "pt-BR": {
-     "title": "Guia de Conserto do Robodog — Perfil do aparelho",
-     "metaTitle": "Guia de Conserto do Robodog — Perfil de aparelho de ReSto…",
-     "metaDescription": "Guia de Conserto do Robodog: Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
-     "intro": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.",
+     "title": "Robodog — Perfil do aparelho",
+     "metaTitle": "Robodog — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Robodog em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "intro": "Perfil de Robodog em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -39823,9 +39823,9 @@
     },
     "ru": {
      "title": "Robodog — Профиль устройства",
-     "metaTitle": "Robodog — Профиль устройства ReStory",
-     "metaDescription": "Robodog: Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
-     "intro": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется.",
+     "metaTitle": "Robodog — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Robodog в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "intro": "Профиль Robodog в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -39868,10 +39868,10 @@
      "icon": "dog"
     },
     "zh-TW": {
-     "title": "Robodog 修復指南 — 設備資料",
-     "metaTitle": "Robodog 修復指南 — ReStory 設備資料",
-     "metaDescription": "Robodog 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "title": "Robodog — 設備資料",
+     "metaTitle": "Robodog — ReStory 設備參考",
+     "metaDescription": "Robodog 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "intro": "Robodog 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",

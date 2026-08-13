@@ -138,6 +138,7 @@ function head(title, desc, extraLd, slug, lang, ogImage){
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
+${slug.startsWith("devices/") ? '<meta name="robots" content="noindex,follow">' : ""}
 <link rel="canonical" href="${urlOf(slug,lang)}">
 ${hreflang(slug)}
 <meta property="og:type" content="website"><meta property="og:site_name" content="${esc(siteI18n(lang).name)}">
@@ -467,7 +468,7 @@ function renderPage(lang, page){
     }).join("");
     sections2 += `<section class="panel-block reveal" id="dev-grid"><div class="panel-head"><span class="panel-tag">${esc(siteI18n(lang).boardTag)}</span><h2>${esc(siteI18n(lang).devicesTitle || "Device step pages")}</h2></div><p class="panel-lead">${esc(siteI18n(lang).devicesLead || "Each device has its own page with the repair loop, weak points and an interactive checklist.")}</p><div class="dev-grid">${grid}</div></section>`;
   }
-  if (page.slug === "repair-guide" || page.slug.startsWith("devices/")) sections2 += repairChecklist(lang);
+  if (page.slug === "repair-guide") sections2 += repairChecklist(lang);
   const srcList = page.sources || [];
   const sources = srcList.map(x=>`<li>${AFF.anchor({ url: x.url, text: (x.labels && x.labels[lang]) || x.label, suffix: " ↗" })}</li>`).join("");
   const affNote = AFF.needsDisclosure(srcList.map(x=>x.url)) ? `<p class="aff-note">${esc(KIT.affiliateDisclosure(lang))}</p>` : "";

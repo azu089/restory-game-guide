@@ -308,13 +308,10 @@ function renderSection(s, lang){
 /* ---------- interactive tools ---------- */
 function zenCalc(lang){
   const st = siteI18n(lang);
-  const items = [["VHS",2],["Daruma",2],["Maneki-neko",3],["Seashell",3],["Shoji lamp",4],["Troll",4],["Billy Bass",4],["Gloves",5],["Bonsai",7],["Stormtrooper",7],["Kaiju",8],["Prism",8],["Ghostbusters",9]];
-  const chips = items.map(([n,p])=>`<button type="button" class="zen-chip" data-zen="${p}">${esc(n)} <b>+${p}</b></button>`).join("");
   return `<section class="zen-calc reveal" id="zen-calc">
     <div class="panel-head"><span class="panel-tag">${esc(st.zenCalcTitle||"ZEN CALC")}</span><h2>${esc(st.zenCalcTitle||"Zen points calculator")}</h2></div>
     <p class="panel-lead">${esc(st.zenCalcLead||"")}</p>
-    <div class="zen-chips">${chips}</div>
-    <div class="zen-readout"><span>${esc(st.zenTotal||"Total")}</span><b id="zen-total">0</b><span class="zen-bar"><i id="zen-fill" style="width:0%"></i></span><em>${esc(st.zenTarget||"Target 100")}: 100</em><button type="button" class="zen-reset" id="zen-reset">${esc(st.zenReset||"Reset")}</button></div>
+    <div class="zen-readout"><label for="zen-current">${esc(st.zenTotal||"Current total")}</label><input id="zen-current" type="number" min="0" step="1" inputmode="numeric" value="0"><b id="zen-total">0</b><span class="zen-bar"><i id="zen-fill" style="width:0%"></i></span><em>${esc(st.zenTarget||"Requires >100")}</em><button type="button" class="zen-reset" id="zen-reset">${esc(st.zenReset||"Check")}</button></div>
   </section>`;
 }
 function repairChecklist(lang){
@@ -538,11 +535,10 @@ function renderPage(lang, page){
     }
     // Zen 点数速算器
     var zc=document.getElementById("zen-calc"); if(zc){
-      var chips=zc.querySelectorAll(".zen-chip"), total=zc.querySelector("#zen-total"), fill=zc.querySelector("#zen-fill"), reset=zc.querySelector("#zen-reset");
-      var sum=0;
-      chips.forEach(function(ch){ ch.addEventListener("click",function(){ sum+=parseInt(ch.getAttribute("data-zen"),10); draw(); }); });
-      if(reset) reset.addEventListener("click",function(){ sum=0; draw(); });
-      function draw(){ total.textContent=sum; fill.style.width=Math.min(100,sum)+"%"; total.classList.toggle("done",sum>=100); }
+      var input=zc.querySelector("#zen-current"), total=zc.querySelector("#zen-total"), fill=zc.querySelector("#zen-fill"), reset=zc.querySelector("#zen-reset");
+      function draw(){ var sum=Math.max(0,parseInt(input.value,10)||0); total.textContent=sum; fill.style.width=Math.min(100,sum/101*100)+"%"; total.classList.toggle("done",sum>100); }
+      input.addEventListener("input",draw);
+      if(reset) reset.addEventListener("click",draw);
       draw();
     }
     // 结局分支记录器：只使用 localStorage，不上传文本内容。
@@ -595,7 +591,9 @@ function renderPage(lang, page){
 function renderStatic(lang, slug, title, body){
   const prefix = lang === DEF ? "" : `/${lang}`;
   const s = siteI18n(lang);
-  const descRaw = KIT.staticDesc(slug, lang, s.name, title);
+  const descRaw = slug === "privacy" && s.privacyMetaDescription
+    ? s.privacyMetaDescription
+    : KIT.staticDesc(slug, lang, s.name, title);
   const isCjk = ["zh-CN","zh-TW","ja","ko"].includes(lang);
   const desc = descRaw.length > (isCjk ? 74 : 148) ? descRaw.slice(0,(isCjk?73:147)).replace(/\s+[^\s]*$/,"") + "…" : descRaw;
   const pageTitle = `${title} — ${s.name}`;

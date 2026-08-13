@@ -80,9 +80,9 @@
     "zenTotal": "Current total",
     "zenTarget": "Requires >100",
     "zenReset": "Check",
-    "privacyBody": "<p>This guide site loads Google Analytics 4 (GA4) and an Adsterra advertising integration served from effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analytics</h2><p>GA4 measures activity such as page views, referrers, device/browser information and approximate region. Google may use cookies or similar identifiers to distinguish browsers. See Google's privacy controls and policies for details.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Advertising</h2><p>The effectivecpmnetwork.com advertising script is supplied by a third party. When it loads, that provider may process network and device data such as IP address, browser information, page URL, referrer, and cookies or similar identifiers, according to its own policy. We do not control that third-party collection.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Your choices</h2><p>You can block or clear cookies and other site data in your browser, use content-blocking controls, or leave before third-party scripts load. Blocking them may change analytics or ad display.</p>",
+    "privacyBody": "<p>This guide site loads Google Analytics 4 (GA4) and an Adsterra advertising integration served from effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analytics</h2><p>GA4 measures activity such as page views, referrers, device/browser information and approximate region. Google may use cookies or similar identifiers to distinguish browsers. See Google's privacy controls and policies for details.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Advertising</h2><p>Google AdSense advertising is loaded from pagead2.googlesyndication.com. Google may process cookies or similar identifiers, IP address, browser/device information, page URL and ad interaction data under its advertising privacy policies. The effectivecpmnetwork.com advertising script is supplied by a third party. When it loads, that provider may process network and device data such as IP address, browser information, page URL, referrer, and cookies or similar identifiers, according to its own policy. We do not control that third-party collection.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Your choices</h2><p>You can block or clear cookies and other site data in your browser, use content-blocking controls, or leave before third-party scripts load. Blocking them may change analytics or ad display.</p>",
     "contactBody": "<p>Questions, corrections or missing guides? Email us at <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. We read every message and update guides as we verify new details.</p>",
-    "privacyMetaDescription": "Privacy notice for ReStory Guides: GA4 analytics, Adsterra advertising from effectivecpmnetwork.com, cookies, device/network data and browser controls.",
+    "privacyMetaDescription": "Privacy: GA4 analytics, Google AdSense advertising from pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, cookies and device/network data.",
     "devicesTitle": "Device step pages",
     "devicesLead": "Each device has its own page with the repair loop, weak points and an interactive checklist.",
     "homeIntro": "ReStory is a chill, narrative-driven shop management simulator from the creators of I Am Future. Set in mid-2000s Tokyo, you run an electronics repair shop — restore nostalgic Y2K devices, talk to customers, and shape a branching story with multiple endings.",
@@ -162,9 +162,9 @@
     "zenTotal": "当前合计",
     "zenTarget": "要求 >100",
     "zenReset": "检查",
-    "privacyBody": "<p>本攻略站会加载 Google Analytics 4（GA4），以及由 effectivecpmnetwork.com 提供的 Adsterra 广告集成。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">分析统计</h2><p>GA4 会衡量页面浏览、来源、设备/浏览器信息和大致地区等活动。Google 可能使用 Cookie 或类似标识符来区分浏览器；详情以 Google 的隐私控制和政策为准。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">广告</h2><p>effectivecpmnetwork.com 广告脚本由第三方提供。脚本加载时，该提供商可能依照其政策处理 IP 地址、浏览器信息、页面 URL、来源以及 Cookie 或类似标识符等网络和设备数据。我们无法控制该第三方的数据收集。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">你的选择</h2><p>你可以在浏览器中阻止或清除 Cookie 与其他网站数据、使用内容拦截功能，或在第三方脚本加载前离开。阻止这些功能可能影响统计或广告显示。</p>",
+    "privacyBody": "<p>本攻略站会加载 Google Analytics 4（GA4），以及由 effectivecpmnetwork.com 提供的 Adsterra 广告集成。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">分析统计</h2><p>GA4 会衡量页面浏览、来源、设备/浏览器信息和大致地区等活动。Google 可能使用 Cookie 或类似标识符来区分浏览器；详情以 Google 的隐私控制和政策为准。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">广告</h2><p>本站会从 pagead2.googlesyndication.com 加载 Google AdSense 广告。Google 可能依照其广告隐私政策处理 Cookie 或类似标识符、IP 地址、浏览器/设备信息、页面 URL 和广告互动数据。effectivecpmnetwork.com 广告脚本由第三方提供。脚本加载时，该提供商可能依照其政策处理 IP 地址、浏览器信息、页面 URL、来源以及 Cookie 或类似标识符等网络和设备数据。我们无法控制该第三方的数据收集。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">你的选择</h2><p>你可以在浏览器中阻止或清除 Cookie 与其他网站数据、使用内容拦截功能，或在第三方脚本加载前离开。阻止这些功能可能影响统计或广告显示。</p>",
     "contactBody": "<p>有疑问、勘误或想要补充的攻略？请发邮件到 <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>。我们会阅读每一条消息，并在核实新细节后更新攻略。</p>",
-    "privacyMetaDescription": "ReStory 攻略站隐私说明：GA4 分析、effectivecpmnetwork.com 的 Adsterra 广告、Cookie、设备/网络数据与浏览器控制。",
+    "privacyMetaDescription": "隐私说明：GA4 分析、pagead2.googlesyndication.com 的 Google AdSense 广告、Adsterra/effectivecpmnetwork、Cookie 与设备/网络数据。",
     "devicesTitle": "设备步骤页",
     "devicesLead": "每台设备都有自己的页面：修复循环、薄弱点与交互式检查清单。",
     "homeIntro": "《ReStory：维修物语》是一款由 I Am Future 团队打造的治愈系叙事经营模拟游戏。故事发生在 2005 年的东京秋叶原——你经营一家电子维修铺，修复怀旧 Y2K 设备、倾听顾客的故事，用你的选择塑造多条分支结局。",
@@ -244,9 +244,9 @@
     "zenTotal": "目前合計",
     "zenTarget": "要求 >100",
     "zenReset": "檢查",
-    "privacyBody": "<p>本攻略站會載入 Google Analytics 4（GA4），以及由 effectivecpmnetwork.com 提供的 Adsterra 廣告整合。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">分析統計</h2><p>GA4 會衡量頁面瀏覽、來源、裝置/瀏覽器資訊和大致地區等活動。Google 可能使用 Cookie 或類似識別碼來區分瀏覽器；詳情以 Google 的隱私控制和政策為準。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">廣告</h2><p>effectivecpmnetwork.com 廣告指令碼由第三方提供。指令碼載入時，該提供者可能依照其政策處理 IP 位址、瀏覽器資訊、頁面 URL、來源，以及 Cookie 或類似識別碼等網路和裝置資料。我們無法控制該第三方的資料收集。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">你的選擇</h2><p>你可以在瀏覽器中封鎖或清除 Cookie 與其他網站資料、使用內容封鎖功能，或在第三方指令碼載入前離開。封鎖這些功能可能影響統計或廣告顯示。</p>",
+    "privacyBody": "<p>本攻略站會載入 Google Analytics 4（GA4），以及由 effectivecpmnetwork.com 提供的 Adsterra 廣告整合。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">分析統計</h2><p>GA4 會衡量頁面瀏覽、來源、裝置/瀏覽器資訊和大致地區等活動。Google 可能使用 Cookie 或類似識別碼來區分瀏覽器；詳情以 Google 的隱私控制和政策為準。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">廣告</h2><p>本站會從 pagead2.googlesyndication.com 載入 Google AdSense 廣告。Google 可能依照其廣告隱私政策處理 Cookie 或類似識別碼、IP 位址、瀏覽器/裝置資訊、頁面 URL 和廣告互動資料。effectivecpmnetwork.com 廣告指令碼由第三方提供。指令碼載入時，該提供者可能依照其政策處理 IP 位址、瀏覽器資訊、頁面 URL、來源，以及 Cookie 或類似識別碼等網路和裝置資料。我們無法控制該第三方的資料收集。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">你的選擇</h2><p>你可以在瀏覽器中封鎖或清除 Cookie 與其他網站資料、使用內容封鎖功能，或在第三方指令碼載入前離開。封鎖這些功能可能影響統計或廣告顯示。</p>",
     "contactBody": "<p>有疑問、勘誤或想補充的攻略？請寄信到 <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>。我們會閱讀每一則訊息，並在核實新細節後更新攻略。</p>",
-    "privacyMetaDescription": "ReStory 攻略站隱私說明：GA4 分析、effectivecpmnetwork.com 的 Adsterra 廣告、Cookie、裝置/網路資料與瀏覽器控制。",
+    "privacyMetaDescription": "隱私說明：GA4 分析、pagead2.googlesyndication.com 的 Google AdSense 廣告、Adsterra/effectivecpmnetwork、Cookie 與裝置/網路資料。",
     "devicesTitle": "設備步驟頁",
     "devicesLead": "每台設備都有自己的頁面：修復循環、薄弱點與互動式檢查清單。",
     "homeIntro": "《ReStory：維修物語》是一款由 I Am Future 團隊打造的治癒系敘事經營模擬遊戲。故事發生在 2005 年的東京秋葉原——你經營一家電子維修鋪，修復懷舊 Y2K 設備、傾聽顧客的故事，用你的選擇塑造多條分支結局。",
@@ -326,9 +326,9 @@
     "zenTotal": "現在の合計",
     "zenTarget": "条件 >100",
     "zenReset": "確認",
-    "privacyBody": "<p>本攻略サイトは Google Analytics 4（GA4）と、effectivecpmnetwork.com から配信される Adsterra 広告連携を読み込みます。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">アクセス解析</h2><p>GA4 はページビュー、参照元、端末・ブラウザ情報、おおよその地域などを測定します。Google はブラウザを区別するため Cookie または類似の識別子を使用する場合があります。詳細は Google のプライバシー管理とポリシーをご確認ください。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">広告</h2><p>effectivecpmnetwork.com の広告スクリプトは第三者が提供します。読み込み時に、その事業者は自社ポリシーに従い、IP アドレス、ブラウザ情報、ページ URL、参照元、Cookie または類似の識別子などのネットワーク・端末データを処理する場合があります。当サイトは第三者による収集を管理できません。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">選択肢</h2><p>ブラウザで Cookie などのサイトデータを拒否・削除する、コンテンツブロック機能を使う、または第三者スクリプトの読み込み前に離脱できます。拒否すると解析や広告表示が変わる場合があります。</p>",
+    "privacyBody": "<p>本攻略サイトは Google Analytics 4（GA4）と、effectivecpmnetwork.com から配信される Adsterra 広告連携を読み込みます。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">アクセス解析</h2><p>GA4 はページビュー、参照元、端末・ブラウザ情報、おおよその地域などを測定します。Google はブラウザを区別するため Cookie または類似の識別子を使用する場合があります。詳細は Google のプライバシー管理とポリシーをご確認ください。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">広告</h2><p>本サイトは pagead2.googlesyndication.com から Google AdSense 広告を読み込みます。Google は広告プライバシーポリシーに従い、Cookie または類似の識別子、IP アドレス、ブラウザ・端末情報、ページ URL、広告操作データを処理する場合があります。effectivecpmnetwork.com の広告スクリプトは第三者が提供します。読み込み時に、その事業者は自社ポリシーに従い、IP アドレス、ブラウザ情報、ページ URL、参照元、Cookie または類似の識別子などのネットワーク・端末データを処理する場合があります。当サイトは第三者による収集を管理できません。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">選択肢</h2><p>ブラウザで Cookie などのサイトデータを拒否・削除する、コンテンツブロック機能を使う、または第三者スクリプトの読み込み前に離脱できます。拒否すると解析や広告表示が変わる場合があります。</p>",
     "contactBody": "<p>質問・訂正・攻略のリクエストは <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a> までご連絡ください。すべてのメッセージに目を通し、確認できた内容を随時ガイドに反映します。</p>",
-    "privacyMetaDescription": "ReStory 攻略ガイドのプライバシー情報：GA4、effectivecpmnetwork.com の Adsterra 広告、Cookie、端末・ネットワークデータとブラウザ設定。",
+    "privacyMetaDescription": "プライバシー：GA4、pagead2.googlesyndication.com の Google AdSense 広告、Adsterra/effectivecpmnetwork、Cookie、端末・ネットワークデータ。",
     "devicesTitle": "デバイス別ステップ",
     "devicesLead": "各デバイスに修理ループ・弱点・インタラクティブチェックリストのページがあります。",
     "homeIntro": "『ReStory：まったり電子機器修理』は I Am Future の開発者による、癒やし系ストーリー経営シミュレーション。2005年の中旬・東京秋葉原で電子機器修理店を営み、懐かしいY2Kデバイスを修復し、お客の物語に耳を傾け、選択で分岐する複数のエンディングを紡ぎます。",
@@ -408,9 +408,9 @@
     "zenTotal": "현재 합계",
     "zenTarget": "요구 >100",
     "zenReset": "확인",
-    "privacyBody": "<p>이 가이드 사이트는 Google Analytics 4(GA4)와 effectivecpmnetwork.com에서 제공되는 Adsterra 광고 연동을 불러옵니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">분석</h2><p>GA4는 페이지 조회, 유입 경로, 기기·브라우저 정보, 대략적인 지역 등의 활동을 측정합니다. Google은 브라우저를 구분하기 위해 쿠키 또는 유사 식별자를 사용할 수 있습니다. 자세한 내용은 Google의 개인정보 보호 설정과 정책을 확인하세요.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">광고</h2><p>effectivecpmnetwork.com 광고 스크립트는 제3자가 제공합니다. 스크립트가 로드될 때 해당 업체는 자체 정책에 따라 IP 주소, 브라우저 정보, 페이지 URL, 유입 경로, 쿠키 또는 유사 식별자 같은 네트워크·기기 데이터를 처리할 수 있습니다. 당사는 그 제3자의 수집을 통제하지 않습니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">선택 사항</h2><p>브라우저에서 쿠키와 기타 사이트 데이터를 차단·삭제하거나 콘텐츠 차단 기능을 사용하거나 제3자 스크립트가 로드되기 전에 사이트를 떠날 수 있습니다. 차단하면 분석 또는 광고 표시가 달라질 수 있습니다.</p>",
+    "privacyBody": "<p>이 가이드 사이트는 Google Analytics 4(GA4)와 effectivecpmnetwork.com에서 제공되는 Adsterra 광고 연동을 불러옵니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">분석</h2><p>GA4는 페이지 조회, 유입 경로, 기기·브라우저 정보, 대략적인 지역 등의 활동을 측정합니다. Google은 브라우저를 구분하기 위해 쿠키 또는 유사 식별자를 사용할 수 있습니다. 자세한 내용은 Google의 개인정보 보호 설정과 정책을 확인하세요.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">광고</h2><p>이 사이트는 pagead2.googlesyndication.com에서 Google AdSense 광고를 불러옵니다. Google은 광고 개인정보 보호정책에 따라 쿠키 또는 유사 식별자, IP 주소, 브라우저·기기 정보, 페이지 URL과 광고 상호작용 데이터를 처리할 수 있습니다. effectivecpmnetwork.com 광고 스크립트는 제3자가 제공합니다. 스크립트가 로드될 때 해당 업체는 자체 정책에 따라 IP 주소, 브라우저 정보, 페이지 URL, 유입 경로, 쿠키 또는 유사 식별자 같은 네트워크·기기 데이터를 처리할 수 있습니다. 당사는 그 제3자의 수집을 통제하지 않습니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">선택 사항</h2><p>브라우저에서 쿠키와 기타 사이트 데이터를 차단·삭제하거나 콘텐츠 차단 기능을 사용하거나 제3자 스크립트가 로드되기 전에 사이트를 떠날 수 있습니다. 차단하면 분석 또는 광고 표시가 달라질 수 있습니다.</p>",
     "contactBody": "<p>질문, 오류 정정, 가이드 요청은 <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>로 보내주세요. 모든 메시지를 읽고, 확인된 내용을 가이드에 반영합니다.</p>",
-    "privacyMetaDescription": "ReStory 가이드 개인정보 안내: GA4 분석, effectivecpmnetwork.com의 Adsterra 광고, 쿠키, 기기·네트워크 데이터와 브라우저 설정.",
+    "privacyMetaDescription": "개인정보 안내: GA4, pagead2.googlesyndication.com의 Google AdSense 광고, Adsterra/effectivecpmnetwork, 쿠키와 기기·네트워크 데이터.",
     "devicesTitle": "기기별 단계 페이지",
     "devicesLead": "각 기기에는 수리 루프, 약점, 대화형 체크리스트 페이지가 있습니다.",
     "homeIntro": "《ReStory: 리스토리》는 I Am Future 제작진이 만든 힐링형 스토리 경영 시뮬레이션입니다. 2005년 도쿄 아키하바라에서 전자제품 수리점을 운영하며, 추억의 Y2K 기기를 복원하고 손님의 이야기를 듣고, 선택에 따라 갈라지는 여러 엔딩을 만들어 갑니다.",
@@ -490,9 +490,9 @@
     "zenTotal": "Total actuel",
     "zenTarget": "Requis >100",
     "zenReset": "Vérifier",
-    "privacyBody": "<p>Ce site de guides charge Google Analytics 4 (GA4) ainsi qu'une intégration publicitaire Adsterra diffusée depuis effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Mesure d'audience</h2><p>GA4 mesure notamment les pages vues, la provenance, les informations sur l'appareil et le navigateur, et la région approximative. Google peut utiliser des cookies ou identifiants similaires pour distinguer les navigateurs. Consultez les contrôles et règles de confidentialité de Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicité</h2><p>Le script publicitaire effectivecpmnetwork.com est fourni par un tiers. Lors de son chargement, ce fournisseur peut traiter, selon sa propre politique, des données réseau et appareil telles que l'adresse IP, le navigateur, l'URL de la page, le référent et des cookies ou identifiants similaires. Nous ne contrôlons pas cette collecte tierce.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Vos choix</h2><p>Vous pouvez bloquer ou effacer les cookies et autres données de site dans votre navigateur, utiliser un bloqueur de contenu ou quitter avant le chargement des scripts tiers. Cela peut modifier la mesure ou l'affichage publicitaire.</p>",
+    "privacyBody": "<p>Ce site de guides charge Google Analytics 4 (GA4) ainsi qu'une intégration publicitaire Adsterra diffusée depuis effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Mesure d'audience</h2><p>GA4 mesure notamment les pages vues, la provenance, les informations sur l'appareil et le navigateur, et la région approximative. Google peut utiliser des cookies ou identifiants similaires pour distinguer les navigateurs. Consultez les contrôles et règles de confidentialité de Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicité</h2><p>Le site charge la publicité Google AdSense depuis pagead2.googlesyndication.com. Google peut traiter des cookies ou identifiants similaires, l’adresse IP, des informations sur le navigateur/appareil, l’URL de la page et les interactions publicitaires selon ses règles de confidentialité publicitaire. Le script publicitaire effectivecpmnetwork.com est fourni par un tiers. Lors de son chargement, ce fournisseur peut traiter, selon sa propre politique, des données réseau et appareil telles que l'adresse IP, le navigateur, l'URL de la page, le référent et des cookies ou identifiants similaires. Nous ne contrôlons pas cette collecte tierce.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Vos choix</h2><p>Vous pouvez bloquer ou effacer les cookies et autres données de site dans votre navigateur, utiliser un bloqueur de contenu ou quitter avant le chargement des scripts tiers. Cela peut modifier la mesure ou l'affichage publicitaire.</p>",
     "contactBody": "<p>Questions, corrections ou guides manquants ? Écrivez-nous à <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Nous lisons chaque message et mettons à jour les guides au fil de nos vérifications.</p>",
-    "privacyMetaDescription": "Confidentialité de ReStory Guides : GA4, publicité Adsterra via effectivecpmnetwork.com, cookies, données réseau/appareil et contrôles du navigateur.",
+    "privacyMetaDescription": "Confidentialité : GA4, Google AdSense via pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, cookies et données réseau/appareil.",
     "devicesTitle": "Pages par appareil",
     "devicesLead": "Chaque appareil a sa page : boucle de réparation, points faibles et checklist interactive.",
     "homeIntro": "ReStory est un simulateur de gestion narratif et relaxant signé par les créateurs de I Am Future. Dans le Tokyo des années 2000, vous tenez une boutique de réparation d'électronique : restaurez des appareils Y2K nostalgiques, écoutez les histoires des clients et façonnez une histoire à embranchements et fins multiples.",
@@ -572,9 +572,9 @@
     "zenTotal": "Aktuelle Summe",
     "zenTarget": "Erfordert >100",
     "zenReset": "Prüfen",
-    "privacyBody": "<p>Diese Guide-Seite lädt Google Analytics 4 (GA4) sowie eine Adsterra-Werbeintegration von effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analyse</h2><p>GA4 misst unter anderem Seitenaufrufe, Herkunft, Geräte- und Browserinformationen sowie die ungefähre Region. Google kann Cookies oder ähnliche Kennungen verwenden, um Browser zu unterscheiden. Einzelheiten stehen in Googles Datenschutzeinstellungen und Richtlinien.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Werbung</h2><p>Das Werbeskript von effectivecpmnetwork.com stammt von einem Drittanbieter. Beim Laden kann dieser gemäß eigener Richtlinie Netzwerk- und Gerätedaten wie IP-Adresse, Browserinformationen, Seiten-URL, Referrer sowie Cookies oder ähnliche Kennungen verarbeiten. Wir kontrollieren diese Datenerhebung des Drittanbieters nicht.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Ihre Wahl</h2><p>Sie können Cookies und andere Websitedaten im Browser blockieren oder löschen, Inhaltsblocker verwenden oder die Seite vor dem Laden von Drittskripten verlassen. Dadurch können Analyse oder Werbeanzeige verändert werden.</p>",
+    "privacyBody": "<p>Diese Guide-Seite lädt Google Analytics 4 (GA4) sowie eine Adsterra-Werbeintegration von effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analyse</h2><p>GA4 misst unter anderem Seitenaufrufe, Herkunft, Geräte- und Browserinformationen sowie die ungefähre Region. Google kann Cookies oder ähnliche Kennungen verwenden, um Browser zu unterscheiden. Einzelheiten stehen in Googles Datenschutzeinstellungen und Richtlinien.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Werbung</h2><p>Die Seite lädt Google AdSense-Werbung von pagead2.googlesyndication.com. Google kann gemäß seinen Datenschutzregeln für Werbung Cookies oder ähnliche Kennungen, IP-Adresse, Browser-/Gerätedaten, Seiten-URL und Anzeigeninteraktionen verarbeiten. Das Werbeskript von effectivecpmnetwork.com stammt von einem Drittanbieter. Beim Laden kann dieser gemäß eigener Richtlinie Netzwerk- und Gerätedaten wie IP-Adresse, Browserinformationen, Seiten-URL, Referrer sowie Cookies oder ähnliche Kennungen verarbeiten. Wir kontrollieren diese Datenerhebung des Drittanbieters nicht.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Ihre Wahl</h2><p>Sie können Cookies und andere Websitedaten im Browser blockieren oder löschen, Inhaltsblocker verwenden oder die Seite vor dem Laden von Drittskripten verlassen. Dadurch können Analyse oder Werbeanzeige verändert werden.</p>",
     "contactBody": "<p>Fragen, Korrekturen oder fehlende Guides? Schreiben Sie uns an <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Wir lesen jede Nachricht und aktualisieren Guides, sobald wir Details verifizieren.</p>",
-    "privacyMetaDescription": "Datenschutz bei ReStory Guides: GA4, Adsterra-Werbung über effectivecpmnetwork.com, Cookies, Netzwerk-/Gerätedaten und Browser-Einstellungen.",
+    "privacyMetaDescription": "Datenschutz: GA4, Google AdSense über pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, Cookies und Netzwerk-/Gerätedaten.",
     "devicesTitle": "Geräte-Schritt-Seiten",
     "devicesLead": "Jedes Gerät hat seine eigene Seite: Reparaturzyklus, Schwachstellen und interaktive Checkliste.",
     "homeIntro": "ReStory ist ein entspannter, erzählerischer Shop-Management-Simulator von den Machern von I Am Future. In Tokio Mitte der 2000er führst du einen Elektronik-Reparaturshop: stelle nostalgische Y2K-Geräte wieder her, höre den Geschichten der Kunden zu und gestalte eine verzweigte Geschichte mit mehreren Enden.",
@@ -654,9 +654,9 @@
     "zenTotal": "Total actual",
     "zenTarget": "Requiere >100",
     "zenReset": "Comprobar",
-    "privacyBody": "<p>Este sitio de guías carga Google Analytics 4 (GA4) y una integración publicitaria de Adsterra servida desde effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analítica</h2><p>GA4 mide actividad como páginas vistas, procedencia, información del dispositivo y navegador, y región aproximada. Google puede usar cookies o identificadores similares para distinguir navegadores. Consulta los controles y políticas de privacidad de Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicidad</h2><p>El script publicitario de effectivecpmnetwork.com pertenece a un tercero. Al cargarse, ese proveedor puede tratar, según su política, datos de red y dispositivo como dirección IP, navegador, URL de la página, referente y cookies o identificadores similares. No controlamos esa recopilación de terceros.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Tus opciones</h2><p>Puedes bloquear o borrar cookies y otros datos del sitio en el navegador, usar controles de bloqueo de contenido o salir antes de que carguen los scripts de terceros. Esto puede cambiar la analítica o la presentación de anuncios.</p>",
+    "privacyBody": "<p>Este sitio de guías carga Google Analytics 4 (GA4) y una integración publicitaria de Adsterra servida desde effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analítica</h2><p>GA4 mide actividad como páginas vistas, procedencia, información del dispositivo y navegador, y región aproximada. Google puede usar cookies o identificadores similares para distinguir navegadores. Consulta los controles y políticas de privacidad de Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicidad</h2><p>El sitio carga publicidad de Google AdSense desde pagead2.googlesyndication.com. Google puede tratar cookies o identificadores similares, dirección IP, datos del navegador/dispositivo, URL de la página e interacciones publicitarias según sus políticas de privacidad publicitaria. El script publicitario de effectivecpmnetwork.com pertenece a un tercero. Al cargarse, ese proveedor puede tratar, según su política, datos de red y dispositivo como dirección IP, navegador, URL de la página, referente y cookies o identificadores similares. No controlamos esa recopilación de terceros.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Tus opciones</h2><p>Puedes bloquear o borrar cookies y otros datos del sitio en el navegador, usar controles de bloqueo de contenido o salir antes de que carguen los scripts de terceros. Esto puede cambiar la analítica o la presentación de anuncios.</p>",
     "contactBody": "<p>¿Preguntas, correcciones o guías que faltan? Escríbenos a <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Leemos cada mensaje y actualizamos las guías a medida que verificamos detalles.</p>",
-    "privacyMetaDescription": "Privacidad de ReStory Guides: GA4, publicidad de Adsterra mediante effectivecpmnetwork.com, cookies, datos de red/dispositivo y controles del navegador.",
+    "privacyMetaDescription": "Privacidad: GA4, Google AdSense mediante pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, cookies y datos de red/dispositivo.",
     "devicesTitle": "Páginas por dispositivo",
     "devicesLead": "Cada dispositivo tiene su página: bucle de reparación, puntos débiles y lista interactiva.",
     "homeIntro": "ReStory es un simulador de gestión narrativo y relajante de los creadores de I Am Future. En el Tokio de mediados de los 2000, regentas una tienda de reparación de electrónica: restaura dispositivos Y2K nostálgicos, escucha las historias de los clientes y da forma a una historia ramificada con múltiples finales.",
@@ -736,9 +736,9 @@
     "zenTotal": "Total atual",
     "zenTarget": "Exige >100",
     "zenReset": "Verificar",
-    "privacyBody": "<p>Este site de guias carrega o Google Analytics 4 (GA4) e uma integração de anúncios da Adsterra fornecida por effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Análise</h2><p>O GA4 mede atividades como visualizações de página, origem, informações do aparelho e navegador e região aproximada. O Google pode usar cookies ou identificadores semelhantes para distinguir navegadores. Consulte os controles e as políticas de privacidade do Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicidade</h2><p>O script de anúncios de effectivecpmnetwork.com é fornecido por terceiros. Ao carregar, esse fornecedor pode processar, conforme sua própria política, dados de rede e aparelho como endereço IP, informações do navegador, URL da página, referenciador e cookies ou identificadores semelhantes. Não controlamos essa coleta de terceiros.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Suas escolhas</h2><p>Você pode bloquear ou limpar cookies e outros dados do site no navegador, usar bloqueadores de conteúdo ou sair antes que scripts de terceiros carreguem. Isso pode alterar a análise ou a exibição de anúncios.</p>",
+    "privacyBody": "<p>Este site de guias carrega o Google Analytics 4 (GA4) e uma integração de anúncios da Adsterra fornecida por effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Análise</h2><p>O GA4 mede atividades como visualizações de página, origem, informações do aparelho e navegador e região aproximada. O Google pode usar cookies ou identificadores semelhantes para distinguir navegadores. Consulte os controles e as políticas de privacidade do Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicidade</h2><p>O site carrega anúncios do Google AdSense de pagead2.googlesyndication.com. O Google pode processar cookies ou identificadores semelhantes, endereço IP, dados do navegador/aparelho, URL da página e interações com anúncios conforme suas políticas de privacidade de publicidade. O script de anúncios de effectivecpmnetwork.com é fornecido por terceiros. Ao carregar, esse fornecedor pode processar, conforme sua própria política, dados de rede e aparelho como endereço IP, informações do navegador, URL da página, referenciador e cookies ou identificadores semelhantes. Não controlamos essa coleta de terceiros.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Suas escolhas</h2><p>Você pode bloquear ou limpar cookies e outros dados do site no navegador, usar bloqueadores de conteúdo ou sair antes que scripts de terceiros carreguem. Isso pode alterar a análise ou a exibição de anúncios.</p>",
     "contactBody": "<p>Perguntas, correções ou guias faltando? Envie um e-mail para <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Lemos cada mensagem e atualizamos os guias conforme verificamos detalhes.</p>",
-    "privacyMetaDescription": "Privacidade do ReStory Guides: GA4, anúncios da Adsterra via effectivecpmnetwork.com, cookies, dados de rede/aparelho e controles do navegador.",
+    "privacyMetaDescription": "Privacidade: GA4, Google AdSense via pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, cookies e dados de rede/aparelho.",
     "devicesTitle": "Páginas por aparelho",
     "devicesLead": "Cada aparelho tem sua página: ciclo de conserto, pontos fracos e checklist interativo.",
     "homeIntro": "ReStory é um simulador de gestão narrativo e relaxante dos criadores de I Am Future. No Tóquio de meados dos anos 2000, você administra uma loja de consertos de eletrônicos: restaure aparelhos Y2K nostálgicos, ouça as histórias dos clientes e molde uma história ramificada com múltiplos finais.",
@@ -818,9 +818,9 @@
     "zenTotal": "Текущая сумма",
     "zenTarget": "Нужно >100",
     "zenReset": "Проверить",
-    "privacyBody": "<p>Этот сайт с гайдами загружает Google Analytics 4 (GA4) и рекламную интеграцию Adsterra с домена effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Аналитика</h2><p>GA4 измеряет просмотры страниц, источники переходов, сведения об устройстве и браузере и примерный регион. Google может использовать cookie или похожие идентификаторы, чтобы различать браузеры. Подробности приведены в настройках и правилах конфиденциальности Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Реклама</h2><p>Рекламный скрипт effectivecpmnetwork.com предоставлен третьей стороной. При загрузке этот поставщик может по своей политике обрабатывать сетевые данные и сведения об устройстве, включая IP-адрес, браузер, URL страницы, источник перехода, cookie или похожие идентификаторы. Мы не контролируем сбор данных этой третьей стороной.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Ваш выбор</h2><p>Можно блокировать или удалять cookie и другие данные сайта в браузере, использовать блокировщик контента или уйти до загрузки сторонних скриптов. Это может изменить аналитику или показ рекламы.</p>",
+    "privacyBody": "<p>Этот сайт с гайдами загружает Google Analytics 4 (GA4) и рекламную интеграцию Adsterra с домена effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Аналитика</h2><p>GA4 измеряет просмотры страниц, источники переходов, сведения об устройстве и браузере и примерный регион. Google может использовать cookie или похожие идентификаторы, чтобы различать браузеры. Подробности приведены в настройках и правилах конфиденциальности Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Реклама</h2><p>Сайт загружает рекламу Google AdSense с pagead2.googlesyndication.com. Google может по своим правилам конфиденциальности рекламы обрабатывать cookie или похожие идентификаторы, IP-адрес, сведения о браузере/устройстве, URL страницы и взаимодействия с рекламой. Рекламный скрипт effectivecpmnetwork.com предоставлен третьей стороной. При загрузке этот поставщик может по своей политике обрабатывать сетевые данные и сведения об устройстве, включая IP-адрес, браузер, URL страницы, источник перехода, cookie или похожие идентификаторы. Мы не контролируем сбор данных этой третьей стороной.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Ваш выбор</h2><p>Можно блокировать или удалять cookie и другие данные сайта в браузере, использовать блокировщик контента или уйти до загрузки сторонних скриптов. Это может изменить аналитику или показ рекламы.</p>",
     "contactBody": "<p>Вопросы, правки или недостающие гайды? Напишите нам на <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Мы читаем каждое сообщение и обновляем гайды по мере проверки деталей.</p>",
-    "privacyMetaDescription": "Конфиденциальность ReStory Guides: GA4, реклама Adsterra через effectivecpmnetwork.com, cookie, сетевые данные/устройство и настройки браузера.",
+    "privacyMetaDescription": "Конфиденциальность: GA4, Google AdSense через pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, cookie и сетевые данные/устройство.",
     "devicesTitle": "Страницы устройств",
     "devicesLead": "У каждого устройства есть своя страница: цикл ремонта, слабые места и интерактивный чек-лист.",
     "homeIntro": "ReStory — расслабленный нарративный симулятор управления магазином от создателей I Am Future. В Токио середины 2000-х вы держите мастерскую по ремонту электроники: восстанавливайте ностальгические Y2K-устройства, слушайте истории клиентов и формируйте ветвящуюся историю с несколькими концовками.",
@@ -15304,7 +15304,7 @@
       [
        "A Place of Zen",
        "Collection",
-       "Reach 100 Zen points (see zen-points guide)"
+       "Accumulate more than 100 Zen points (official Steam condition)"
       ],
       [
        "— remaining 3",
@@ -22423,7 +22423,8 @@
       }
      ],
      "sources": [
-      "allthings"
+      "steam-achievements",
+      "steam"
      ],
      "icon": "zen-points"
     },
@@ -22464,7 +22465,8 @@
       }
      ],
      "sources": [
-      "allthings"
+      "steam-achievements",
+      "steam"
      ],
      "icon": "zen-points"
     },
@@ -22505,7 +22507,8 @@
       }
      ],
      "sources": [
-      "allthings"
+      "steam-achievements",
+      "steam"
      ],
      "icon": "zen-points"
     },
@@ -22546,7 +22549,8 @@
       }
      ],
      "sources": [
-      "allthings"
+      "steam-achievements",
+      "steam"
      ],
      "icon": "zen-points"
     },
@@ -22587,7 +22591,8 @@
       }
      ],
      "sources": [
-      "allthings"
+      "steam-achievements",
+      "steam"
      ],
      "icon": "zen-points"
     },
@@ -22628,7 +22633,8 @@
       }
      ],
      "sources": [
-      "allthings"
+      "steam-achievements",
+      "steam"
      ],
      "icon": "zen-points"
     },
@@ -22669,7 +22675,8 @@
       }
      ],
      "sources": [
-      "allthings"
+      "steam-achievements",
+      "steam"
      ],
      "icon": "zen-points"
     },
@@ -22710,7 +22717,8 @@
       }
      ],
      "sources": [
-      "allthings"
+      "steam-achievements",
+      "steam"
      ],
      "icon": "zen-points"
     },
@@ -22751,34 +22759,35 @@
       }
      ],
      "sources": [
-      "allthings"
+      "steam-achievements",
+      "steam"
      ],
      "icon": "zen-points"
     },
     "zh-TW": {
      "title": "Zen 點數：A Place Of Zen",
      "metaTitle": "ReStory Zen 點數：官方成就門檻",
-     "metaDescription": "A Place Of Zen 要求 Zen 點數超過 100。請核對官方條件，並與遊戲目前顯示的合計比較。",
-     "intro": "Steam 官方條件是累積超過 100 Zen 點數。本頁不會從該條件推斷其他取得機制；請與目前遊戲顯示的合計比較。",
+     "metaDescription": "A Place Of Zen 要求 Zen 點數超過 100。請核對官方條件，並與遊戲當前顯示的合計比較。",
+     "intro": "Steam 官方條件是累計超過 100 Zen 點數。本頁不會從該條件推斷其他獲取機制；請與當前遊戲顯示的合計比較。",
      "sections": [
       {
        "type": "table",
        "heading": "官方要求",
        "columns": [
         "官方要求",
-        "累積超過 100 Zen 點數"
+        "累計超過 100 Zen 點數"
        ],
        "rows": [
         [
          "A Place Of Zen",
-         "累積超過 100 Zen 點數"
+         "累計超過 100 Zen 點數"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "如何核對進度",
-       "body": "讀取目前遊戲顯示的 Zen 合計，並在下方計算器輸入。正好 100 不符合官方措辭；合計必須大於 100。"
+       "body": "讀取當前遊戲顯示的 Zen 合計，並在下方計算器輸入。正好 100 不符合官方措辭；合計必須大於 100。"
       },
       {
        "type": "faq",
@@ -22792,7 +22801,8 @@
       }
      ],
      "sources": [
-      "allthings"
+      "steam-achievements",
+      "steam"
      ],
      "icon": "zen-points"
     }
@@ -31032,7 +31042,7 @@
       "achievements — all 50 achievements.",
       "achievements-roadmap — recommended 100% order.",
       "hidden-achievements — the 5 secrets.",
-      "zen-points — the 100-point collection."
+      "zen-points — the official greater-than-100 condition."
      ]
     },
     {
@@ -31107,7 +31117,7 @@
         "achievements — all 50 achievements.",
         "achievements-roadmap — recommended 100% order.",
         "hidden-achievements — the 5 secrets.",
-        "zen-points — the 100-point collection."
+        "zen-points — the official greater-than-100 condition."
        ]
       },
       {
@@ -31165,7 +31175,7 @@
         "achievements——全部 50 个成就。",
         "achievements-roadmap——100% 推荐顺序。",
         "hidden-achievements——5 个秘密。",
-        "zen-points——100 点收集。"
+        "zen-points——官方要求超过 100 点。"
        ]
       },
       {
@@ -31223,7 +31233,7 @@
         "achievements — 全 50 実績。",
         "achievements-roadmap — おすすめの 100% 順。",
         "hidden-achievements — 5 つの秘密。",
-        "zen-points — 100 点コレクション。"
+        "zen-points — 100より多いという公式条件。"
        ]
       },
       {
@@ -31281,7 +31291,7 @@
         "achievements — 전체 50개 업적.",
         "achievements-roadmap — 추천 100% 순서.",
         "hidden-achievements — 비밀 5개.",
-        "zen-points — 100점 컬렉션."
+        "zen-points — 100보다 많이 필요하다는 공식 조건."
        ]
       },
       {
@@ -31339,7 +31349,7 @@
         "achievements — les 50 succès.",
         "achievements-roadmap — l'ordre recommandé pour 100 %.",
         "hidden-achievements — les 5 secrets.",
-        "zen-points — la collection de 100 points."
+        "zen-points — la condition officielle de plus de 100 points."
        ]
       },
       {
@@ -31455,7 +31465,7 @@
         "achievements — los 50 logros.",
         "achievements-roadmap — orden recomendado para el 100 %.",
         "hidden-achievements — los 5 secretos.",
-        "zen-points — la colección de 100 puntos."
+        "zen-points — la condición oficial de más de 100 puntos."
        ]
       },
       {
@@ -31513,7 +31523,7 @@
         "achievements — todas as 50 conquistas.",
         "achievements-roadmap — ordem recomendada para o 100%.",
         "hidden-achievements — os 5 segredos.",
-        "zen-points — a coleção de 100 pontos."
+        "zen-points — a condição oficial de mais de 100 pontos."
        ]
       },
       {
@@ -31571,7 +31581,7 @@
         "achievements — все 50 достижений.",
         "achievements-roadmap — рекомендуемый порядок 100%.",
         "hidden-achievements — 5 секретов.",
-        "zen-points — коллекция на 100 очков."
+        "zen-points — официальное условие больше 100 очков."
        ]
       },
       {
@@ -31629,7 +31639,7 @@
         "achievements——全部 50 個成就。",
         "achievements-roadmap——100% 推薦順序。",
         "hidden-achievements——5 個秘密。",
-        "zen-points——100 點收集。"
+        "zen-points——官方要求超過 100 點。"
        ]
       },
       {
@@ -31669,24 +31679,28 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Atari 2600"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Consoles"
+      ],
+      [
+       "Licenses",
+       "Official Atari line"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -31747,24 +31761,28 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Atari 2600"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Consoles"
+        ],
+        [
+         "Licenses",
+         "Official Atari line"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -31793,24 +31811,28 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Atari 2600"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "家用主机"
+        ],
+        [
+         "许可",
+         "官方 Atari 产品线"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -31839,24 +31861,28 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Atari 2600"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "家庭用コンソール"
+        ],
+        [
+         "ライセンス",
+         "公式 Atari ライン"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -31885,24 +31911,28 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Atari 2600"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "콘솔"
+        ],
+        [
+         "라이선스",
+         "정식 Atari 라인"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -31931,24 +31961,28 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Atari 2600"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Consoles"
+        ],
+        [
+         "Licences",
+         "Gamme officielle Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -31977,24 +32011,28 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Atari 2600"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Konsolen"
+        ],
+        [
+         "Lizenzen",
+         "Offiziell lizenzierte Atari-Reihe"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -32023,24 +32061,28 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Atari 2600"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Consolas"
+        ],
+        [
+         "Licencias",
+         "Línea oficial de Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -32069,24 +32111,28 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Atari 2600"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Consoles"
+        ],
+        [
+         "Licenças",
+         "Linha oficial da Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -32115,24 +32161,28 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Atari 2600"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Консоли"
+        ],
+        [
+         "Лицензии",
+         "Официальная линейка Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -32152,33 +32202,37 @@
      "icon": "console"
     },
     "zh-TW": {
-     "title": "Atari 2600 修復指南 — 裝置資料",
-     "metaTitle": "Atari 2600 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Atari 2600 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Atari 2600 修復指南 — 設備資料",
+     "metaTitle": "Atari 2600 修復指南 — ReStory 設備資料",
+     "metaDescription": "Atari 2600 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Atari 2600"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "家用主機"
+        ],
+        [
+         "許可",
+         "官方 Atari 產品線"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -32186,7 +32240,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -32210,24 +32264,28 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Atari Lynx"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Handhelds"
+      ],
+      [
+       "Licenses",
+       "Official Atari line"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -32288,24 +32346,28 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Atari Lynx"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Handhelds"
+        ],
+        [
+         "Licenses",
+         "Official Atari line"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -32334,24 +32396,28 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Atari Lynx"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "掌机"
+        ],
+        [
+         "许可",
+         "官方 Atari 产品线"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -32380,24 +32446,28 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Atari Lynx"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "携帯機"
+        ],
+        [
+         "ライセンス",
+         "公式 Atari ライン"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -32426,24 +32496,28 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Atari Lynx"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "휴대용 기기"
+        ],
+        [
+         "라이선스",
+         "정식 Atari 라인"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -32472,24 +32546,28 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Atari Lynx"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Consoles portables"
+        ],
+        [
+         "Licences",
+         "Gamme officielle Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -32518,24 +32596,28 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Atari Lynx"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Handhelds"
+        ],
+        [
+         "Lizenzen",
+         "Offiziell lizenzierte Atari-Reihe"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -32564,24 +32646,28 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Atari Lynx"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Portátiles"
+        ],
+        [
+         "Licencias",
+         "Línea oficial de Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -32610,24 +32696,28 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Atari Lynx"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Portáteis"
+        ],
+        [
+         "Licenças",
+         "Linha oficial da Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -32656,24 +32746,28 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Atari Lynx"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Портативные"
+        ],
+        [
+         "Лицензии",
+         "Официальная линейка Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -32693,33 +32787,37 @@
      "icon": "handheld"
     },
     "zh-TW": {
-     "title": "Atari Lynx 修復指南 — 裝置資料",
-     "metaTitle": "Atari Lynx 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Atari Lynx 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Atari Lynx 修復指南 — 設備資料",
+     "metaTitle": "Atari Lynx 修復指南 — ReStory 設備資料",
+     "metaDescription": "Atari Lynx 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Atari Lynx"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "掌機"
+        ],
+        [
+         "許可",
+         "官方 Atari 產品線"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -32727,7 +32825,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -32751,24 +32849,28 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Atari CX40"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Controllers"
+      ],
+      [
+       "Licenses",
+       "Official Atari line"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -32829,24 +32931,28 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Atari CX40"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Controllers"
+        ],
+        [
+         "Licenses",
+         "Official Atari line"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -32875,24 +32981,28 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Atari CX40"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "控制器"
+        ],
+        [
+         "许可",
+         "官方 Atari 产品线"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -32921,24 +33031,28 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Atari CX40"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "コントローラー"
+        ],
+        [
+         "ライセンス",
+         "公式 Atari ライン"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -32967,24 +33081,28 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Atari CX40"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "컨트롤러"
+        ],
+        [
+         "라이선스",
+         "정식 Atari 라인"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -33013,24 +33131,28 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Atari CX40"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Manettes"
+        ],
+        [
+         "Licences",
+         "Gamme officielle Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -33059,24 +33181,28 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Atari CX40"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Controller"
+        ],
+        [
+         "Lizenzen",
+         "Offiziell lizenzierte Atari-Reihe"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -33105,24 +33231,28 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Atari CX40"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Mandos"
+        ],
+        [
+         "Licencias",
+         "Línea oficial de Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -33151,24 +33281,28 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Atari CX40"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Controles"
+        ],
+        [
+         "Licenças",
+         "Linha oficial da Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -33197,24 +33331,28 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Atari CX40"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Контроллеры"
+        ],
+        [
+         "Лицензии",
+         "Официальная линейка Atari"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -33234,33 +33372,37 @@
      "icon": "console"
     },
     "zh-TW": {
-     "title": "Atari CX40 修復指南 — 裝置資料",
-     "metaTitle": "Atari CX40 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Atari CX40 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Atari CX40 修復指南 — 設備資料",
+     "metaTitle": "Atari CX40 修復指南 — ReStory 設備資料",
+     "metaDescription": "Atari CX40 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Atari CX40"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "控制器"
+        ],
+        [
+         "許可",
+         "官方 Atari 產品線"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -33268,7 +33410,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -33292,24 +33434,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Nony PlayMachine"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Handhelds"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -33370,24 +33512,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Nony PlayMachine"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Handhelds"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -33416,24 +33558,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Nony PlayMachine"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "掌机"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -33462,24 +33604,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Nony PlayMachine"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "携帯機"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -33508,24 +33650,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Nony PlayMachine"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "휴대용 기기"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -33554,24 +33696,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Nony PlayMachine"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Consoles portables"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -33600,24 +33742,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Nony PlayMachine"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Handhelds"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -33646,24 +33788,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Nony PlayMachine"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Portátiles"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -33692,24 +33834,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Nony PlayMachine"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Portáteis"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -33738,24 +33880,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Nony PlayMachine"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Портативные"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -33775,33 +33917,33 @@
      "icon": "handheld"
     },
     "zh-TW": {
-     "title": "Nony PlayMachine 修復指南 — 裝置資料",
+     "title": "Nony PlayMachine 修復指南 — 設備資料",
      "metaTitle": "Nony PlayMachine 修復指南 — Re…",
-     "metaDescription": "Nony PlayMachine 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "metaDescription": "Nony PlayMachine 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Nony PlayMachine"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "掌機"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -33809,7 +33951,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -33833,24 +33975,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Nony PMP"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Music & media"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -33911,24 +34053,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Nony PMP"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Music & media"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -33957,24 +34099,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Nony PMP"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "音乐与媒体"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -34003,24 +34145,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Nony PMP"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "音楽＆メディア"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -34049,24 +34191,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Nony PMP"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "음악 및 미디어"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -34095,24 +34237,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Nony PMP"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Musique et médias"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -34141,24 +34283,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Nony PMP"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Musik & Medien"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -34187,24 +34329,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Nony PMP"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Música y multimedia"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -34233,24 +34375,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Nony PMP"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Música e mídia"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -34279,24 +34421,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Nony PMP"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Музыка и медиа"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -34316,33 +34458,33 @@
      "icon": "tape"
     },
     "zh-TW": {
-     "title": "Nony PMP 修復指南 — 裝置資料",
-     "metaTitle": "Nony PMP 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Nony PMP 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Nony PMP 修復指南 — 設備資料",
+     "metaTitle": "Nony PMP 修復指南 — ReStory 設備資料",
+     "metaDescription": "Nony PMP 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Nony PMP"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "音樂與媒體"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -34350,7 +34492,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -34374,24 +34516,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Patento BS"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Handhelds"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -34452,24 +34594,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Patento BS"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Handhelds"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -34498,24 +34640,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Patento BS"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "掌机"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -34544,24 +34686,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Patento BS"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "携帯機"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -34590,24 +34732,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Patento BS"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "휴대용 기기"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -34636,24 +34778,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Patento BS"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Consoles portables"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -34682,24 +34824,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Patento BS"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Handhelds"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -34728,24 +34870,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Patento BS"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Portátiles"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -34774,24 +34916,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Patento BS"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Portáteis"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -34820,24 +34962,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Patento BS"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Портативные"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -34857,33 +34999,33 @@
      "icon": "handheld"
     },
     "zh-TW": {
-     "title": "Patento BS 修復指南 — 裝置資料",
-     "metaTitle": "Patento BS 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Patento BS 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Patento BS 修復指南 — 設備資料",
+     "metaTitle": "Patento BS 修復指南 — ReStory 設備資料",
+     "metaDescription": "Patento BS 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Patento BS"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "掌機"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -34891,7 +35033,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -34915,24 +35057,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Autorolla Razor"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Phones"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -34993,24 +35135,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Autorolla Razor"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Phones"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -35039,24 +35181,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Autorolla Razor"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "手机"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -35085,24 +35227,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Autorolla Razor"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "携帯電話"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -35131,24 +35273,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Autorolla Razor"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "휴대폰"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -35177,24 +35319,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Autorolla Razor"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Téléphones"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -35223,24 +35365,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Autorolla Razor"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Handys"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -35269,24 +35411,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Autorolla Razor"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Móviles"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -35315,24 +35457,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Autorolla Razor"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Celulares"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -35361,24 +35503,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Autorolla Razor"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Телефоны"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -35398,33 +35540,33 @@
      "icon": "phone"
     },
     "zh-TW": {
-     "title": "Autorolla Razor 修復指南 — 裝置資料",
+     "title": "Autorolla Razor 修復指南 — 設備資料",
      "metaTitle": "Autorolla Razor 修復指南 — ReS…",
-     "metaDescription": "Autorolla Razor 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "metaDescription": "Autorolla Razor 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Autorolla Razor"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "手機"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -35432,7 +35574,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -35456,24 +35598,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Pokia 3310"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Phones"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -35534,24 +35676,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Pokia 3310"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Phones"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -35580,24 +35722,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Pokia 3310"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "手机"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -35626,24 +35768,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Pokia 3310"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "携帯電話"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -35672,24 +35814,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Pokia 3310"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "휴대폰"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -35718,24 +35860,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Pokia 3310"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Téléphones"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -35764,24 +35906,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Pokia 3310"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Handys"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -35810,24 +35952,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Pokia 3310"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Móviles"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -35856,24 +35998,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Pokia 3310"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Celulares"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -35902,24 +36044,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Pokia 3310"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Телефоны"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -35939,33 +36081,33 @@
      "icon": "phone"
     },
     "zh-TW": {
-     "title": "Pokia 3310 修復指南 — 裝置資料",
-     "metaTitle": "Pokia 3310 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Pokia 3310 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Pokia 3310 修復指南 — 設備資料",
+     "metaTitle": "Pokia 3310 修復指南 — ReStory 設備資料",
+     "metaDescription": "Pokia 3310 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Pokia 3310"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "手機"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -35973,7 +36115,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -35997,24 +36139,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Pokia Njoy"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Phones"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -36075,24 +36217,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Pokia Njoy"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Phones"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -36121,24 +36263,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Pokia Njoy"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "手机"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -36167,24 +36309,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Pokia Njoy"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "携帯電話"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -36213,24 +36355,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Pokia Njoy"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "휴대폰"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -36259,24 +36401,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Pokia Njoy"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Téléphones"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -36305,24 +36447,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Pokia Njoy"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Handys"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -36351,24 +36493,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Pokia Njoy"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Móviles"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -36397,24 +36539,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Pokia Njoy"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Celulares"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -36443,24 +36585,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Pokia Njoy"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Телефоны"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -36480,33 +36622,33 @@
      "icon": "phone"
     },
     "zh-TW": {
-     "title": "Pokia Njoy 修復指南 — 裝置資料",
-     "metaTitle": "Pokia Njoy 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Pokia Njoy 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Pokia Njoy 修復指南 — 設備資料",
+     "metaTitle": "Pokia Njoy 修復指南 — ReStory 設備資料",
+     "metaDescription": "Pokia Njoy 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Pokia Njoy"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "手機"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -36514,7 +36656,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -36538,24 +36680,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Eggotchi"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Gadgets & toys"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -36616,24 +36758,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Eggotchi"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Gadgets & toys"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -36662,24 +36804,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Eggotchi"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "小玩意与玩具"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -36708,24 +36850,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Eggotchi"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "ガジェット＆おもちゃ"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -36754,24 +36896,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Eggotchi"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "가젯 및 장난감"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -36800,24 +36942,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Eggotchi"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Gadgets et jouets"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -36846,24 +36988,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Eggotchi"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Gadgets & Spielzeug"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -36892,24 +37034,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Eggotchi"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Gadgets y juguetes"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -36938,24 +37080,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Eggotchi"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Gadgets e brinquedos"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -36984,24 +37126,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Eggotchi"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Гаджеты и игрушки"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -37021,33 +37163,33 @@
      "icon": "chip"
     },
     "zh-TW": {
-     "title": "Eggotchi 修復指南 — 裝置資料",
-     "metaTitle": "Eggotchi 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Eggotchi 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Eggotchi 修復指南 — 設備資料",
+     "metaTitle": "Eggotchi 修復指南 — ReStory 設備資料",
+     "metaDescription": "Eggotchi 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Eggotchi"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "小玩意與玩具"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -37055,7 +37197,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -37079,24 +37221,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Nony Goman"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Music & media"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -37157,24 +37299,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Nony Goman"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Music & media"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -37203,24 +37345,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Nony Goman"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "音乐与媒体"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -37249,24 +37391,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Nony Goman"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "音楽＆メディア"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -37295,24 +37437,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Nony Goman"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "음악 및 미디어"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -37341,24 +37483,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Nony Goman"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Musique et médias"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -37387,24 +37529,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Nony Goman"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Musik & Medien"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -37433,24 +37575,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Nony Goman"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Música y multimedia"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -37479,24 +37621,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Nony Goman"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Música e mídia"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -37525,24 +37667,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Nony Goman"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Музыка и медиа"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -37562,33 +37704,33 @@
      "icon": "tape"
     },
     "zh-TW": {
-     "title": "Nony Goman 修復指南 — 裝置資料",
-     "metaTitle": "Nony Goman 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Nony Goman 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Nony Goman 修復指南 — 設備資料",
+     "metaTitle": "Nony Goman 修復指南 — ReStory 設備資料",
+     "metaDescription": "Nony Goman 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Nony Goman"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "音樂與媒體"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -37596,7 +37738,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -37620,24 +37762,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Palaloid"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Cameras"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -37698,24 +37840,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Palaloid"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Cameras"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -37744,24 +37886,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Palaloid"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "相机"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -37790,24 +37932,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Palaloid"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "カメラ"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -37836,24 +37978,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Palaloid"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "카메라"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -37882,24 +38024,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Palaloid"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Appareils photo"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -37928,24 +38070,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Palaloid"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Kameras"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -37974,24 +38116,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Palaloid"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Cámaras"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -38020,24 +38162,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Palaloid"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Câmeras"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -38066,24 +38208,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Palaloid"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Камеры"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -38103,33 +38245,33 @@
      "icon": "camera"
     },
     "zh-TW": {
-     "title": "Palaloid 修復指南 — 裝置資料",
-     "metaTitle": "Palaloid 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Palaloid 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Palaloid 修復指南 — 設備資料",
+     "metaTitle": "Palaloid 修復指南 — ReStory 設備資料",
+     "metaDescription": "Palaloid 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Palaloid"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "相機"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -38137,7 +38279,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -38161,24 +38303,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Walkie-talkie"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Gadgets & toys"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -38239,24 +38381,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Walkie-talkie"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Gadgets & toys"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -38285,24 +38427,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Walkie-talkie"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "小玩意与玩具"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -38331,24 +38473,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Walkie-talkie"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "ガジェット＆おもちゃ"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -38377,24 +38519,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Walkie-talkie"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "가젯 및 장난감"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -38423,24 +38565,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Walkie-talkie"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Gadgets et jouets"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -38469,24 +38611,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Walkie-talkie"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Gadgets & Spielzeug"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -38515,24 +38657,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Walkie-talkie"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Gadgets y juguetes"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -38561,24 +38703,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Walkie-talkie"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Gadgets e brinquedos"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -38607,24 +38749,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Walkie-talkie"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Гаджеты и игрушки"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -38644,33 +38786,33 @@
      "icon": "radio"
     },
     "zh-TW": {
-     "title": "Walkie-talkie 修復指南 — 裝置資料",
+     "title": "Walkie-talkie 修復指南 — 設備資料",
      "metaTitle": "Walkie-talkie 修復指南 — ReSto…",
-     "metaDescription": "Walkie-talkie 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "metaDescription": "Walkie-talkie 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Walkie-talkie"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "小玩意與玩具"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -38678,7 +38820,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -38702,24 +38844,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Unicorp 99L"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Extras"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -38780,24 +38922,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Unicorp 99L"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Extras"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -38826,24 +38968,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Unicorp 99L"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "杂项"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -38872,24 +39014,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Unicorp 99L"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "エクストラ"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -38918,24 +39060,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Unicorp 99L"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "기타"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -38964,24 +39106,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Unicorp 99L"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Extras"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -39010,24 +39152,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Unicorp 99L"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Extras"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -39056,24 +39198,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Unicorp 99L"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Extras"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -39102,24 +39244,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Unicorp 99L"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Extras"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -39148,24 +39290,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Unicorp 99L"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Дополнительно"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -39185,33 +39327,33 @@
      "icon": "flash"
     },
     "zh-TW": {
-     "title": "Unicorp 99L 修復指南 — 裝置資料",
+     "title": "Unicorp 99L 修復指南 — 設備資料",
      "metaTitle": "Unicorp 99L 修復指南 — ReStory…",
-     "metaDescription": "Unicorp 99L 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "metaDescription": "Unicorp 99L 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Unicorp 99L"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "雜項"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -39219,7 +39361,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }
@@ -39243,24 +39385,24 @@
      "type": "table",
      "heading": "Device Profile",
      "columns": [
-      "Verification status",
-      "Listed as a repairable device"
+      "Field",
+      "Value"
      ],
      "rows": [
       [
-       "Verification status",
-       "Listed as a repairable device"
+       "Device",
+       "Robodog"
       ],
       [
-       "Procedure",
-       "Not yet verified"
+       "Family",
+       "Gadgets & toys"
       ]
      ]
     },
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -39321,24 +39463,24 @@
        "type": "table",
        "heading": "Device Profile",
        "columns": [
-        "Verification status",
-        "Listed as a repairable device"
+        "Field",
+        "Value"
        ],
        "rows": [
         [
-         "Verification status",
-         "Listed as a repairable device"
+         "Device",
+         "Robodog"
         ],
         [
-         "Procedure",
-         "Not yet verified"
+         "Family",
+         "Gadgets & toys"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "The device identity is retained for lookup. Exact parts, failure states, tools, order, difficulty, progression and reward value have not been verified."
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -39367,24 +39509,24 @@
        "type": "table",
        "heading": "设备资料",
        "columns": [
-        "核实状态",
-        "已列为可维修设备"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核实状态",
-         "已列为可维修设备"
+         "设备",
+         "Robodog"
         ],
         [
-         "具体流程",
-         "尚未核实"
+         "家族",
+         "小玩意与玩具"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "保留设备名称供查询。具体零件、故障状态、工具、顺序、难度、进度位置和奖励价值尚未核实。"
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -39413,24 +39555,24 @@
        "type": "table",
        "heading": "デバイス情報",
        "columns": [
-        "検証状況",
-        "修理可能デバイスとして掲載"
+        "項目",
+        "内容"
        ],
        "rows": [
         [
-         "検証状況",
-         "修理可能デバイスとして掲載"
+         "デバイス",
+         "Robodog"
         ],
         [
-         "固有手順",
-         "未検証"
+         "ファミリー",
+         "ガジェット＆おもちゃ"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "検索用にデバイス名を保持しています。部品、故障状態、ツール、順序、難易度、進行位置、報酬価値は未検証です。"
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
       },
       {
        "type": "faq",
@@ -39459,24 +39601,24 @@
        "type": "table",
        "heading": "기기 정보",
        "columns": [
-        "확인 상태",
-        "수리 가능 기기로 등재"
+        "항목",
+        "값"
        ],
        "rows": [
         [
-         "확인 상태",
-         "수리 가능 기기로 등재"
+         "기기",
+         "Robodog"
         ],
         [
-         "전용 절차",
-         "미확인"
+         "계열",
+         "가젯 및 장난감"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "검색을 위해 기기 이름을 유지합니다. 부품, 고장 상태, 도구, 순서, 난이도, 진행 위치와 보상 가치는 확인되지 않았습니다."
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -39505,24 +39647,24 @@
        "type": "table",
        "heading": "Fiche appareil",
        "columns": [
-        "État de vérification",
-        "Répertorié comme appareil réparable"
+        "Champ",
+        "Valeur"
        ],
        "rows": [
         [
-         "État de vérification",
-         "Répertorié comme appareil réparable"
+         "Appareil",
+         "Robodog"
         ],
         [
-         "Procédure",
-         "Pas encore vérifiée"
+         "Famille",
+         "Gadgets et jouets"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Le nom de l'appareil est conservé pour la recherche. Pièces, pannes, outils, ordre, difficulté, progression et valeur de récompense ne sont pas vérifiés."
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -39551,24 +39693,24 @@
        "type": "table",
        "heading": "Geräteprofil",
        "columns": [
-        "Prüfstatus",
-        "Als reparierbares Gerät gelistet"
+        "Feld",
+        "Wert"
        ],
        "rows": [
         [
-         "Prüfstatus",
-         "Als reparierbares Gerät gelistet"
+         "Gerät",
+         "Robodog"
         ],
         [
-         "Ablauf",
-         "Noch nicht verifiziert"
+         "Familie",
+         "Gadgets & Spielzeug"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Der Gerätename bleibt zur Suche erhalten. Teile, Fehlerzustände, Werkzeuge, Reihenfolge, Schwierigkeit, Fortschritt und Belohnungswert sind nicht verifiziert."
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -39597,24 +39739,24 @@
        "type": "table",
        "heading": "Ficha del dispositivo",
        "columns": [
-        "Estado de verificación",
-        "Figura como dispositivo reparable"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Estado de verificación",
-         "Figura como dispositivo reparable"
+         "Dispositivo",
+         "Robodog"
         ],
         [
-         "Procedimiento",
-         "Aún no verificado"
+         "Familia",
+         "Gadgets y juguetes"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Se conserva el nombre para búsquedas. No se han verificado piezas, fallos, herramientas, orden, dificultad, progreso ni valor de recompensa."
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -39643,24 +39785,24 @@
        "type": "table",
        "heading": "Perfil do aparelho",
        "columns": [
-        "Status da verificação",
-        "Listado como aparelho reparável"
+        "Campo",
+        "Valor"
        ],
        "rows": [
         [
-         "Status da verificação",
-         "Listado como aparelho reparável"
+         "Aparelho",
+         "Robodog"
         ],
         [
-         "Procedimento",
-         "Ainda não verificado"
+         "Família",
+         "Gadgets e brinquedos"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "O nome do aparelho é mantido para pesquisa. Peças, falhas, ferramentas, ordem, dificuldade, progresso e valor de recompensa não foram verificados."
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -39689,24 +39831,24 @@
        "type": "table",
        "heading": "Профиль устройства",
        "columns": [
-        "Статус проверки",
-        "Указано как ремонтируемое устройство"
+        "Поле",
+        "Значение"
        ],
        "rows": [
         [
-         "Статус проверки",
-         "Указано как ремонтируемое устройство"
+         "Устройство",
+         "Robodog"
         ],
         [
-         "Процедура",
-         "Пока не подтверждена"
+         "Семейство",
+         "Гаджеты и игрушки"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Название устройства сохранено для поиска. Детали, неисправности, инструменты, порядок, сложность, этап прогресса и ценность награды не подтверждены."
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -39726,33 +39868,33 @@
      "icon": "dog"
     },
     "zh-TW": {
-     "title": "Robodog 修復指南 — 裝置資料",
-     "metaTitle": "Robodog 修復指南 — ReStory 裝置資料",
-     "metaDescription": "Robodog 修復指南: 本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
-     "intro": "本頁用於識別 ReStory 中可維修的裝置；準確的遊戲內流程仍待核實。",
+     "title": "Robodog 修復指南 — 設備資料",
+     "metaTitle": "Robodog 修復指南 — ReStory 設備資料",
+     "metaDescription": "Robodog 修復指南: 本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
+     "intro": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。",
      "sections": [
       {
        "type": "table",
-       "heading": "裝置資料",
+       "heading": "設備資料",
        "columns": [
-        "核實狀態",
-        "已列為可維修裝置"
+        "字段",
+        "值"
        ],
        "rows": [
         [
-         "核實狀態",
-         "已列為可維修裝置"
+         "設備",
+         "Robodog"
         ],
         [
-         "具體流程",
-         "尚未核實"
+         "家族",
+         "小玩意與玩具"
         ]
        ]
       },
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "保留裝置名稱供查詢。具體零件、故障狀態、工具、順序、難度、進度位置和獎勵價值尚未核實。"
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -39760,7 +39902,7 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充裝置專屬流程。"
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
         ]
        ]
       }

@@ -11,14 +11,31 @@ const path = require("path");
 const crypto = require("crypto");
 const ROOT = path.join(__dirname, "..");
 const DATA = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "site.json"), "utf8"));
-const OUT = path.join(ROOT, "public");
+const OUT = process.env.RESTORY_OUTPUT_DIR ? path.resolve(process.env.RESTORY_OUTPUT_DIR) : path.join(ROOT, "public");
 const KIT = require("./lib/site-kit");
 const AFF = KIT.createAffiliate(DATA.site.affiliates);
 const esc = KIT.esc;
 
-// AdSense 自动广告脚本（与其余 5 站一致；未配 adsenseId 时零输出）
-const AD_SNIPPET = DATA.site.adsenseId
-  ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${esc(DATA.site.adsenseId)}" crossorigin="anonymous"></script>`
+const ADSENSE_FIXTURE_ENABLED = process.env.NODE_ENV === "test" && process.env.RESTORY_ADSENSE_FIXTURE === "enabled";
+const ADSENSE_PUBLISHER_ID = /^pub-\d+$/.test(String(DATA.site.adsenseId || "").trim())
+  ? String(DATA.site.adsenseId).trim()
+  : "";
+const ADSENSE_CLIENT_ID = ADSENSE_PUBLISHER_ID ? `ca-${ADSENSE_PUBLISHER_ID}` : "";
+const ADSENSE_SERVING_ENABLED = Boolean(
+  ADSENSE_CLIENT_ID && (
+    ADSENSE_FIXTURE_ENABLED || (
+      DATA.site.adsenseServing &&
+      DATA.site.adsenseServing.enabled === true &&
+      DATA.site.adsenseServing.providerReady === true &&
+      DATA.site.adsenseServing.certifiedCmpReady === true
+    )
+  )
+);
+const adsenseMeta = () => ADSENSE_CLIENT_ID
+  ? `<meta name="google-adsense-account" content="${esc(ADSENSE_CLIENT_ID)}" />`
+  : "";
+const adsenseScript = () => ADSENSE_SERVING_ENABLED
+  ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${esc(ADSENSE_CLIENT_ID)}" crossorigin="anonymous"></script>`
   : "";
 const clean = KIT.clean;
 const LANGS = DATA.site.languages || ["en"];
@@ -28,7 +45,10 @@ const today = new Intl.DateTimeFormat("en-CA", {
   timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit"
 }).format(new Date());
 const urlOf = KIT.createUrl({ domain: DATA.site.domain, defaultLang: DEF });
-const LM = KIT.createLastmod({ manifestPath: path.join(ROOT,"data",".lastmod.json"), today });
+const LASTMOD_PATH = process.env.RESTORY_LASTMOD_PATH
+  ? path.resolve(process.env.RESTORY_LASTMOD_PATH)
+  : path.join(ROOT,"data",".lastmod.json");
+const LM = KIT.createLastmod({ manifestPath: LASTMOD_PATH, today });
 const HERO_SET = "/images/hero-640.jpg 640w, /images/hero-1280.jpg 1280w, /images/hero.jpg 1600w";
 const UPDATED_LABEL = { en:"Updated", "zh-CN":"更新于", "zh-TW":"更新於", ja:"更新日", ko:"업데이트", es:"Actualizado", fr:"Mis à jour", de:"Aktualisiert", "pt-BR":"Atualizado", ru:"Обновлено" };
 const updLabel = lang => UPDATED_LABEL[lang] || "Updated";
@@ -129,7 +149,6 @@ function gameLd(){
 function head(title, desc, extraLd, slug, lang, ogImage){
   const ld = JSON.stringify([siteLd(lang)].concat(extraLd || []));
     const gsc = DATA.site.gscVerification ? `<meta name="google-site-verification" content="${esc(DATA.site.gscVerification)}" />` : "";
-    const adsenseMeta = DATA.site.adsenseId ? `<meta name="google-adsense-account" content="ca-${esc(DATA.site.adsenseId)}" />` : "";
   const gaTag = DATA.site.gaId ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(DATA.site.gaId)}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${esc(DATA.site.gaId)}');</script>` : "";
   const og = ogImage || DATA.site.ogImage;
@@ -146,7 +165,7 @@ ${hreflang(slug)}
 <meta property="og:url" content="${urlOf(slug,lang)}"><meta property="og:image" content="https://${DATA.site.domain}${og}">
 <meta name="twitter:card" content="summary_large_image">
 ${gsc}
-${adsenseMeta}
+${adsenseMeta()}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -158,34 +177,6 @@ ${slug === "index" ? KIT.heroPreload({ srcset: HERO_SET, sizes: "100vw" }) : ""}
 ${gaTag}
 </head>`;
 }
-
-function renderAmazonAffiliate(lang) {
-  const AMZ = {
-    "en":    { title: "Game Gear", note: "As an Amazon Associate we earn from qualifying purchases. Prices and availability may change.", items: [["Gaming Keyboard","gaming keyboard"],["Gaming Mouse","gaming mouse"],["Headset","gaming headset"],["Controller","game controller"],["Monitor","gaming monitor"]] },
-    "zh-CN": { title: "游戏装备", note: "作为亚马逊联盟伙伴，我们会从符合条件的购买中获得佣金。价格与库存可能随时变化。", items: [["游戏键盘","gaming keyboard"],["游戏鼠标","gaming mouse"],["耳机","gaming headset"],["手柄","game controller"],["显示器","gaming monitor"]] },
-    "zh-TW": { title: "遊戲裝備", note: "作為亞馬遜聯盟夥伴，我們會從符合條件的購買中獲得佣金。價格與庫存可能隨時變化。", items: [["遊戲鍵盤","gaming keyboard"],["遊戲滑鼠","gaming mouse"],["耳機","gaming headset"],["手把","game controller"],["顯示器","gaming monitor"]] },
-    "ja":    { title: "ゲームギア", note: "Amazonアソシエイトとして、適格購入から手数料を得ることがあります。価格と在庫は変動します。", items: [["ゲーミングキーボード","gaming keyboard"],["ゲーミングマウス","gaming mouse"],["ヘッドセット","gaming headset"],["コントローラー","game controller"],["モニター","gaming monitor"]] },
-    "ko":    { title: "게임 장비", note: "Amazon 어소시에이트로서 적격 구매로부터 수수료를 받습니다. 가격과 재고는 변동될 수 있습니다.", items: [["게이밍 키보드","gaming keyboard"],["게이밍 마우스","gaming mouse"],["헤드셋","gaming headset"],["컨트롤러","game controller"],["모니터","gaming monitor"]] },
-    "es":    { title: "Equipo de juego", note: "Como afiliado de Amazon, ganamos con las compras que califican. El precio y la disponibilidad pueden cambiar.", items: [["Teclado gamer","gaming keyboard"],["Ratón gamer","gaming mouse"],["Auriculares","gaming headset"],["Mando","game controller"],["Monitor","gaming monitor"]] },
-    "fr":    { title: "Équipement de jeu", note: "En tant que partenaire Amazon, nous touchons une commission sur les achats éligibles. Prix et disponibilité peuvent changer.", items: [["Clavier gamer","gaming keyboard"],["Souris gamer","gaming mouse"],["Casque","gaming headset"],["Manette","game controller"],["Écran","gaming monitor"]] },
-    "de":    { title: "Gaming-Ausrüstung", note: "Als Amazon-Partner verdienen wir an qualifizierten Käufen. Preise und Verfügbarkeit können sich ändern.", items: [["Gaming-Tastatur","gaming keyboard"],["Gaming-Maus","gaming mouse"],["Headset","gaming headset"],["Controller","game controller"],["Monitor","gaming monitor"]] },
-    "it":    { title: "Accessori gaming", note: "In qualità di affiliato Amazon, guadagniamo dagli acquisti idonei. Prezzi e disponibilità possono cambiare.", items: [["Tastiera gaming","gaming keyboard"],["Mouse gaming","gaming mouse"],["Cuffie","gaming headset"],["Controller","game controller"],["Monitor","gaming monitor"]] },
-    "pl":    { title: "Sprzęt gamingowy", note: "Jako partner Amazon zarabiamy na kwalifikowanych zakupach. Ceny i dostępność mogą się zmieniać.", items: [["Klawiatura gamingowa","gaming keyboard"],["Mysz gamingowa","gaming mouse"],["Słuchawki","gaming headset"],["Pad","game controller"],["Monitor","gaming monitor"]] },
-    "pt-BR": { title: "Equipamentos de jogo", note: "Como associado da Amazon, ganhamos com compras qualificadas. Preços e disponibilidade podem mudar.", items: [["Teclado gamer","gaming keyboard"],["Mouse gamer","gaming mouse"],["Headset","gaming headset"],["Controle","game controller"],["Monitor","gaming monitor"]] },
-    "ru":    { title: "Игровое оборудование", note: "Как партнёр Amazon мы получаем комиссию с соответствующих покупок. Цены и наличие могут меняться.", items: [["Игровая клавиатура","gaming keyboard"],["Игровая мышь","gaming mouse"],["Гарнитура","gaming headset"],["Геймпад","game controller"],["Монитор","gaming monitor"]] },
-    "uk":    { title: "Ігрове обладнання", note: "Як партнер Amazon ми отримуємо комісію з відповідних покупок. Ціни та наявність можуть змінюватися.", items: [["Ігрова клавіатура","gaming keyboard"],["Ігрова миша","gaming mouse"],["Гарнітура","gaming headset"],["Геймпад","game controller"],["Монітор","gaming monitor"]] },
-    "vi":    { title: "Thiết bị chơi game", note: "Là cộng tác viên Amazon, chúng tôi nhận hoa hồng từ các giao dịch mua đủ điều kiện. Giá và tình trạng hàng có thể thay đổi.", items: [["Bàn phím gaming","gaming keyboard"],["Chuột gaming","gaming mouse"],["Tai nghe","gaming headset"],["Tay cầm","game controller"],["Màn hình","gaming monitor"]] },
-  };
-  const t = AMZ[lang] || AMZ.en;
-  const tag = "cozysimhub20-20";
-  const links = t.items.map(it => `<a href="https://www.amazon.com/s?k=${encodeURIComponent(it[1])}&tag=${tag}" target="_blank" rel="sponsored noopener nofollow">${esc(it[0])}</a>`).join("");
-  return `<div class="amazon-gear">
-    <h3>${esc(t.title)}</h3>
-    <div class="amazon-gear-links">${links}</div>
-    <p class="aff-note">${esc(t.note)}</p>
-  </div>`;
-}
-
 
 function header(lang, activeSlug){
   const s = siteI18n(lang);
@@ -226,7 +217,6 @@ function footer(lang){
     <div class="foot-src">${esc(s.footerSource)} · ${updLabel(lang)} ${today}</div>
     <nav class="foot-nav"><a href="${prefix}/about">${esc(s.aboutTitle)}</a> · <a href="${prefix}/privacy">${esc(s.privacyTitle)}</a> · <a href="${prefix}/contact">${esc(s.contactTitle)}</a></nav>
   </div>
-${renderAmazonAffiliate(lang)}
 </footer>
 <script>
 (function(){
@@ -388,7 +378,7 @@ function renderHome(lang){
   return `<!doctype html>
 <html lang="${LANG_META[lang].html}"><head>${head(s.name, s.description, [gameLd()], "index", lang)}</head>
 <body class="home">
-${AD_SNIPPET}
+${adsenseScript()}
 ${header(lang, "")}
 <main class="shop">
   <section class="hero reveal">
@@ -444,7 +434,7 @@ ${footer(lang)}
 /* ---------- article pages ---------- */
 function renderFull(lang, title, desc, extraLd, slug, body, ogImage){
   const s = siteI18n(lang);
-  return head(title, desc, extraLd, slug, lang, ogImage) + "<body>" + AD_SNIPPET + header(lang, slug === "index" ? "" : slug) + body + footer(lang);
+  return head(title, desc, extraLd, slug, lang, ogImage) + "<body>" + adsenseScript() + header(lang, slug === "index" ? "" : slug) + body + footer(lang);
 }
 function renderPage(lang, page){
   const t = Object.assign(pageOf(page, lang), {slug: page.slug});
@@ -500,7 +490,6 @@ function renderPage(lang, page){
       </nav>
       <div class="bench-main">
         ${sections2}
-        ${renderAmazonAffiliate(lang)}
         ${sources ? `<footer class="bench-src reveal"><b>${esc(s.sources||"Sources")}</b><ul>${sources}</ul>${affNote}
 </footer>` : ""}
       </div>
@@ -589,11 +578,42 @@ function renderPage(lang, page){
 }
 
 /* ---------- static pages ---------- */
+const ADSENSE_PRIVACY_PREFIX = {
+  en: `<p>Google AdSense account verification metadata and ads.txt are configured, but its ad-serving script remains disabled unless serving, provider readiness and certified CMP readiness are all explicitly enabled. This configuration does not mean AdSense ads are currently serving. The effectivecpmnetwork.com`,
+  "zh-CN": `<p>Google AdSense 账户验证元数据与 ads.txt 已配置，但只有在投放、服务商就绪和认证 CMP 就绪三个条件都明确开启时才会加载投放脚本。已配置不代表 AdSense 广告目前正在投放。effectivecpmnetwork.com`,
+  "zh-TW": `<p>Google AdSense 帳戶驗證後設資料與 ads.txt 已設定，但只有在投放、服務商就緒和認證 CMP 就緒三個條件都明確開啟時才會載入投放指令碼。已設定不代表 AdSense 廣告目前正在投放。effectivecpmnetwork.com`,
+  ja: `<p>Google AdSense のアカウント確認メタデータと ads.txt は設定済みですが、配信、プロバイダー準備、認定 CMP 準備の 3 条件がすべて明示的に有効化されない限り配信スクリプトは読み込まれません。設定済みであることは、現在 AdSense 広告が配信中であることを意味しません。effectivecpmnetwork.com`,
+  ko: `<p>Google AdSense 계정 확인 메타데이터와 ads.txt는 설정되어 있지만, 광고 게재·공급자 준비·인증 CMP 준비의 세 조건이 모두 명시적으로 활성화되지 않으면 게재 스크립트는 로드되지 않습니다. 설정되었다고 해서 현재 AdSense 광고가 게재 중이라는 뜻은 아닙니다. effectivecpmnetwork.com`,
+  fr: `<p>Les métadonnées de validation du compte Google AdSense et ads.txt sont configurés, mais le script de diffusion reste désactivé tant que la diffusion, la disponibilité du fournisseur et celle d'une CMP certifiée ne sont pas toutes explicitement activées. Cette configuration ne signifie pas que des annonces AdSense sont actuellement diffusées. Le script publicitaire effectivecpmnetwork.com`,
+  de: `<p>Metadaten zur Google-AdSense-Kontoprüfung und ads.txt sind konfiguriert; das Anzeigenskript bleibt jedoch deaktiviert, bis Auslieferung, Anbieterbereitschaft und eine zertifizierte CMP ausdrücklich aktiviert sind. Die Konfiguration bedeutet nicht, dass derzeit AdSense-Anzeigen ausgeliefert werden. Das Werbeskript von effectivecpmnetwork.com`,
+  es: `<p>Los metadatos de verificación de la cuenta de Google AdSense y ads.txt están configurados, pero el script de publicación sigue desactivado hasta que se habiliten expresamente la publicación, la preparación del proveedor y una CMP certificada. La configuración no significa que los anuncios de AdSense se estén publicando ahora. El script publicitario de effectivecpmnetwork.com`,
+  "pt-BR": `<p>Os metadados de verificação da conta do Google AdSense e o ads.txt estão configurados, mas o script de veiculação permanece desativado até que veiculação, prontidão do provedor e CMP certificada sejam explicitamente ativadas. Essa configuração não significa que anúncios do AdSense estejam sendo veiculados agora. O script de anúncios da effectivecpmnetwork.com`,
+  ru: `<p>Метаданные проверки аккаунта Google AdSense и ads.txt настроены, но скрипт показа остаётся отключённым, пока явно не включены показ, готовность поставщика и сертифицированная CMP. Эта настройка не означает, что реклама AdSense сейчас показывается. Рекламный скрипт effectivecpmnetwork.com`,
+};
+const ADSENSE_PRIVACY_META = {
+  en: "Privacy: GA4 analytics, gated Google AdSense configuration, Adsterra/effectivecpmnetwork, cookies and device/network data.",
+  "zh-CN": "隐私说明：GA4 分析、已门控的 Google AdSense 配置、Adsterra/effectivecpmnetwork、Cookie 与设备/网络数据。",
+  "zh-TW": "隱私說明：GA4 分析、已門控的 Google AdSense 設定、Adsterra/effectivecpmnetwork、Cookie 與裝置/網路資料。",
+  ja: "プライバシー：GA4、ゲート管理された Google AdSense 設定、Adsterra/effectivecpmnetwork、Cookie、端末・ネットワークデータ。",
+  ko: "개인정보 안내: GA4, 게이트로 관리되는 Google AdSense 설정, Adsterra/effectivecpmnetwork, 쿠키와 기기·네트워크 데이터.",
+  fr: "Confidentialité : GA4, configuration Google AdSense sous contrôle, Adsterra/effectivecpmnetwork, cookies et données réseau/appareil.",
+  de: "Datenschutz: GA4, kontrollierte Google-AdSense-Konfiguration, Adsterra/effectivecpmnetwork, Cookies und Netzwerk-/Gerätedaten.",
+  es: "Privacidad: GA4, configuración controlada de Google AdSense, Adsterra/effectivecpmnetwork, cookies y datos de red/dispositivo.",
+  "pt-BR": "Privacidade: GA4, configuração controlada do Google AdSense, Adsterra/effectivecpmnetwork, cookies e dados de rede/aparelho.",
+  ru: "Конфиденциальность: GA4, закрытая настройка Google AdSense, Adsterra/effectivecpmnetwork, cookie и сетевые данные/устройство.",
+};
+function privacyBodyWithGates(lang, body) {
+  const marker = "effectivecpmnetwork.com";
+  const markerAt = body.lastIndexOf(marker);
+  const paragraphAt = body.lastIndexOf("<p>", markerAt);
+  if (markerAt < 0 || paragraphAt < 0) throw new Error(`Privacy advertising boundary missing for ${lang}`);
+  return body.slice(0, paragraphAt) + (ADSENSE_PRIVACY_PREFIX[lang] || ADSENSE_PRIVACY_PREFIX.en) + body.slice(markerAt + marker.length);
+}
 function renderStatic(lang, slug, title, body){
   const prefix = lang === DEF ? "" : `/${lang}`;
   const s = siteI18n(lang);
-  const descRaw = slug === "privacy" && s.privacyMetaDescription
-    ? s.privacyMetaDescription
+  const descRaw = slug === "privacy" && ADSENSE_PRIVACY_META[lang]
+    ? ADSENSE_PRIVACY_META[lang]
     : KIT.staticDesc(slug, lang, s.name, title);
   const isCjk = ["zh-CN","zh-TW","ja","ko"].includes(lang);
   const desc = descRaw.length > (isCjk ? 74 : 148) ? descRaw.slice(0,(isCjk?73:147)).replace(/\s+[^\s]*$/,"") + "…" : descRaw;
@@ -607,7 +627,7 @@ function genStatic(lang){
   const aboutBody = `<p>${esc(s.aboutText)}</p><h2 style="font-size:1.05rem;margin:18px 0 8px">${esc(s.aboutSources)}</h2><ul class="checks">${aboutPoints.map(x=>`<li>${esc(x)}</li>`).join("")}</ul>`;
   writePage(path.join(dir,"about.html"), "about", lang, renderStatic(lang,"about", s.aboutTitle,
     aboutBody + `<section class="card">` + KIT.editorialPolicy(lang, { siteName: s.name, contactEmail: `contact@${DATA.site.domain}` }) + `</section>`));
-  const privacyBody = s.privacyBody || `<p>This is a game guide website. We respect your privacy.</p>`;
+  const privacyBody = privacyBodyWithGates(lang, s.privacyBody || `<p>This is a game guide website. We respect your privacy.</p>`);
   writePage(path.join(dir,"privacy.html"), "privacy", lang, renderStatic(lang,"privacy", s.privacyTitle, privacyBody));
   const contactBody = s.contactBody || `<p>contact@${DATA.site.domain}</p>`;
   writePage(path.join(dir,"contact.html"), "contact", lang, renderStatic(lang,"contact", s.contactTitle, contactBody));
@@ -706,9 +726,9 @@ function gen404(){
     const t=pageOf(p,DEF);
     return `<a class="rel-link" href="/${slug}"><span class="nav-ic">${iconOf(slug)}</span><span>${esc(t.title)}</span></a>`;
   }).join("");
-  const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>404 — ${esc(s.name)}</title><link rel="preconnect" href="https://fonts.googleapis.com">
+  const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>404 — ${esc(s.name)}</title>${adsenseMeta()}<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Nunito+Sans:wght@400;600;700;800&family=Space+Mono&family=M+PLUS+Rounded+1c:wght@400;500;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/css/style.css?v=${CSS_V}"></head><body class="home">${AD_SNIPPET}<main class="shop"><section class="hero reveal"><div class="hero-paper"><div class="hero-copy"><span class="hero-kicker">404</span><h1>${esc(s.noMatch||"Not found")}</h1><p class="hero-lead">This page is missing — the part was probably lost in the drawer.</p><a class="btn btn-primary" href="/">${esc(s.navHome)}</a><a class="btn btn-ghost" href="/beginners-guide">${esc(s.readGuide)}</a></div></div></section><section class="jb"><div class="panel-head"><span class="panel-tag">FIX IT</span><h2>Popular guides</h2></div><div class="jb-board">${hot}</div></section></main>${footer(DEF)}</body></html>`;
+  <link rel="stylesheet" href="/css/style.css?v=${CSS_V}"></head><body class="home">${adsenseScript()}<main class="shop"><section class="hero reveal"><div class="hero-paper"><div class="hero-copy"><span class="hero-kicker">404</span><h1>${esc(s.noMatch||"Not found")}</h1><p class="hero-lead">This page is missing — the part was probably lost in the drawer.</p><a class="btn btn-primary" href="/">${esc(s.navHome)}</a><a class="btn btn-ghost" href="/beginners-guide">${esc(s.readGuide)}</a></div></div></section><section class="jb"><div class="panel-head"><span class="panel-tag">FIX IT</span><h2>Popular guides</h2></div><div class="jb-board">${hot}</div></section></main>${footer(DEF)}</body></html>`;
   fs.writeFileSync(path.join(OUT,"404.html"), html);
 }

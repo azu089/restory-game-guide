@@ -85,7 +85,44 @@
     "zenTotal": "Current total",
     "zenTarget": "Requires >100",
     "zenReset": "Check",
-    "privacyBody": "<p>This guide site loads Google Analytics 4 (GA4) and an Adsterra advertising integration served from effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analytics</h2><p>GA4 measures activity such as page views, referrers, device/browser information and approximate region. Google may use cookies or similar identifiers to distinguish browsers. See Google's privacy controls and policies for details.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Advertising</h2><p>Google AdSense advertising is loaded from pagead2.googlesyndication.com. Google may process cookies or similar identifiers, IP address, browser/device information, page URL and ad interaction data under its advertising privacy policies. The effectivecpmnetwork.com advertising script is supplied by a third party. When it loads, that provider may process network and device data such as IP address, browser information, page URL, referrer, and cookies or similar identifiers, according to its own policy. We do not control that third-party collection.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Your choices</h2><p>You can block or clear cookies and other site data in your browser, use content-blocking controls, or leave before third-party scripts load. Blocking them may change analytics or ad display.</p>",
+    "consent": {
+     "settings": "Privacy settings",
+     "title": "Privacy choices",
+     "intro": "Optional analytics and advertising stay off until you choose.",
+     "analytics": "Analytics (Google Analytics 4)",
+     "analyticsHelp": "Measures page views, referrers, device/browser details and approximate region.",
+     "ads": "Advertising (Adsterra)",
+     "adsHelp": "Loads the effectivecpmnetwork.com ad integration, which may receive IP address, device/browser details, page URL, referrer and cookies or similar identifiers.",
+     "accept": "Accept optional services",
+     "reject": "Reject optional services",
+     "manage": "Manage choices",
+     "save": "Save choices",
+     "withdraw": "Withdraw consent",
+     "close": "Close"
+    },
+    "repairSteps": [
+     [
+      "Accept the job",
+      "Confirm the device, deadline and customer request."
+     ],
+     [
+      "Disassemble in order",
+      "Lay parts out in sequence so reassembly stays clear."
+     ],
+     [
+      "Inspect every part",
+      "Record each part as clean, dirty, broken or missing."
+     ],
+     [
+      "Clean or replace",
+      "Clean dirty parts and replace only broken or missing ones."
+     ],
+     [
+      "Reassemble and test",
+      "Follow the recorded order, verify completion, then deliver."
+     ]
+    ],
+    "privacyBody": "<p>This guide site keeps optional analytics and advertising off until you choose in Privacy settings.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analytics</h2><p>If enabled, Google Analytics 4 (GA4) measures page views, referrers, device/browser information and approximate region, and may use cookies or similar identifiers for this purpose.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Advertising</h2><p>If enabled, Adsterra loads from effectivecpmnetwork.com. That provider may process IP address, device/browser information, page URL, referrer, ad interactions and cookies or similar identifiers to deliver and measure advertising. Google AdSense account metadata and ads.txt are configured, but AdSense ad serving is disabled and no AdSense serving script is loaded.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Your choices</h2><p>Accept, reject or manage the two optional purposes in Privacy settings. You can reopen Privacy settings on any page and withdraw consent; withdrawal prevents new optional provider loads on later page loads. Previously transmitted data cannot be recalled.</p>",
     "contactBody": "<p>Questions, corrections or missing guides? Email us at <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. We read every message and update guides as we verify new details.</p>",
     "privacyMetaDescription": "Privacy: GA4 analytics, Google AdSense advertising from pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, cookies and device/network data.",
     "devicesTitle": "Device profiles",
@@ -167,7 +204,44 @@
     "zenTotal": "当前合计",
     "zenTarget": "要求 >100",
     "zenReset": "检查",
-    "privacyBody": "<p>本攻略站会加载 Google Analytics 4（GA4），以及由 effectivecpmnetwork.com 提供的 Adsterra 广告集成。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">分析统计</h2><p>GA4 会衡量页面浏览、来源、设备/浏览器信息和大致地区等活动。Google 可能使用 Cookie 或类似标识符来区分浏览器；详情以 Google 的隐私控制和政策为准。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">广告</h2><p>本站会从 pagead2.googlesyndication.com 加载 Google AdSense 广告。Google 可能依照其广告隐私政策处理 Cookie 或类似标识符、IP 地址、浏览器/设备信息、页面 URL 和广告互动数据。effectivecpmnetwork.com 广告脚本由第三方提供。脚本加载时，该提供商可能依照其政策处理 IP 地址、浏览器信息、页面 URL、来源以及 Cookie 或类似标识符等网络和设备数据。我们无法控制该第三方的数据收集。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">你的选择</h2><p>你可以在浏览器中阻止或清除 Cookie 与其他网站数据、使用内容拦截功能，或在第三方脚本加载前离开。阻止这些功能可能影响统计或广告显示。</p>",
+    "consent": {
+     "settings": "隐私设置",
+     "title": "隐私选择",
+     "intro": "在你作出选择前，可选的分析与广告服务保持关闭。",
+     "analytics": "分析（Google Analytics 4）",
+     "analyticsHelp": "衡量页面浏览、来源、设备/浏览器信息和大致地区。",
+     "ads": "广告（Adsterra）",
+     "adsHelp": "加载 effectivecpmnetwork.com 广告集成；该服务可能接收 IP 地址、设备/浏览器信息、页面 URL、来源以及 Cookie 或类似标识符。",
+     "accept": "接受可选服务",
+     "reject": "拒绝可选服务",
+     "manage": "管理选择",
+     "save": "保存选择",
+     "withdraw": "撤回同意",
+     "close": "关闭"
+    },
+    "repairSteps": [
+     [
+      "接下工单",
+      "确认设备、期限与顾客要求。"
+     ],
+     [
+      "按顺序拆解",
+      "依次摆放零件，方便准确复原。"
+     ],
+     [
+      "检查每个零件",
+      "记录干净、脏污、损坏或缺失状态。"
+     ],
+     [
+      "清洁或更换",
+      "清洁脏污件，只更换损坏或缺失件。"
+     ],
+     [
+      "组装并检查",
+      "按记录复原，确认完成后再交付。"
+     ]
+    ],
+    "privacyBody": "<p>本攻略站在你通过“隐私设置”作出选择前，会关闭可选的分析与广告服务。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">分析统计</h2><p>启用后，Google Analytics 4（GA4）会为流量分析衡量页面浏览、来源、设备/浏览器信息和大致地区，并可能为此使用 Cookie 或类似标识符。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">广告</h2><p>启用后，Adsterra 会从 effectivecpmnetwork.com 加载。该提供商可能为广告投放与衡量处理 IP 地址、设备/浏览器信息、页面 URL、来源、广告互动以及 Cookie 或类似标识符。Google AdSense 账户验证元数据与 ads.txt 已配置，但 AdSense 广告投放保持关闭，不会加载 AdSense 投放脚本。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">你的选择</h2><p>你可以在“隐私设置”中接受、拒绝或分别管理两项可选用途。任何页面都可重新打开设置并撤回同意；撤回后，后续页面加载不会新加载可选服务。已经传输的数据无法收回。</p>",
     "contactBody": "<p>有疑问、勘误或想要补充的攻略？请发邮件到 <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>。我们会阅读每一条消息，并在核实新细节后更新攻略。</p>",
     "privacyMetaDescription": "隐私说明：GA4 分析、pagead2.googlesyndication.com 的 Google AdSense 广告、Adsterra/effectivecpmnetwork、Cookie 与设备/网络数据。",
     "devicesTitle": "设备资料",
@@ -249,7 +323,44 @@
     "zenTotal": "目前合計",
     "zenTarget": "要求 >100",
     "zenReset": "檢查",
-    "privacyBody": "<p>本攻略站會載入 Google Analytics 4（GA4），以及由 effectivecpmnetwork.com 提供的 Adsterra 廣告整合。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">分析統計</h2><p>GA4 會衡量頁面瀏覽、來源、裝置/瀏覽器資訊和大致地區等活動。Google 可能使用 Cookie 或類似識別碼來區分瀏覽器；詳情以 Google 的隱私控制和政策為準。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">廣告</h2><p>本站會從 pagead2.googlesyndication.com 載入 Google AdSense 廣告。Google 可能依照其廣告隱私政策處理 Cookie 或類似識別碼、IP 位址、瀏覽器/裝置資訊、頁面 URL 和廣告互動資料。effectivecpmnetwork.com 廣告指令碼由第三方提供。指令碼載入時，該提供者可能依照其政策處理 IP 位址、瀏覽器資訊、頁面 URL、來源，以及 Cookie 或類似識別碼等網路和裝置資料。我們無法控制該第三方的資料收集。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">你的選擇</h2><p>你可以在瀏覽器中封鎖或清除 Cookie 與其他網站資料、使用內容封鎖功能，或在第三方指令碼載入前離開。封鎖這些功能可能影響統計或廣告顯示。</p>",
+    "consent": {
+     "settings": "隱私設定",
+     "title": "隱私選擇",
+     "intro": "在你作出選擇前，選用的分析與廣告服務保持關閉。",
+     "analytics": "分析（Google Analytics 4）",
+     "analyticsHelp": "衡量頁面瀏覽、來源、裝置／瀏覽器資訊和大致地區。",
+     "ads": "廣告（Adsterra）",
+     "adsHelp": "載入 effectivecpmnetwork.com 廣告整合；該服務可能接收 IP 位址、裝置／瀏覽器資訊、頁面 URL、來源以及 Cookie 或類似識別碼。",
+     "accept": "接受選用服務",
+     "reject": "拒絕選用服務",
+     "manage": "管理選擇",
+     "save": "儲存選擇",
+     "withdraw": "撤回同意",
+     "close": "關閉"
+    },
+    "repairSteps": [
+     [
+      "接下工單",
+      "確認裝置、期限與顧客要求。"
+     ],
+     [
+      "按順序拆解",
+      "依次擺放零件，方便準確復原。"
+     ],
+     [
+      "檢查每個零件",
+      "記錄乾淨、髒漬、損壞或缺失狀態。"
+     ],
+     [
+      "清潔或更換",
+      "清潔髒漬件，只更換損壞或缺失件。"
+     ],
+     [
+      "組裝並檢查",
+      "按記錄復原，確認完成後再交付。"
+     ]
+    ],
+    "privacyBody": "<p>本攻略站在你透過「隱私設定」作出選擇前，會關閉選用的分析與廣告服務。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">分析統計</h2><p>啟用後，Google Analytics 4（GA4）會為流量分析衡量頁面瀏覽、來源、裝置／瀏覽器資訊和大致地區，並可能為此使用 Cookie 或類似識別碼。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">廣告</h2><p>啟用後，Adsterra 會從 effectivecpmnetwork.com 載入。該供應商可能為廣告投放與衡量處理 IP 位址、裝置／瀏覽器資訊、頁面 URL、來源、廣告互動以及 Cookie 或類似識別碼。Google AdSense 帳戶驗證後設資料與 ads.txt 已設定，但 AdSense 廣告投放保持關閉，不會載入 AdSense 投放指令碼。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">你的選擇</h2><p>你可以在「隱私設定」中接受、拒絕或分別管理兩項選用用途。任何頁面都可重新開啟設定並撤回同意；撤回後，後續頁面載入不會新載入選用服務。已傳輸的資料無法收回。</p>",
     "contactBody": "<p>有疑問、勘誤或想補充的攻略？請寄信到 <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>。我們會閱讀每一則訊息，並在核實新細節後更新攻略。</p>",
     "privacyMetaDescription": "隱私說明：GA4 分析、pagead2.googlesyndication.com 的 Google AdSense 廣告、Adsterra/effectivecpmnetwork、Cookie 與裝置/網路資料。",
     "devicesTitle": "裝置資料",
@@ -331,7 +442,44 @@
     "zenTotal": "現在の合計",
     "zenTarget": "条件 >100",
     "zenReset": "確認",
-    "privacyBody": "<p>本攻略サイトは Google Analytics 4（GA4）と、effectivecpmnetwork.com から配信される Adsterra 広告連携を読み込みます。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">アクセス解析</h2><p>GA4 はページビュー、参照元、端末・ブラウザ情報、おおよその地域などを測定します。Google はブラウザを区別するため Cookie または類似の識別子を使用する場合があります。詳細は Google のプライバシー管理とポリシーをご確認ください。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">広告</h2><p>本サイトは pagead2.googlesyndication.com から Google AdSense 広告を読み込みます。Google は広告プライバシーポリシーに従い、Cookie または類似の識別子、IP アドレス、ブラウザ・端末情報、ページ URL、広告操作データを処理する場合があります。effectivecpmnetwork.com の広告スクリプトは第三者が提供します。読み込み時に、その事業者は自社ポリシーに従い、IP アドレス、ブラウザ情報、ページ URL、参照元、Cookie または類似の識別子などのネットワーク・端末データを処理する場合があります。当サイトは第三者による収集を管理できません。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">選択肢</h2><p>ブラウザで Cookie などのサイトデータを拒否・削除する、コンテンツブロック機能を使う、または第三者スクリプトの読み込み前に離脱できます。拒否すると解析や広告表示が変わる場合があります。</p>",
+    "consent": {
+     "settings": "プライバシー設定",
+     "title": "プライバシーの選択",
+     "intro": "選択するまで、任意の解析と広告サービスは無効です。",
+     "analytics": "解析（Google Analytics 4）",
+     "analyticsHelp": "ページビュー、参照元、端末・ブラウザ情報、おおよその地域を測定します。",
+     "ads": "広告（Adsterra）",
+     "adsHelp": "effectivecpmnetwork.com の広告連携を読み込みます。同サービスは IP アドレス、端末・ブラウザ情報、ページ URL、参照元、Cookie または類似識別子を受け取る場合があります。",
+     "accept": "任意サービスを許可",
+     "reject": "任意サービスを拒否",
+     "manage": "選択を管理",
+     "save": "選択を保存",
+     "withdraw": "同意を撤回",
+     "close": "閉じる"
+    },
+    "repairSteps": [
+     [
+      "依頼を受ける",
+      "デバイス、期限、顧客の要望を確認します。"
+     ],
+     [
+      "順番に分解",
+      "再組立てできるよう部品を順番に並べます。"
+     ],
+     [
+      "全パーツを点検",
+      "清潔・汚れ・破損・欠品を記録します。"
+     ],
+     [
+      "清掃または交換",
+      "汚れを清掃し、破損・欠品だけ交換します。"
+     ],
+     [
+      "再組立てと確認",
+      "記録順に戻し、完了を確認して納品します。"
+     ]
+    ],
+    "privacyBody": "<p>本攻略サイトでは、プライバシー設定で選択するまで任意の解析と広告を無効にしています。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">アクセス解析</h2><p>有効にすると Google Analytics 4（GA4）がページビュー、参照元、端末・ブラウザ情報、おおよその地域を測定し、その目的で Cookie または類似識別子を使う場合があります。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">広告</h2><p>有効にすると Adsterra が effectivecpmnetwork.com から読み込まれます。同事業者は広告の配信・測定のため、IP アドレス、端末・ブラウザ情報、ページ URL、参照元、広告操作、Cookie または類似識別子を処理する場合があります。Google AdSense の確認用メタデータと ads.txt は設定済みですが、広告配信は無効で、配信スクリプトは読み込まれません。</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">選択肢</h2><p>プライバシー設定で許可、拒否、または目的別に管理できます。どのページでも設定を開いて同意を撤回でき、以後のページ読み込みでは任意サービスが新たに読み込まれません。送信済みデータは取り消せません。</p>",
     "contactBody": "<p>質問・訂正・攻略のリクエストは <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a> までご連絡ください。すべてのメッセージに目を通し、確認できた内容を随時ガイドに反映します。</p>",
     "privacyMetaDescription": "プライバシー：GA4、pagead2.googlesyndication.com の Google AdSense 広告、Adsterra/effectivecpmnetwork、Cookie、端末・ネットワークデータ。",
     "devicesTitle": "デバイス資料",
@@ -413,7 +561,44 @@
     "zenTotal": "현재 합계",
     "zenTarget": "요구 >100",
     "zenReset": "확인",
-    "privacyBody": "<p>이 가이드 사이트는 Google Analytics 4(GA4)와 effectivecpmnetwork.com에서 제공되는 Adsterra 광고 연동을 불러옵니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">분석</h2><p>GA4는 페이지 조회, 유입 경로, 기기·브라우저 정보, 대략적인 지역 등의 활동을 측정합니다. Google은 브라우저를 구분하기 위해 쿠키 또는 유사 식별자를 사용할 수 있습니다. 자세한 내용은 Google의 개인정보 보호 설정과 정책을 확인하세요.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">광고</h2><p>이 사이트는 pagead2.googlesyndication.com에서 Google AdSense 광고를 불러옵니다. Google은 광고 개인정보 보호정책에 따라 쿠키 또는 유사 식별자, IP 주소, 브라우저·기기 정보, 페이지 URL과 광고 상호작용 데이터를 처리할 수 있습니다. effectivecpmnetwork.com 광고 스크립트는 제3자가 제공합니다. 스크립트가 로드될 때 해당 업체는 자체 정책에 따라 IP 주소, 브라우저 정보, 페이지 URL, 유입 경로, 쿠키 또는 유사 식별자 같은 네트워크·기기 데이터를 처리할 수 있습니다. 당사는 그 제3자의 수집을 통제하지 않습니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">선택 사항</h2><p>브라우저에서 쿠키와 기타 사이트 데이터를 차단·삭제하거나 콘텐츠 차단 기능을 사용하거나 제3자 스크립트가 로드되기 전에 사이트를 떠날 수 있습니다. 차단하면 분석 또는 광고 표시가 달라질 수 있습니다.</p>",
+    "consent": {
+     "settings": "개인정보 설정",
+     "title": "개인정보 선택",
+     "intro": "선택하기 전에는 선택적 분석 및 광고 서비스가 꺼져 있습니다.",
+     "analytics": "분석(Google Analytics 4)",
+     "analyticsHelp": "페이지 조회, 유입 경로, 기기·브라우저 정보와 대략적인 지역을 측정합니다.",
+     "ads": "광고(Adsterra)",
+     "adsHelp": "effectivecpmnetwork.com 광고 연동을 불러옵니다. 해당 서비스는 IP 주소, 기기·브라우저 정보, 페이지 URL, 유입 경로, 쿠키 또는 유사 식별자를 받을 수 있습니다.",
+     "accept": "선택 서비스 허용",
+     "reject": "선택 서비스 거부",
+     "manage": "선택 관리",
+     "save": "선택 저장",
+     "withdraw": "동의 철회",
+     "close": "닫기"
+    },
+    "repairSteps": [
+     [
+      "작업 접수",
+      "기기, 마감일과 고객 요청을 확인합니다."
+     ],
+     [
+      "순서대로 분해",
+      "재조립할 수 있도록 부품을 순서대로 놓습니다."
+     ],
+     [
+      "모든 부품 검사",
+      "깨끗함, 오염, 파손, 누락 상태를 기록합니다."
+     ],
+     [
+      "청소 또는 교체",
+      "오염 부품은 청소하고 파손·누락 부품만 교체합니다."
+     ],
+     [
+      "재조립 및 확인",
+      "기록 순서대로 조립하고 완료를 확인한 뒤 인도합니다."
+     ]
+    ],
+    "privacyBody": "<p>이 가이드 사이트는 개인정보 설정에서 선택하기 전까지 선택적 분석 및 광고를 꺼 둡니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">분석</h2><p>활성화하면 Google Analytics 4(GA4)가 페이지 조회, 유입 경로, 기기·브라우저 정보와 대략적인 지역을 측정하며 이를 위해 쿠키 또는 유사 식별자를 사용할 수 있습니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">광고</h2><p>활성화하면 Adsterra가 effectivecpmnetwork.com에서 로드됩니다. 해당 공급자는 광고 제공·측정을 위해 IP 주소, 기기·브라우저 정보, 페이지 URL, 유입 경로, 광고 상호작용, 쿠키 또는 유사 식별자를 처리할 수 있습니다. Google AdSense 확인 메타데이터와 ads.txt는 설정되어 있지만 광고 게재는 꺼져 있고 게재 스크립트는 로드되지 않습니다.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">선택 사항</h2><p>개인정보 설정에서 허용, 거부하거나 목적별로 관리할 수 있습니다. 모든 페이지에서 설정을 다시 열어 동의를 철회할 수 있으며 이후 페이지 로드에는 선택적 공급자가 새로 로드되지 않습니다. 이미 전송된 데이터는 회수할 수 없습니다.</p>",
     "contactBody": "<p>질문, 오류 정정, 가이드 요청은 <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>로 보내주세요. 모든 메시지를 읽고, 확인된 내용을 가이드에 반영합니다.</p>",
     "privacyMetaDescription": "개인정보 안내: GA4, pagead2.googlesyndication.com의 Google AdSense 광고, Adsterra/effectivecpmnetwork, 쿠키와 기기·네트워크 데이터.",
     "devicesTitle": "기기 자료",
@@ -495,7 +680,44 @@
     "zenTotal": "Total actuel",
     "zenTarget": "Requis >100",
     "zenReset": "Vérifier",
-    "privacyBody": "<p>Ce site de guides charge Google Analytics 4 (GA4) ainsi qu'une intégration publicitaire Adsterra diffusée depuis effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Mesure d'audience</h2><p>GA4 mesure notamment les pages vues, la provenance, les informations sur l'appareil et le navigateur, et la région approximative. Google peut utiliser des cookies ou identifiants similaires pour distinguer les navigateurs. Consultez les contrôles et règles de confidentialité de Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicité</h2><p>Le site charge la publicité Google AdSense depuis pagead2.googlesyndication.com. Google peut traiter des cookies ou identifiants similaires, l’adresse IP, des informations sur le navigateur/appareil, l’URL de la page et les interactions publicitaires selon ses règles de confidentialité publicitaire. Le script publicitaire effectivecpmnetwork.com est fourni par un tiers. Lors de son chargement, ce fournisseur peut traiter, selon sa propre politique, des données réseau et appareil telles que l'adresse IP, le navigateur, l'URL de la page, le référent et des cookies ou identifiants similaires. Nous ne contrôlons pas cette collecte tierce.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Vos choix</h2><p>Vous pouvez bloquer ou effacer les cookies et autres données de site dans votre navigateur, utiliser un bloqueur de contenu ou quitter avant le chargement des scripts tiers. Cela peut modifier la mesure ou l'affichage publicitaire.</p>",
+    "consent": {
+     "settings": "Réglages de confidentialité",
+     "title": "Choix de confidentialité",
+     "intro": "L’analyse et la publicité facultatives restent désactivées jusqu’à votre choix.",
+     "analytics": "Mesure d’audience (Google Analytics 4)",
+     "analyticsHelp": "Mesure les pages vues, la provenance, l’appareil/navigateur et la région approximative.",
+     "ads": "Publicité (Adsterra)",
+     "adsHelp": "Charge l’intégration effectivecpmnetwork.com, susceptible de recevoir adresse IP, appareil/navigateur, URL, référent et cookies ou identifiants similaires.",
+     "accept": "Accepter les services facultatifs",
+     "reject": "Refuser les services facultatifs",
+     "manage": "Gérer les choix",
+     "save": "Enregistrer les choix",
+     "withdraw": "Retirer le consentement",
+     "close": "Fermer"
+    },
+    "repairSteps": [
+     [
+      "Accepter la commande",
+      "Confirmez l’appareil, le délai et la demande du client."
+     ],
+     [
+      "Démonter dans l’ordre",
+      "Disposez les pièces en séquence pour faciliter le remontage."
+     ],
+     [
+      "Inspecter chaque pièce",
+      "Notez si elle est propre, sale, cassée ou absente."
+     ],
+     [
+      "Nettoyer ou remplacer",
+      "Nettoyez le sale et ne remplacez que le cassé ou l’absent."
+     ],
+     [
+      "Remonter et vérifier",
+      "Suivez l’ordre noté, contrôlez, puis livrez."
+     ]
+    ],
+    "privacyBody": "<p>Ce site laisse l’analyse et la publicité facultatives désactivées jusqu’à votre choix dans les réglages de confidentialité.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Mesure d’audience</h2><p>Si vous l’activez, Google Analytics 4 (GA4) mesure pages vues, provenance, appareil/navigateur et région approximative, et peut utiliser des cookies ou identifiants similaires à cette fin.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicité</h2><p>Si vous l’activez, Adsterra est chargé depuis effectivecpmnetwork.com. Ce fournisseur peut traiter adresse IP, appareil/navigateur, URL, référent, interactions publicitaires et cookies ou identifiants similaires pour diffuser et mesurer la publicité. Les métadonnées de validation Google AdSense et ads.txt sont configurées, mais la diffusion AdSense est désactivée et aucun script de diffusion n’est chargé.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Vos choix</h2><p>Vous pouvez accepter, refuser ou gérer séparément les deux finalités. Rouvrez les réglages sur toute page pour retirer votre consentement ; cela empêche de nouveaux chargements facultatifs lors des pages suivantes. Les données déjà transmises ne peuvent pas être rappelées.</p>",
     "contactBody": "<p>Questions, corrections ou guides manquants ? Écrivez-nous à <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Nous lisons chaque message et mettons à jour les guides au fil de nos vérifications.</p>",
     "privacyMetaDescription": "Confidentialité : GA4, Google AdSense via pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, cookies et données réseau/appareil.",
     "devicesTitle": "Fiches appareils",
@@ -577,7 +799,44 @@
     "zenTotal": "Aktuelle Summe",
     "zenTarget": "Erfordert >100",
     "zenReset": "Prüfen",
-    "privacyBody": "<p>Diese Guide-Seite lädt Google Analytics 4 (GA4) sowie eine Adsterra-Werbeintegration von effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analyse</h2><p>GA4 misst unter anderem Seitenaufrufe, Herkunft, Geräte- und Browserinformationen sowie die ungefähre Region. Google kann Cookies oder ähnliche Kennungen verwenden, um Browser zu unterscheiden. Einzelheiten stehen in Googles Datenschutzeinstellungen und Richtlinien.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Werbung</h2><p>Die Seite lädt Google AdSense-Werbung von pagead2.googlesyndication.com. Google kann gemäß seinen Datenschutzregeln für Werbung Cookies oder ähnliche Kennungen, IP-Adresse, Browser-/Gerätedaten, Seiten-URL und Anzeigeninteraktionen verarbeiten. Das Werbeskript von effectivecpmnetwork.com stammt von einem Drittanbieter. Beim Laden kann dieser gemäß eigener Richtlinie Netzwerk- und Gerätedaten wie IP-Adresse, Browserinformationen, Seiten-URL, Referrer sowie Cookies oder ähnliche Kennungen verarbeiten. Wir kontrollieren diese Datenerhebung des Drittanbieters nicht.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Ihre Wahl</h2><p>Sie können Cookies und andere Websitedaten im Browser blockieren oder löschen, Inhaltsblocker verwenden oder die Seite vor dem Laden von Drittskripten verlassen. Dadurch können Analyse oder Werbeanzeige verändert werden.</p>",
+    "consent": {
+     "settings": "Datenschutzeinstellungen",
+     "title": "Datenschutzauswahl",
+     "intro": "Optionale Analyse und Werbung bleiben bis zu Ihrer Auswahl deaktiviert.",
+     "analytics": "Analyse (Google Analytics 4)",
+     "analyticsHelp": "Misst Seitenaufrufe, Herkunft, Geräte-/Browserdaten und die ungefähre Region.",
+     "ads": "Werbung (Adsterra)",
+     "adsHelp": "Lädt die effectivecpmnetwork.com-Integration; sie kann IP-Adresse, Geräte-/Browserdaten, Seiten-URL, Referrer und Cookies oder ähnliche Kennungen erhalten.",
+     "accept": "Optionale Dienste akzeptieren",
+     "reject": "Optionale Dienste ablehnen",
+     "manage": "Auswahl verwalten",
+     "save": "Auswahl speichern",
+     "withdraw": "Einwilligung widerrufen",
+     "close": "Schließen"
+    },
+    "repairSteps": [
+     [
+      "Auftrag annehmen",
+      "Gerät, Frist und Kundenwunsch bestätigen."
+     ],
+     [
+      "Geordnet zerlegen",
+      "Teile in Reihenfolge ablegen, damit der Zusammenbau klar bleibt."
+     ],
+     [
+      "Jedes Teil prüfen",
+      "Sauber, schmutzig, defekt oder fehlend notieren."
+     ],
+     [
+      "Reinigen oder ersetzen",
+      "Schmutziges reinigen, nur Defektes oder Fehlendes ersetzen."
+     ],
+     [
+      "Zusammenbauen und prüfen",
+      "Der Notiz folgen, Abschluss prüfen und dann ausliefern."
+     ]
+    ],
+    "privacyBody": "<p>Diese Guide-Seite lässt optionale Analyse und Werbung deaktiviert, bis Sie in den Datenschutzeinstellungen wählen.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analyse</h2><p>Nach Aktivierung misst Google Analytics 4 (GA4) Seitenaufrufe, Herkunft, Geräte-/Browserdaten und die ungefähre Region und kann dafür Cookies oder ähnliche Kennungen verwenden.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Werbung</h2><p>Nach Aktivierung wird Adsterra von effectivecpmnetwork.com geladen. Der Anbieter kann für Werbeauslieferung und -messung IP-Adresse, Geräte-/Browserdaten, Seiten-URL, Referrer, Anzeigeninteraktionen und Cookies oder ähnliche Kennungen verarbeiten. Google-AdSense-Prüfmetadaten und ads.txt sind konfiguriert, aber die AdSense-Auslieferung ist deaktiviert und kein Auslieferungsskript wird geladen.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Ihre Wahl</h2><p>Sie können beide optionalen Zwecke akzeptieren, ablehnen oder getrennt verwalten. Öffnen Sie die Einstellungen auf jeder Seite erneut, um zu widerrufen; dadurch werden auf folgenden Seiten keine optionalen Anbieter neu geladen. Bereits übertragene Daten lassen sich nicht zurückrufen.</p>",
     "contactBody": "<p>Fragen, Korrekturen oder fehlende Guides? Schreiben Sie uns an <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Wir lesen jede Nachricht und aktualisieren Guides, sobald wir Details verifizieren.</p>",
     "privacyMetaDescription": "Datenschutz: GA4, Google AdSense über pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, Cookies und Netzwerk-/Gerätedaten.",
     "devicesTitle": "Geräteprofile",
@@ -659,7 +918,44 @@
     "zenTotal": "Total actual",
     "zenTarget": "Requiere >100",
     "zenReset": "Comprobar",
-    "privacyBody": "<p>Este sitio de guías carga Google Analytics 4 (GA4) y una integración publicitaria de Adsterra servida desde effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analítica</h2><p>GA4 mide actividad como páginas vistas, procedencia, información del dispositivo y navegador, y región aproximada. Google puede usar cookies o identificadores similares para distinguir navegadores. Consulta los controles y políticas de privacidad de Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicidad</h2><p>El sitio carga publicidad de Google AdSense desde pagead2.googlesyndication.com. Google puede tratar cookies o identificadores similares, dirección IP, datos del navegador/dispositivo, URL de la página e interacciones publicitarias según sus políticas de privacidad publicitaria. El script publicitario de effectivecpmnetwork.com pertenece a un tercero. Al cargarse, ese proveedor puede tratar, según su política, datos de red y dispositivo como dirección IP, navegador, URL de la página, referente y cookies o identificadores similares. No controlamos esa recopilación de terceros.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Tus opciones</h2><p>Puedes bloquear o borrar cookies y otros datos del sitio en el navegador, usar controles de bloqueo de contenido o salir antes de que carguen los scripts de terceros. Esto puede cambiar la analítica o la presentación de anuncios.</p>",
+    "consent": {
+     "settings": "Ajustes de privacidad",
+     "title": "Opciones de privacidad",
+     "intro": "La analítica y la publicidad opcionales permanecen desactivadas hasta que elijas.",
+     "analytics": "Analítica (Google Analytics 4)",
+     "analyticsHelp": "Mide páginas vistas, procedencia, dispositivo/navegador y región aproximada.",
+     "ads": "Publicidad (Adsterra)",
+     "adsHelp": "Carga la integración de effectivecpmnetwork.com, que puede recibir dirección IP, dispositivo/navegador, URL, referente y cookies o identificadores similares.",
+     "accept": "Aceptar servicios opcionales",
+     "reject": "Rechazar servicios opcionales",
+     "manage": "Gestionar opciones",
+     "save": "Guardar opciones",
+     "withdraw": "Retirar consentimiento",
+     "close": "Cerrar"
+    },
+    "repairSteps": [
+     [
+      "Aceptar el encargo",
+      "Confirma el dispositivo, el plazo y la petición del cliente."
+     ],
+     [
+      "Desmontar en orden",
+      "Coloca las piezas en secuencia para poder montar bien."
+     ],
+     [
+      "Inspeccionar cada pieza",
+      "Anota si está limpia, sucia, rota o ausente."
+     ],
+     [
+      "Limpiar o reemplazar",
+      "Limpia lo sucio y reemplaza solo lo roto o ausente."
+     ],
+     [
+      "Montar y comprobar",
+      "Sigue el orden anotado, verifica y entrega."
+     ]
+    ],
+    "privacyBody": "<p>Este sitio mantiene desactivadas la analítica y la publicidad opcionales hasta que elijas en los ajustes de privacidad.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Analítica</h2><p>Si la activas, Google Analytics 4 (GA4) mide páginas vistas, procedencia, dispositivo/navegador y región aproximada, y puede usar cookies o identificadores similares para ello.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicidad</h2><p>Si la activas, Adsterra se carga desde effectivecpmnetwork.com. Ese proveedor puede tratar dirección IP, dispositivo/navegador, URL, referente, interacciones publicitarias y cookies o identificadores similares para servir y medir anuncios. Los metadatos de verificación de Google AdSense y ads.txt están configurados, pero la publicación de AdSense está desactivada y no se carga su script.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Tus opciones</h2><p>Puedes aceptar, rechazar o gestionar por separado ambas finalidades. Reabre los ajustes en cualquier página para retirar el consentimiento; así no se cargarán nuevos proveedores opcionales en páginas posteriores. Los datos ya transmitidos no pueden recuperarse.</p>",
     "contactBody": "<p>¿Preguntas, correcciones o guías que faltan? Escríbenos a <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Leemos cada mensaje y actualizamos las guías a medida que verificamos detalles.</p>",
     "privacyMetaDescription": "Privacidad: GA4, Google AdSense mediante pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, cookies y datos de red/dispositivo.",
     "devicesTitle": "Fichas de dispositivos",
@@ -741,7 +1037,44 @@
     "zenTotal": "Total atual",
     "zenTarget": "Exige >100",
     "zenReset": "Verificar",
-    "privacyBody": "<p>Este site de guias carrega o Google Analytics 4 (GA4) e uma integração de anúncios da Adsterra fornecida por effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Análise</h2><p>O GA4 mede atividades como visualizações de página, origem, informações do aparelho e navegador e região aproximada. O Google pode usar cookies ou identificadores semelhantes para distinguir navegadores. Consulte os controles e as políticas de privacidade do Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicidade</h2><p>O site carrega anúncios do Google AdSense de pagead2.googlesyndication.com. O Google pode processar cookies ou identificadores semelhantes, endereço IP, dados do navegador/aparelho, URL da página e interações com anúncios conforme suas políticas de privacidade de publicidade. O script de anúncios de effectivecpmnetwork.com é fornecido por terceiros. Ao carregar, esse fornecedor pode processar, conforme sua própria política, dados de rede e aparelho como endereço IP, informações do navegador, URL da página, referenciador e cookies ou identificadores semelhantes. Não controlamos essa coleta de terceiros.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Suas escolhas</h2><p>Você pode bloquear ou limpar cookies e outros dados do site no navegador, usar bloqueadores de conteúdo ou sair antes que scripts de terceiros carreguem. Isso pode alterar a análise ou a exibição de anúncios.</p>",
+    "consent": {
+     "settings": "Configurações de privacidade",
+     "title": "Escolhas de privacidade",
+     "intro": "Análise e publicidade opcionais ficam desligadas até você escolher.",
+     "analytics": "Análise (Google Analytics 4)",
+     "analyticsHelp": "Mede visualizações, origem, aparelho/navegador e região aproximada.",
+     "ads": "Publicidade (Adsterra)",
+     "adsHelp": "Carrega a integração effectivecpmnetwork.com, que pode receber endereço IP, aparelho/navegador, URL, referenciador e cookies ou identificadores semelhantes.",
+     "accept": "Aceitar serviços opcionais",
+     "reject": "Recusar serviços opcionais",
+     "manage": "Gerenciar escolhas",
+     "save": "Salvar escolhas",
+     "withdraw": "Retirar consentimento",
+     "close": "Fechar"
+    },
+    "repairSteps": [
+     [
+      "Aceitar o serviço",
+      "Confirme o aparelho, o prazo e o pedido do cliente."
+     ],
+     [
+      "Desmontar em ordem",
+      "Organize as peças em sequência para remontar corretamente."
+     ],
+     [
+      "Inspecionar cada peça",
+      "Registre se está limpa, suja, quebrada ou ausente."
+     ],
+     [
+      "Limpar ou substituir",
+      "Limpe o que estiver sujo e troque apenas o quebrado ou ausente."
+     ],
+     [
+      "Remontar e verificar",
+      "Siga a ordem registrada, confira e entregue."
+     ]
+    ],
+    "privacyBody": "<p>Este site mantém análise e publicidade opcionais desligadas até você escolher nas configurações de privacidade.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Análise</h2><p>Se ativado, o Google Analytics 4 (GA4) mede visualizações, origem, aparelho/navegador e região aproximada e pode usar cookies ou identificadores semelhantes para isso.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Publicidade</h2><p>Se ativado, o Adsterra é carregado de effectivecpmnetwork.com. Esse fornecedor pode processar endereço IP, aparelho/navegador, URL, referenciador, interações com anúncios e cookies ou identificadores semelhantes para veicular e medir publicidade. Metadados de verificação do Google AdSense e ads.txt estão configurados, mas a veiculação do AdSense está desativada e seu script não é carregado.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Suas escolhas</h2><p>Você pode aceitar, recusar ou gerenciar separadamente as duas finalidades. Reabra as configurações em qualquer página para retirar o consentimento; isso impede novos carregamentos opcionais nas páginas seguintes. Dados já transmitidos não podem ser recuperados.</p>",
     "contactBody": "<p>Perguntas, correções ou guias faltando? Envie um e-mail para <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Lemos cada mensagem e atualizamos os guias conforme verificamos detalhes.</p>",
     "privacyMetaDescription": "Privacidade: GA4, Google AdSense via pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, cookies e dados de rede/aparelho.",
     "devicesTitle": "Perfis de aparelhos",
@@ -823,7 +1156,44 @@
     "zenTotal": "Текущая сумма",
     "zenTarget": "Нужно >100",
     "zenReset": "Проверить",
-    "privacyBody": "<p>Этот сайт с гайдами загружает Google Analytics 4 (GA4) и рекламную интеграцию Adsterra с домена effectivecpmnetwork.com.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Аналитика</h2><p>GA4 измеряет просмотры страниц, источники переходов, сведения об устройстве и браузере и примерный регион. Google может использовать cookie или похожие идентификаторы, чтобы различать браузеры. Подробности приведены в настройках и правилах конфиденциальности Google.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Реклама</h2><p>Сайт загружает рекламу Google AdSense с pagead2.googlesyndication.com. Google может по своим правилам конфиденциальности рекламы обрабатывать cookie или похожие идентификаторы, IP-адрес, сведения о браузере/устройстве, URL страницы и взаимодействия с рекламой. Рекламный скрипт effectivecpmnetwork.com предоставлен третьей стороной. При загрузке этот поставщик может по своей политике обрабатывать сетевые данные и сведения об устройстве, включая IP-адрес, браузер, URL страницы, источник перехода, cookie или похожие идентификаторы. Мы не контролируем сбор данных этой третьей стороной.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Ваш выбор</h2><p>Можно блокировать или удалять cookie и другие данные сайта в браузере, использовать блокировщик контента или уйти до загрузки сторонних скриптов. Это может изменить аналитику или показ рекламы.</p>",
+    "consent": {
+     "settings": "Настройки конфиденциальности",
+     "title": "Выбор конфиденциальности",
+     "intro": "Необязательные аналитика и реклама отключены, пока вы не сделаете выбор.",
+     "analytics": "Аналитика (Google Analytics 4)",
+     "analyticsHelp": "Измеряет просмотры, источники переходов, сведения об устройстве/браузере и примерный регион.",
+     "ads": "Реклама (Adsterra)",
+     "adsHelp": "Загружает интеграцию effectivecpmnetwork.com, которая может получить IP-адрес, сведения об устройстве/браузере, URL, источник перехода и cookie или похожие идентификаторы.",
+     "accept": "Разрешить необязательные сервисы",
+     "reject": "Отклонить необязательные сервисы",
+     "manage": "Управлять выбором",
+     "save": "Сохранить выбор",
+     "withdraw": "Отозвать согласие",
+     "close": "Закрыть"
+    },
+    "repairSteps": [
+     [
+      "Принять заказ",
+      "Уточните устройство, срок и просьбу клиента."
+     ],
+     [
+      "Разобрать по порядку",
+      "Раскладывайте детали последовательно для правильной сборки."
+     ],
+     [
+      "Проверить каждую деталь",
+      "Отметьте: чистая, грязная, сломанная или отсутствует."
+     ],
+     [
+      "Очистить или заменить",
+      "Очистите грязное, заменяйте только сломанное или отсутствующее."
+     ],
+     [
+      "Собрать и проверить",
+      "Следуйте записи, проверьте результат и сдайте заказ."
+     ]
+    ],
+    "privacyBody": "<p>Этот сайт оставляет необязательные аналитику и рекламу отключёнными, пока вы не выберете их в настройках конфиденциальности.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Аналитика</h2><p>После включения Google Analytics 4 (GA4) измеряет просмотры, источники переходов, сведения об устройстве/браузере и примерный регион и может использовать для этого cookie или похожие идентификаторы.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Реклама</h2><p>После включения Adsterra загружается с effectivecpmnetwork.com. Поставщик может для показа и измерения рекламы обрабатывать IP-адрес, сведения об устройстве/браузере, URL, источник перехода, взаимодействия с рекламой и cookie или похожие идентификаторы. Метаданные проверки Google AdSense и ads.txt настроены, но показ AdSense отключён и скрипт показа не загружается.</p><h2 style=\"font-size:1.05rem;margin:18px 0 8px\">Ваш выбор</h2><p>Можно разрешить, отклонить или раздельно настроить обе цели. На любой странице настройки можно открыть снова и отозвать согласие; после этого на следующих страницах необязательные поставщики не загружаются заново. Уже переданные данные вернуть нельзя.</p>",
     "contactBody": "<p>Вопросы, правки или недостающие гайды? Напишите нам на <a href=\"mailto:contact@restorygameguides.com\">contact@restorygameguides.com</a>. Мы читаем каждое сообщение и обновляем гайды по мере проверки деталей.</p>",
     "privacyMetaDescription": "Конфиденциальность: GA4, Google AdSense через pagead2.googlesyndication.com, Adsterra/effectivecpmnetwork, cookie и сетевые данные/устройство.",
     "devicesTitle": "Профили устройств",
@@ -30241,6 +30611,22 @@
    ],
    "sources": [
     {
+     "label": "Official Steam announcements",
+     "url": "https://steamcommunity.com/app/3812600/allnews/",
+     "labels": {
+      "en": "Official Steam announcements",
+      "zh-CN": "Steam 官方公告",
+      "ja": "Steam 公式アナウンス",
+      "ko": "Steam 공식 공지",
+      "fr": "Annonces Steam officielles",
+      "de": "Offizielle Steam-Ankündigungen",
+      "es": "Anuncios oficiales de Steam",
+      "pt-BR": "Anúncios oficiais da Steam",
+      "ru": "Официальные объявления Steam",
+      "zh-TW": "Steam 官方公告"
+     }
+    },
+    {
      "label": "Official Steam page",
      "url": "https://store.steampowered.com/app/3812600/ReStory_Chill_Electronics_Repairs/",
      "labels": {
@@ -30284,6 +30670,10 @@
          "First update is live (v1.0.009r): fixed 'How Did I Do It' / 'Frugal' / 'Platinum partner' achievement unlocks, the Guitar Legend & MyPod firmware-update bug, using inventory in competition mode, IDM device disassembly, the mail-tab indicator, UltraWide disassembly, gadgets stuck in the sonic bath, and Eggotchi / Goman / Brick Game bugs (official patch notes)."
         ],
         [
+         "Aug 13, 2026",
+         "Update #2 (v1.0.010r): fixed long saves and possible save-time crashes, a blocker caused by missing screws in a device, and a minor issue with Robby's wires (official Steam announcement)."
+        ],
+        [
          "TBD",
          "DLC (app 5034500) — content being verified."
         ]
@@ -30317,11 +30707,11 @@
         ],
         [
          "Is there a Day-One patch?",
-         "Being verified — we track official announcements only."
+         "Yes. Official updates v1.0.009r and v1.0.010r are listed above."
         ],
         [
          "Does the bugged achievement get fixed?",
-         "Unknown — we will update this page when the developer announces a fix."
+         "Use the official entries above for announced fixes; unannounced achievement changes remain unknown."
         ]
        ]
       },
@@ -30359,6 +30749,10 @@
          "首个更新已发布（v1.0.009r）：修复“How Did I Do It”“Frugal”“Platinum partner”成就提前解锁、Guitar Legend 与 MyPod 固件更新 bug、比赛模式无法使用背包、IDM device 拆卸错误、邮件标签不提示新邮件、UltraWide 屏幕拆卸问题、部分 gadget 卡在声波浴，以及 Eggotchi/Goman/Brick Game 的 bug（官方补丁说明）。"
         ],
         [
+         "2026-08-13",
+         "第二次更新（v1.0.010r）：修复保存时间过长及可能在保存时崩溃、设备缺少螺丝造成的阻断，以及 Robby 电线的小问题（Steam 官方公告）。"
+        ],
+        [
          "待定",
          "DLC（app 5034500）——内容核实中。"
         ]
@@ -30392,11 +30786,11 @@
         ],
         [
          "有首发补丁吗？",
-         "核实中——我们只追踪官方公告。"
+         "有。官方更新 v1.0.009r 与 v1.0.010r 已列在上方。"
         ],
         [
          "有 bug 的成就会修吗？",
-         "未知——开发者公告修复后我们会更新本页。"
+         "请以上方官方条目判断已公布的修复；未公告的成就变更仍属未知。"
         ]
        ]
       },
@@ -30434,6 +30828,10 @@
          "初回アップデート配信（v1.0.009r）：「How Did I Do It」「Frugal」「Platinum partner」実績の早期解除、Guitar Legend と MyPod のファームウェア更新バグ、大会モードでインベントリを使えない問題、IDM device の分解エラー、メールタブの新着表示、UltraWide 画面での分解、ソニックバスに詰まるガジェット、Eggotchi/Goman/Brick Game のバグを修正（公式パッチノート）。"
         ],
         [
+         "2026年8月13日",
+         "アップデート第2弾（v1.0.010r）：セーブ時間の長期化とセーブ時にクラッシュする可能性、デバイス内のネジ欠落による進行不能、Robby の配線に関する軽微な問題を修正（Steam公式発表）。"
+        ],
+        [
          "TBD",
          "DLC（app 5034500）——内容は検証中。"
         ]
@@ -30467,11 +30865,11 @@
         ],
         [
          "デイワンパッチはある？",
-         "検証中——公式アナウンスのみを追跡しています。"
+         "はい。公式アップデート v1.0.009r と v1.0.010r を上に掲載しています。"
         ],
         [
          "バグのある実績は修正される？",
-         "不明——開発者が修正を発表したらこのページを更新します。"
+         "発表済みの修正は上の公式項目を参照してください。未発表の実績変更は不明です。"
         ]
        ]
       },
@@ -30509,6 +30907,10 @@
          "첫 업데이트 출시(v1.0.009r): 'How Did I Do It' / 'Frugal' / 'Platinum partner' 업적 조기 해금, Guitar Legend·MyPod 펌웨어 업데이트 버그, 경쟁 모드에서 인벤토리 사용 불가, IDM device 분해 오류, 메일 탭 새 메일 표시, 울트라와이드 화면 분해, 소닉 배스에 걸리는 가젯, Eggotchi/Goman/Brick Game 버그 수정(공식 패치 노트)."
         ],
         [
+         "2026년 8월 13일",
+         "두 번째 업데이트(v1.0.010r): 저장 시간이 길어지거나 저장 중 충돌할 수 있는 문제, 기기에서 나사가 사라져 진행이 막히는 문제, Robby 전선의 사소한 문제를 수정했습니다(Steam 공식 공지)."
+        ],
+        [
          "TBD",
          "DLC(app 5034500) — 콘텐츠 확인 중."
         ]
@@ -30542,11 +30944,11 @@
         ],
         [
          "데이원 패치가 있나요?",
-         "확인 중 — 공식 공지만 추적합니다."
+         "있습니다. 공식 업데이트 v1.0.009r과 v1.0.010r이 위에 정리되어 있습니다."
         ],
         [
          "버그가 있는 업적이 수정되나요?",
-         "알 수 없습니다 — 개발자가 수정을 발표하면 이 페이지를 업데이트하겠습니다."
+         "발표된 수정은 위 공식 항목을 확인하세요. 공지되지 않은 업적 변경은 아직 알 수 없습니다."
         ]
        ]
       },
@@ -30584,6 +30986,10 @@
          "Première mise à jour disponible (v1.0.009r) : déblocages de succès précoces 'How Did I Do It' / 'Frugal' / 'Platinum partner', bug de mise à jour du firmware Guitar Legend & MyPod, inventaire en mode compétition, démontage de l'IDM device, indicateur d'e-mails, démontage en UltraWide, gadgets bloqués dans le bain à ultrasons, et bugs Eggotchi / Goman / Brick Game (notes officielles)."
         ],
         [
+         "13 août 2026",
+         "Mise à jour n°2 (v1.0.010r) : correction des sauvegardes longues et d'un possible plantage pendant la sauvegarde, d'un blocage dû à des vis manquantes dans un appareil et d'un problème mineur avec les fils de Robby (annonce Steam officielle)."
+        ],
+        [
          "À déterminer",
          "DLC (app 5034500) — contenu en cours de vérification."
         ]
@@ -30617,11 +31023,11 @@
         ],
         [
          "Y a-t-il un patch day one ?",
-         "En cours de vérification — nous ne suivons que les annonces officielles."
+         "Oui. Les mises à jour officielles v1.0.009r et v1.0.010r figurent ci-dessus."
         ],
         [
          "Le succès bugué sera-t-il corrigé ?",
-         "Inconnu — nous mettrons à jour cette page quand le développeur annoncera un correctif."
+         "Consultez les entrées officielles ci-dessus pour les correctifs annoncés ; les changements de succès non annoncés restent inconnus."
         ]
        ]
       },
@@ -30659,6 +31065,10 @@
          "Erstes Update ist live (v1.0.009r): vorzeitige Erfolgs-Freischaltungen 'How Did I Do It' / 'Frugal' / 'Platinum partner', Firmware-Update-Bug bei Guitar Legend & MyPod, Inventar im Wettkampfmodus, IDM-Gerät-Disassemblierung, E-Mail-Reiter-Anzeige, UltraWide-Disassemblierung, in der Sonic-Bad steckende Gadgets sowie Eggotchi / Goman / Brick-Game-Bugs (offizielle Patch-Notizen)."
         ],
         [
+         "13. August 2026",
+         "Update Nr. 2 (v1.0.010r): lange Speichervorgänge und mögliche Abstürze beim Speichern, einen Blocker durch fehlende Schrauben in einem Gerät sowie ein kleines Problem mit Robbys Kabeln behoben (offizielle Steam-Ankündigung)."
+        ],
+        [
          "TBD",
          "DLC (App 5034500) — Inhalt wird geprüft."
         ]
@@ -30692,11 +31102,11 @@
         ],
         [
          "Gibt es einen Day-One-Patch?",
-         "Wird geprüft — wir verfolgen nur offizielle Ankündigungen."
+         "Ja. Die offiziellen Updates v1.0.009r und v1.0.010r stehen oben."
         ],
         [
          "Wird die fehlerhafte Errungenschaft behoben?",
-         "Unbekannt — wir aktualisieren diese Seite, sobald der Entwickler einen Fix ankündigt."
+         "Für angekündigte Fixes gelten die offiziellen Einträge oben; nicht angekündigte Erfolgsänderungen bleiben unbekannt."
         ]
        ]
       },
@@ -30734,6 +31144,10 @@
          "Primera actualización disponible (v1.0.009r): desbloqueos tempranos de logros 'How Did I Do It' / 'Frugal' / 'Platinum partner', error de firmware de Guitar Legend y MyPod, inventario en modo competición, desmontaje del dispositivo IDM, indicador de correos, desmontaje en UltraWide, gadgets atascados en el baño sónico y errores de Eggotchi / Goman / Brick Game (notas oficiales)."
         ],
         [
+         "13 de agosto de 2026",
+         "Actualización n.º 2 (v1.0.010r): corregidos los guardados largos y un posible cierre al guardar, un bloqueo por tornillos ausentes en un dispositivo y un problema menor con los cables de Robby (anuncio oficial de Steam)."
+        ],
+        [
          "Por determinar",
          "DLC (app 5034500): contenido en verificación."
         ]
@@ -30767,11 +31181,11 @@
         ],
         [
          "¿Hay un parche del primer día?",
-         "En verificación: solo seguimos anuncios oficiales."
+         "Sí. Las actualizaciones oficiales v1.0.009r y v1.0.010r aparecen arriba."
         ],
         [
          "¿Se arregla el logro con errores?",
-         "Se desconoce: actualizaremos esta página cuando el desarrollador anuncie una corrección."
+         "Consulta arriba las correcciones anunciadas oficialmente; los cambios de logros no anunciados siguen sin conocerse."
         ]
        ]
       },
@@ -30809,6 +31223,10 @@
          "Primeira atualização disponível (v1.0.009r): desbloqueios antecipados das conquistas 'How Did I Do It' / 'Frugal' / 'Platinum partner', bug de firmware do Guitar Legend e MyPod, inventário no modo competição, desmontagem do dispositivo IDM, indicador de e-mails, desmontagem em UltraWide, gadgets presos no banho sônico e bugs de Eggotchi / Goman / Brick Game (notas oficiais)."
         ],
         [
+         "13 de agosto de 2026",
+         "Atualização nº 2 (v1.0.010r): corrigidos salvamentos demorados e possível travamento ao salvar, um bloqueio por parafusos ausentes em um aparelho e um problema menor com os fios do Robby (anúncio oficial da Steam)."
+        ],
+        [
          "A definir",
          "DLC (app 5034500) — conteúdo em verificação."
         ]
@@ -30842,11 +31260,11 @@
         ],
         [
          "Existe um patch de Day One?",
-         "Em verificação — acompanhamos apenas anúncios oficiais."
+         "Sim. As atualizações oficiais v1.0.009r e v1.0.010r estão listadas acima."
         ],
         [
          "A conquista com bug será corrigida?",
-         "Desconhecido — atualizaremos esta página quando o desenvolvedor anunciar uma correção."
+         "Use as entradas oficiais acima para correções anunciadas; mudanças de conquistas não anunciadas continuam desconhecidas."
         ]
        ]
       },
@@ -30884,6 +31302,10 @@
          "Первое обновление вышло (v1.0.009r): раннее открытие достижений 'How Did I Do It' / 'Frugal' / 'Platinum partner', баг обновления прошивки Guitar Legend и MyPod, инвентарь в режиме соревнования, разборка устройства IDM, индикатор писем, разборка на UltraWide, гаджеты, застревающие в звуковой ванне, и баги Eggotchi / Goman / Brick Game (официальные примечания)."
         ],
         [
+         "13 авг 2026",
+         "Обновление №2 (v1.0.010r): исправлены долгое сохранение и возможный сбой при сохранении, блокировка из-за отсутствующих винтов в устройстве и небольшая проблема с проводами Robby (официальное объявление Steam)."
+        ],
+        [
          "TBD",
          "DLC (app 5034500) — контент проверяется."
         ]
@@ -30917,11 +31339,11 @@
         ],
         [
          "Есть ли патч первого дня?",
-         "Проверяется — отслеживаем только официальные анонсы."
+         "Да. Официальные обновления v1.0.009r и v1.0.010r перечислены выше."
         ],
         [
          "Починят ли достижение с багом?",
-         "Неизвестно — обновим страницу, когда разработчик объявит исправление."
+         "Об объявленных исправлениях смотрите официальные пункты выше; неанонсированные изменения достижений остаются неизвестными."
         ]
        ]
       },
@@ -30959,6 +31381,10 @@
          "首個更新已發佈（v1.0.009r）：修復“How Did I Do It”“Frugal”“Platinum partner”成就提前解鎖、Guitar Legend 與 MyPod 固件更新 bug、比賽模式無法使用揹包、IDM device 拆卸錯誤、郵件標籤不提示新郵件、UltraWide 屏幕拆卸問題、部分 gadget 卡在聲波浴，以及 Eggotchi/Goman/Brick Game 的 bug（官方補丁說明）。"
         ],
         [
+         "2026-08-13",
+         "第二次更新（v1.0.010r）：修復儲存時間過長及可能在儲存時當機、裝置缺少螺絲造成的阻斷，以及 Robby 電線的小問題（Steam 官方公告）。"
+        ],
+        [
          "待定",
          "DLC（app 5034500）——內容核實中。"
         ]
@@ -30992,11 +31418,11 @@
         ],
         [
          "有首發補丁嗎？",
-         "核實中——我們只追蹤官方公告。"
+         "有。官方更新 v1.0.009r 與 v1.0.010r 已列在上方。"
         ],
         [
          "有 bug 的成就會修嗎？",
-         "未知——開發者公告修復後我們會更新本頁。"
+         "請以上方官方條目判斷已公布的修復；未公告的成就變更仍屬未知。"
         ]
        ]
       },

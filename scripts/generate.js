@@ -21,16 +21,9 @@ const ADSENSE_PUBLISHER_ID = /^pub-\d+$/.test(String(DATA.site.adsenseId || "").
   ? String(DATA.site.adsenseId).trim()
   : "";
 const ADSENSE_CLIENT_ID = ADSENSE_PUBLISHER_ID ? `ca-${ADSENSE_PUBLISHER_ID}` : "";
-const ADSENSE_SERVING_ENABLED = Boolean(
-  ADSENSE_CLIENT_ID && (
-    ADSENSE_FIXTURE_ENABLED || (
-      DATA.site.adsenseServing &&
-      DATA.site.adsenseServing.enabled === true &&
-      DATA.site.adsenseServing.providerReady === true &&
-      DATA.site.adsenseServing.certifiedCmpReady === true
-    )
-  )
-);
+// Verification metadata is allowed, but this remediation deliberately keeps
+// AdSense serving fail-closed in every environment, including test fixtures.
+const ADSENSE_SERVING_ENABLED = false;
 const adsenseMeta = () => ADSENSE_CLIENT_ID
   ? `<meta name="google-adsense-account" content="${esc(ADSENSE_CLIENT_ID)}" />`
   : "";
@@ -149,8 +142,6 @@ function gameLd(){
 function head(title, desc, extraLd, slug, lang, ogImage){
   const ld = JSON.stringify([siteLd(lang)].concat(extraLd || []));
     const gsc = DATA.site.gscVerification ? `<meta name="google-site-verification" content="${esc(DATA.site.gscVerification)}" />` : "";
-  const gaTag = DATA.site.gaId ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(DATA.site.gaId)}"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${esc(DATA.site.gaId)}');</script>` : "";
   const og = ogImage || DATA.site.ogImage;
   return `<!doctype html>
 <html lang="${LANG_META[lang].html}"><head>
@@ -174,7 +165,6 @@ ${adsenseMeta()}
 <link rel="stylesheet" href="/css/style.css?v=${CSS_V}">
 ${slug === "index" ? KIT.heroPreload({ srcset: HERO_SET, sizes: "100vw" }) : ""}
 <script type="application/ld+json">${ld}</script>
-${gaTag}
 </head>`;
 }
 
@@ -191,7 +181,7 @@ function header(lang, activeSlug){
   const group3 = ["endings","customers","steam-deck","system-requirements","faq","patch-notes"];
   // Keep dropdowns closed on page load. Auto-opening the active group covers
   // most of the first mobile viewport and delays access to the actual answer.
-  const dd = (label, key, slugs) => `<details class="dd"><summary>${esc(label)}</summary><div class="dd-menu">${slugs.map(navLink).join("")}</div></details>`;
+  const dd = (label, key, slugs) => `<details class="dd"><summary aria-haspopup="true">${esc(label)}</summary><div class="dd-menu">${slugs.map(navLink).join("")}</div></details>`;
   const langItems = LANGS.map(l=>{
     const cur = l===lang;
     return `<a class="lang-item${cur?" on":""}" href="${urlOf(activeSlug && activeSlug!=="index" ? activeSlug : "index", l)}"><span class="lang-flag">${FLAGS[l]||""}</span><span>${LANG_META[l].name}</span>${cur?'<span class="lang-cur">✓</span>':""}</a>`;
@@ -204,9 +194,66 @@ function header(lang, activeSlug){
       ${dd(s.navGroup2,"g2",group2)}
       ${dd(s.navGroup3,"g3",group3)}
     </nav>
-    <details class="dd lang-dd"><summary><span class="lang-flag">${FLAGS[lang]||""}</span><span class="lang-cur-name">${LANG_META[lang].name}</span></summary><div class="dd-menu lang-menu">${langItems}</div></details>
+    <details class="dd lang-dd"><summary aria-haspopup="true"><span class="lang-flag">${FLAGS[lang]||""}</span><span class="lang-cur-name">${LANG_META[lang].name}</span></summary><div class="dd-menu lang-menu">${langItems}</div></details>
   </div>
 </header>`;
+}
+function consentUi(lang){
+  const t = siteI18n(lang).consent || siteI18n(DEF).consent;
+  const ad = String(DATA.site.adsterra || "");
+  const adSrc = (ad.match(/src="([^"]*effectivecpmnetwork\.com[^"]*)"/) || [])[1] || "";
+  const adContainer = (ad.match(/id="(container-[^"]+)"/) || [])[1] || "";
+  const cfg = JSON.stringify({gaId: DATA.site.gaId || "", adSrc, adContainer});
+  return `<button type="button" class="privacy-settings" data-consent-settings>${esc(t.settings)}</button>
+  <dialog class="consent-dialog" data-consent-dialog aria-labelledby="consent-title">
+    <div class="consent-card">
+      <button type="button" class="consent-close" data-consent-close aria-label="${esc(t.close)}">×</button>
+      <h2 id="consent-title" tabindex="-1">${esc(t.title)}</h2><p>${esc(t.intro)}</p>
+      <div class="consent-summary"><b>${esc(t.analytics)}</b><span>${esc(t.analyticsHelp)}</span><b>${esc(t.ads)}</b><span>${esc(t.adsHelp)}</span></div>
+      <div class="consent-manage" data-consent-manage hidden>
+        <label><input type="checkbox" data-consent-analytics> <span><b>${esc(t.analytics)}</b><small>${esc(t.analyticsHelp)}</small></span></label>
+        <label><input type="checkbox" data-consent-ads> <span><b>${esc(t.ads)}</b><small>${esc(t.adsHelp)}</small></span></label>
+      </div>
+      <div class="consent-actions">
+        <button type="button" data-consent-accept>${esc(t.accept)}</button>
+        <button type="button" data-consent-reject>${esc(t.reject)}</button>
+        <button type="button" data-consent-manage-open>${esc(t.manage)}</button>
+        <button type="button" data-consent-save hidden>${esc(t.save)}</button>
+        <button type="button" data-consent-withdraw hidden>${esc(t.withdraw)}</button>
+      </div>
+    </div>
+  </dialog><div id="consent-ad-slot" aria-hidden="true"></div>
+  <script>
+  (function(){
+    var config=${cfg}, key="restory-consent-v1", dialog=document.querySelector("[data-consent-dialog]");
+    var opener=null, loaded={analytics:false,advertising:false};
+    function read(){try{var v=JSON.parse(localStorage.getItem(key)||"null");return v&&typeof v.analytics==="boolean"&&typeof v.advertising==="boolean"?v:null;}catch(_){return null;}}
+    function loadAnalytics(){if(loaded.analytics||!config.gaId)return;loaded.analytics=true;window.dataLayer=window.dataLayer||[];window.gtag=window.gtag||function(){dataLayer.push(arguments);};gtag("js",new Date());gtag("config",config.gaId);var s=document.createElement("script");s.async=true;s.src="https://www.googletagmanager.com/gtag/js?id="+encodeURIComponent(config.gaId);document.head.appendChild(s);}
+    function loadAdvertising(){if(loaded.advertising||!config.adSrc)return;loaded.advertising=true;var slot=document.getElementById("consent-ad-slot");if(config.adContainer){var d=document.createElement("div");d.id=config.adContainer;slot.appendChild(d);}var s=document.createElement("script");s.async=true;s.setAttribute("data-cfasync","false");s.src=config.adSrc;slot.appendChild(s);}
+    function apply(v){if(v&&v.analytics)loadAnalytics();if(v&&v.advertising)loadAdvertising();}
+    function close(){if(dialog.open)dialog.close();if(opener&&opener.focus)opener.focus();}
+    function open(source){opener=source||document.activeElement;var v=read(), manage=dialog.querySelector("[data-consent-manage]");dialog.querySelector("[data-consent-analytics]").checked=!!(v&&v.analytics);dialog.querySelector("[data-consent-ads]").checked=!!(v&&v.advertising);manage.hidden=true;dialog.querySelector("[data-consent-save]").hidden=true;dialog.querySelector("[data-consent-withdraw]").hidden=!v;dialog.showModal();dialog.querySelector("#consent-title").focus();}
+    function save(v){localStorage.setItem(key,JSON.stringify(v));apply(v);close();}
+    document.querySelectorAll("[data-consent-settings]").forEach(function(b){b.addEventListener("click",function(){open(b);});});
+    dialog.querySelector("[data-consent-close]").addEventListener("click",close);
+    dialog.querySelector("[data-consent-accept]").addEventListener("click",function(){save({analytics:true,advertising:true});});
+    dialog.querySelector("[data-consent-reject]").addEventListener("click",function(){save({analytics:false,advertising:false});});
+    dialog.querySelector("[data-consent-manage-open]").addEventListener("click",function(){dialog.querySelector("[data-consent-manage]").hidden=false;dialog.querySelector("[data-consent-save]").hidden=false;});
+    dialog.querySelector("[data-consent-save]").addEventListener("click",function(){save({analytics:dialog.querySelector("[data-consent-analytics]").checked,advertising:dialog.querySelector("[data-consent-ads]").checked});});
+    dialog.querySelector("[data-consent-withdraw]").addEventListener("click",function(){save({analytics:false,advertising:false});});
+    dialog.addEventListener("cancel",function(){setTimeout(function(){if(opener&&opener.focus)opener.focus();},0);});
+    var initial=read();if(initial)apply(initial);else setTimeout(function(){open(document.querySelector("[data-consent-settings]"));},0);
+  })();
+  </script>`;
+}
+function decisionEventsScript(){
+  return `<script>(function(){
+    function send(name,params){if(typeof window.gtag==="function")window.gtag("event",name,params||{});}
+    document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a[href]");if(a){try{var u=new URL(a.href,location.href);if(u.origin!==location.origin)send("outbound_click",{link_domain:u.hostname,link_url:u.origin+u.pathname,page_path:location.pathname});}catch(_){}}
+      var root=e.target.closest&&e.target.closest(".tracker,[data-tool]");var control=e.target.closest&&e.target.closest("button,[role=button]");if(root&&control)send("tool_interaction",{tool_name:root.getAttribute("data-tool")||root.id||"interactive_tool",interaction_type:control.type||control.tagName.toLowerCase(),page_path:location.pathname});
+    });
+    document.addEventListener("change",function(e){var root=e.target.closest&&e.target.closest(".tracker,[data-tool]");if(root)send("tool_interaction",{tool_name:root.getAttribute("data-tool")||root.id||"interactive_tool",interaction_type:e.target.type||e.target.tagName.toLowerCase(),page_path:location.pathname});});
+  })();</script>`;
 }
 function footer(lang){
   const s = siteI18n(lang);
@@ -222,11 +269,12 @@ function footer(lang){
 (function(){
   // 下拉菜单：点击外部收起 + Esc
   document.addEventListener("click",function(e){document.querySelectorAll("details.dd[open]").forEach(function(d){ if(!d.contains(e.target)) d.removeAttribute("open"); });});
-  document.addEventListener("keydown",function(e){ if(e.key==="Escape"){document.querySelectorAll("details.dd[open]").forEach(function(d){d.removeAttribute("open");});} });
+  document.addEventListener("keydown",function(e){ if(e.key==="Escape"){document.querySelectorAll("details.dd[open]").forEach(function(d){var s=d.querySelector("summary");d.removeAttribute("open");if(s)s.focus();});} });
+  document.querySelectorAll("details.dd").forEach(function(d){d.addEventListener("toggle",function(){if(d.open)document.querySelectorAll("details.dd[open]").forEach(function(o){if(o!==d)o.removeAttribute("open");});});});
 })();
 </script>
-${DATA.site.adsterra ? DATA.site.adsterra : ""}
-${KIT.decisionEventsScript()}
+${consentUi(lang)}
+${decisionEventsScript()}
 </body></html>`;
 }
 
@@ -267,7 +315,7 @@ function renderSection(s, lang){
         (s.rows||[]).forEach((r,i)=>{ const key=(s.rowAttrs||[])[i]?.group; if(key && !groups.has(key)) groups.set(key,r[3]); });
         const options = [...groups].map(([key,label])=>`<option value="${esc(key)}">${esc(label)}</option>`).join("");
         trackerControls = `<div class="ach-toolbar">
-          <label class="ach-search"><span class="sr-only">${esc(trackerLabels[0]||"Search achievements")}</span><input type="search" data-ach-search placeholder="${esc(trackerLabels[0]||"Search achievements…")}" autocomplete="off"></label>
+          <label class="ach-search"><span class="field-label">${esc(trackerLabels[0]||"Search achievements")}</span><input type="search" data-ach-search placeholder="${esc(trackerLabels[0]||"Search achievements…")}" autocomplete="off"></label>
           <label class="ach-group"><span class="sr-only">${esc(trackerLabels[1]||"All groups")}</span><select data-ach-group><option value="">${esc(trackerLabels[1]||"All groups")}</option>${options}</select></label>
           <label class="ach-hide"><input type="checkbox" data-ach-hide> <span>${esc(trackerLabels[2]||"Hide completed")}</span></label>
           <strong class="ach-progress" data-ach-progress aria-live="polite">0 / ${(s.rows||[]).length} ${esc(trackerLabels[3]||"completed")}</strong>
@@ -307,8 +355,10 @@ function zenCalc(lang){
 }
 function repairChecklist(lang){
   const st = siteI18n(lang);
-  const steps = [["1","accept"],["2","disassemble"],["3","inspect"],["4","clean"],["5","reassemble"]].map(([n,k])=>{
-    return `<label class="rc-item" data-rc="${k}"><input type="checkbox"><span class="rc-box"></span><span class="rc-no">${n}</span><span class="rc-tx"></span></label>`;
+  const keys = ["accept","disassemble","inspect","clean","reassemble"];
+  const copy = st.repairSteps || siteI18n(DEF).repairSteps;
+  const steps = keys.map((k,i)=>{
+    return `<label class="rc-item" data-rc="${k}"><input type="checkbox"><span class="rc-box"></span><span class="rc-no">${i+1}</span><span class="rc-tx"><b>${esc(copy[i][0])}</b><small>${esc(copy[i][1])}</small></span></label>`;
   }).join("");
   return `<section class="rc-wrap reveal" id="rc">
     <div class="panel-head"><span class="panel-tag">${esc(st.checklistTitle||"CHECKLIST")}</span><h2>${esc(st.checklistTitle||"Repair loop checklist")}</h2></div>
@@ -389,7 +439,7 @@ ${header(lang, "")}
         <h1>${esc(gname)}</h1>
         <p class="hero-lead">${esc(gintro)}</p>
         <div class="hero-cta">
-          <a class="btn btn-primary" href="${esc(DATA.game.steamUrl)}" rel="noopener sponsored">${esc(s.getOnSteam)}</a>
+          <a class="btn btn-primary" href="${esc(DATA.game.steamUrl)}" rel="noopener">${esc(s.getOnSteam)}</a>
           <a class="btn btn-ghost" href="${prefix}/beginners-guide">${esc(s.readGuide)}</a>
         </div>
       </div>
@@ -495,7 +545,7 @@ function renderPage(lang, page){
       </div>
       <aside class="bench-side reveal">
         <div class="side-block"><span class="hab-code">${esc(s.related||"RELATED")}</span>${related}</div>
-        <div class="side-block"><span class="hab-code">STEAM</span><p>${esc(gnameOf(lang))}</p><a class="btn btn-primary" href="${esc(DATA.game.steamUrl)}" target="_blank" rel="noopener sponsored">${esc(s.getOnSteam)}</a></div>
+        <div class="side-block"><span class="hab-code">STEAM</span><p>${esc(gnameOf(lang))}</p><a class="btn btn-primary" href="${esc(DATA.game.steamUrl)}" target="_blank" rel="noopener">${esc(s.getOnSteam)}</a></div>
       </aside>
     </div>
   </div>
@@ -510,15 +560,6 @@ function renderPage(lang, page){
         var label=document.querySelectorAll("#rc .panel-lead, #rc .rc-save"); void label;
         void it;
         if(saved[k]) it.classList.add("on");
-        it.addEventListener("click",function(ev){
-          // 阻止浏览器 label→input 原生激活，避免与手动 toggle 双重翻转
-          ev.preventDefault();
-          if(ev.target.tagName==="INPUT") return;
-          var c=it.querySelector("input");
-          c.checked=!c.checked;
-          it.classList.toggle("on",c.checked);
-          save();
-        });
         var inp=it.querySelector("input"); inp.addEventListener("change",function(){ it.classList.toggle("on",inp.checked); save(); });
       });
       function save(){ var o={}; items.forEach(function(it){ o[it.getAttribute("data-rc")]=it.classList.contains("on"); }); localStorage.setItem(key,JSON.stringify(o)); }
@@ -603,11 +644,7 @@ const ADSENSE_PRIVACY_META = {
   ru: "Конфиденциальность: GA4, закрытая настройка Google AdSense, Adsterra/effectivecpmnetwork, cookie и сетевые данные/устройство.",
 };
 function privacyBodyWithGates(lang, body) {
-  const marker = "effectivecpmnetwork.com";
-  const markerAt = body.lastIndexOf(marker);
-  const paragraphAt = body.lastIndexOf("<p>", markerAt);
-  if (markerAt < 0 || paragraphAt < 0) throw new Error(`Privacy advertising boundary missing for ${lang}`);
-  return body.slice(0, paragraphAt) + (ADSENSE_PRIVACY_PREFIX[lang] || ADSENSE_PRIVACY_PREFIX.en) + body.slice(markerAt + marker.length);
+  return body;
 }
 function renderStatic(lang, slug, title, body){
   const prefix = lang === DEF ? "" : `/${lang}`;

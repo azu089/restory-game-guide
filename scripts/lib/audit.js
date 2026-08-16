@@ -185,11 +185,9 @@ function auditSite(root) {
   const ads = path.join(pub, "ads.txt");
   if (fs.existsSync(ads) && fs.statSync(ads).size === 0) F("empty-ads-txt", "未接 AdSense 时不应输出空文件");
 
-  // — 404 页 icon 声明（任务 restory-404-favicon-remediation-20260816-01 局部断言）。
+  // — 404 页 icon 声明（通用审计规则）。
   //   404.html 若缺 icon 链接，Chromium 会请求 /favicon.ico → HTTP 404（网络层可见）。
-  //   断言 built 404.html 含全站统一的 icon 声明，且 icon 资源存在于 build 输出。
-  //   ⚠️ 这是站点本地扩展：packages/site-kit/sync.js 会整体覆盖本文件，如需持久化
-  //     请在上游 packages/site-kit/audit.js 以全局 site-kit 租约任务落实。
+  //   断言 built 404.html 含全站统一的 icon 声明，且 icon 资源存在于 build 输出且非空。
   const notFound = path.join(pub, "404.html");
   if (!fs.existsSync(notFound)) F("no-404-page", "404.html 缺失");
   else {

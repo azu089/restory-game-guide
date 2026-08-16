@@ -548,6 +548,41 @@ PAGES_PT_BR = {
   "icon": "economy",
 },
 
+"painting-guide": {
+  "title": "Guia de Pintura de ReStory: Adesivos e Repintura",
+  "metaTitle": "Guia de Pintura ReStory: Adesivos, Repintura e Estilo",
+  "metaDescription": "Como funcionam a pintura e os adesivos em ReStory: a categoria Estilo, as conquistas relacionadas e o limite de rentabilidade no início do jogo.",
+  "intro": "Em ReStory, você pode personalizar aparelhos com adesivos e repintura. Esta página reúne o que as fontes oficiais confirmam sobre o sistema de pintura/adesivos, as conquistas de Estilo associadas e o limite de rentabilidade no início do jogo.",
+  "sections": [
+    {"type": "list", "heading": "O que a pintura e os adesivos fazem",
+     "items": [
+        "Estilo (Style) é uma categoria oficial de conquistas: adesivos e repintura (Instant Cool, Sticker Bombing).",
+        "Adesivos são aplicados nos aparelhos — as conquistas contam 1, 25 e 100 adesivos.",
+        "A repintura de aparelhos está ligada a pedidos de clientes — pintar um aparelho a pedido do cliente (Custom orders available!).",
+        "Um pedido pode combinar pintura, limpeza, conserto e hacking (Jack of All Trades).",
+     ]},
+    {"type": "table", "heading": "Conquistas de pintura e adesivos (condições oficiais)",
+     "columns": ["Conquista", "Condição oficial"],
+     "rows": [
+        ["Instant Cool", "Apply a sticker to a device"],
+        ["Instant Cool-er", "Apply 25 stickers"],
+        ["Sticker Bombing", "Apply 100 stickers"],
+        ["Custom orders available!", "Paint a device by a client's order for the first time"],
+        ["Jack of all trades", "Complete an order that involves painting, cleaning, repair and hacking"],
+     ]},
+    {"type": "note", "heading": "Pintar não rende dinheiro no início",
+     "body": "De acordo com o guia para iniciantes do intoindiegames, pintar e reprogramar não rendem dinheiro no início — invista primeiro nos consertos. Não afirmamos nada além disso; o preço exato da pintura e suas condições de desbloqueio ainda estão em verificação."},
+    {"type": "faq", "heading": "FAQ de pintura",
+     "items": [
+        ["Quantas conquistas envolvem pintura ou adesivos?", "Cinco conquistas oficiais: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! e Jack of All Trades."],
+        ["Quando posso começar a pintar aparelhos?", "Pendente de confirmação. Os dados oficiais de conquistas confirmam que a pintura existe, mas nossas fontes não indicam uma condição de desbloqueio, então marcamos como não verificado."],
+        ["Pintar rende dinheiro no início?", "Não — segundo o intoindiegames, pintar e reprogramar não são lucrativos no início; os consertos vêm primeiro."],
+     ]},
+  ],
+  "sources": ["steam-achievements", "intoindie"],
+  "icon": "brush",
+},
+
 "steam-deck": {
   "title": "ReStory no Steam Deck: Compatibilidade",
   "metaTitle": "ReStory no Steam Deck: Roda? E Como Roda?",

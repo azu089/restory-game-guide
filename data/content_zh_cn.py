@@ -544,6 +544,41 @@ PAGES_ZH_CN = {
   "icon": "economy",
 },
 
+"painting-guide": {
+  "title": "维修物语涂装攻略：贴纸与设备涂装",
+  "metaTitle": "维修物语涂装攻略：贴纸与设备涂装",
+  "metaDescription": "维修物语涂装攻略：贴纸与设备涂装的用途、风格成就，以及前期不赚钱的边界说明。",
+  "intro": "在维修物语中，你可以用贴纸和涂装来个性化设备。本页整理官方资料确认的涂装与贴纸机制、相关风格成就，以及前期收益边界。尚未确认的细节会标注为「待确认」。",
+  "sections": [
+    {"type": "list", "heading": "涂装与贴纸的作用",
+     "items": [
+        "风格（Style）是官方成就分类之一——贴纸与涂装（Instant Cool、Sticker Bombing）。",
+        "贴纸贴在设备上——官方成就追踪 1 张、25 张和 100 张。",
+        "设备涂装与客户订单关联——按客户订单给设备涂装（Custom orders available!）。",
+        "也有同时包含涂装、清洁、维修与破解的订单（Jack of All Trades）。",
+     ]},
+    {"type": "table", "heading": "涂装·贴纸成就（官方条件）",
+     "columns": ["成就", "官方条件"],
+     "rows": [
+        ["Instant Cool", "给设备贴上贴纸"],
+        ["Instant Cool-er", "贴上25张贴纸"],
+        ["Sticker Bombing", "贴上100张贴纸"],
+        ["Custom orders available!", "首次按照客户的订单涂绘设备"],
+        ["Jack of all trades", "完成一份同时涉及涂绘、清洁、维修和破解的订单"],
+     ]},
+    {"type": "note", "heading": "涂装不是前期的赚钱方式",
+     "body": "根据 intoindiegames 新手指南，涂装与重新编程在前期不赚钱——先投资维修。我们不做过多的断言；确切的涂装价格与解锁条件仍在核实中。"},
+    {"type": "faq", "heading": "涂装 FAQ",
+     "items": [
+        ["涉及涂装或贴纸的成就有几个？", "官方成就 5 个：Instant Cool、Instant Cool-er、Sticker Bombing、Custom orders available! 与 Jack of All Trades。"],
+        ["什么时候能开始给设备涂装？", "待确认。官方成就数据确认涂装存在，但没有给出解锁条件，因此我们标注为未核实。"],
+        ["涂装前期赚钱吗？", "不——根据 intoindiegames，涂装与重新编程前期不赚钱，维修优先。"],
+     ]},
+  ],
+  "sources": ["steam-achievements", "intoindie"],
+  "icon": "brush",
+},
+
 "steam-deck": {
   "title": "维修物语 Steam Deck 兼容性",
   "metaTitle": "维修物语 Steam Deck：能跑吗、体验如何",

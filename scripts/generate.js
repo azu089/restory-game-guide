@@ -109,6 +109,7 @@ const PAGE_ICON = {
   "achievements-roadmap": "book", "hidden-achievements": "mystery", "zen-points": "lamp",
   "endings": "branch", "customers": "users", "economy": "money", "steam-deck": "deck",
   "system-requirements": "cpu", "faq": "question", "patch-notes": "update", "guides": "book",
+  "painting-guide": "brush",
 };
 
 /* ---------- helpers ---------- */
@@ -176,7 +177,7 @@ function header(lang, activeSlug){
     const t = pageOf(p, lang);
     return `<a class="dd-link" href="${prefix}/${slug}"><span class="dd-ic">${iconOf(slug)}</span><span>${esc(t.title.replace(/[—–].*$|:.*$/,"").trim())}</span></a>`;
   };
-  const group1 = ["beginners-guide","repair-guide","all-devices","tools","online-orders","licenses","economy"];
+  const group1 = ["beginners-guide","repair-guide","all-devices","tools","online-orders","licenses","economy","painting-guide"];
   const group2 = ["achievements","achievements-roadmap","hidden-achievements","zen-points"];
   const group3 = ["endings","customers","steam-deck","system-requirements","faq","patch-notes"];
   // Keep dropdowns closed on page load. Auto-opening the active group covers
@@ -758,7 +759,7 @@ console.log(`✓ ${LANGS.length} locales × ${1+DATA.pages.length+3} pages｜sit
 
 function gen404(){
   const s = siteI18n(DEF);
-  const hot = ["beginners-guide","all-devices","achievements","endings","tools","zen-points"].map(slug=>{
+  const hot = ["beginners-guide","painting-guide","all-devices","achievements","endings","tools","zen-points"].map(slug=>{
     const p=DATA.pages.find(x=>x.slug===slug); if(!p) return "";
     const t=pageOf(p,DEF);
     return `<a class="rel-link" href="/${slug}"><span class="nav-ic">${iconOf(slug)}</span><span>${esc(t.title)}</span></a>`;

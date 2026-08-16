@@ -9,7 +9,7 @@ PAGE_ORDER = [
     "beginners-guide", "repair-guide", "all-devices", "tools",
     "online-orders", "licenses", "achievements", "achievements-roadmap",
     "hidden-achievements", "zen-points", "endings", "customers",
-    "economy", "steam-deck", "system-requirements", "faq",
+    "economy", "painting-guide", "steam-deck", "system-requirements", "faq",
     "patch-notes", "guides",
     "devices/atari-2600",
     "devices/atari-lynx",
@@ -567,6 +567,41 @@ PAGES_JA = {
   ],
   "sources": ["intoindie", "allthings"],
   "icon": "economy",
+},
+
+"painting-guide": {
+  "title": "ReStory 塗装ガイド：ステッカーとデバイス塗装",
+  "metaTitle": "ReStory 塗装ガイド：ステッカーとデバイス塗装",
+  "metaDescription": "ReStory の塗装とステッカーの仕組み、スタイル実績、序盤は稼げないという境界をまとめました。",
+  "intro": "ReStory ではステッカーと塗装でデバイスをカスタマイズできます。このページでは、公式資料で確認できる塗装・ステッカーシステム、関連するスタイル実績、そして序盤の収入の境界をまとめます。未確認の詳細は「確認中」と表示します。",
+  "sections": [
+    {"type": "list", "heading": "塗装とステッカーの役割",
+     "items": [
+        "スタイル（Style）は公式の実績カテゴリーです — ステッカーと塗装（Instant Cool、Sticker Bombing）。",
+        "ステッカーはデバイスに貼ります — 公式実績は1枚、25枚、100枚を追跡します。",
+        "デバイス塗装はお客様の注文と関連します — お客様の注文でデバイスを塗装します（Custom orders available!）。",
+        "塗装・清掃・修理・ハッキングをすべて含む注文もあります（Jack of All Trades）。",
+     ]},
+    {"type": "table", "heading": "塗装・ステッカー実績（公式条件）",
+     "columns": ["実績", "公式条件"],
+     "rows": [
+        ["Instant Cool", "ステッカーをデバイスに張る"],
+        ["Instant Cool-er", "ステッカーを25枚張る"],
+        ["Sticker Bombing", "ステッカーを100枚張る"],
+        ["Custom orders available!", "はじめて、お客様の注文に応じてデバイスを塗装する"],
+        ["Jack of all trades", "塗装、掃除、修理、ハッキングを必要とする注文を完了する"],
+     ]},
+    {"type": "note", "heading": "塗装は序盤で稼げない",
+     "body": "intoindiegames の初心者ガイドによると、塗装と再プログラミングは序盤ではお金になりません — まず修理に投資してください。正確な塗装価格と解放条件はまだ確認中で、確認できるまで推測しません。"},
+    {"type": "faq", "heading": "塗装 FAQ",
+     "items": [
+        ["塗装やステッカーに関係する実績はいくつありますか？", "公式実績は5つです：Instant Cool、Instant Cool-er、Sticker Bombing、Custom orders available!、Jack of All Trades。"],
+        ["いつからデバイスを塗装できますか？", "確認中です。公式実績データは塗装が存在することを示しますが、解放条件を明示していないため、未検証と表示します。"],
+        ["塗装は序盤で稼げますか？", "いいえ — intoindiegames によると、塗装と再プログラミングは序盤では収入にならず、修理が優先です。"],
+     ]},
+  ],
+  "sources": ["steam-achievements", "intoindie"],
+  "icon": "brush",
 },
 
 "steam-deck": {

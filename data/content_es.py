@@ -9,7 +9,7 @@ PAGE_ORDER = [
     "beginners-guide", "repair-guide", "all-devices", "tools",
     "online-orders", "licenses", "achievements", "achievements-roadmap",
     "hidden-achievements", "zen-points", "endings", "customers",
-    "economy", "steam-deck", "system-requirements", "faq",
+    "economy", "painting-guide", "steam-deck", "system-requirements", "faq",
     "patch-notes", "guides",
     "devices/atari-2600",
     "devices/atari-lynx",
@@ -568,6 +568,41 @@ PAGES_ES = {
   ],
   "sources": ["intoindie", "allthings"],
   "icon": "economy",
+},
+
+"painting-guide": {
+  "title": "Guía de pintura de ReStory: pegatinas y repintado",
+  "metaTitle": "Guía de pintura ReStory: pegatinas, repintado y estilo",
+  "metaDescription": "Cómo funcionan la pintura y las pegatinas en ReStory: la categoría Estilo, los logros relacionados y el límite de rentabilidad al principio del juego.",
+  "intro": "En ReStory puedes personalizar los dispositivos con pegatinas y repintado. Esta página reúne lo que las fuentes oficiales confirman sobre el sistema de pintura/pegatinas, los logros de Estilo asociados y el límite de rentabilidad al principio del juego.",
+  "sections": [
+    {"type": "list", "heading": "Qué hacen la pintura y las pegatinas",
+     "items": [
+        "Estilo (Style) es una categoría de logros oficial: pegatinas y repintado (Instant Cool, Sticker Bombing).",
+        "Las pegatinas se aplican a los dispositivos — los logros cuentan 1, 25 y 100 pegatinas.",
+        "El repintado de dispositivos está ligado a pedidos de clientes — pintar un dispositivo a petición del cliente (Custom orders available!).",
+        "Un encargo puede combinar pintura, limpieza, reparación y hackeo (Jack of All Trades).",
+     ]},
+    {"type": "table", "heading": "Logros de pintura y pegatinas (condiciones oficiales)",
+     "columns": ["Logro", "Condición oficial"],
+     "rows": [
+        ["Instant Cool", "Pon una pegatina en un dispositivo."],
+        ["Instant Cool-er", "Pon 25 pegatinas."],
+        ["Sticker Bombing", "Pon 100 pegatinas."],
+        ["Custom orders available!", "Pinta un dispositivo por primera vez a petición del cliente."],
+        ["Jack of all trades", "Completa un encargo que incluya trabajos de pintura, limpieza, reparación y hackeo."],
+     ]},
+    {"type": "note", "heading": "Pintar no da dinero al principio",
+     "body": "Según la guía para principiantes de intoindiegames, pintar y reprogramar no dan dinero al principio — invierte primero en reparaciones. No afirmamos nada más; el precio exacto de la pintura y sus condiciones de desbloqueo siguen en verificación."},
+    {"type": "faq", "heading": "FAQ de pintura",
+     "items": [
+        ["¿Cuántos logros implican pintura o pegatinas?", "Cinco logros oficiales: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! y Jack of All Trades."],
+        ["¿Cuándo puedo empezar a pintar dispositivos?", "Pendiente de confirmación. Los datos oficiales de logros confirman que la pintura existe, pero nuestras fuentes no indican una condición de desbloqueo, así que lo marcamos como sin verificar."],
+        ["¿Da dinero pintar al principio?", "No — según intoindiegames, pintar y reprogramar no son rentables al principio; las reparaciones van primero."],
+     ]},
+  ],
+  "sources": ["steam-achievements", "intoindie"],
+  "icon": "brush",
 },
 
 "steam-deck": {

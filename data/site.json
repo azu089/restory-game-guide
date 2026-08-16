@@ -27847,6 +27847,877 @@
    "heroImage": "/images/economy.jpg"
   },
   {
+   "slug": "painting-guide",
+   "title": "ReStory Painting Guide: Stickers & Repainting",
+   "metaTitle": "ReStory Painting Guide: Stickers, Repainting & Style",
+   "metaDescription": "How painting and stickers work in ReStory: the Style category, sticker milestones, device repainting orders and the early-game money boundary.",
+   "intro": "ReStory lets you personalize devices with stickers and repainting. This page collects what official sources confirm about the painting/sticker mechanism, the Style achievements tied to it, and the important early-game money boundary.",
+   "sections": [
+    {
+     "type": "list",
+     "heading": "What painting and stickers do",
+     "items": [
+      "Style is an official achievement category: stickers and repainting (Instant Cool, Sticker Bombing).",
+      "Stickers are applied to devices — achievements track 1, 25 and 100 stickers.",
+      "Device repainting is tied to client orders — repaint a device by a client's order (Custom orders available!).",
+      "One order can combine painting, cleaning, repair and hacking (Jack of All Trades)."
+     ]
+    },
+    {
+     "type": "table",
+     "heading": "Painting & sticker achievements (official)",
+     "columns": [
+      "Achievement",
+      "Official condition"
+     ],
+     "rows": [
+      [
+       "Instant Cool",
+       "Apply a sticker to a device"
+      ],
+      [
+       "Instant Cool-er",
+       "Apply 25 stickers"
+      ],
+      [
+       "Sticker Bombing",
+       "Apply 100 stickers"
+      ],
+      [
+       "Custom orders available!",
+       "Paint a device by a client's order for the first time"
+      ],
+      [
+       "Jack of all trades",
+       "Complete an order that involves painting, cleaning, repair and hacking"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "heading": "Painting is not an early money-maker",
+     "body": "Per intoindiegames' beginner guide, painting and reprogramming do not make money early — invest in repairs first. We do not claim otherwise; exact paint pricing and unlock conditions are still being verified."
+    },
+    {
+     "type": "faq",
+     "heading": "Painting FAQ",
+     "items": [
+      [
+       "How many achievements involve painting or stickers?",
+       "Five official achievements: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! and Jack of All Trades."
+      ],
+      [
+       "When can I start painting devices?",
+       "Pending confirmation. The official achievement data confirms painting exists, but our sources do not state an unlock condition, so we mark it unverified."
+      ],
+      [
+       "Does painting make money early?",
+       "No — per intoindiegames, painting and reprogramming are not profitable early; repairs come first."
+      ]
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "label": "Official Steam global achievement stats",
+     "url": "https://steamcommunity.com/stats/3812600/achievements",
+     "labels": {
+      "en": "Official Steam achievement list & global stats",
+      "zh-CN": "Steam 官方成就清单与全球统计",
+      "zh-TW": "Steam 官方成就清單與全球統計",
+      "ja": "Steam 公式実績リスト・世界統計",
+      "ko": "Steam 공식 도전 과제 목록 및 전 세계 통계",
+      "fr": "Liste officielle des succès et statistiques Steam",
+      "de": "Offizielle Steam-Errungenschaften und globale Statistik",
+      "es": "Lista oficial de logros y estadísticas de Steam",
+      "pt-BR": "Lista oficial de conquistas e estatísticas globais da Steam",
+      "ru": "Официальный список достижений и глобальная статистика Steam"
+     }
+    },
+    {
+     "label": "intoindiegames — ReStory beginner guide",
+     "url": "https://intoindiegames.com/walkthroughs/tips-tricks/beginners-guide-to-restory-chill-electronics-repair/",
+     "labels": {
+      "en": "intoindiegames — ReStory beginner guide",
+      "zh-CN": "intoindiegames — ReStory 新手指南",
+      "ja": "intoindiegames — ReStory 初心者ガイド",
+      "ko": "intoindiegames — ReStory 초보자 가이드",
+      "fr": "intoindiegames — guide débutant ReStory",
+      "de": "intoindiegames — ReStory Einsteiger-Guide",
+      "es": "intoindiegames — guía para principiantes de ReStory",
+      "pt-BR": "intoindiegames — guia para iniciantes de ReStory",
+      "ru": "intoindiegames — гайд для новичков ReStory",
+      "zh-TW": "intoindiegames — ReStory 新手指南"
+     }
+    }
+   ],
+   "meta": {
+    "icon": "brush"
+   },
+   "i18n": {
+    "en": {
+     "title": "ReStory Painting Guide: Stickers & Repainting",
+     "metaTitle": "ReStory Painting Guide: Stickers, Repainting and Style",
+     "metaDescription": "How painting and stickers work in ReStory: the Style category, sticker milestones, device repainting orders and the early-game money boundary.",
+     "intro": "ReStory lets you personalize devices with stickers and repainting. This page collects what official sources confirm about the painting/sticker mechanism, the Style achievements tied to it, and the important early-game money boundary.",
+     "sections": [
+      {
+       "type": "list",
+       "heading": "What painting and stickers do",
+       "items": [
+        "Style is an official achievement category: stickers and repainting (Instant Cool, Sticker Bombing).",
+        "Stickers are applied to devices — achievements track 1, 25 and 100 stickers.",
+        "Device repainting is tied to client orders — repaint a device by a client's order (Custom orders available!).",
+        "One order can combine painting, cleaning, repair and hacking (Jack of All Trades)."
+       ]
+      },
+      {
+       "type": "table",
+       "heading": "Painting & sticker achievements (official)",
+       "columns": [
+        "Achievement",
+        "Official condition"
+       ],
+       "rows": [
+        [
+         "Instant Cool",
+         "Apply a sticker to a device"
+        ],
+        [
+         "Instant Cool-er",
+         "Apply 25 stickers"
+        ],
+        [
+         "Sticker Bombing",
+         "Apply 100 stickers"
+        ],
+        [
+         "Custom orders available!",
+         "Paint a device by a client's order for the first time"
+        ],
+        [
+         "Jack of all trades",
+         "Complete an order that involves painting, cleaning, repair and hacking"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Painting is not an early money-maker",
+       "body": "Per intoindiegames' beginner guide, painting and reprogramming do not make money early — invest in repairs first. We do not claim otherwise; exact paint pricing and unlock conditions are still being verified."
+      },
+      {
+       "type": "faq",
+       "heading": "Painting FAQ",
+       "items": [
+        [
+         "How many achievements involve painting or stickers?",
+         "Five official achievements: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! and Jack of All Trades."
+        ],
+        [
+         "When can I start painting devices?",
+         "Pending confirmation. The official achievement data confirms painting exists, but our sources do not state an unlock condition, so we mark it unverified."
+        ],
+        [
+         "Does painting make money early?",
+         "No — per intoindiegames, painting and reprogramming are not profitable early; repairs come first."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "steam-achievements",
+      "intoindie"
+     ],
+     "icon": "brush"
+    },
+    "zh-CN": {
+     "title": "维修物语涂装攻略：贴纸与设备涂装",
+     "metaTitle": "维修物语涂装攻略：贴纸与设备涂装",
+     "metaDescription": "维修物语涂装攻略：贴纸与设备涂装的用途、风格成就，以及前期不赚钱的边界说明。",
+     "intro": "在维修物语中，你可以用贴纸和涂装来个性化设备。本页整理官方资料确认的涂装与贴纸机制、相关风格成就，以及前期收益边界。尚未确认的细节会标注为「待确认」。",
+     "sections": [
+      {
+       "type": "list",
+       "heading": "涂装与贴纸的作用",
+       "items": [
+        "风格（Style）是官方成就分类之一——贴纸与涂装（Instant Cool、Sticker Bombing）。",
+        "贴纸贴在设备上——官方成就追踪 1 张、25 张和 100 张。",
+        "设备涂装与客户订单关联——按客户订单给设备涂装（Custom orders available!）。",
+        "也有同时包含涂装、清洁、维修与破解的订单（Jack of All Trades）。"
+       ]
+      },
+      {
+       "type": "table",
+       "heading": "涂装·贴纸成就（官方条件）",
+       "columns": [
+        "成就",
+        "官方条件"
+       ],
+       "rows": [
+        [
+         "Instant Cool",
+         "给设备贴上贴纸"
+        ],
+        [
+         "Instant Cool-er",
+         "贴上25张贴纸"
+        ],
+        [
+         "Sticker Bombing",
+         "贴上100张贴纸"
+        ],
+        [
+         "Custom orders available!",
+         "首次按照客户的订单涂绘设备"
+        ],
+        [
+         "Jack of all trades",
+         "完成一份同时涉及涂绘、清洁、维修和破解的订单"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "涂装不是前期的赚钱方式",
+       "body": "根据 intoindiegames 新手指南，涂装与重新编程在前期不赚钱——先投资维修。我们不做过多的断言；确切的涂装价格与解锁条件仍在核实中。"
+      },
+      {
+       "type": "faq",
+       "heading": "涂装 FAQ",
+       "items": [
+        [
+         "涉及涂装或贴纸的成就有几个？",
+         "官方成就 5 个：Instant Cool、Instant Cool-er、Sticker Bombing、Custom orders available! 与 Jack of All Trades。"
+        ],
+        [
+         "什么时候能开始给设备涂装？",
+         "待确认。官方成就数据确认涂装存在，但没有给出解锁条件，因此我们标注为未核实。"
+        ],
+        [
+         "涂装前期赚钱吗？",
+         "不——根据 intoindiegames，涂装与重新编程前期不赚钱，维修优先。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "steam-achievements",
+      "intoindie"
+     ],
+     "icon": "brush"
+    },
+    "ja": {
+     "title": "ReStory 塗装ガイド：ステッカーとデバイス塗装",
+     "metaTitle": "ReStory 塗装ガイド：ステッカーとデバイス塗装",
+     "metaDescription": "ReStory の塗装とステッカーの仕組み、スタイル実績、序盤は稼げないという境界をまとめました。",
+     "intro": "ReStory ではステッカーと塗装でデバイスをカスタマイズできます。このページでは、公式資料で確認できる塗装・ステッカーシステム、関連するスタイル実績、そして序盤の収入の境界をまとめます。未確認の詳細は「確認中」と表示します。",
+     "sections": [
+      {
+       "type": "list",
+       "heading": "塗装とステッカーの役割",
+       "items": [
+        "スタイル（Style）は公式の実績カテゴリーです — ステッカーと塗装（Instant Cool、Sticker Bombing）。",
+        "ステッカーはデバイスに貼ります — 公式実績は1枚、25枚、100枚を追跡します。",
+        "デバイス塗装はお客様の注文と関連します — お客様の注文でデバイスを塗装します（Custom orders available!）。",
+        "塗装・清掃・修理・ハッキングをすべて含む注文もあります（Jack of All Trades）。"
+       ]
+      },
+      {
+       "type": "table",
+       "heading": "塗装・ステッカー実績（公式条件）",
+       "columns": [
+        "実績",
+        "公式条件"
+       ],
+       "rows": [
+        [
+         "Instant Cool",
+         "ステッカーをデバイスに張る"
+        ],
+        [
+         "Instant Cool-er",
+         "ステッカーを25枚張る"
+        ],
+        [
+         "Sticker Bombing",
+         "ステッカーを100枚張る"
+        ],
+        [
+         "Custom orders available!",
+         "はじめて、お客様の注文に応じてデバイスを塗装する"
+        ],
+        [
+         "Jack of all trades",
+         "塗装、掃除、修理、ハッキングを必要とする注文を完了する"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "塗装は序盤で稼げない",
+       "body": "intoindiegames の初心者ガイドによると、塗装と再プログラミングは序盤ではお金になりません — まず修理に投資してください。正確な塗装価格と解放条件はまだ確認中で、確認できるまで推測しません。"
+      },
+      {
+       "type": "faq",
+       "heading": "塗装 FAQ",
+       "items": [
+        [
+         "塗装やステッカーに関係する実績はいくつありますか？",
+         "公式実績は5つです：Instant Cool、Instant Cool-er、Sticker Bombing、Custom orders available!、Jack of All Trades。"
+        ],
+        [
+         "いつからデバイスを塗装できますか？",
+         "確認中です。公式実績データは塗装が存在することを示しますが、解放条件を明示していないため、未検証と表示します。"
+        ],
+        [
+         "塗装は序盤で稼げますか？",
+         "いいえ — intoindiegames によると、塗装と再プログラミングは序盤では収入にならず、修理が優先です。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "steam-achievements",
+      "intoindie"
+     ],
+     "icon": "brush"
+    },
+    "ko": {
+     "title": "ReStory 도색 가이드: 스티커와 기기 도색",
+     "metaTitle": "ReStory 도색 가이드: 스티커와 기기 도색",
+     "metaDescription": "ReStory 도색 가이드: 스티커와 기기 도색의 쓰임새, 스타일 업적, 그리고 초반에는 돈이 되지 않는 경계를 정리합니다.",
+     "intro": "ReStory에서는 스티커와 도색으로 기기를 꾸밀 수 있습니다. 이 가이드는 공식 자료가 확인해 주는 도색·스티커 시스템, 관련 스타일 업적, 그리고 초반 수익 경계를 정리합니다. 아직 확인되지 않은 세부 사항은 '확인 중'으로 표시합니다.",
+     "sections": [
+      {
+       "type": "list",
+       "heading": "도색과 스티커의 역할",
+       "items": [
+        "스타일(Style)은 공식 업적 카테고리입니다 — 스티커와 도색(Instant Cool, Sticker Bombing).",
+        "스티커는 기기에 부착합니다 — 공식 업적은 1장, 25장, 100장을 추적합니다.",
+        "기기 도색은 손님 주문과 연결됩니다 — 손님의 의뢰로 기기를 도색합니다(Custom orders available!).",
+        "도색, 세척, 수리, 해킹을 모두 포함하는 주문도 있습니다(Jack of All Trades)."
+       ]
+      },
+      {
+       "type": "table",
+       "heading": "도색·스티커 업적 (공식 조건)",
+       "columns": [
+        "업적",
+        "공식 조건"
+       ],
+       "rows": [
+        [
+         "Instant Cool",
+         "기기에 스티커 한 장을 붙이세요"
+        ],
+        [
+         "Instant Cool-er",
+         "스티커 25장을 붙이세요"
+        ],
+        [
+         "Sticker Bombing",
+         "스티커 100장을 붙이세요"
+        ],
+        [
+         "Custom orders available!",
+         "고객의 의뢰를 받아 처음으로 기기를 도색하세요"
+        ],
+        [
+         "Jack of all trades",
+         "도색, 세척, 수리, 해킹을 모두 포함하는 의뢰를 1회 완료하세요"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "도색은 초반에 돈이 되지 않습니다",
+       "body": "intoindiegames 초보자 가이드에 따르면 도색과 재프로그래밍은 초반에 돈이 되지 않습니다 — 먼저 수리에 투자하세요. 정확한 도색 비용과 해금 조건은 아직 확인 중이며, 확인되기 전까지는 추측하지 않습니다."
+      },
+      {
+       "type": "faq",
+       "heading": "도색 FAQ",
+       "items": [
+        [
+         "도색이나 스티커와 관련된 업적은 몇 개인가요?",
+         "공식 업적 5개입니다: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available!, Jack of All Trades."
+        ],
+        [
+         "언제부터 기기를 도색할 수 있나요?",
+         "확인 중입니다. 공식 업적 데이터는 도색이 존재함을 확인하지만, 해금 조건을 명시하지 않아 미검증으로 표시합니다."
+        ],
+        [
+         "도색은 초반에 돈이 되나요?",
+         "아니요 — intoindiegames에 따르면 도색과 재프로그래밍은 초반에 수익이 되지 않으며, 수리가 우선입니다."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "steam-achievements",
+      "intoindie"
+     ],
+     "icon": "brush"
+    },
+    "fr": {
+     "title": "Guide peinture ReStory : autocollants et repeinte",
+     "metaTitle": "Guide peinture ReStory : autocollants, repeinte et style",
+     "metaDescription": "Comment fonctionnent la peinture et les autocollants dans ReStory : la catégorie Style, les succès liés et la limite de rentabilité au début.",
+     "intro": "Dans ReStory, vous pouvez personnaliser les appareils avec des autocollants et de la repeinte. Cette page rassemble ce que les sources officielles confirment sur le mécanisme peinture/autocollants, les succès Style associés et la limite de rentabilité en début de partie.",
+     "sections": [
+      {
+       "type": "list",
+       "heading": "Ce que font la peinture et les autocollants",
+       "items": [
+        "Le style (Style) est une catégorie de succès officielle : autocollants et repeinte (Instant Cool, Sticker Bombing).",
+        "Les autocollants se posent sur les appareils — les succès suivent 1, 25 et 100 autocollants.",
+        "La repeinte est liée aux commandes clients — repeindre un appareil à la demande du client (Custom orders available!).",
+        "Une commande peut combiner peinture, nettoyage, réparation et hacking (Jack of All Trades)."
+       ]
+      },
+      {
+       "type": "table",
+       "heading": "Succès peinture & autocollants (conditions officielles)",
+       "columns": [
+        "Succès",
+        "Condition officielle"
+       ],
+       "rows": [
+        [
+         "Instant Cool",
+         "Coller un autocollant"
+        ],
+        [
+         "Instant Cool-er",
+         "Coller 25 autocollants"
+        ],
+        [
+         "Sticker Bombing",
+         "Coller 100 autocollants"
+        ],
+        [
+         "Custom orders available!",
+         "Peindre un appareil à la demande du client pour la première fois"
+        ],
+        [
+         "Jack of all trades",
+         "Honorer une commande impliquant peinture, nettoyage, réparation et reprogrammation"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "La peinture ne rapporte pas en début de partie",
+       "body": "D'après le guide débutant d'intoindiegames, la peinture et la reprogrammation ne rapportent pas d'argent en début de partie — investissez d'abord dans les réparations. Nous n'affirmons rien de plus ; le prix exact de la peinture et ses conditions de déblocage sont encore en cours de vérification."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ peinture",
+       "items": [
+        [
+         "Combien de succès concernent la peinture ou les autocollants ?",
+         "Cinq succès officiels : Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! et Jack of All Trades."
+        ],
+        [
+         "Quand puis-je commencer à repeindre des appareils ?",
+         "À confirmer. Les données officielles des succès confirment que la peinture existe, mais nos sources ne donnent pas de condition de déblocage, donc nous le marquons non vérifié."
+        ],
+        [
+         "La peinture rapporte-t-elle en début de partie ?",
+         "Non — selon intoindiegames, la peinture et la reprogrammation ne sont pas rentables au début ; les réparations passent d'abord."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "steam-achievements",
+      "intoindie"
+     ],
+     "icon": "brush"
+    },
+    "de": {
+     "title": "ReStory Bemalen-Guide: Sticker & Neulackierung",
+     "metaTitle": "ReStory Bemalen-Guide: Sticker, Lackieren and Style",
+     "metaDescription": "Wie Bemalen und Sticker in ReStory funktionieren: die Style-Kategorie, die zugehörigen Erfolge und die Geldgrenze zu Spielbeginn.",
+     "intro": "In ReStory kannst du Geräte mit Stickern und Neulackierung personalisieren. Diese Seite sammelt, was offizielle Quellen über das Bemal-/Sticker-System, die zugehörigen Style-Erfolge und die Geldgrenze zu Spielbeginn bestätigen.",
+     "sections": [
+      {
+       "type": "list",
+       "heading": "Was Bemalen und Sticker tun",
+       "items": [
+        "Style ist eine offizielle Erfolgskategorie: Sticker und Neulackierung (Instant Cool, Sticker Bombing).",
+        "Sticker werden auf Geräte geklebt — die Erfolge zählen 1, 25 und 100 Sticker.",
+        "Das Bemalen von Geräten hängt mit Kundenaufträgen zusammen — bemal ein Gerät nach Kundenwunsch (Custom orders available!).",
+        "Ein Auftrag kann Bemalen, Reinigen, Reparieren und Hacken kombinieren (Jack of All Trades)."
+       ]
+      },
+      {
+       "type": "table",
+       "heading": "Bemal- & Sticker-Erfolge (offizielle Bedingungen)",
+       "columns": [
+        "Erfolg",
+        "Offizielle Bedingung"
+       ],
+       "rows": [
+        [
+         "Instant Cool",
+         "Wende einen Sticker auf ein Gerät an."
+        ],
+        [
+         "Instant Cool-er",
+         "Wende 25 Sticker an."
+        ],
+        [
+         "Sticker Bombing",
+         "Wende 100 Sticker an."
+        ],
+        [
+         "Custom orders available!",
+         "Bemale zum ersten Mal ein Gerät nach Anweisung des Kunden."
+        ],
+        [
+         "Jack of all trades",
+         "Schließe einen Auftrag ab, der Malen, Reinigen, Reparieren und Hacking beinhaltet."
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Bemalen bringt zu Spielbeginn kein Geld",
+       "body": "Laut dem Anfänger-Guide von intoindiegames bringen Bemalen und Neuprogrammierung zu Beginn kein Geld — investiere zuerst in Reparaturen. Wir behaupten nichts darüber hinaus; genaue Bemalpreise und Freischaltbedingungen werden noch verifiziert."
+      },
+      {
+       "type": "faq",
+       "heading": "Bemalen-FAQ",
+       "items": [
+        [
+         "Wie viele Erfolge betreffen Bemalen oder Sticker?",
+         "Fünf offizielle Erfolge: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! und Jack of All Trades."
+        ],
+        [
+         "Ab wann kann ich Geräte bemalen?",
+         "Noch unbestätigt. Die offiziellen Erfolgsdaten bestätigen, dass Bemalen existiert, aber unsere Quellen nennen keine Freischaltbedingung, daher markieren wir es als unverifiziert."
+        ],
+        [
+         "Bringt Bemalen zu Spielbeginn Geld?",
+         "Nein — laut intoindiegames sind Bemalen und Neuprogrammierung anfangs nicht profitabel; Reparaturen haben Vorrang."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "steam-achievements",
+      "intoindie"
+     ],
+     "icon": "brush"
+    },
+    "es": {
+     "title": "Guía de pintura de ReStory: pegatinas y repintado",
+     "metaTitle": "Guía de pintura ReStory: pegatinas, repintado y estilo",
+     "metaDescription": "Cómo funcionan la pintura y las pegatinas en ReStory: la categoría Estilo, los logros relacionados y el límite de rentabilidad al principio del juego.",
+     "intro": "En ReStory puedes personalizar los dispositivos con pegatinas y repintado. Esta página reúne lo que las fuentes oficiales confirman sobre el sistema de pintura/pegatinas, los logros de Estilo asociados y el límite de rentabilidad al principio del juego.",
+     "sections": [
+      {
+       "type": "list",
+       "heading": "Qué hacen la pintura y las pegatinas",
+       "items": [
+        "Estilo (Style) es una categoría de logros oficial: pegatinas y repintado (Instant Cool, Sticker Bombing).",
+        "Las pegatinas se aplican a los dispositivos — los logros cuentan 1, 25 y 100 pegatinas.",
+        "El repintado de dispositivos está ligado a pedidos de clientes — pintar un dispositivo a petición del cliente (Custom orders available!).",
+        "Un encargo puede combinar pintura, limpieza, reparación y hackeo (Jack of All Trades)."
+       ]
+      },
+      {
+       "type": "table",
+       "heading": "Logros de pintura y pegatinas (condiciones oficiales)",
+       "columns": [
+        "Logro",
+        "Condición oficial"
+       ],
+       "rows": [
+        [
+         "Instant Cool",
+         "Pon una pegatina en un dispositivo."
+        ],
+        [
+         "Instant Cool-er",
+         "Pon 25 pegatinas."
+        ],
+        [
+         "Sticker Bombing",
+         "Pon 100 pegatinas."
+        ],
+        [
+         "Custom orders available!",
+         "Pinta un dispositivo por primera vez a petición del cliente."
+        ],
+        [
+         "Jack of all trades",
+         "Completa un encargo que incluya trabajos de pintura, limpieza, reparación y hackeo."
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Pintar no da dinero al principio",
+       "body": "Según la guía para principiantes de intoindiegames, pintar y reprogramar no dan dinero al principio — invierte primero en reparaciones. No afirmamos nada más; el precio exacto de la pintura y sus condiciones de desbloqueo siguen en verificación."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ de pintura",
+       "items": [
+        [
+         "¿Cuántos logros implican pintura o pegatinas?",
+         "Cinco logros oficiales: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! y Jack of All Trades."
+        ],
+        [
+         "¿Cuándo puedo empezar a pintar dispositivos?",
+         "Pendiente de confirmación. Los datos oficiales de logros confirman que la pintura existe, pero nuestras fuentes no indican una condición de desbloqueo, así que lo marcamos como sin verificar."
+        ],
+        [
+         "¿Da dinero pintar al principio?",
+         "No — según intoindiegames, pintar y reprogramar no son rentables al principio; las reparaciones van primero."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "steam-achievements",
+      "intoindie"
+     ],
+     "icon": "brush"
+    },
+    "pt-BR": {
+     "title": "Guia de Pintura de ReStory: Adesivos e Repintura",
+     "metaTitle": "Guia de Pintura ReStory: Adesivos, Repintura e Estilo",
+     "metaDescription": "Como funcionam a pintura e os adesivos em ReStory: a categoria Estilo, as conquistas relacionadas e o limite de rentabilidade no início do jogo.",
+     "intro": "Em ReStory, você pode personalizar aparelhos com adesivos e repintura. Esta página reúne o que as fontes oficiais confirmam sobre o sistema de pintura/adesivos, as conquistas de Estilo associadas e o limite de rentabilidade no início do jogo.",
+     "sections": [
+      {
+       "type": "list",
+       "heading": "O que a pintura e os adesivos fazem",
+       "items": [
+        "Estilo (Style) é uma categoria oficial de conquistas: adesivos e repintura (Instant Cool, Sticker Bombing).",
+        "Adesivos são aplicados nos aparelhos — as conquistas contam 1, 25 e 100 adesivos.",
+        "A repintura de aparelhos está ligada a pedidos de clientes — pintar um aparelho a pedido do cliente (Custom orders available!).",
+        "Um pedido pode combinar pintura, limpeza, conserto e hacking (Jack of All Trades)."
+       ]
+      },
+      {
+       "type": "table",
+       "heading": "Conquistas de pintura e adesivos (condições oficiais)",
+       "columns": [
+        "Conquista",
+        "Condição oficial"
+       ],
+       "rows": [
+        [
+         "Instant Cool",
+         "Apply a sticker to a device"
+        ],
+        [
+         "Instant Cool-er",
+         "Apply 25 stickers"
+        ],
+        [
+         "Sticker Bombing",
+         "Apply 100 stickers"
+        ],
+        [
+         "Custom orders available!",
+         "Paint a device by a client's order for the first time"
+        ],
+        [
+         "Jack of all trades",
+         "Complete an order that involves painting, cleaning, repair and hacking"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Pintar não rende dinheiro no início",
+       "body": "De acordo com o guia para iniciantes do intoindiegames, pintar e reprogramar não rendem dinheiro no início — invista primeiro nos consertos. Não afirmamos nada além disso; o preço exato da pintura e suas condições de desbloqueio ainda estão em verificação."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ de pintura",
+       "items": [
+        [
+         "Quantas conquistas envolvem pintura ou adesivos?",
+         "Cinco conquistas oficiais: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! e Jack of All Trades."
+        ],
+        [
+         "Quando posso começar a pintar aparelhos?",
+         "Pendente de confirmação. Os dados oficiais de conquistas confirmam que a pintura existe, mas nossas fontes não indicam uma condição de desbloqueio, então marcamos como não verificado."
+        ],
+        [
+         "Pintar rende dinheiro no início?",
+         "Não — segundo o intoindiegames, pintar e reprogramar não são lucrativos no início; os consertos vêm primeiro."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "steam-achievements",
+      "intoindie"
+     ],
+     "icon": "brush"
+    },
+    "ru": {
+     "title": "Гайд по покраске ReStory: наклейки и перекраска",
+     "metaTitle": "Гайд по покраске ReStory: наклейки, перекраска и стиль",
+     "metaDescription": "Как работают покраска и наклейки в ReStory: категория «Стиль», связанные достижения и граница доходности в начале игры.",
+     "intro": "В ReStory вы можете персонализировать устройства наклейками и перекраской. На этой странице собрано то, что официальные источники подтверждают о системе покраски/наклеек, связанных достижениях «Стиля» и границе доходности в начале игры.",
+     "sections": [
+      {
+       "type": "list",
+       "heading": "Что делают покраска и наклейки",
+       "items": [
+        "Стиль (Style) — официальная категория достижений: наклейки и перекраска (Instant Cool, Sticker Bombing).",
+        "Наклейки наклеиваются на устройства — достижения отслеживают 1, 25 и 100 наклеек.",
+        "Перекраска устройств связана с заказами клиентов — покрасить устройство по заказу клиента (Custom orders available!).",
+        "Один заказ может сочетать покраску, чистку, ремонт и взлом (Jack of All Trades)."
+       ]
+      },
+      {
+       "type": "table",
+       "heading": "Достижения покраски и наклеек (официальные условия)",
+       "columns": [
+        "Достижение",
+        "Официальное условие"
+       ],
+       "rows": [
+        [
+         "Instant Cool",
+         "Наклеить стикер на устройство"
+        ],
+        [
+         "Instant Cool-er",
+         "Наклеить 25 стикеров"
+        ],
+        [
+         "Sticker Bombing",
+         "Наклеить 100 стикеров"
+        ],
+        [
+         "Custom orders available!",
+         "Покрасить первое устройство для клиента"
+        ],
+        [
+         "Jack of all trades",
+         "Выполнить заказ с покраской, починкой, очисткой и взломом"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Покраска не приносит денег в начале",
+       "body": "Согласно гайду для новичков intoindiegames, покраска и перепрограммирование не приносят денег в начале — сначала вкладывайтесь в ремонт. Мы не утверждаем большего; точная цена покраски и условия открытия ещё проверяются."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ по покраске",
+       "items": [
+        [
+         "Сколько достижений связано с покраской или наклейками?",
+         "Пять официальных достижений: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! и Jack of All Trades."
+        ],
+        [
+         "Когда можно начать красить устройства?",
+         "Ожидает подтверждения. Официальные данные достижений подтверждают, что покраска существует, но наши источники не указывают условие открытия, поэтому мы помечаем это как непроверенное."
+        ],
+        [
+         "Приносит ли покраска деньги в начале?",
+         "Нет — по данным intoindiegames, покраска и перепрограммирование в начале невыгодны; ремонт в приоритете."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "steam-achievements",
+      "intoindie"
+     ],
+     "icon": "brush"
+    },
+    "zh-TW": {
+     "title": "維修物語塗裝攻略：貼紙與設備塗裝",
+     "metaTitle": "維修物語塗裝攻略：貼紙與設備塗裝",
+     "metaDescription": "維修物語塗裝攻略：貼紙與設備塗裝的用途、風格成就，以及前期不賺錢的邊界說明。",
+     "intro": "在維修物語中，你可以用貼紙和塗裝來個性化設備。本頁整理官方資料確認的塗裝與貼紙機制、相關風格成就，以及前期收益邊界。尚未確認的細節會標註為「待確認」。",
+     "sections": [
+      {
+       "type": "list",
+       "heading": "塗裝與貼紙的作用",
+       "items": [
+        "風格（Style）是官方成就分類之一——貼紙與塗裝（Instant Cool、Sticker Bombing）。",
+        "貼紙貼在設備上——官方成就追蹤 1 張、25 張和 100 張。",
+        "設備塗裝與客戶訂單關聯——按客戶訂單給設備塗裝（Custom orders available!）。",
+        "也有同時包含塗裝、清潔、維修與破解的訂單（Jack of All Trades）。"
+       ]
+      },
+      {
+       "type": "table",
+       "heading": "塗裝·貼紙成就（官方條件）",
+       "columns": [
+        "成就",
+        "官方條件"
+       ],
+       "rows": [
+        [
+         "Instant Cool",
+         "給設備貼上貼紙"
+        ],
+        [
+         "Instant Cool-er",
+         "貼上25張貼紙"
+        ],
+        [
+         "Sticker Bombing",
+         "貼上100張貼紙"
+        ],
+        [
+         "Custom orders available!",
+         "首次按照客戶的訂單塗繪設備"
+        ],
+        [
+         "Jack of all trades",
+         "完成一份同時涉及塗繪、清潔、維修和破解的訂單"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "塗裝不是前期的賺錢方式",
+       "body": "根據 intoindiegames 新手指南，塗裝與重新編程在前期不賺錢——先投資維修。我們不做過多的斷言；確切的塗裝價格與解鎖條件仍在核實中。"
+      },
+      {
+       "type": "faq",
+       "heading": "塗裝 FAQ",
+       "items": [
+        [
+         "涉及塗裝或貼紙的成就有幾個？",
+         "官方成就 5 個：Instant Cool、Instant Cool-er、Sticker Bombing、Custom orders available! 與 Jack of All Trades。"
+        ],
+        [
+         "什麼時候能開始給設備塗裝？",
+         "待確認。官方成就數據確認塗裝存在，但沒有給出解鎖條件，因此我們標註為未核實。"
+        ],
+        [
+         "塗裝前期賺錢嗎？",
+         "不——根據 intoindiegames，塗裝與重新編程前期不賺錢，維修優先。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "steam-achievements",
+      "intoindie"
+     ],
+     "icon": "brush"
+    }
+   }
+  },
+  {
    "slug": "steam-deck",
    "title": "ReStory on Steam Deck: Compatibility",
    "metaTitle": "ReStory Steam Deck: Does It Run & How Well?",

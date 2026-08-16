@@ -9,7 +9,7 @@ PAGE_ORDER = [
     "beginners-guide", "repair-guide", "all-devices", "tools",
     "online-orders", "licenses", "achievements", "achievements-roadmap",
     "hidden-achievements", "zen-points", "endings", "customers",
-    "economy", "steam-deck", "system-requirements", "faq",
+    "economy", "painting-guide", "steam-deck", "system-requirements", "faq",
     "patch-notes", "guides",
 ]
 
@@ -553,6 +553,41 @@ PAGES_FR = {
   ],
   "sources": ["intoindie", "allthings"],
   "icon": "economy",
+},
+
+"painting-guide": {
+  "title": "Guide peinture ReStory : autocollants et repeinte",
+  "metaTitle": "Guide peinture ReStory : autocollants, repeinte et style",
+  "metaDescription": "Comment fonctionnent la peinture et les autocollants dans ReStory : la catégorie Style, les succès liés et la limite de rentabilité au début.",
+  "intro": "Dans ReStory, vous pouvez personnaliser les appareils avec des autocollants et de la repeinte. Cette page rassemble ce que les sources officielles confirment sur le mécanisme peinture/autocollants, les succès Style associés et la limite de rentabilité en début de partie.",
+  "sections": [
+    {"type": "list", "heading": "Ce que font la peinture et les autocollants",
+     "items": [
+        "Le style (Style) est une catégorie de succès officielle : autocollants et repeinte (Instant Cool, Sticker Bombing).",
+        "Les autocollants se posent sur les appareils — les succès suivent 1, 25 et 100 autocollants.",
+        "La repeinte est liée aux commandes clients — repeindre un appareil à la demande du client (Custom orders available!).",
+        "Une commande peut combiner peinture, nettoyage, réparation et hacking (Jack of All Trades).",
+     ]},
+    {"type": "table", "heading": "Succès peinture & autocollants (conditions officielles)",
+     "columns": ["Succès", "Condition officielle"],
+     "rows": [
+        ["Instant Cool", "Coller un autocollant"],
+        ["Instant Cool-er", "Coller 25 autocollants"],
+        ["Sticker Bombing", "Coller 100 autocollants"],
+        ["Custom orders available!", "Peindre un appareil à la demande du client pour la première fois"],
+        ["Jack of all trades", "Honorer une commande impliquant peinture, nettoyage, réparation et reprogrammation"],
+     ]},
+    {"type": "note", "heading": "La peinture ne rapporte pas en début de partie",
+     "body": "D'après le guide débutant d'intoindiegames, la peinture et la reprogrammation ne rapportent pas d'argent en début de partie — investissez d'abord dans les réparations. Nous n'affirmons rien de plus ; le prix exact de la peinture et ses conditions de déblocage sont encore en cours de vérification."},
+    {"type": "faq", "heading": "FAQ peinture",
+     "items": [
+        ["Combien de succès concernent la peinture ou les autocollants ?", "Cinq succès officiels : Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! et Jack of All Trades."],
+        ["Quand puis-je commencer à repeindre des appareils ?", "À confirmer. Les données officielles des succès confirment que la peinture existe, mais nos sources ne donnent pas de condition de déblocage, donc nous le marquons non vérifié."],
+        ["La peinture rapporte-t-elle en début de partie ?", "Non — selon intoindiegames, la peinture et la reprogrammation ne sont pas rentables au début ; les réparations passent d'abord."],
+     ]},
+  ],
+  "sources": ["steam-achievements", "intoindie"],
+  "icon": "brush",
 },
 
 "steam-deck": {

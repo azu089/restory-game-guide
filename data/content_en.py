@@ -9,7 +9,7 @@ PAGE_ORDER = [
     "beginners-guide", "repair-guide", "all-devices", "tools",
     "online-orders", "licenses", "achievements", "achievements-roadmap",
     "hidden-achievements", "zen-points", "endings", "customers",
-    "economy", "steam-deck", "system-requirements", "faq",
+    "economy", "painting-guide", "steam-deck", "system-requirements", "faq",
     "patch-notes", "guides",
     "devices/atari-2600",
     "devices/atari-lynx",
@@ -567,6 +567,41 @@ PAGES_EN = {
   ],
   "sources": ["intoindie", "allthings"],
   "icon": "economy",
+},
+
+"painting-guide": {
+  "title": "ReStory Painting Guide: Stickers & Repainting",
+  "metaTitle": "ReStory Painting Guide: Stickers, Repainting & Style",
+  "metaDescription": "How painting and stickers work in ReStory: the Style category, sticker milestones, device repainting orders and the early-game money boundary.",
+  "intro": "ReStory lets you personalize devices with stickers and repainting. This page collects what official sources confirm about the painting/sticker mechanism, the Style achievements tied to it, and the important early-game money boundary.",
+  "sections": [
+    {"type": "list", "heading": "What painting and stickers do",
+     "items": [
+        "Style is an official achievement category: stickers and repainting (Instant Cool, Sticker Bombing).",
+        "Stickers are applied to devices — achievements track 1, 25 and 100 stickers.",
+        "Device repainting is tied to client orders — repaint a device by a client's order (Custom orders available!).",
+        "One order can combine painting, cleaning, repair and hacking (Jack of All Trades).",
+     ]},
+    {"type": "table", "heading": "Painting & sticker achievements (official)",
+     "columns": ["Achievement", "Official condition"],
+     "rows": [
+        ["Instant Cool", "Apply a sticker to a device"],
+        ["Instant Cool-er", "Apply 25 stickers"],
+        ["Sticker Bombing", "Apply 100 stickers"],
+        ["Custom orders available!", "Paint a device by a client's order for the first time"],
+        ["Jack of all trades", "Complete an order that involves painting, cleaning, repair and hacking"],
+     ]},
+    {"type": "note", "heading": "Painting is not an early money-maker",
+     "body": "Per intoindiegames' beginner guide, painting and reprogramming do not make money early — invest in repairs first. We do not claim otherwise; exact paint pricing and unlock conditions are still being verified."},
+    {"type": "faq", "heading": "Painting FAQ",
+     "items": [
+        ["How many achievements involve painting or stickers?", "Five official achievements: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! and Jack of All Trades."],
+        ["When can I start painting devices?", "Pending confirmation. The official achievement data confirms painting exists, but our sources do not state an unlock condition, so we mark it unverified."],
+        ["Does painting make money early?", "No — per intoindiegames, painting and reprogramming are not profitable early; repairs come first."],
+     ]},
+  ],
+  "sources": ["steam-achievements", "intoindie"],
+  "icon": "brush",
 },
 
 "steam-deck": {

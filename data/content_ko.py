@@ -8,7 +8,7 @@ PAGE_ORDER = [
     "beginners-guide", "repair-guide", "all-devices", "tools",
     "online-orders", "licenses", "achievements", "achievements-roadmap",
     "hidden-achievements", "zen-points", "endings", "customers",
-    "economy", "steam-deck", "system-requirements", "faq",
+    "economy", "painting-guide", "steam-deck", "system-requirements", "faq",
     "patch-notes", "guides",
 ]
 
@@ -552,6 +552,41 @@ PAGES_KO = {
   ],
   "sources": ["intoindie", "allthings"],
   "icon": "economy",
+},
+
+"painting-guide": {
+  "title": "ReStory 도색 가이드: 스티커와 기기 도색",
+  "metaTitle": "ReStory 도색 가이드: 스티커와 기기 도색",
+  "metaDescription": "ReStory 도색 가이드: 스티커와 기기 도색의 쓰임새, 스타일 업적, 그리고 초반에는 돈이 되지 않는 경계를 정리합니다.",
+  "intro": "ReStory에서는 스티커와 도색으로 기기를 꾸밀 수 있습니다. 이 가이드는 공식 자료가 확인해 주는 도색·스티커 시스템, 관련 스타일 업적, 그리고 초반 수익 경계를 정리합니다. 아직 확인되지 않은 세부 사항은 '확인 중'으로 표시합니다.",
+  "sections": [
+    {"type": "list", "heading": "도색과 스티커의 역할",
+     "items": [
+        "스타일(Style)은 공식 업적 카테고리입니다 — 스티커와 도색(Instant Cool, Sticker Bombing).",
+        "스티커는 기기에 부착합니다 — 공식 업적은 1장, 25장, 100장을 추적합니다.",
+        "기기 도색은 손님 주문과 연결됩니다 — 손님의 의뢰로 기기를 도색합니다(Custom orders available!).",
+        "도색, 세척, 수리, 해킹을 모두 포함하는 주문도 있습니다(Jack of All Trades).",
+     ]},
+    {"type": "table", "heading": "도색·스티커 업적 (공식 조건)",
+     "columns": ["업적", "공식 조건"],
+     "rows": [
+        ["Instant Cool", "기기에 스티커 한 장을 붙이세요"],
+        ["Instant Cool-er", "스티커 25장을 붙이세요"],
+        ["Sticker Bombing", "스티커 100장을 붙이세요"],
+        ["Custom orders available!", "고객의 의뢰를 받아 처음으로 기기를 도색하세요"],
+        ["Jack of all trades", "도색, 세척, 수리, 해킹을 모두 포함하는 의뢰를 1회 완료하세요"],
+     ]},
+    {"type": "note", "heading": "도색은 초반에 돈이 되지 않습니다",
+     "body": "intoindiegames 초보자 가이드에 따르면 도색과 재프로그래밍은 초반에 돈이 되지 않습니다 — 먼저 수리에 투자하세요. 정확한 도색 비용과 해금 조건은 아직 확인 중이며, 확인되기 전까지는 추측하지 않습니다."},
+    {"type": "faq", "heading": "도색 FAQ",
+     "items": [
+        ["도색이나 스티커와 관련된 업적은 몇 개인가요?", "공식 업적 5개입니다: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available!, Jack of All Trades."],
+        ["언제부터 기기를 도색할 수 있나요?", "확인 중입니다. 공식 업적 데이터는 도색이 존재함을 확인하지만, 해금 조건을 명시하지 않아 미검증으로 표시합니다."],
+        ["도색은 초반에 돈이 되나요?", "아니요 — intoindiegames에 따르면 도색과 재프로그래밍은 초반에 수익이 되지 않으며, 수리가 우선입니다."],
+     ]},
+  ],
+  "sources": ["steam-achievements", "intoindie"],
+  "icon": "brush",
 },
 
 "steam-deck": {

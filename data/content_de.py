@@ -9,7 +9,7 @@ PAGE_ORDER = [
     "beginners-guide", "repair-guide", "all-devices", "tools",
     "online-orders", "licenses", "achievements", "achievements-roadmap",
     "hidden-achievements", "zen-points", "endings", "customers",
-    "economy", "steam-deck", "system-requirements", "faq",
+    "economy", "painting-guide", "steam-deck", "system-requirements", "faq",
     "patch-notes", "guides",
 ]
 
@@ -553,6 +553,41 @@ PAGES_DE = {
   ],
   "sources": ["intoindie", "allthings"],
   "icon": "economy",
+},
+
+"painting-guide": {
+  "title": "ReStory Bemalen-Guide: Sticker & Neulackierung",
+  "metaTitle": "ReStory Bemalen-Guide: Sticker, Lackieren & Style",
+  "metaDescription": "Wie Bemalen und Sticker in ReStory funktionieren: die Style-Kategorie, die zugehörigen Erfolge und die Geldgrenze zu Spielbeginn.",
+  "intro": "In ReStory kannst du Geräte mit Stickern und Neulackierung personalisieren. Diese Seite sammelt, was offizielle Quellen über das Bemal-/Sticker-System, die zugehörigen Style-Erfolge und die Geldgrenze zu Spielbeginn bestätigen.",
+  "sections": [
+    {"type": "list", "heading": "Was Bemalen und Sticker tun",
+     "items": [
+        "Style ist eine offizielle Erfolgskategorie: Sticker und Neulackierung (Instant Cool, Sticker Bombing).",
+        "Sticker werden auf Geräte geklebt — die Erfolge zählen 1, 25 und 100 Sticker.",
+        "Das Bemalen von Geräten hängt mit Kundenaufträgen zusammen — bemal ein Gerät nach Kundenwunsch (Custom orders available!).",
+        "Ein Auftrag kann Bemalen, Reinigen, Reparieren und Hacken kombinieren (Jack of All Trades).",
+     ]},
+    {"type": "table", "heading": "Bemal- & Sticker-Erfolge (offizielle Bedingungen)",
+     "columns": ["Erfolg", "Offizielle Bedingung"],
+     "rows": [
+        ["Instant Cool", "Wende einen Sticker auf ein Gerät an."],
+        ["Instant Cool-er", "Wende 25 Sticker an."],
+        ["Sticker Bombing", "Wende 100 Sticker an."],
+        ["Custom orders available!", "Bemale zum ersten Mal ein Gerät nach Anweisung des Kunden."],
+        ["Jack of all trades", "Schließe einen Auftrag ab, der Malen, Reinigen, Reparieren und Hacking beinhaltet."],
+     ]},
+    {"type": "note", "heading": "Bemalen bringt zu Spielbeginn kein Geld",
+     "body": "Laut dem Anfänger-Guide von intoindiegames bringen Bemalen und Neuprogrammierung zu Beginn kein Geld — investiere zuerst in Reparaturen. Wir behaupten nichts darüber hinaus; genaue Bemalpreise und Freischaltbedingungen werden noch verifiziert."},
+    {"type": "faq", "heading": "Bemalen-FAQ",
+     "items": [
+        ["Wie viele Erfolge betreffen Bemalen oder Sticker?", "Fünf offizielle Erfolge: Instant Cool, Instant Cool-er, Sticker Bombing, Custom orders available! und Jack of All Trades."],
+        ["Ab wann kann ich Geräte bemalen?", "Noch unbestätigt. Die offiziellen Erfolgsdaten bestätigen, dass Bemalen existiert, aber unsere Quellen nennen keine Freischaltbedingung, daher markieren wir es als unverifiziert."],
+        ["Bringt Bemalen zu Spielbeginn Geld?", "Nein — laut intoindiegames sind Bemalen und Neuprogrammierung anfangs nicht profitabel; Reparaturen haben Vorrang."],
+     ]},
+  ],
+  "sources": ["steam-achievements", "intoindie"],
+  "icon": "brush",
 },
 
 "steam-deck": {

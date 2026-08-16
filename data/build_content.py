@@ -634,61 +634,61 @@ _HOME_I18N = {
  "en": {
   "homeIntro": "ReStory is a chill, narrative-driven shop management simulator from the creators of I Am Future. Set in mid-2000s Tokyo, you run an electronics repair shop — restore nostalgic Y2K devices, talk to customers, and shape a branching story with multiple endings.",
   "homeFacts": ["Run a repair shop in mid-2000s Tokyo (Akihabara)","Restore nostalgic Y2K devices, including officially licensed Atari consoles","Branching storyline with multiple endings based on your choices","50 Steam achievements + trading cards + cloud saves","Official 9 languages + Traditional Chinese (10 total)","From the creators of I Am Future — published by tinyBuild"],
-  "homeStats": ["Released","Achievements","Languages","Repairable devices","On Steam (10% off)","Reviews in 3 days"],
+  "homeStats": ["Released","Achievements","Official + guide languages","Repairable devices","On Steam (10% off)","Reviews in 3 days"],
   "aboutPoints": ["Facts checked against the official Steam store page and reputable sources (allthings.how, intoindiegames)","Anything still being verified is explicitly marked — we never invent details","Available in 10 languages; every page lists its own sources"]
  },
  "zh-CN": {
   "homeIntro": "《ReStory：维修物语》是一款由 I Am Future 团队打造的治愈系叙事经营模拟游戏。故事发生在 2005 年的东京秋叶原——你经营一家电子维修铺，修复怀旧 Y2K 设备、倾听顾客的故事，用你的选择塑造多条分支结局。",
   "homeFacts": ["在 2005 年东京秋叶原经营维修铺","修复怀旧 Y2K 设备，包括官方授权的 Atari 主机","基于你的选择的分支剧情与多结局","50 个 Steam 成就 + 卡牌 + 云存档","9 种官方语言 + 繁体中文（共 10 种）","来自 I Am Future 团队，由 tinyBuild 发行"],
-  "homeStats": ["发售日","成就","语言","可修设备","Steam 价格（9 折）","3 天评价数"],
+  "homeStats": ["发售日","成就","官方 + 指南语言","可修设备","Steam 价格（9 折）","3 天评价数"],
   "aboutPoints": ["事实核对自 Steam 官方商店页与可靠来源（allthings.how、intoindiegames）","仍在验证的内容明确标注——我们绝不编造细节","提供 10 种语言；每个页面都列出自己的来源"]
  },
  "zh-TW": {
   "homeIntro": "《ReStory：維修物語》是一款由 I Am Future 團隊打造的治癒系敘事經營模擬遊戲。故事發生在 2005 年的東京秋葉原——你經營一家電子維修鋪，修復懷舊 Y2K 設備、傾聽顧客的故事，用你的選擇塑造多條分支結局。",
   "homeFacts": ["在 2005 年東京秋葉原經營維修鋪","修復懷舊 Y2K 設備，包括官方授權的 Atari 主機","基於你的選擇的分支劇情與多結局","50 個 Steam 成就 + 卡牌 + 雲端存檔","9 種官方語言 + 繁體中文（共 10 種）","來自 I Am Future 團隊，由 tinyBuild 發行"],
-  "homeStats": ["發售日","成就","語言","可修設備","Steam 價格（9 折）","3 天評價數"],
+  "homeStats": ["發售日","成就","官方 + 指南語言","可修設備","Steam 價格（9 折）","3 天評價數"],
   "aboutPoints": ["事實核對自 Steam 官方商店頁與可靠來源（allthings.how、intoindiegames）","仍在驗證的內容明確標註——我們絕不編造細節","提供 10 種語言；每個頁面都列出自己的來源"]
  },
  "ja": {
   "homeIntro": "『ReStory：まったり電子機器修理』は I Am Future の開発者による、癒やし系ストーリー経営シミュレーション。2005年の中旬・東京秋葉原で電子機器修理店を営み、懐かしいY2Kデバイスを修復し、お客の物語に耳を傾け、選択で分岐する複数のエンディングを紡ぎます。",
   "homeFacts": ["2005年・秋葉原で修理店を経営","公式ライセンスのAtariなど懐かしいY2Kデバイスを修復","選択で変わる分岐ストーリーと複数エンディング","Steam実績50個 + トレーディングカード + クラウド保存","公式9言語 + 繁体中国語（計10言語）","I Am Future 開発チーム、tinyBuild 発行"],
-  "homeStats": ["発売日","実績","言語","修理可能デバイス","Steam価格（10%OFF）","3日間のレビュー数"],
+  "homeStats": ["発売日","実績","公式 + ガイド言語","修理可能デバイス","Steam価格（10%OFF）","3日間のレビュー数"],
   "aboutPoints": ["Steam公式ストアと信頼できる情報源（allthings.how、intoindiegames）で確認","未検証の内容は明記 — 細部を創作しません","10言語対応；各ページに出典を掲載"]
  },
  "ko": {
   "homeIntro": "《ReStory: 리스토리》는 I Am Future 제작진이 만든 힐링형 스토리 경영 시뮬레이션입니다. 2005년 도쿄 아키하바라에서 전자제품 수리점을 운영하며, 추억의 Y2K 기기를 복원하고 손님의 이야기를 듣고, 선택에 따라 갈라지는 여러 엔딩을 만들어 갑니다.",
   "homeFacts": ["2005년 도쿄 아키하바라에서 수리점 운영","공식 라이선스 Atari 등 추억의 Y2K 기기 복원","선택에 따라 달라지는 분기 스토리와 다중 엔딩","Steam 업적 50개 + 트레이딩 카드 + 클라우드 저장","공식 9개 언어 + 대만 중국어(총 10개)","I Am Future 제작진, tinyBuild 배급"],
-  "homeStats": ["출시일","업적","언어","수리 가능 기기","Steam 가격(10% 할인)","3일 리뷰 수"],
+  "homeStats": ["출시일","업적","공식 + 가이드 언어","수리 가능 기기","Steam 가격(10% 할인)","3일 리뷰 수"],
   "aboutPoints": ["Steam 공식 스토어와 신뢰할 수 있는 출처(allthings.how, intoindiegames)로 확인","미검증 내용은 명확히 표시 — 세부 사항을 지어내지 않습니다","10개 언어 제공; 각 페이지에 출처 명시"]
  },
  "fr": {
   "homeIntro": "ReStory est un simulateur de gestion narratif et relaxant signé par les créateurs de I Am Future. Dans le Tokyo des années 2000, vous tenez une boutique de réparation d'électronique : restaurez des appareils Y2K nostalgiques, écoutez les histoires des clients et façonnez une histoire à embranchements et fins multiples.",
   "homeFacts": ["Tenez une boutique de réparation dans le Tokyo des années 2000 (Akihabara)","Restaurez des appareils Y2K nostalgiques, dont les consoles Atari sous licence officielle","Histoire à embranchements et fins multiples selon vos choix","50 succès Steam + cartes + sauvegarde cloud","9 langues officielles + chinois traditionnel (10 au total)","Par les créateurs de I Am Future — édité par tinyBuild"],
-  "homeStats": ["Sortie","Succès","Langues","Appareils réparables","Sur Steam (-10 %)","Avis en 3 jours"],
+  "homeStats": ["Sortie","Succès","Langues officielles + guide","Appareils réparables","Sur Steam (-10 %)","Avis en 3 jours"],
   "aboutPoints": ["Informations vérifiées sur la page Steam officielle et des sources fiables (allthings.how, intoindiegames)","Tout ce qui reste à vérifier est signalé — nous n'inventons jamais de détails","Disponible en 10 langues ; chaque page liste ses sources"]
  },
  "de": {
   "homeIntro": "ReStory ist ein entspannter, erzählerischer Shop-Management-Simulator von den Machern von I Am Future. In Tokio Mitte der 2000er führst du einen Elektronik-Reparaturshop: stelle nostalgische Y2K-Geräte wieder her, höre den Geschichten der Kunden zu und gestalte eine verzweigte Geschichte mit mehreren Enden.",
   "homeFacts": ["Führe einen Reparaturshop im Tokio der 2000er (Akihabara)","Stelle nostalgische Y2K-Geräte wieder her, inkl. offiziell lizenzierter Atari-Konsolen","Verzweigte Geschichte mit mehreren Enden je nach deinen Entscheidungen","50 Steam-Errungenschaften + Karten + Cloud-Speicher","9 offizielle Sprachen + traditionelles Chinesisch (10 gesamt)","Von den Machern von I Am Future — veröffentlicht von tinyBuild"],
-  "homeStats": ["Erschienen","Errungenschaften","Sprachen","Reparierbare Geräte","Auf Steam (-10 %)","Bewertungen in 3 Tagen"],
+  "homeStats": ["Erschienen","Errungenschaften","Offizielle + Guide-Sprachen","Reparierbare Geräte","Auf Steam (-10 %)","Bewertungen in 3 Tagen"],
   "aboutPoints": ["Informationen geprüft gegen die offizielle Steam-Seite und zuverlässige Quellen (allthings.how, intoindiegames)","Alles Unverifizierte ist markiert — wir erfinden nie Details","Verfügbar in 10 Sprachen; jede Seite listet ihre Quellen"]
  },
  "es": {
   "homeIntro": "ReStory es un simulador de gestión narrativo y relajante de los creadores de I Am Future. En el Tokio de mediados de los 2000, regentas una tienda de reparación de electrónica: restaura dispositivos Y2K nostálgicos, escucha las historias de los clientes y da forma a una historia ramificada con múltiples finales.",
   "homeFacts": ["Regenta una tienda de reparación en el Tokio de 2005 (Akihabara)","Restaura dispositivos Y2K nostálgicos, incluidas consolas Atari con licencia oficial","Historia ramificada con múltiples finales según tus decisiones","50 logros de Steam + cromos + guardado en la nube","9 idiomas oficiales + chino tradicional (10 en total)","De los creadores de I Am Future — publicado por tinyBuild"],
-  "homeStats": ["Lanzamiento","Logros","Idiomas","Dispositivos reparables","En Steam (-10 %)","Reseñas en 3 días"],
+  "homeStats": ["Lanzamiento","Logros","Idiomas oficiales + guía","Dispositivos reparables","En Steam (-10 %)","Reseñas en 3 días"],
   "aboutPoints": ["Información contrastada con la página oficial de Steam y fuentes fiables (allthings.how, intoindiegames)","Todo lo pendiente de verificar está marcado — nunca inventamos detalles","Disponible en 10 idiomas; cada página lista sus fuentes"]
  },
  "pt-BR": {
   "homeIntro": "ReStory é um simulador de gestão narrativo e relaxante dos criadores de I Am Future. No Tóquio de meados dos anos 2000, você administra uma loja de consertos de eletrônicos: restaure aparelhos Y2K nostálgicos, ouça as histórias dos clientes e molde uma história ramificada com múltiplos finais.",
   "homeFacts": ["Administre uma loja de consertos no Tóquio de 2005 (Akihabara)","Restaure aparelhos Y2K nostálgicos, incluindo consoles Atari com licença oficial","História ramificada com múltiplos finais conforme suas escolhas","50 conquistas na Steam + cards + nuvem","9 idiomas oficiais + chinês tradicional (10 no total)","Dos criadores de I Am Future — publicado pela tinyBuild"],
-  "homeStats": ["Lançamento","Conquistas","Idiomas","Aparelhos reparáveis","Na Steam (-10 %)","Avaliações em 3 dias"],
+  "homeStats": ["Lançamento","Conquistas","Idiomas oficiais + guia","Aparelhos reparáveis","Na Steam (-10 %)","Avaliações em 3 dias"],
   "aboutPoints": ["Informações verificadas na página oficial da Steam e fontes confiáveis (allthings.how, intoindiegames)","Tudo que está em verificação é marcado — nunca inventamos detalhes","Disponível em 10 idiomas; cada página lista suas fontes"]
  },
  "ru": {
   "homeIntro": "ReStory — расслабленный нарративный симулятор управления магазином от создателей I Am Future. В Токио середины 2000-х вы держите мастерскую по ремонту электроники: восстанавливайте ностальгические Y2K-устройства, слушайте истории клиентов и формируйте ветвящуюся историю с несколькими концовками.",
   "homeFacts": ["Держите мастерскую по ремонту в Токио 2005 (Акихабара)","Восстанавливайте ностальгические Y2K-устройства, включая официально лицензированные консоли Atari","Ветвящаяся история с несколькими концовками в зависимости от выбора","50 достижений Steam + карточки + облачные сохранения","9 официальных языков + традиционный китайский (всего 10)","От создателей I Am Future — издатель tinyBuild"],
-  "homeStats": ["Релиз","Достижения","Языки","Ремонтируемые устройства","В Steam (-10 %)","Отзывов за 3 дня"],
+  "homeStats": ["Релиз","Достижения","Официальные + языки гайда","Ремонтируемые устройства","В Steam (-10 %)","Отзывов за 3 дня"],
   "aboutPoints": ["Информация проверена по официальной странице Steam и надёжным источникам (allthings.how, intoindiegames)","Всё, что ещё проверяется, помечено — мы никогда не выдумываем детали","Доступно на 10 языках; каждая страница перечисляет свои источники"]
  },
 }

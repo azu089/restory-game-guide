@@ -139,7 +139,7 @@
     "homeStats": [
      "Released",
      "Achievements",
-     "Languages",
+     "Official + guide languages",
      "Repairable devices",
      "On Steam (10% off)",
      "Reviews in 3 days"
@@ -258,7 +258,7 @@
     "homeStats": [
      "发售日",
      "成就",
-     "语言",
+     "官方 + 指南语言",
      "可修设备",
      "Steam 价格（9 折）",
      "3 天评价数"
@@ -377,7 +377,7 @@
     "homeStats": [
      "發售日",
      "成就",
-     "語言",
+     "官方 + 指南語言",
      "可修設備",
      "Steam 價格（9 折）",
      "3 天評價數"
@@ -496,7 +496,7 @@
     "homeStats": [
      "発売日",
      "実績",
-     "言語",
+     "公式 + ガイド言語",
      "修理可能デバイス",
      "Steam価格（10%OFF）",
      "3日間のレビュー数"
@@ -615,7 +615,7 @@
     "homeStats": [
      "출시일",
      "업적",
-     "언어",
+     "공식 + 가이드 언어",
      "수리 가능 기기",
      "Steam 가격(10% 할인)",
      "3일 리뷰 수"
@@ -734,7 +734,7 @@
     "homeStats": [
      "Sortie",
      "Succès",
-     "Langues",
+     "Langues officielles + guide",
      "Appareils réparables",
      "Sur Steam (-10 %)",
      "Avis en 3 jours"
@@ -853,7 +853,7 @@
     "homeStats": [
      "Erschienen",
      "Errungenschaften",
-     "Sprachen",
+     "Offizielle + Guide-Sprachen",
      "Reparierbare Geräte",
      "Auf Steam (-10 %)",
      "Bewertungen in 3 Tagen"
@@ -972,7 +972,7 @@
     "homeStats": [
      "Lanzamiento",
      "Logros",
-     "Idiomas",
+     "Idiomas oficiales + guía",
      "Dispositivos reparables",
      "En Steam (-10 %)",
      "Reseñas en 3 días"
@@ -1091,7 +1091,7 @@
     "homeStats": [
      "Lançamento",
      "Conquistas",
-     "Idiomas",
+     "Idiomas oficiais + guia",
      "Aparelhos reparáveis",
      "Na Steam (-10 %)",
      "Avaliações em 3 dias"
@@ -1210,7 +1210,7 @@
     "homeStats": [
      "Релиз",
      "Достижения",
-     "Языки",
+     "Официальные + языки гайда",
      "Ремонтируемые устройства",
      "В Steam (-10 %)",
      "Отзывов за 3 дня"
@@ -1264,8 +1264,8 @@
     "label": "Achievements"
    },
    {
-    "value": "10",
-    "label": "Languages"
+    "value": "9+1",
+    "label": "Official + guide languages"
    },
    {
     "value": "14+",

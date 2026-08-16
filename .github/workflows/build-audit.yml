@@ -17,10 +17,20 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Build
-        run: node scripts/generate.js
+      - name: Build (data chain + generator)
+        # 数据链：site.base.json -> build_content.py -> site.json -> generate.js。
+        # site.json 必须与数据链的确定性输出一致（漂移即失败），再构建 public/。
+        run: |
+          python3 -c "import opencc" 2>/dev/null || python3 -m pip install --quiet --break-system-packages opencc
+          python3 data/build_content.py
+          git diff --exit-code -- data/site.json || { echo "site.json drifted from the data chain: run python3 data/build_content.py and commit the regenerated file"; exit 1; }
+          node scripts/generate.js
       - name: Audit
-        run: node scripts/lib/audit.js .
+        run: |
+          node scripts/lib/audit.js .
+          node scripts/audit-commercial-gates.mjs
+          node scripts/audit-consent.mjs
+          node scripts/audit-navigation-integrity.mjs
       - name: Assert deterministic build
         run: |
           find public -type f -print0 | sort -z | xargs -0 sha256sum > /tmp/a.sha

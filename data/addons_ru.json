@@ -215,12 +215,19 @@
    {
     "type": "list",
     "heading": "Семейства устройств",
-    "body": "Подтверждённый список устройств делится на семейства (источник: allthings.how):",
+    "body": "Источники сообщества (L3 — официально не подтверждено) делят 29 устройств из списка на семейства:",
     "items": [
-     "Консоли и портативки — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-     "Телефоны и музыка — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-     "Гаджеты и игрушки — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-     "Прочее — фонарик Unicorp 99L и официально лицензированный Atari CX40."
+     "Консоли — Atari 2600, Brick Game, XI-box.",
+     "Портативные — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+     "Контроллеры — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+     "Телефоны — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+     "Бытовая техника — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+     "Гаджеты и игрушки — Eggotchi, Nerdio W-91F, Robby.",
+     "Музыка и медиа — Nony PMP, Nony Goman, Mapple Mypod.",
+     "Ноутбуки — IDM ThinkerDad.",
+     "Камеры — Palaloid.",
+     "Прочее — Unicorp 99L.",
+     "Название ожидает проверки L0 — walkie-talkie (возможно, Autorolla WT2000) и robodog (возможно, Robby)."
     ]
    },
    {

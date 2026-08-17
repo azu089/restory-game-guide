@@ -215,12 +215,19 @@
    {
     "type": "list",
     "heading": "Device families",
-    "body": "The confirmed device list groups into families (source: allthings.how):",
+    "body": "Community sources (L3 — not officially confirmed) group the 29 listed devices into families:",
     "items": [
-     "Consoles & handhelds — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-     "Phones & music — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-     "Gadgets & toys — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-     "Extras — Unicorp 99L flashlight and the officially licensed Atari CX40."
+     "Consoles — Atari 2600, Brick Game, XI-box.",
+     "Handhelds — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+     "Controllers — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+     "Phones — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+     "Appliances — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+     "Gadgets & toys — Eggotchi, Nerdio W-91F, Robby.",
+     "Music & media — Nony PMP, Nony Goman, Mapple Mypod.",
+     "Laptops — IDM ThinkerDad.",
+     "Cameras — Palaloid.",
+     "Extras — Unicorp 99L.",
+     "Name pending L0 verification — walkie-talkie (suspected Autorolla WT2000) and robodog (suspected Robby)."
     ]
    },
    {

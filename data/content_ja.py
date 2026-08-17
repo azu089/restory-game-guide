@@ -167,8 +167,8 @@ PAGES_JA = {
         ["Robby", "Tekno 風のロボット子犬", "ガジェット・おもちゃ · Steam公式アップデート#2（v1.0.010r）で言及 · コミュニティ情報（L3）"],
         ["Nerdio W-91F", "Casio F-91W 腕時計", "ガジェット・おもちゃ · コミュニティ情報（L3）"],
         ["Guitar Legend", "Guitar Hero 風のギターコントローラー", "コントローラー · Steam公式アップデート#1（v1.0.009r）で言及 · コミュニティ情報（L3）"],
-        ["Mapple Mypod", "iPod Classic 風の音楽プレーヤー", "音楽・メディア · Steam公式アップデート#1（v1.0.009r）で言及 · コミュニティ情報（L3）"],
-        ["IDM ThinkerDad", "ThinkPad 365XD 風のノートPC", "ノートPC · Steam公式アップデート#1（v1.0.009r）で言及 · コミュニティ情報（L3）"],
+        ["Mapple Mypod", "iPod Classic 風の音楽プレーヤー", "音楽・メディア · Steam公式アップデート#1（v1.0.009r）で「MyPod」として言及 · コミュニティ情報（L3）"],
+        ["IDM ThinkerDad", "ThinkPad 365XD 風のノートPC", "ノートPC · Steam公式アップデート#1（v1.0.009r）で「IDM device」として言及 · コミュニティ情報（L3）"],
      ]},
     {"type": "steps", "heading": "デバイスのアンロックの仕組み",
      "items": [

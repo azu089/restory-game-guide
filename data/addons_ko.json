@@ -215,12 +215,19 @@
    {
     "type": "list",
     "heading": "기기 계열",
-    "body": "확인된 기기 목록은 계열로 묶입니다(출처: allthings.how):",
+    "body": "커뮤니티 소스(L3 — 공식 확인 안 됨)는 목록의 29개 기기를 계열로 묶습니다:",
     "items": [
-     "콘솔 & 휴대용 기기 — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-     "휴대폰 & 음악 — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-     "가젯 & 장난감 — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-     "기타 — Unicorp 99L 손전등과 정식 라이선스 Atari CX40."
+     "콘솔 — Atari 2600, Brick Game, XI-box.",
+     "핸드헬드 — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+     "컨트롤러 — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+     "휴대폰 — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+     "가전 — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+     "가젯 및 장난감 — Eggotchi, Nerdio W-91F, Robby.",
+     "음악·미디어 — Nony PMP, Nony Goman, Mapple Mypod.",
+     "노트북 — IDM ThinkerDad.",
+     "카메라 — Palaloid.",
+     "기타 — Unicorp 99L.",
+     "이름 L0 확인 대기 — walkie-talkie(Autorolla WT2000일 가능성)와 robodog(Robby일 가능성)."
     ]
    },
    {

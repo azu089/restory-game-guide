@@ -168,8 +168,8 @@ PAGES_ES = {
         ["Robby", "Perro robot estilo Tekno", "Gadgets y juguetes · mencionado en la actualización oficial n.º 2 de Steam (v1.0.010r) · referencia de la comunidad (L3)"],
         ["Nerdio W-91F", "Reloj Casio F-91W", "Gadgets y juguetes · referencia de la comunidad (L3)"],
         ["Guitar Legend", "Controlador de guitarra estilo Guitar Hero", "Mandos · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r) · referencia de la comunidad (L3)"],
-        ["Mapple Mypod", "Reproductor estilo iPod Classic", "Música y medios · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r) · referencia de la comunidad (L3)"],
-        ["IDM ThinkerDad", "Portátil estilo ThinkPad 365XD", "Portátiles · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r) · referencia de la comunidad (L3)"],
+        ["Mapple Mypod", "Reproductor estilo iPod Classic", "Música y medios · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r, como « MyPod ») · referencia de la comunidad (L3)"],
+        ["IDM ThinkerDad", "Portátil estilo ThinkPad 365XD", "Portátiles · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r, como « IDM device ») · referencia de la comunidad (L3)"],
      ]},
     {"type": "steps", "heading": "Cómo funciona el desbloqueo de dispositivos",
      "items": [

@@ -467,14 +467,14 @@ SRC_STEAM_DISC_DEVICES = _src("Steam discussion: ReStory device list (29 devices
     "ru": "Обсуждение Steam: список устройств ReStory (29 устройств)",
 })
 # ---- L0 官方补丁公告（5 台设备在官方 Steam 补丁中被点名）----
-SRC_STEAM_PATCH_009R = _src("Official Steam announcement — Update #1 (v1.0.009r)", "https://steamcommunity.com/app/3812600/allnews/", {
+SRC_STEAM_PATCH_009R = _src("Official Steam announcement — Update #1 (v1.0.009r)", "https://steamcommunity.com/games/3812600/announcements/detail/711157251640918758", {
     "en": "Official Steam announcement — Update #1 (v1.0.009r)", "zh-CN": "Steam 官方公告——更新 #1（v1.0.009r）",
     "ja": "Steam公式アナウンス — アップデート#1（v1.0.009r）", "ko": "Steam 공식 공지 — 업데이트 #1(v1.0.009r)",
     "fr": "Annonce Steam officielle — Mise à jour n°1 (v1.0.009r)", "de": "Offizielle Steam-Ankündigung — Update Nr. 1 (v1.0.009r)",
     "es": "Anuncio oficial de Steam — Actualización n.º 1 (v1.0.009r)", "pt-BR": "Anúncio oficial da Steam — Atualização nº 1 (v1.0.009r)",
     "ru": "Официальное объявление Steam — Обновление №1 (v1.0.009r)",
 })
-SRC_STEAM_PATCH_010R = _src("Official Steam announcement — Update #2 (v1.0.010r)", "https://steamcommunity.com/app/3812600/allnews/", {
+SRC_STEAM_PATCH_010R = _src("Official Steam announcement — Update #2 (v1.0.010r)", "https://steamcommunity.com/games/3812600/announcements/detail/676254988366774831", {
     "en": "Official Steam announcement — Update #2 (v1.0.010r)", "zh-CN": "Steam 官方公告——更新 #2（v1.0.010r）",
     "ja": "Steam公式アナウンス — アップデート#2（v1.0.010r）", "ko": "Steam 공식 공지 — 업데이트 #2(v1.0.010r)",
     "fr": "Annonce Steam officielle — Mise à jour n°2 (v1.0.010r)", "de": "Offizielle Steam-Ankündigung — Update Nr. 2 (v1.0.010r)",

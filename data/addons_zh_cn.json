@@ -216,12 +216,19 @@
    {
     "type": "list",
     "heading": "设备家族",
-    "body": "已确认的设备清单按家族分组（来源：allthings.how）：",
+    "body": "社区来源（L3——未经官方核实）将清单中的 29 台设备按家族分组：",
     "items": [
-     "主机与掌机——Atari 2600、Atari Lynx、Nony PlayMachine、Patento BS。",
-     "手机与音乐——Autorolla Razor、Pokia 3310/Njoy、Nony Goman。",
-     "小玩意儿与玩具——Eggotchi、Palaloid、Walkie-talkie、Robodog。",
-     "其他——Unicorp 99L 手电，以及官方授权的 Atari CX40。"
+     "主机 — Atari 2600、Brick Game、XI-box。",
+     "掌机 — Atari Lynx、Nony PlayMachine、Patento BS、Game Duck。",
+     "手柄 — Atari CX40、BreadBox Joystick、XI-box Controller、Guitar Legend。",
+     "手机 — Autorolla Razor、Pokia 3310、Pokia Njoy、Simsons M65、Blueberry Curl、Wertu Signature。",
+     "家电 — Unicorp Kettle、Autorolla WT2000、Unicorp Vision。",
+     "小玩意与玩具 — Eggotchi、Nerdio W-91F、Robby。",
+     "音乐与媒体 — Nony PMP、Nony Goman、Mapple Mypod。",
+     "笔记本 — IDM ThinkerDad。",
+     "相机 — Palaloid。",
+     "其他 — Unicorp 99L。",
+     "名称待 L0 核实——walkie-talkie（疑为 Autorolla WT2000）与 robodog（疑为 Robby）。"
     ]
    },
    {

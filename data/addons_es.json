@@ -215,12 +215,19 @@
    {
     "type": "list",
     "heading": "Familias de dispositivos",
-    "body": "La lista confirmada de dispositivos se agrupa en familias (fuente: allthings.how):",
+    "body": "Las fuentes comunitarias (L3 — no confirmadas oficialmente) agrupan los 29 dispositivos de la lista en familias:",
     "items": [
-     "Consolas y portátiles: Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-     "Teléfonos y música: Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-     "Gadgets y juguetes: Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-     "Extras: la linterna Unicorp 99L y el Atari CX40 con licencia oficial."
+     "Consolas — Atari 2600, Brick Game, XI-box.",
+     "Consolas portátiles — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+     "Mandos — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+     "Teléfonos — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+     "Electrodomésticos — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+     "Gadgets y juguetes — Eggotchi, Nerdio W-91F, Robby.",
+     "Música y medios — Nony PMP, Nony Goman, Mapple Mypod.",
+     "Portátiles — IDM ThinkerDad.",
+     "Cámaras — Palaloid.",
+     "Extras — Unicorp 99L.",
+     "Nombre pendiente de verificación L0 — walkie-talkie (posiblemente el Autorolla WT2000) y robodog (posiblemente Robby)."
     ]
    },
    {

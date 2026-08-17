@@ -153,8 +153,8 @@ PAGES_DE = {
         ["Robby", "Tekno-artiger Roboterhund", "Gadgets & Spielzeug · in offiziellem Steam-Update Nr. 2 (v1.0.010r) genannt · Community-Referenz (L3)"],
         ["Nerdio W-91F", "Casio-F-91W-Uhr", "Gadgets & Spielzeug · Community-Referenz (L3)"],
         ["Guitar Legend", "Guitar-Hero-artiger Gitarrencontroller", "Controller · in offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt · Community-Referenz (L3)"],
-        ["Mapple Mypod", "iPod-Classic-artiger Musikplayer", "Musik & Medien · in offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt · Community-Referenz (L3)"],
-        ["IDM ThinkerDad", "ThinkPad-365XD-artiger Laptop", "Laptops · in offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt · Community-Referenz (L3)"],
+        ["Mapple Mypod", "iPod-Classic-artiger Musikplayer", "Musik & Medien · in offiziellem Steam-Update Nr. 1 (v1.0.009r) als „MyPod“ genannt · Community-Referenz (L3)"],
+        ["IDM ThinkerDad", "ThinkPad-365XD-artiger Laptop", "Laptops · in offiziellem Steam-Update Nr. 1 (v1.0.009r) als „IDM device“ genannt · Community-Referenz (L3)"],
      ]},
     {"type": "steps", "heading": "So funktioniert das Freischalten von Geräten",
      "items": [

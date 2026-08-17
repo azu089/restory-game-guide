@@ -215,12 +215,19 @@
    {
     "type": "list",
     "heading": "デバイスのファミリー",
-    "body": "確認済みのデバイス一覧はファミリーに分類されます（出典：allthings.how）：",
+    "body": "コミュニティ情報源（L3——公式確認なし）は、リストの29台のデバイスをファミリーに分類しています：",
     "items": [
-     "コンソール＆携帯機 — Atari 2600、Atari Lynx、Nony PlayMachine、Patento BS。",
-     "携帯電話＆音楽 — Autorolla Razor、Pokia 3310/Njoy、Nony Goman。",
-     "ガジェット＆おもちゃ — Eggotchi、Palaloid、Walkie-talkie、Robodog。",
-     "その他 — Unicorp 99L 懐中電灯と公式ライセンスの Atari CX40。"
+     "ゲーム機 — Atari 2600、Brick Game、XI-box。",
+     "携帯ゲーム機 — Atari Lynx、Nony PlayMachine、Patento BS、Game Duck。",
+     "コントローラー — Atari CX40、BreadBox Joystick、XI-box Controller、Guitar Legend。",
+     "携帯電話 — Autorolla Razor、Pokia 3310、Pokia Njoy、Simsons M65、Blueberry Curl、Wertu Signature。",
+     "家電 — Unicorp Kettle、Autorolla WT2000、Unicorp Vision。",
+     "ガジェット・おもちゃ — Eggotchi、Nerdio W-91F、Robby。",
+     "音楽・メディア — Nony PMP、Nony Goman、Mapple Mypod。",
+     "ノートPC — IDM ThinkerDad。",
+     "カメラ — Palaloid。",
+     "その他 — Unicorp 99L。",
+     "名称はL0検証待ち — walkie-talkie（Autorolla WT2000 の可能性）と robodog（Robby の可能性）。"
     ]
    },
    {

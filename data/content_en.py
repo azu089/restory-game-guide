@@ -167,8 +167,8 @@ PAGES_EN = {
         ["Robby", "Tekno-style robot puppy", "Gadgets & toys · Named in official Steam Update #2 (v1.0.010r) · Community reference (L3)"],
         ["Nerdio W-91F", "Casio F-91W watch", "Gadgets & toys · Community reference (L3)"],
         ["Guitar Legend", "Guitar Hero-style guitar controller", "Controllers · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"],
-        ["Mapple Mypod", "iPod Classic-style music player", "Music & media · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"],
-        ["IDM ThinkerDad", "ThinkPad 365XD-style laptop", "Laptops · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"],
+        ["Mapple Mypod", "iPod Classic-style music player", "Music & media · Named in official Steam Update #1 (v1.0.009r as 'MyPod') · Community reference (L3)"],
+        ["IDM ThinkerDad", "ThinkPad 365XD-style laptop", "Laptops · Named in official Steam Update #1 (v1.0.009r as 'IDM device') · Community reference (L3)"],
      ]},
     {"type": "steps", "heading": "How device unlocking works",
      "items": [

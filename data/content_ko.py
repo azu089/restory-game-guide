@@ -152,8 +152,8 @@ PAGES_KO = {
         ["Robby", "Tekno 스타일 로봇 강아지", "가젯 및 장난감 · 공식 Steam 업데이트 #2(v1.0.010r)에서 언급 · 커뮤니티 참고 자료(L3)"],
         ["Nerdio W-91F", "Casio F-91W 시계", "가젯 및 장난감 · 커뮤니티 참고 자료(L3)"],
         ["Guitar Legend", "Guitar Hero 스타일 기타 컨트롤러", "컨트롤러 · 공식 Steam 업데이트 #1(v1.0.009r)에서 언급 · 커뮤니티 참고 자료(L3)"],
-        ["Mapple Mypod", "iPod Classic 스타일 음악 플레이어", "음악·미디어 · 공식 Steam 업데이트 #1(v1.0.009r)에서 언급 · 커뮤니티 참고 자료(L3)"],
-        ["IDM ThinkerDad", "ThinkPad 365XD 스타일 노트북", "노트북 · 공식 Steam 업데이트 #1(v1.0.009r)에서 언급 · 커뮤니티 참고 자료(L3)"],
+        ["Mapple Mypod", "iPod Classic 스타일 음악 플레이어", "음악·미디어 · 공식 Steam 업데이트 #1(v1.0.009r)에서 'MyPod'로 언급 · 커뮤니티 참고 자료(L3)"],
+        ["IDM ThinkerDad", "ThinkPad 365XD 스타일 노트북", "노트북 · 공식 Steam 업데이트 #1(v1.0.009r)에서 'IDM device'로 언급 · 커뮤니티 참고 자료(L3)"],
      ]},
     {"type": "steps", "heading": "기기 해금 방식",
      "items": [

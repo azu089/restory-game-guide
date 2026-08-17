@@ -142,8 +142,8 @@ PAGES_ZH_CN = {
         ["Robby", "Tekno 式电子狗", "小玩意与玩具 · 官方 Steam 更新 #2（v1.0.010r）点名 · 社区资料（L3）"],
         ["Nerdio W-91F", "卡西欧 F-91W 手表", "小玩意与玩具 · 社区资料（L3）"],
         ["Guitar Legend", "Guitar Hero 式吉他手柄", "手柄 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"],
-        ["Mapple Mypod", "iPod Classic 式音乐播放器", "音乐与媒体 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"],
-        ["IDM ThinkerDad", "ThinkPad 365XD 式笔记本", "笔记本 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"],
+        ["Mapple Mypod", "iPod Classic 式音乐播放器", "音乐与媒体 · 官方 Steam 更新 #1（v1.0.009r）以「MyPod」点名 · 社区资料（L3）"],
+        ["IDM ThinkerDad", "ThinkPad 365XD 式笔记本", "笔记本 · 官方 Steam 更新 #1（v1.0.009r）以「IDM device」点名 · 社区资料（L3）"],
      ]},
     {"type": "steps", "heading": "设备解锁机制",
      "items": [

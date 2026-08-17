@@ -153,8 +153,8 @@ PAGES_FR = {
         ["Robby", "Robot-chiot façon Tekno", "Gadgets et jouets · cité dans la mise à jour officielle n° 2 de Steam (v1.0.010r) · référence communautaire (L3)"],
         ["Nerdio W-91F", "Montre Casio F-91W", "Gadgets et jouets · référence communautaire (L3)"],
         ["Guitar Legend", "Manette guitare façon Guitar Hero", "Manettes · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r) · référence communautaire (L3)"],
-        ["Mapple Mypod", "Baladeur façon iPod Classic", "Musique et médias · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r) · référence communautaire (L3)"],
-        ["IDM ThinkerDad", "Ordinateur portable façon ThinkPad 365XD", "Ordinateurs portables · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r) · référence communautaire (L3)"],
+        ["Mapple Mypod", "Baladeur façon iPod Classic", "Musique et médias · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r, en tant que « MyPod ») · référence communautaire (L3)"],
+        ["IDM ThinkerDad", "Ordinateur portable façon ThinkPad 365XD", "Ordinateurs portables · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r, en tant que « IDM device ») · référence communautaire (L3)"],
      ]},
     {"type": "steps", "heading": "Comment fonctionne le déblocage des appareils",
      "items": [

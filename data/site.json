@@ -6334,12 +6334,12 @@
       [
        "Mapple Mypod",
        "iPod Classic-style music player",
-       "Music & media · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
+       "Music & media · Named in official Steam Update #1 (v1.0.009r as 'MyPod') · Community reference (L3)"
       ],
       [
        "IDM ThinkerDad",
        "ThinkPad 365XD-style laptop",
-       "Laptops · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
+       "Laptops · Named in official Steam Update #1 (v1.0.009r as 'IDM device') · Community reference (L3)"
       ]
      ]
     },
@@ -6400,12 +6400,19 @@
     {
      "type": "list",
      "heading": "Device families",
-     "body": "The confirmed device list groups into families (source: allthings.how):",
+     "body": "Community sources (L3 — not officially confirmed) group the 29 listed devices into families:",
      "items": [
-      "Consoles & handhelds — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-      "Phones & music — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-      "Gadgets & toys — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-      "Extras — Unicorp 99L flashlight and the officially licensed Atari CX40."
+      "Consoles — Atari 2600, Brick Game, XI-box.",
+      "Handhelds — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+      "Controllers — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+      "Phones — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+      "Appliances — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+      "Gadgets & toys — Eggotchi, Nerdio W-91F, Robby.",
+      "Music & media — Nony PMP, Nony Goman, Mapple Mypod.",
+      "Laptops — IDM ThinkerDad.",
+      "Cameras — Palaloid.",
+      "Extras — Unicorp 99L.",
+      "Name pending L0 verification — walkie-talkie (suspected Autorolla WT2000) and robodog (suspected Robby)."
      ]
     },
     {
@@ -6538,7 +6545,7 @@
     },
     {
      "label": "Official Steam announcement — Update #1 (v1.0.009r)",
-     "url": "https://steamcommunity.com/app/3812600/allnews/",
+     "url": "https://steamcommunity.com/games/3812600/announcements/detail/711157251640918758",
      "labels": {
       "en": "Official Steam announcement — Update #1 (v1.0.009r)",
       "zh-CN": "Steam 官方公告——更新 #1（v1.0.009r）",
@@ -6554,7 +6561,7 @@
     },
     {
      "label": "Official Steam announcement — Update #2 (v1.0.010r)",
-     "url": "https://steamcommunity.com/app/3812600/allnews/",
+     "url": "https://steamcommunity.com/games/3812600/announcements/detail/676254988366774831",
      "labels": {
       "en": "Official Steam announcement — Update #2 (v1.0.010r)",
       "zh-CN": "Steam 官方公告——更新 #2（v1.0.010r）",
@@ -7008,12 +7015,12 @@
         [
          "Mapple Mypod",
          "iPod Classic-style music player",
-         "Music & media · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
+         "Music & media · Named in official Steam Update #1 (v1.0.009r as 'MyPod') · Community reference (L3)"
         ],
         [
          "IDM ThinkerDad",
          "ThinkPad 365XD-style laptop",
-         "Laptops · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
+         "Laptops · Named in official Steam Update #1 (v1.0.009r as 'IDM device') · Community reference (L3)"
         ]
        ]
       },
@@ -7074,12 +7081,19 @@
       {
        "type": "list",
        "heading": "Device families",
-       "body": "The confirmed device list groups into families (source: allthings.how):",
+       "body": "Community sources (L3 — not officially confirmed) group the 29 listed devices into families:",
        "items": [
-        "Consoles & handhelds — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-        "Phones & music — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-        "Gadgets & toys — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-        "Extras — Unicorp 99L flashlight and the officially licensed Atari CX40."
+        "Consoles — Atari 2600, Brick Game, XI-box.",
+        "Handhelds — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+        "Controllers — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+        "Phones — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+        "Appliances — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+        "Gadgets & toys — Eggotchi, Nerdio W-91F, Robby.",
+        "Music & media — Nony PMP, Nony Goman, Mapple Mypod.",
+        "Laptops — IDM ThinkerDad.",
+        "Cameras — Palaloid.",
+        "Extras — Unicorp 99L.",
+        "Name pending L0 verification — walkie-talkie (suspected Autorolla WT2000) and robodog (suspected Robby)."
        ]
       },
       {
@@ -7350,12 +7364,12 @@
         [
          "Mapple Mypod",
          "iPod Classic 式音乐播放器",
-         "音乐与媒体 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"
+         "音乐与媒体 · 官方 Steam 更新 #1（v1.0.009r）以「MyPod」点名 · 社区资料（L3）"
         ],
         [
          "IDM ThinkerDad",
          "ThinkPad 365XD 式笔记本",
-         "笔记本 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"
+         "笔记本 · 官方 Steam 更新 #1（v1.0.009r）以「IDM device」点名 · 社区资料（L3）"
         ]
        ]
       },
@@ -7416,12 +7430,19 @@
       {
        "type": "list",
        "heading": "设备家族",
-       "body": "已确认的设备清单按家族分组（来源：allthings.how）：",
+       "body": "社区来源（L3——未经官方核实）将清单中的 29 台设备按家族分组：",
        "items": [
-        "主机与掌机——Atari 2600、Atari Lynx、Nony PlayMachine、Patento BS。",
-        "手机与音乐——Autorolla Razor、Pokia 3310/Njoy、Nony Goman。",
-        "小玩意儿与玩具——Eggotchi、Palaloid、Walkie-talkie、Robodog。",
-        "其他——Unicorp 99L 手电，以及官方授权的 Atari CX40。"
+        "主机 — Atari 2600、Brick Game、XI-box。",
+        "掌机 — Atari Lynx、Nony PlayMachine、Patento BS、Game Duck。",
+        "手柄 — Atari CX40、BreadBox Joystick、XI-box Controller、Guitar Legend。",
+        "手机 — Autorolla Razor、Pokia 3310、Pokia Njoy、Simsons M65、Blueberry Curl、Wertu Signature。",
+        "家电 — Unicorp Kettle、Autorolla WT2000、Unicorp Vision。",
+        "小玩意与玩具 — Eggotchi、Nerdio W-91F、Robby。",
+        "音乐与媒体 — Nony PMP、Nony Goman、Mapple Mypod。",
+        "笔记本 — IDM ThinkerDad。",
+        "相机 — Palaloid。",
+        "其他 — Unicorp 99L。",
+        "名称待 L0 核实——walkie-talkie（疑为 Autorolla WT2000）与 robodog（疑为 Robby）。"
        ]
       },
       {
@@ -7672,12 +7693,12 @@
         [
          "Mapple Mypod",
          "iPod Classic 風の音楽プレーヤー",
-         "音楽・メディア · Steam公式アップデート#1（v1.0.009r）で言及 · コミュニティ情報（L3）"
+         "音楽・メディア · Steam公式アップデート#1（v1.0.009r）で「MyPod」として言及 · コミュニティ情報（L3）"
         ],
         [
          "IDM ThinkerDad",
          "ThinkPad 365XD 風のノートPC",
-         "ノートPC · Steam公式アップデート#1（v1.0.009r）で言及 · コミュニティ情報（L3）"
+         "ノートPC · Steam公式アップデート#1（v1.0.009r）で「IDM device」として言及 · コミュニティ情報（L3）"
         ]
        ]
       },
@@ -7738,12 +7759,19 @@
       {
        "type": "list",
        "heading": "デバイスのファミリー",
-       "body": "確認済みのデバイス一覧はファミリーに分類されます（出典：allthings.how）：",
+       "body": "コミュニティ情報源（L3——公式確認なし）は、リストの29台のデバイスをファミリーに分類しています：",
        "items": [
-        "コンソール＆携帯機 — Atari 2600、Atari Lynx、Nony PlayMachine、Patento BS。",
-        "携帯電話＆音楽 — Autorolla Razor、Pokia 3310/Njoy、Nony Goman。",
-        "ガジェット＆おもちゃ — Eggotchi、Palaloid、Walkie-talkie、Robodog。",
-        "その他 — Unicorp 99L 懐中電灯と公式ライセンスの Atari CX40。"
+        "ゲーム機 — Atari 2600、Brick Game、XI-box。",
+        "携帯ゲーム機 — Atari Lynx、Nony PlayMachine、Patento BS、Game Duck。",
+        "コントローラー — Atari CX40、BreadBox Joystick、XI-box Controller、Guitar Legend。",
+        "携帯電話 — Autorolla Razor、Pokia 3310、Pokia Njoy、Simsons M65、Blueberry Curl、Wertu Signature。",
+        "家電 — Unicorp Kettle、Autorolla WT2000、Unicorp Vision。",
+        "ガジェット・おもちゃ — Eggotchi、Nerdio W-91F、Robby。",
+        "音楽・メディア — Nony PMP、Nony Goman、Mapple Mypod。",
+        "ノートPC — IDM ThinkerDad。",
+        "カメラ — Palaloid。",
+        "その他 — Unicorp 99L。",
+        "名称はL0検証待ち — walkie-talkie（Autorolla WT2000 の可能性）と robodog（Robby の可能性）。"
        ]
       },
       {
@@ -7994,12 +8022,12 @@
         [
          "Mapple Mypod",
          "iPod Classic 스타일 음악 플레이어",
-         "음악·미디어 · 공식 Steam 업데이트 #1(v1.0.009r)에서 언급 · 커뮤니티 참고 자료(L3)"
+         "음악·미디어 · 공식 Steam 업데이트 #1(v1.0.009r)에서 'MyPod'로 언급 · 커뮤니티 참고 자료(L3)"
         ],
         [
          "IDM ThinkerDad",
          "ThinkPad 365XD 스타일 노트북",
-         "노트북 · 공식 Steam 업데이트 #1(v1.0.009r)에서 언급 · 커뮤니티 참고 자료(L3)"
+         "노트북 · 공식 Steam 업데이트 #1(v1.0.009r)에서 'IDM device'로 언급 · 커뮤니티 참고 자료(L3)"
         ]
        ]
       },
@@ -8060,12 +8088,19 @@
       {
        "type": "list",
        "heading": "기기 계열",
-       "body": "확인된 기기 목록은 계열로 묶입니다(출처: allthings.how):",
+       "body": "커뮤니티 소스(L3 — 공식 확인 안 됨)는 목록의 29개 기기를 계열로 묶습니다:",
        "items": [
-        "콘솔 & 휴대용 기기 — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-        "휴대폰 & 음악 — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-        "가젯 & 장난감 — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-        "기타 — Unicorp 99L 손전등과 정식 라이선스 Atari CX40."
+        "콘솔 — Atari 2600, Brick Game, XI-box.",
+        "핸드헬드 — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+        "컨트롤러 — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+        "휴대폰 — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+        "가전 — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+        "가젯 및 장난감 — Eggotchi, Nerdio W-91F, Robby.",
+        "음악·미디어 — Nony PMP, Nony Goman, Mapple Mypod.",
+        "노트북 — IDM ThinkerDad.",
+        "카메라 — Palaloid.",
+        "기타 — Unicorp 99L.",
+        "이름 L0 확인 대기 — walkie-talkie(Autorolla WT2000일 가능성)와 robodog(Robby일 가능성)."
        ]
       },
       {
@@ -8316,12 +8351,12 @@
         [
          "Mapple Mypod",
          "Baladeur façon iPod Classic",
-         "Musique et médias · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r) · référence communautaire (L3)"
+         "Musique et médias · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r, en tant que « MyPod ») · référence communautaire (L3)"
         ],
         [
          "IDM ThinkerDad",
          "Ordinateur portable façon ThinkPad 365XD",
-         "Ordinateurs portables · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r) · référence communautaire (L3)"
+         "Ordinateurs portables · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r, en tant que « IDM device ») · référence communautaire (L3)"
         ]
        ]
       },
@@ -8382,12 +8417,19 @@
       {
        "type": "list",
        "heading": "Les familles d'appareils",
-       "body": "La liste confirmée des appareils se regroupe en familles (source : allthings.how) :",
+       "body": "Les sources communautaires (L3 — non confirmées officiellement) regroupent les 29 appareils de la liste en familles :",
        "items": [
-        "Consoles et portables — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-        "Téléphones et musique — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-        "Gadgets et jouets — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-        "Extras — la lampe torche Unicorp 99L et l'Atari CX40 sous licence officielle."
+        "Consoles — Atari 2600, Brick Game, XI-box.",
+        "Consoles portables — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+        "Manettes — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+        "Téléphones — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+        "Électroménager — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+        "Gadgets et jouets — Eggotchi, Nerdio W-91F, Robby.",
+        "Musique et médias — Nony PMP, Nony Goman, Mapple Mypod.",
+        "Ordinateurs portables — IDM ThinkerDad.",
+        "Appareils photo — Palaloid.",
+        "Extras — Unicorp 99L.",
+        "Nom en attente de vérification L0 — walkie-talkie (probablement l'Autorolla WT2000) et robodog (probablement Robby)."
        ]
       },
       {
@@ -8638,12 +8680,12 @@
         [
          "Mapple Mypod",
          "iPod-Classic-artiger Musikplayer",
-         "Musik & Medien · in offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt · Community-Referenz (L3)"
+         "Musik & Medien · in offiziellem Steam-Update Nr. 1 (v1.0.009r) als „MyPod“ genannt · Community-Referenz (L3)"
         ],
         [
          "IDM ThinkerDad",
          "ThinkPad-365XD-artiger Laptop",
-         "Laptops · in offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt · Community-Referenz (L3)"
+         "Laptops · in offiziellem Steam-Update Nr. 1 (v1.0.009r) als „IDM device“ genannt · Community-Referenz (L3)"
         ]
        ]
       },
@@ -8704,12 +8746,19 @@
       {
        "type": "list",
        "heading": "Gerätefamilien",
-       "body": "Die bestätigte Geräteliste gruppiert sich in Familien (Quelle: allthings.how):",
+       "body": "Community-Quellen (L3 – nicht offiziell bestätigt) gruppieren die 29 Geräte der Liste in Familien:",
        "items": [
-        "Konsolen & Handhelds — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-        "Telefone & Musik — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-        "Gadgets & Spielzeug — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-        "Extras — die Unicorp-99L-Taschenlampe und der offiziell lizenzierte Atari CX40."
+        "Konsolen — Atari 2600, Brick Game, XI-box.",
+        "Handhelds — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+        "Controller — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+        "Handys — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+        "Haushaltsgeräte — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+        "Gadgets & Spielzeug — Eggotchi, Nerdio W-91F, Robby.",
+        "Musik & Medien — Nony PMP, Nony Goman, Mapple Mypod.",
+        "Laptops — IDM ThinkerDad.",
+        "Kameras — Palaloid.",
+        "Extras — Unicorp 99L.",
+        "Name wartet auf L0-Verifizierung — walkie-talkie (vermutlich Autorolla WT2000) und robodog (vermutlich Robby)."
        ]
       },
       {
@@ -8960,12 +9009,12 @@
         [
          "Mapple Mypod",
          "Reproductor estilo iPod Classic",
-         "Música y medios · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r) · referencia de la comunidad (L3)"
+         "Música y medios · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r, como « MyPod ») · referencia de la comunidad (L3)"
         ],
         [
          "IDM ThinkerDad",
          "Portátil estilo ThinkPad 365XD",
-         "Portátiles · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r) · referencia de la comunidad (L3)"
+         "Portátiles · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r, como « IDM device ») · referencia de la comunidad (L3)"
         ]
        ]
       },
@@ -9026,12 +9075,19 @@
       {
        "type": "list",
        "heading": "Familias de dispositivos",
-       "body": "La lista confirmada de dispositivos se agrupa en familias (fuente: allthings.how):",
+       "body": "Las fuentes comunitarias (L3 — no confirmadas oficialmente) agrupan los 29 dispositivos de la lista en familias:",
        "items": [
-        "Consolas y portátiles: Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-        "Teléfonos y música: Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-        "Gadgets y juguetes: Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-        "Extras: la linterna Unicorp 99L y el Atari CX40 con licencia oficial."
+        "Consolas — Atari 2600, Brick Game, XI-box.",
+        "Consolas portátiles — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+        "Mandos — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+        "Teléfonos — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+        "Electrodomésticos — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+        "Gadgets y juguetes — Eggotchi, Nerdio W-91F, Robby.",
+        "Música y medios — Nony PMP, Nony Goman, Mapple Mypod.",
+        "Portátiles — IDM ThinkerDad.",
+        "Cámaras — Palaloid.",
+        "Extras — Unicorp 99L.",
+        "Nombre pendiente de verificación L0 — walkie-talkie (posiblemente el Autorolla WT2000) y robodog (posiblemente Robby)."
        ]
       },
       {
@@ -9282,12 +9338,12 @@
         [
          "Mapple Mypod",
          "Tocador estilo iPod Classic",
-         "Música e mídia · citado na atualização oficial nº 1 da Steam (v1.0.009r) · referência da comunidade (L3)"
+         "Música e mídia · citado na atualização oficial nº 1 da Steam (v1.0.009r, como « MyPod ») · referência da comunidade (L3)"
         ],
         [
          "IDM ThinkerDad",
          "Notebook estilo ThinkPad 365XD",
-         "Notebooks · citado na atualização oficial nº 1 da Steam (v1.0.009r) · referência da comunidade (L3)"
+         "Notebooks · citado na atualização oficial nº 1 da Steam (v1.0.009r, como « IDM device ») · referência da comunidade (L3)"
         ]
        ]
       },
@@ -9348,12 +9404,19 @@
       {
        "type": "list",
        "heading": "Famílias de aparelhos",
-       "body": "A lista confirmada de aparelhos se agrupa em famílias (fonte: allthings.how):",
+       "body": "Fontes da comunidade (L3 — não confirmadas oficialmente) agrupam os 29 aparelhos da lista em famílias:",
        "items": [
-        "Consoles e portáteis — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-        "Celulares e música — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-        "Gadgets e brinquedos — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-        "Extras — a lanterna Unicorp 99L e o Atari CX40 com licença oficial."
+        "Consoles — Atari 2600, Brick Game, XI-box.",
+        "Portáteis — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+        "Controles — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+        "Celulares — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+        "Eletrodomésticos — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+        "Gadgets e brinquedos — Eggotchi, Nerdio W-91F, Robby.",
+        "Música e mídia — Nony PMP, Nony Goman, Mapple Mypod.",
+        "Notebooks — IDM ThinkerDad.",
+        "Câmeras — Palaloid.",
+        "Extras — Unicorp 99L.",
+        "Nome aguardando verificação L0 — walkie-talkie (provavelmente o Autorolla WT2000) e robodog (provavelmente Robby)."
        ]
       },
       {
@@ -9604,12 +9667,12 @@
         [
          "Mapple Mypod",
          "Музыкальный плеер в стиле iPod Classic",
-         "Музыка и медиа · упомянуто в официальном обновлении Steam №1 (v1.0.009r) · данные сообщества (L3)"
+         "Музыка и медиа · упомянуто в официальном обновлении Steam №1 (v1.0.009r, как « MyPod ») · данные сообщества (L3)"
         ],
         [
          "IDM ThinkerDad",
          "Ноутбук в стиле ThinkPad 365XD",
-         "Ноутбуки · упомянуто в официальном обновлении Steam №1 (v1.0.009r) · данные сообщества (L3)"
+         "Ноутбуки · упомянуто в официальном обновлении Steam №1 (v1.0.009r, как « IDM device ») · данные сообщества (L3)"
         ]
        ]
       },
@@ -9670,12 +9733,19 @@
       {
        "type": "list",
        "heading": "Семейства устройств",
-       "body": "Подтверждённый список устройств делится на семейства (источник: allthings.how):",
+       "body": "Источники сообщества (L3 — официально не подтверждено) делят 29 устройств из списка на семейства:",
        "items": [
-        "Консоли и портативки — Atari 2600, Atari Lynx, Nony PlayMachine, Patento BS.",
-        "Телефоны и музыка — Autorolla Razor, Pokia 3310/Njoy, Nony Goman.",
-        "Гаджеты и игрушки — Eggotchi, Palaloid, Walkie-talkie, Robodog.",
-        "Прочее — фонарик Unicorp 99L и официально лицензированный Atari CX40."
+        "Консоли — Atari 2600, Brick Game, XI-box.",
+        "Портативные — Atari Lynx, Nony PlayMachine, Patento BS, Game Duck.",
+        "Контроллеры — Atari CX40, BreadBox Joystick, XI-box Controller, Guitar Legend.",
+        "Телефоны — Autorolla Razor, Pokia 3310, Pokia Njoy, Simsons M65, Blueberry Curl, Wertu Signature.",
+        "Бытовая техника — Unicorp Kettle, Autorolla WT2000, Unicorp Vision.",
+        "Гаджеты и игрушки — Eggotchi, Nerdio W-91F, Robby.",
+        "Музыка и медиа — Nony PMP, Nony Goman, Mapple Mypod.",
+        "Ноутбуки — IDM ThinkerDad.",
+        "Камеры — Palaloid.",
+        "Прочее — Unicorp 99L.",
+        "Название ожидает проверки L0 — walkie-talkie (возможно, Autorolla WT2000) и robodog (возможно, Robby)."
        ]
       },
       {
@@ -9926,12 +9996,12 @@
         [
          "Mapple Mypod",
          "iPod Classic 式音樂播放器",
-         "音樂與媒體 · 官方 Steam 更新 #1（v1.0.009r）點名 · 社區資料（L3）"
+         "音樂與媒體 · 官方 Steam 更新 #1（v1.0.009r）以「MyPod」點名 · 社區資料（L3）"
         ],
         [
          "IDM ThinkerDad",
          "ThinkPad 365XD 式筆記本",
-         "筆記本 · 官方 Steam 更新 #1（v1.0.009r）點名 · 社區資料（L3）"
+         "筆記本 · 官方 Steam 更新 #1（v1.0.009r）以「IDM device」點名 · 社區資料（L3）"
         ]
        ]
       },
@@ -9992,12 +10062,19 @@
       {
        "type": "list",
        "heading": "設備家族",
-       "body": "已確認的設備清單按家族分組（來源：allthings.how）：",
+       "body": "社區來源（L3——未經官方核實）將清單中的 29 臺設備按家族分組：",
        "items": [
-        "主機與掌機——Atari 2600、Atari Lynx、Nony PlayMachine、Patento BS。",
-        "手機與音樂——Autorolla Razor、Pokia 3310/Njoy、Nony Goman。",
-        "小玩意兒與玩具——Eggotchi、Palaloid、Walkie-talkie、Robodog。",
-        "其他——Unicorp 99L 手電，以及官方授權的 Atari CX40。"
+        "主機 — Atari 2600、Brick Game、XI-box。",
+        "掌機 — Atari Lynx、Nony PlayMachine、Patento BS、Game Duck。",
+        "手柄 — Atari CX40、BreadBox Joystick、XI-box Controller、Guitar Legend。",
+        "手機 — Autorolla Razor、Pokia 3310、Pokia Njoy、Simsons M65、Blueberry Curl、Wertu Signature。",
+        "家電 — Unicorp Kettle、Autorolla WT2000、Unicorp Vision。",
+        "小玩意與玩具 — Eggotchi、Nerdio W-91F、Robby。",
+        "音樂與媒體 — Nony PMP、Nony Goman、Mapple Mypod。",
+        "筆記本 — IDM ThinkerDad。",
+        "相機 — Palaloid。",
+        "其他 — Unicorp 99L。",
+        "名稱待 L0 核實——walkie-talkie（疑為 Autorolla WT2000）與 robodog（疑為 Robby）。"
        ]
       },
       {

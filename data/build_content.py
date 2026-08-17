@@ -509,6 +509,41 @@ SRC_WIKI_NERDIO_W91F = _wiki_src("Nerdio W-91F", "Nerdio_W-91F")
 SRC_WIKI_GUITAR_LEGEND = _wiki_src("Guitar Legend", "Guitar_Legend")
 SRC_WIKI_MAPPLE_MYPOD = _wiki_src("Mapple Mypod", "Mapple_Mypod")
 SRC_WIKI_IDM_THINKERDAD = _wiki_src("IDM ThinkerDad", "IDM_ThinkerDad")
+# ---- L3 结局深表来源（社区指南 / 讨论 / 维基角色页；Kleynce + prodigygamers 为双源主体）----
+SRC_KLEYNCE_GUIDE = _src("Kleynce — 100% Achievement Guide (Steam guide)", "https://steamcommunity.com/sharedfiles/filedetails/?id=3778809808", {
+    "en": "Kleynce — 100% Achievement Guide (Steam guide)", "zh-CN": "Kleynce — 100% 成就攻略（Steam 指南）",
+    "ja": "Kleynce — 100% 実績ガイド（Steam ガイド）", "ko": "Kleynce — 100% 업적 가이드 (Steam 가이드)",
+    "fr": "Kleynce — guide des 100 % de succès (guide Steam)", "de": "Kleynce — 100-%-Erfolge-Guide (Steam-Guide)",
+    "es": "Kleynce — guía del 100 % de logros (guía de Steam)", "pt-BR": "Kleynce — guia de 100% de conquistas (guia da Steam)",
+    "ru": "Kleynce — гайд по 100% достижений (гайд Steam)",
+})
+SRC_PRODIGYGAMERS = _src("prodigygamers — ReStory 100% Achievement Walkthrough", "https://prodigygamers.com/2026/08/08/restory-chill-electronics-repairs-100-achievement-walkthrough-guide/", {
+    "en": "prodigygamers — ReStory 100% Achievement Walkthrough", "zh-CN": "prodigygamers — ReStory 100% 成就通关攻略",
+    "ja": "prodigygamers — ReStory 100% 実績ウォークスルー", "ko": "prodigygamers — ReStory 100% 업적 공략",
+    "fr": "prodigygamers — soluce 100 % succès de ReStory", "de": "prodigygamers — ReStory 100-%-Komplettlösung",
+    "es": "prodigygamers — guía del 100 % de ReStory", "pt-BR": "prodigygamers — guia de 100% de ReStory",
+    "ru": "prodigygamers — прохождение ReStory на 100%",
+})
+SRC_STEAM_DISC_STORY = _src("Steam discussion: story stuck — tinyBuild dev reply", "https://steamcommunity.com/app/3812600/discussions/0/588434161796271335/", {
+    "en": "Steam discussion: story stuck — tinyBuild dev reply", "zh-CN": "Steam 讨论：剧情卡住——tinyBuild 开发者回复",
+    "ja": "Steam ディスカッション：ストーリーが進まない — tinyBuild開発者の返信", "ko": "Steam 토론: 스토리 진행 불가 — tinyBuild 개발자 답변",
+    "fr": "Discussion Steam : histoire bloquée — réponse du dev tinyBuild", "de": "Steam-Diskussion: Story blockiert — Antwort von tinyBuild",
+    "es": "Debate de Steam: historia atascada — respuesta del dev de tinyBuild", "pt-BR": "Tópico da Steam: história travada — resposta do dev da tinyBuild",
+    "ru": "Обсуждение Steam: сюжет застрял — ответ разработчика tinyBuild",
+})
+SRC_ALLTHINGS_ENDINGS = _src("allthings.how — how to get all four endings (media claim, not confirmed)", "https://allthings.how/restory-chill-electronics-repairs-how-to-get-all-four-endings/", {
+    "en": "allthings.how — how to get all four endings (media claim, not confirmed)", "zh-CN": "allthings.how — 如何获得全部四个结局（媒体口径，未证实）",
+    "ja": "allthings.how — 全4エンディングの取得方法（メディアの主張、未確認）", "ko": "allthings.how — 네 가지 엔딩 획득 방법 (언론 주장, 미확인)",
+    "fr": "allthings.how — obtenir les quatre fins (affirmation médiatique, non confirmée)", "de": "allthings.how — alle vier Enden erhalten (Medienbehauptung, unbestätigt)",
+    "es": "allthings.how — cómo obtener los cuatro finales (afirmación mediática, sin confirmar)", "pt-BR": "allthings.how — como obter os quatro finais (afirmação da mídia, não confirmada)",
+    "ru": "allthings.how — как получить все четыре концовки (заявление СМИ, не подтверждено)",
+})
+SRC_WIKI_HASHIMOTO = _wiki_src("Hashimoto", "Hashimoto")
+SRC_WIKI_KAITO = _wiki_src("Kaito", "Kaito")
+SRC_WIKI_BAKETSU = _wiki_src("Baketsu", "Baketsu")
+SRC_WIKI_HARUHI = _wiki_src("Haruhi", "Haruhi")
+SRC_WIKI_YUI = _wiki_src("Yui", "Yui")
+SRC_WIKI_TOURIST = _wiki_src("Tourist", "Tourist")
 SRC_MAP = {"steam": SRC_STEAM, "steam-achievements": SRC_STEAM_ACHIEVEMENTS, "steam-news": SRC_STEAM_NEWS, "allthings": SRC_ALLTHINGS, "intoindie": SRC_INTOINDIE, "powerpyx": SRC_POWERPYX,
            "restory-wiki": SRC_RESTORY_WIKI, "steam-guide-akiba": SRC_STEAM_GUIDE_AKIBA, "steam-guide-prices": SRC_STEAM_GUIDE_PRICES, "steam-discussion-paint": SRC_STEAM_DISC_PAINT, "steam-discussion-invisible": SRC_STEAM_DISC_INVISIBLE,
            "restory-wiki-devices": SRC_RESTORY_WIKI_DEVICES, "steam-discussion-devices": SRC_STEAM_DISC_DEVICES, "steam-patch-009r": SRC_STEAM_PATCH_009R, "steam-patch-010r": SRC_STEAM_PATCH_010R,
@@ -517,7 +552,10 @@ SRC_MAP = {"steam": SRC_STEAM, "steam-achievements": SRC_STEAM_ACHIEVEMENTS, "st
            "wiki-blueberry-curl": SRC_WIKI_BLUEBERRY_CURL, "wiki-wertu-signature": SRC_WIKI_WERTU_SIGNATURE, "wiki-unicorp-kettle": SRC_WIKI_UNICORP_KETTLE,
            "wiki-autorolla-wt2000": SRC_WIKI_AUTOROLLA_WT2000, "wiki-unicorp-vision": SRC_WIKI_UNICORP_VISION, "wiki-robby": SRC_WIKI_ROBBY,
            "wiki-nerdio-w91f": SRC_WIKI_NERDIO_W91F, "wiki-guitar-legend": SRC_WIKI_GUITAR_LEGEND, "wiki-mapple-mypod": SRC_WIKI_MAPPLE_MYPOD,
-           "wiki-idm-thinkerdad": SRC_WIKI_IDM_THINKERDAD}
+           "wiki-idm-thinkerdad": SRC_WIKI_IDM_THINKERDAD,
+           "kleynce-guide": SRC_KLEYNCE_GUIDE, "prodigygamers": SRC_PRODIGYGAMERS, "steam-discussion-story": SRC_STEAM_DISC_STORY,
+           "allthings-endings": SRC_ALLTHINGS_ENDINGS, "wiki-hashimoto": SRC_WIKI_HASHIMOTO, "wiki-kaito": SRC_WIKI_KAITO,
+           "wiki-baketsu": SRC_WIKI_BAKETSU, "wiki-haruhi": SRC_WIKI_HARUHI, "wiki-yui": SRC_WIKI_YUI, "wiki-tourist": SRC_WIKI_TOURIST}
 
 # =====================================================================
 # 页面组装

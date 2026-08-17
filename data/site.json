@@ -24483,37 +24483,230 @@
   },
   {
    "slug": "endings",
-   "title": "ReStory Endings Guide: Every Branch",
-   "metaTitle": "ReStory Endings: Multiple Endings & Branch Guide",
-   "metaDescription": "ReStory has multiple endings based on your choices. What we know about the branching story, what drives it, and what is still being verified.",
-   "intro": "ReStory's official description confirms a branching storyline with multiple endings that depend on your choices. The exact ending list and triggers are still being verified — this page tracks everything we know.",
+   "title": "ReStory Endings: Every Ending and How to Reach It",
+   "metaTitle": "ReStory Endings: All Endings & How to Unlock",
+   "metaDescription": "ReStory endings guide: the final Hashimoto choice decides good and bad endings, three missable character lines, a branch map and stuck-progress FAQs.",
+   "intro": "ReStory's official description confirms a branching story with multiple endings that depend on your choices. Community playthroughs have now verified the core structure: after Yamato brings news that the concert is cancelled, landlord Hashimoto offers a final choice that leads to the good ending (Rock for the Ages!) or the bad ending (Globalization). Three mutually exclusive character story lines — Haruhi, Kaito and Baketsu — add missable endings of their own. This page maps every branch, marks what is verified versus what is still pending, and answers the common stuck points.",
    "sections": [
     {
-     "type": "steps",
-     "heading": "What is confirmed",
-     "items": [
+     "type": "table",
+     "heading": "Ending & story-line overview",
+     "body": "Two named endings are decided by one final choice with Hashimoto; three character story lines are mutually exclusive; the early Eggotchi choice unlocks Origami. Confidence tags follow every claim — see the verification note at the bottom.",
+     "columns": [
+      "Ending / arc",
+      "How to trigger",
+      "Prerequisite",
+      "Mutually exclusive with",
+      "Achievement",
+      "Confidence"
+     ],
+     "rows": [
       [
-       "Multiple endings",
-       "The official Steam description explicitly confirms a branching story with multiple endings."
+       "Good ending",
+       "Final choice with Hashimoto: option 1 — sell the shop to Takumi and donate the profits to the concert",
+       "Reach the finale (4 tournament record wins)",
+       "Bad ending",
+       "Rock for the Ages!",
+       "〔L3·双源〕"
       ],
       [
-       "Choices matter",
-       "The same official description says your decisions affect customers' lives and your shop."
+       "Bad ending",
+       "Final choice with Hashimoto: option 2 — accept the new development; the shopping center is built",
+       "Reach the finale",
+       "Good ending",
+       "Globalization",
+       "〔L3·双源〕"
       ],
       [
-       "Triggers are not verified",
-       "No reliable source currently gives the exact ending count, names or choice requirements."
+       "Haruhi story line",
+       "After the last tournament win: invite her to stay; repair the Tourist's requests; talk to her after her last repair",
+       "Finale reached",
+       "Kaito / Baketsu lines",
+       "Melancholy",
+       "〔L3·双源〕"
+      ],
+      [
+       "Kaito story line",
+       "Invite him to stay; he finds the watch and asks you to fix it",
+       "Finale reached",
+       "Haruhi / Baketsu lines",
+       "Ronin",
+       "〔L3·双源〕"
+      ],
+      [
+       "Baketsu story line",
+       "Invite him to stay; he finds the watch and asks you to fix it",
+       "Finale reached",
+       "Haruhi / Kaito lines",
+       "Ghost in the Frame",
+       "〔L3·双源〕"
+      ],
+      [
+       "Yui / Eggotchi choice",
+       "Fix the girl's Eggotchi; refuse the delivery agent's offer to pay",
+       "Early game",
+       "None",
+       "Origami",
+       "〔L0 condition + L3 details〕"
+      ],
+      [
+       "“Default / Secret” endings",
+       "Reported by one media guide (allthings.how); not confirmed",
+       "—",
+       "—",
+       "None confirmed",
+       "〔待验证〕"
       ]
      ]
     },
     {
-     "type": "list",
-     "heading": "How to make your run useful",
+     "type": "steps",
+     "heading": "How the ending is decided: the final choice",
+     "body": "The ending is not tracked by every customer choice along the way — multiple community guides agree the decisive moment is a single final choice. The steps below are community-verified (L3, two or more sources) until confirmed in-game (L0).",
      "items": [
-      "Write down the exact wording of major dialogue choices instead of guessing what they control.",
-      "Record the customer, in-game day and choice in the branch log below.",
-      "If the game offers a usable save point, keep it before a major decision.",
-      "Compare one changed choice at a time; that is the fastest way to verify a trigger."
+      [
+       "Reach the finale",
+       "Advance the story — driven by your checklist/to-do list — until you beat the Akiba Championship record 4 times and Yamato brings news that the concert is cancelled. 〔L3·双源〕"
+      ],
+      [
+       "Hashimoto arrives with two options",
+       "The landlord appears at your shop and offers the final choice — this single decision decides the ending. 〔L3·双源〕"
+      ],
+      [
+       "Option 1 → good ending",
+       "Sell your shop to Takumi and donate the profits to the concert organisers — this unlocks Rock for the Ages!. 〔L3·双源〕"
+      ],
+      [
+       "Option 2 → bad ending",
+       "Accept the new development and let the shopping center be built — this unlocks Globalization. 〔L3·双源〕"
+      ]
+     ]
+    },
+    {
+     "type": "steps",
+     "heading": "The good ending: Rock for the Ages!",
+     "items": [
+      [
+       "Pick option 1 at the final choice",
+       "When Hashimoto offers the final choice, choose to sell the shop to Takumi and donate the profits to save the concert. 〔L3·双源〕"
+      ],
+      [
+       "Watch the finale",
+       "The ending scene plays out — community guides describe it as showing the characters' growth and their stories paying off. 〔L3·双源〕"
+      ],
+      [
+       "Achievement",
+       "Rock for the Ages! unlocks. The name is official (Steam); the exact in-game ending screen label still needs L0 verification. 〔L0 name / 待验证〕"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "heading": "Does finishing a character line change the good ending?",
+     "body": "Whether completing a character story line first makes the ending screen richer is reported by community players but not yet verified at L0. Treat it as optional, not a requirement. 〔待验证〕"
+    },
+    {
+     "type": "steps",
+     "heading": "The bad ending: Globalization",
+     "items": [
+      [
+       "Pick option 2 at the final choice",
+       "Accept the new development when Hashimoto offers the final choice; the shopping center is built. 〔L3·双源〕"
+      ],
+      [
+       "Watch the finale",
+       "The story concludes with the mall development going ahead. 〔L3·双源〕"
+      ],
+      [
+       "Achievement",
+       "Globalization unlocks. The name is official (Steam); the exact in-game ending screen label still needs L0 verification. 〔L0 name / 待验证〕"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "heading": "The bad ending is a normal ending",
+     "body": "Globalization is one of the two named endings — not a punishment for many mistakes. It is reached simply by picking the second option at the final choice. 〔L3·双源〕"
+    },
+    {
+     "type": "steps",
+     "heading": "3 mutually exclusive character story lines (missable)",
+     "body": "After the last tournament win you can invite one character to stay. The three lines are mutually exclusive — inviting one locks out the others, so plan separate runs for the missable achievements. 〔L3·双源〕",
+     "items": [
+      [
+       "Invite exactly one character",
+       "Choose one of Haruhi, Kaito or Baketsu to stay after the last tournament win; community guides warn that inviting other people may prevent the line from triggering. 〔L3·双源〕"
+      ],
+      [
+       "Haruhi → Melancholy",
+       "Invite her to stay, repair the Tourist's requests, and talk to her after her last repair — the story about the missing previous owner comes up and she leaves. 〔L3·双源〕"
+      ],
+      [
+       "Kaito → Ronin",
+       "Invite him to stay and wait for him to find the watch and ask you to repair it. 〔L3·双源〕"
+      ],
+      [
+       "Baketsu → Ghost in the Frame",
+       "Invite him to stay (the bucket-neighbour); he finds the watch and asks you to repair it. 〔L3·双源〕"
+      ]
+     ]
+    },
+    {
+     "type": "steps",
+     "heading": "Yui & the Eggotchi: the early Origami choice",
+     "body": "The official Steam condition for Origami is helping a child for free; community guides describe the exact moment. 〔L0 condition + L3 details〕",
+     "items": [
+      [
+       "Fix the little girl's Eggotchi",
+       "Early in the game the girl Yui brings her Eggotchi — a quest device that must be fully repaired for the story to continue (per a tinyBuild developer reply). 〔L1·官方〕"
+      ],
+      [
+       "Refuse the delivery agent's offer",
+       "The courier Yamato offers to pay for her repair — refuse payment so the help is free. 〔L3·双源〕"
+      ],
+      [
+       "The origami arrives later",
+       "The courier later returns with a paper crane (origami) and +10 Zen for you; the Origami achievement unlocks. 〔L3·双源〕"
+      ]
+     ]
+    },
+    {
+     "type": "timeline",
+     "heading": "Branch roadmap (text version)",
+     "body": "Story order reported by community guides. Week numbers and day counts are estimates, not verified timers.",
+     "items": [
+      [
+       "Day 1",
+       "Open the shop; the first fix is landlord Hashimoto's phone (Pokia). 〔L3·单源, FIRST FIX!〕"
+      ],
+      [
+       "Early",
+       "Fix the little girl's Eggotchi and refuse payment → the Origami arc. 〔L3·双源 + L0 condition〕"
+      ],
+      [
+       "Mid",
+       "Buy licenses to unlock devices; the story advances through your checklist/to-do list. 〔L0/L3〕"
+      ],
+      [
+       "Week ~3 (estimate)",
+       "The Akiba Championship app arrives by email; beat the record 4 times to finish the story. 〔L3·双源〕"
+      ],
+      [
+       "After the last tournament win",
+       "Branch: invite exactly one of Haruhi / Kaito / Baketsu to stay. Their final request is always a watch; they leave and the missable achievement pops. 〔L3·双源〕"
+      ],
+      [
+       "Finale",
+       "Yamato announces the concert is cancelled; Hashimoto appears with two options. 〔L3·双源〕"
+      ],
+      [
+       "Option 1",
+       "Good ending (Rock for the Ages!): sell the shop to Takumi, donate the profits. 〔L3·双源〕"
+      ],
+      [
+       "Option 2",
+       "Bad ending (Globalization): the shopping center is built. 〔L3·双源〕"
+      ]
      ]
     },
     {
@@ -24521,23 +24714,56 @@
      "heading": "Endings FAQ",
      "items": [
       [
-       "How many endings are there?",
-       "Unknown yet — we are verifying the exact count."
+       "How many endings does ReStory have?",
+       "Two named endings are confirmed by multiple community guides: the good ending (Rock for the Ages!) and the bad ending (Globalization), both decided by one final choice with Hashimoto. Three mutually exclusive character story lines (Haruhi, Kaito, Baketsu) add missable endings of their own. 〔L3·双源〕 A separate “four endings” framing (default/secret) exists in one media guide but is not confirmed — see the note below. 〔待验证〕"
       ],
       [
-       "Is there a confirmed true ending?",
-       "No. Multiple endings are confirmed, but a true ending is not."
+       "Is there a true ending?",
+       "No achievement or official source confirms a “true ending”. 〔L0 / 待验证〕"
       ],
       [
-       "Can I see all endings in one playthrough?",
-       "Unknown. We have not found a verified source for replay or save requirements."
+       "Can I see both final endings in one save?",
+       "Yes — save before the final Hashimoto choice and reload to pick the other option. 〔L3·双源〕"
+      ],
+      [
+       "Can I unlock all three character endings in one playthrough?",
+       "No — they are mutually exclusive; you can only invite one character to stay. Plan three runs (or rotate five backup save slots) for all missable story achievements. 〔L3·双源〕"
+      ],
+      [
+       "The story is stuck and nobody visits my shop — what now?",
+       "Check your checklist/to-do list. A tinyBuild developer confirmed on Steam that a quest device (often the Eggotchi) left unfinished in your workshop blocks story progression — finish it. Also look for device boxes marked “License needed” around the shop. 〔L1·官方〕"
+      ],
+      [
+       "Is there a penalty for delaying the story?",
+       "No — the story waits for you; only repairs left unfinished past 3 days cost you a good review. 〔L3·单源〕"
+      ],
+      [
+       "What happens after the ending?",
+       "The story concludes and the run ends (no endless mode reported); players restart to see the other ending. 〔L3·单源〕"
+      ],
+      [
+       "How do I get the good ending?",
+       "Choose the first option when Hashimoto offers the final choice: sell your shop to Takumi and donate the profits to save the concert. 〔L3·双源〕"
+      ],
+      [
+       "Why did I get the bad ending?",
+       "You picked the second option — accepting the new development and letting the shopping center be built. It is a normal ending, not a punishment for mistakes. 〔L3·双源〕"
+      ],
+      [
+       "Do competition wins or fixing every device change the ending?",
+       "Competition wins are needed to reach the finale (4 record wins for the story). The ending itself is decided by the final choice and the one character you invite to stay; other choices don't appear to matter. 〔L3·双源〕"
       ]
      ]
     },
     {
      "type": "note",
-     "heading": "Being verified",
-     "body": "Verification status checked August 13, 2026. We will only publish ending names or a flowchart after the conditions can be reproduced or sourced reliably."
+     "heading": "A different “4 endings” framing exists — not confirmed",
+     "body": "One media guide (allthings.how, updated 9 August 2026) frames ReStory as having four endings — Default, Good, Secret and Bad — decided by cumulative treatment of every customer, and describes a Secret ending with four extra scenes. This conflicts with the two-source community structure above, so we treat it as an unverified media claim, not a fact. What would confirm it: the exact names shown on in-game ending screens, or evidence of an extra ending with no achievement attached. Until then we keep the structure of two named endings plus three character lines. 〔待验证〕"
+    },
+    {
+     "type": "note",
+     "heading": "Verification status",
+     "body": "Checked 17–18 August 2026 against the Steam store page and the global achievement list (L0), a tinyBuild developer reply on Steam (L1·official), and multiple community sources (L3). The exact wording of the final choice and the character invitations is community-reported and must be confirmed in-game (L0) before button-by-button instructions can be published. Pending L0 verification: in-game ending screen labels, exact option text, invitation timing, official localized character names, the watch as the previous owner's item, a possible 4th ending, tournament record wording, and any new official announcements (E1–E8)."
     }
    ],
    "sources": [
@@ -24558,19 +24784,179 @@
      }
     },
     {
-     "label": "intoindiegames — ReStory beginner guide",
-     "url": "https://intoindiegames.com/walkthroughs/tips-tricks/beginners-guide-to-restory-chill-electronics-repair/",
+     "label": "Official Steam global achievement stats",
+     "url": "https://steamcommunity.com/stats/3812600/achievements",
      "labels": {
-      "en": "intoindiegames — ReStory beginner guide",
-      "zh-CN": "intoindiegames — ReStory 新手指南",
-      "ja": "intoindiegames — ReStory 初心者ガイド",
-      "ko": "intoindiegames — ReStory 초보자 가이드",
-      "fr": "intoindiegames — guide débutant ReStory",
-      "de": "intoindiegames — ReStory Einsteiger-Guide",
-      "es": "intoindiegames — guía para principiantes de ReStory",
-      "pt-BR": "intoindiegames — guia para iniciantes de ReStory",
-      "ru": "intoindiegames — гайд для новичков ReStory",
-      "zh-TW": "intoindiegames — ReStory 新手指南"
+      "en": "Official Steam achievement list & global stats",
+      "zh-CN": "Steam 官方成就清单与全球统计",
+      "zh-TW": "Steam 官方成就清單與全球統計",
+      "ja": "Steam 公式実績リスト・世界統計",
+      "ko": "Steam 공식 도전 과제 목록 및 전 세계 통계",
+      "fr": "Liste officielle des succès et statistiques Steam",
+      "de": "Offizielle Steam-Errungenschaften und globale Statistik",
+      "es": "Lista oficial de logros y estadísticas de Steam",
+      "pt-BR": "Lista oficial de conquistas e estatísticas globais da Steam",
+      "ru": "Официальный список достижений и глобальная статистика Steam"
+     }
+    },
+    {
+     "label": "Kleynce — 100% Achievement Guide (Steam guide)",
+     "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3778809808",
+     "labels": {
+      "en": "Kleynce — 100% Achievement Guide (Steam guide)",
+      "zh-CN": "Kleynce — 100% 成就攻略（Steam 指南）",
+      "ja": "Kleynce — 100% 実績ガイド（Steam ガイド）",
+      "ko": "Kleynce — 100% 업적 가이드 (Steam 가이드)",
+      "fr": "Kleynce — guide des 100 % de succès (guide Steam)",
+      "de": "Kleynce — 100-%-Erfolge-Guide (Steam-Guide)",
+      "es": "Kleynce — guía del 100 % de logros (guía de Steam)",
+      "pt-BR": "Kleynce — guia de 100% de conquistas (guia da Steam)",
+      "ru": "Kleynce — гайд по 100% достижений (гайд Steam)",
+      "zh-TW": "Kleynce — 100% 成就攻略（Steam 指南）"
+     }
+    },
+    {
+     "label": "prodigygamers — ReStory 100% Achievement Walkthrough",
+     "url": "https://prodigygamers.com/2026/08/08/restory-chill-electronics-repairs-100-achievement-walkthrough-guide/",
+     "labels": {
+      "en": "prodigygamers — ReStory 100% Achievement Walkthrough",
+      "zh-CN": "prodigygamers — ReStory 100% 成就通关攻略",
+      "ja": "prodigygamers — ReStory 100% 実績ウォークスルー",
+      "ko": "prodigygamers — ReStory 100% 업적 공략",
+      "fr": "prodigygamers — soluce 100 % succès de ReStory",
+      "de": "prodigygamers — ReStory 100-%-Komplettlösung",
+      "es": "prodigygamers — guía del 100 % de ReStory",
+      "pt-BR": "prodigygamers — guia de 100% de ReStory",
+      "ru": "prodigygamers — прохождение ReStory на 100%",
+      "zh-TW": "prodigygamers — ReStory 100% 成就通關攻略"
+     }
+    },
+    {
+     "label": "Steam discussion: story stuck — tinyBuild dev reply",
+     "url": "https://steamcommunity.com/app/3812600/discussions/0/588434161796271335/",
+     "labels": {
+      "en": "Steam discussion: story stuck — tinyBuild dev reply",
+      "zh-CN": "Steam 讨论：剧情卡住——tinyBuild 开发者回复",
+      "ja": "Steam ディスカッション：ストーリーが進まない — tinyBuild開発者の返信",
+      "ko": "Steam 토론: 스토리 진행 불가 — tinyBuild 개발자 답변",
+      "fr": "Discussion Steam : histoire bloquée — réponse du dev tinyBuild",
+      "de": "Steam-Diskussion: Story blockiert — Antwort von tinyBuild",
+      "es": "Debate de Steam: historia atascada — respuesta del dev de tinyBuild",
+      "pt-BR": "Tópico da Steam: história travada — resposta do dev da tinyBuild",
+      "ru": "Обсуждение Steam: сюжет застрял — ответ разработчика tinyBuild",
+      "zh-TW": "Steam 討論：劇情卡住——tinyBuild 開發者回覆"
+     }
+    },
+    {
+     "label": "restory.wiki — Hashimoto (community wiki)",
+     "url": "https://restory.wiki/w/Hashimoto",
+     "labels": {
+      "en": "restory.wiki — Hashimoto (community wiki)",
+      "zh-CN": "restory.wiki — Hashimoto（社区维基）",
+      "ja": "restory.wiki — Hashimoto（コミュニティWiki）",
+      "ko": "restory.wiki — Hashimoto（커뮤니티 위키）",
+      "fr": "restory.wiki — Hashimoto (wiki communautaire)",
+      "de": "restory.wiki — Hashimoto (Community-Wiki)",
+      "es": "restory.wiki — Hashimoto (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Hashimoto (wiki da comunidade)",
+      "ru": "restory.wiki — Hashimoto (вики сообщества)",
+      "zh-TW": "restory.wiki — Hashimoto（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Kaito (community wiki)",
+     "url": "https://restory.wiki/w/Kaito",
+     "labels": {
+      "en": "restory.wiki — Kaito (community wiki)",
+      "zh-CN": "restory.wiki — Kaito（社区维基）",
+      "ja": "restory.wiki — Kaito（コミュニティWiki）",
+      "ko": "restory.wiki — Kaito（커뮤니티 위키）",
+      "fr": "restory.wiki — Kaito (wiki communautaire)",
+      "de": "restory.wiki — Kaito (Community-Wiki)",
+      "es": "restory.wiki — Kaito (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Kaito (wiki da comunidade)",
+      "ru": "restory.wiki — Kaito (вики сообщества)",
+      "zh-TW": "restory.wiki — Kaito（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Baketsu (community wiki)",
+     "url": "https://restory.wiki/w/Baketsu",
+     "labels": {
+      "en": "restory.wiki — Baketsu (community wiki)",
+      "zh-CN": "restory.wiki — Baketsu（社区维基）",
+      "ja": "restory.wiki — Baketsu（コミュニティWiki）",
+      "ko": "restory.wiki — Baketsu（커뮤니티 위키）",
+      "fr": "restory.wiki — Baketsu (wiki communautaire)",
+      "de": "restory.wiki — Baketsu (Community-Wiki)",
+      "es": "restory.wiki — Baketsu (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Baketsu (wiki da comunidade)",
+      "ru": "restory.wiki — Baketsu (вики сообщества)",
+      "zh-TW": "restory.wiki — Baketsu（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Haruhi (community wiki)",
+     "url": "https://restory.wiki/w/Haruhi",
+     "labels": {
+      "en": "restory.wiki — Haruhi (community wiki)",
+      "zh-CN": "restory.wiki — Haruhi（社区维基）",
+      "ja": "restory.wiki — Haruhi（コミュニティWiki）",
+      "ko": "restory.wiki — Haruhi（커뮤니티 위키）",
+      "fr": "restory.wiki — Haruhi (wiki communautaire)",
+      "de": "restory.wiki — Haruhi (Community-Wiki)",
+      "es": "restory.wiki — Haruhi (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Haruhi (wiki da comunidade)",
+      "ru": "restory.wiki — Haruhi (вики сообщества)",
+      "zh-TW": "restory.wiki — Haruhi（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Yui (community wiki)",
+     "url": "https://restory.wiki/w/Yui",
+     "labels": {
+      "en": "restory.wiki — Yui (community wiki)",
+      "zh-CN": "restory.wiki — Yui（社区维基）",
+      "ja": "restory.wiki — Yui（コミュニティWiki）",
+      "ko": "restory.wiki — Yui（커뮤니티 위키）",
+      "fr": "restory.wiki — Yui (wiki communautaire)",
+      "de": "restory.wiki — Yui (Community-Wiki)",
+      "es": "restory.wiki — Yui (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Yui (wiki da comunidade)",
+      "ru": "restory.wiki — Yui (вики сообщества)",
+      "zh-TW": "restory.wiki — Yui（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Tourist (community wiki)",
+     "url": "https://restory.wiki/w/Tourist",
+     "labels": {
+      "en": "restory.wiki — Tourist (community wiki)",
+      "zh-CN": "restory.wiki — Tourist（社区维基）",
+      "ja": "restory.wiki — Tourist（コミュニティWiki）",
+      "ko": "restory.wiki — Tourist（커뮤니티 위키）",
+      "fr": "restory.wiki — Tourist (wiki communautaire)",
+      "de": "restory.wiki — Tourist (Community-Wiki)",
+      "es": "restory.wiki — Tourist (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Tourist (wiki da comunidade)",
+      "ru": "restory.wiki — Tourist (вики сообщества)",
+      "zh-TW": "restory.wiki — Tourist（社區維基）"
+     }
+    },
+    {
+     "label": "allthings.how — how to get all four endings (media claim, not confirmed)",
+     "url": "https://allthings.how/restory-chill-electronics-repairs-how-to-get-all-four-endings/",
+     "labels": {
+      "en": "allthings.how — how to get all four endings (media claim, not confirmed)",
+      "zh-CN": "allthings.how — 如何获得全部四个结局（媒体口径，未证实）",
+      "ja": "allthings.how — 全4エンディングの取得方法（メディアの主張、未確認）",
+      "ko": "allthings.how — 네 가지 엔딩 획득 방법 (언론 주장, 미확인)",
+      "fr": "allthings.how — obtenir les quatre fins (affirmation médiatique, non confirmée)",
+      "de": "allthings.how — alle vier Enden erhalten (Medienbehauptung, unbestätigt)",
+      "es": "allthings.how — cómo obtener los cuatro finales (afirmación mediática, sin confirmar)",
+      "pt-BR": "allthings.how — como obter os quatro finais (afirmação da mídia, não confirmada)",
+      "ru": "allthings.how — как получить все четыре концовки (заявление СМИ, не подтверждено)",
+      "zh-TW": "allthings.how — 如何獲得全部四個結局（媒體口徑，未證實）"
      }
     }
    ],
@@ -24579,37 +24965,230 @@
    },
    "i18n": {
     "en": {
-     "title": "ReStory Endings Guide: Every Branch",
-     "metaTitle": "ReStory Endings: Multiple Endings and Branch Guide",
-     "metaDescription": "ReStory has multiple endings based on your choices. What we know about the branching story, what drives it, and what is still being verified.",
-     "intro": "ReStory's official description confirms a branching storyline with multiple endings that depend on your choices. The exact ending list and triggers are still being verified — this page tracks everything we know.",
+     "title": "ReStory Endings: Every Ending and How to Reach It",
+     "metaTitle": "ReStory Endings: All Endings and How to Unlock",
+     "metaDescription": "ReStory endings guide: the final Hashimoto choice decides good and bad endings, three missable character lines, a branch map and stuck-progress FAQs.",
+     "intro": "ReStory's official description confirms a branching story with multiple endings that depend on your choices. Community playthroughs have now verified the core structure: after Yamato brings news that the concert is cancelled, landlord Hashimoto offers a final choice that leads to the good ending (Rock for the Ages!) or the bad ending (Globalization). Three mutually exclusive character story lines — Haruhi, Kaito and Baketsu — add missable endings of their own. This page maps every branch, marks what is verified versus what is still pending, and answers the common stuck points.",
      "sections": [
       {
-       "type": "steps",
-       "heading": "What is confirmed",
-       "items": [
+       "type": "table",
+       "heading": "Ending & story-line overview",
+       "body": "Two named endings are decided by one final choice with Hashimoto; three character story lines are mutually exclusive; the early Eggotchi choice unlocks Origami. Confidence tags follow every claim — see the verification note at the bottom.",
+       "columns": [
+        "Ending / arc",
+        "How to trigger",
+        "Prerequisite",
+        "Mutually exclusive with",
+        "Achievement",
+        "Confidence"
+       ],
+       "rows": [
         [
-         "Multiple endings",
-         "The official Steam description explicitly confirms a branching story with multiple endings."
+         "Good ending",
+         "Final choice with Hashimoto: option 1 — sell the shop to Takumi and donate the profits to the concert",
+         "Reach the finale (4 tournament record wins)",
+         "Bad ending",
+         "Rock for the Ages!",
+         "〔L3·双源〕"
         ],
         [
-         "Choices matter",
-         "The same official description says your decisions affect customers' lives and your shop."
+         "Bad ending",
+         "Final choice with Hashimoto: option 2 — accept the new development; the shopping center is built",
+         "Reach the finale",
+         "Good ending",
+         "Globalization",
+         "〔L3·双源〕"
         ],
         [
-         "Triggers are not verified",
-         "No reliable source currently gives the exact ending count, names or choice requirements."
+         "Haruhi story line",
+         "After the last tournament win: invite her to stay; repair the Tourist's requests; talk to her after her last repair",
+         "Finale reached",
+         "Kaito / Baketsu lines",
+         "Melancholy",
+         "〔L3·双源〕"
+        ],
+        [
+         "Kaito story line",
+         "Invite him to stay; he finds the watch and asks you to fix it",
+         "Finale reached",
+         "Haruhi / Baketsu lines",
+         "Ronin",
+         "〔L3·双源〕"
+        ],
+        [
+         "Baketsu story line",
+         "Invite him to stay; he finds the watch and asks you to fix it",
+         "Finale reached",
+         "Haruhi / Kaito lines",
+         "Ghost in the Frame",
+         "〔L3·双源〕"
+        ],
+        [
+         "Yui / Eggotchi choice",
+         "Fix the girl's Eggotchi; refuse the delivery agent's offer to pay",
+         "Early game",
+         "None",
+         "Origami",
+         "〔L0 condition + L3 details〕"
+        ],
+        [
+         "“Default / Secret” endings",
+         "Reported by one media guide (allthings.how); not confirmed",
+         "—",
+         "—",
+         "None confirmed",
+         "〔待验证〕"
         ]
        ]
       },
       {
-       "type": "list",
-       "heading": "How to make your run useful",
+       "type": "steps",
+       "heading": "How the ending is decided: the final choice",
+       "body": "The ending is not tracked by every customer choice along the way — multiple community guides agree the decisive moment is a single final choice. The steps below are community-verified (L3, two or more sources) until confirmed in-game (L0).",
        "items": [
-        "Write down the exact wording of major dialogue choices instead of guessing what they control.",
-        "Record the customer, in-game day and choice in the branch log below.",
-        "If the game offers a usable save point, keep it before a major decision.",
-        "Compare one changed choice at a time; that is the fastest way to verify a trigger."
+        [
+         "Reach the finale",
+         "Advance the story — driven by your checklist/to-do list — until you beat the Akiba Championship record 4 times and Yamato brings news that the concert is cancelled. 〔L3·双源〕"
+        ],
+        [
+         "Hashimoto arrives with two options",
+         "The landlord appears at your shop and offers the final choice — this single decision decides the ending. 〔L3·双源〕"
+        ],
+        [
+         "Option 1 → good ending",
+         "Sell your shop to Takumi and donate the profits to the concert organisers — this unlocks Rock for the Ages!. 〔L3·双源〕"
+        ],
+        [
+         "Option 2 → bad ending",
+         "Accept the new development and let the shopping center be built — this unlocks Globalization. 〔L3·双源〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "The good ending: Rock for the Ages!",
+       "items": [
+        [
+         "Pick option 1 at the final choice",
+         "When Hashimoto offers the final choice, choose to sell the shop to Takumi and donate the profits to save the concert. 〔L3·双源〕"
+        ],
+        [
+         "Watch the finale",
+         "The ending scene plays out — community guides describe it as showing the characters' growth and their stories paying off. 〔L3·双源〕"
+        ],
+        [
+         "Achievement",
+         "Rock for the Ages! unlocks. The name is official (Steam); the exact in-game ending screen label still needs L0 verification. 〔L0 name / 待验证〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Does finishing a character line change the good ending?",
+       "body": "Whether completing a character story line first makes the ending screen richer is reported by community players but not yet verified at L0. Treat it as optional, not a requirement. 〔待验证〕"
+      },
+      {
+       "type": "steps",
+       "heading": "The bad ending: Globalization",
+       "items": [
+        [
+         "Pick option 2 at the final choice",
+         "Accept the new development when Hashimoto offers the final choice; the shopping center is built. 〔L3·双源〕"
+        ],
+        [
+         "Watch the finale",
+         "The story concludes with the mall development going ahead. 〔L3·双源〕"
+        ],
+        [
+         "Achievement",
+         "Globalization unlocks. The name is official (Steam); the exact in-game ending screen label still needs L0 verification. 〔L0 name / 待验证〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "The bad ending is a normal ending",
+       "body": "Globalization is one of the two named endings — not a punishment for many mistakes. It is reached simply by picking the second option at the final choice. 〔L3·双源〕"
+      },
+      {
+       "type": "steps",
+       "heading": "3 mutually exclusive character story lines (missable)",
+       "body": "After the last tournament win you can invite one character to stay. The three lines are mutually exclusive — inviting one locks out the others, so plan separate runs for the missable achievements. 〔L3·双源〕",
+       "items": [
+        [
+         "Invite exactly one character",
+         "Choose one of Haruhi, Kaito or Baketsu to stay after the last tournament win; community guides warn that inviting other people may prevent the line from triggering. 〔L3·双源〕"
+        ],
+        [
+         "Haruhi → Melancholy",
+         "Invite her to stay, repair the Tourist's requests, and talk to her after her last repair — the story about the missing previous owner comes up and she leaves. 〔L3·双源〕"
+        ],
+        [
+         "Kaito → Ronin",
+         "Invite him to stay and wait for him to find the watch and ask you to repair it. 〔L3·双源〕"
+        ],
+        [
+         "Baketsu → Ghost in the Frame",
+         "Invite him to stay (the bucket-neighbour); he finds the watch and asks you to repair it. 〔L3·双源〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Yui & the Eggotchi: the early Origami choice",
+       "body": "The official Steam condition for Origami is helping a child for free; community guides describe the exact moment. 〔L0 condition + L3 details〕",
+       "items": [
+        [
+         "Fix the little girl's Eggotchi",
+         "Early in the game the girl Yui brings her Eggotchi — a quest device that must be fully repaired for the story to continue (per a tinyBuild developer reply). 〔L1·官方〕"
+        ],
+        [
+         "Refuse the delivery agent's offer",
+         "The courier Yamato offers to pay for her repair — refuse payment so the help is free. 〔L3·双源〕"
+        ],
+        [
+         "The origami arrives later",
+         "The courier later returns with a paper crane (origami) and +10 Zen for you; the Origami achievement unlocks. 〔L3·双源〕"
+        ]
+       ]
+      },
+      {
+       "type": "timeline",
+       "heading": "Branch roadmap (text version)",
+       "body": "Story order reported by community guides. Week numbers and day counts are estimates, not verified timers.",
+       "items": [
+        [
+         "Day 1",
+         "Open the shop; the first fix is landlord Hashimoto's phone (Pokia). 〔L3·单源, FIRST FIX!〕"
+        ],
+        [
+         "Early",
+         "Fix the little girl's Eggotchi and refuse payment → the Origami arc. 〔L3·双源 + L0 condition〕"
+        ],
+        [
+         "Mid",
+         "Buy licenses to unlock devices; the story advances through your checklist/to-do list. 〔L0/L3〕"
+        ],
+        [
+         "Week ~3 (estimate)",
+         "The Akiba Championship app arrives by email; beat the record 4 times to finish the story. 〔L3·双源〕"
+        ],
+        [
+         "After the last tournament win",
+         "Branch: invite exactly one of Haruhi / Kaito / Baketsu to stay. Their final request is always a watch; they leave and the missable achievement pops. 〔L3·双源〕"
+        ],
+        [
+         "Finale",
+         "Yamato announces the concert is cancelled; Hashimoto appears with two options. 〔L3·双源〕"
+        ],
+        [
+         "Option 1",
+         "Good ending (Rock for the Ages!): sell the shop to Takumi, donate the profits. 〔L3·双源〕"
+        ],
+        [
+         "Option 2",
+         "Bad ending (Globalization): the shopping center is built. 〔L3·双源〕"
+        ]
        ]
       },
       {
@@ -24617,63 +25196,299 @@
        "heading": "Endings FAQ",
        "items": [
         [
-         "How many endings are there?",
-         "Unknown yet — we are verifying the exact count."
+         "How many endings does ReStory have?",
+         "Two named endings are confirmed by multiple community guides: the good ending (Rock for the Ages!) and the bad ending (Globalization), both decided by one final choice with Hashimoto. Three mutually exclusive character story lines (Haruhi, Kaito, Baketsu) add missable endings of their own. 〔L3·双源〕 A separate “four endings” framing (default/secret) exists in one media guide but is not confirmed — see the note below. 〔待验证〕"
         ],
         [
-         "Is there a confirmed true ending?",
-         "No. Multiple endings are confirmed, but a true ending is not."
+         "Is there a true ending?",
+         "No achievement or official source confirms a “true ending”. 〔L0 / 待验证〕"
         ],
         [
-         "Can I see all endings in one playthrough?",
-         "Unknown. We have not found a verified source for replay or save requirements."
+         "Can I see both final endings in one save?",
+         "Yes — save before the final Hashimoto choice and reload to pick the other option. 〔L3·双源〕"
+        ],
+        [
+         "Can I unlock all three character endings in one playthrough?",
+         "No — they are mutually exclusive; you can only invite one character to stay. Plan three runs (or rotate five backup save slots) for all missable story achievements. 〔L3·双源〕"
+        ],
+        [
+         "The story is stuck and nobody visits my shop — what now?",
+         "Check your checklist/to-do list. A tinyBuild developer confirmed on Steam that a quest device (often the Eggotchi) left unfinished in your workshop blocks story progression — finish it. Also look for device boxes marked “License needed” around the shop. 〔L1·官方〕"
+        ],
+        [
+         "Is there a penalty for delaying the story?",
+         "No — the story waits for you; only repairs left unfinished past 3 days cost you a good review. 〔L3·单源〕"
+        ],
+        [
+         "What happens after the ending?",
+         "The story concludes and the run ends (no endless mode reported); players restart to see the other ending. 〔L3·单源〕"
+        ],
+        [
+         "How do I get the good ending?",
+         "Choose the first option when Hashimoto offers the final choice: sell your shop to Takumi and donate the profits to save the concert. 〔L3·双源〕"
+        ],
+        [
+         "Why did I get the bad ending?",
+         "You picked the second option — accepting the new development and letting the shopping center be built. It is a normal ending, not a punishment for mistakes. 〔L3·双源〕"
+        ],
+        [
+         "Do competition wins or fixing every device change the ending?",
+         "Competition wins are needed to reach the finale (4 record wins for the story). The ending itself is decided by the final choice and the one character you invite to stay; other choices don't appear to matter. 〔L3·双源〕"
         ]
        ]
       },
       {
        "type": "note",
-       "heading": "Being verified",
-       "body": "Verification status checked August 13, 2026. We will only publish ending names or a flowchart after the conditions can be reproduced or sourced reliably."
+       "heading": "A different “4 endings” framing exists — not confirmed",
+       "body": "One media guide (allthings.how, updated 9 August 2026) frames ReStory as having four endings — Default, Good, Secret and Bad — decided by cumulative treatment of every customer, and describes a Secret ending with four extra scenes. This conflicts with the two-source community structure above, so we treat it as an unverified media claim, not a fact. What would confirm it: the exact names shown on in-game ending screens, or evidence of an extra ending with no achievement attached. Until then we keep the structure of two named endings plus three character lines. 〔待验证〕"
+      },
+      {
+       "type": "note",
+       "heading": "Verification status",
+       "body": "Checked 17–18 August 2026 against the Steam store page and the global achievement list (L0), a tinyBuild developer reply on Steam (L1·official), and multiple community sources (L3). The exact wording of the final choice and the character invitations is community-reported and must be confirmed in-game (L0) before button-by-button instructions can be published. Pending L0 verification: in-game ending screen labels, exact option text, invitation timing, official localized character names, the watch as the previous owner's item, a possible 4th ending, tournament record wording, and any new official announcements (E1–E8)."
       }
      ],
      "sources": [
       "steam",
-      "intoindie"
+      "steam-achievements",
+      "kleynce-guide",
+      "prodigygamers",
+      "steam-discussion-story",
+      "wiki-hashimoto",
+      "wiki-kaito",
+      "wiki-baketsu",
+      "wiki-haruhi",
+      "wiki-yui",
+      "wiki-tourist",
+      "allthings-endings"
      ],
      "icon": "endings"
     },
     "zh-CN": {
-     "title": "维修物语结局攻略：全分支",
-     "metaTitle": "维修物语结局：多结局与分支攻略",
-     "metaDescription": "维修物语基于选择有多结局。我们已知的分支剧情、什么决定结局，以及仍在核实的内容。",
-     "intro": "维修物语的官方描述确认：分支剧情、多个结局，结局取决于你的选择。确切结局数量与触发条件仍在核实——本页跟踪我们已知的一切。",
+     "title": "维修物语结局攻略：所有结局与达成条件",
+     "metaTitle": "维修物语结局攻略：所有结局与达成条件",
+     "metaDescription": "维修物语全结局：终盘二选一决定好/坏结局，三条互斥角色线、分支路线图与FAQ。",
+     "intro": "《维修物语》的官方描述确认：分支剧情、多个结局，结局取决于你的选择。社区多周目实测已核实核心结构：Yamato 告知演唱会取消后，房东 Hashimoto 会给出最终二选一，通向好结局（Rock for the Ages!）或坏结局（Globalization）；另有 Haruhi、Kaito、Baketsu 三条互斥角色故事线，各自对应可错过的结局。本页梳理所有分支，标注哪些已核实、哪些仍待验证，并回答常见卡点。",
      "sections": [
       {
-       "type": "steps",
-       "heading": "已经确认的事实",
-       "items": [
+       "type": "table",
+       "heading": "结局与故事线总览",
+       "body": "两个命名结局由与 Hashimoto 的终盘一次二选一决定；三条角色故事线互斥；早期 Eggotchi 选择解锁 Origami。每条结论都附置信度标注——详见页尾验证说明。",
+       "columns": [
+        "结局 / 故事线",
+        "触发方式",
+        "前置条件",
+        "与谁互斥",
+        "关联成就",
+        "置信度"
+       ],
+       "rows": [
         [
-         "存在多个结局",
-         "Steam 官方描述明确确认了分支剧情与多个结局。"
+         "好结局",
+         "终选时选第 1 项：把店卖给 Takumi、收益捐给演唱会主办方",
+         "推进至终盘（锦标赛 4 次破纪录）",
+         "坏结局",
+         "Rock for the Ages!",
+         "〔L3·双源〕"
         ],
         [
-         "选择会产生影响",
-         "同一官方描述确认，你的决定会影响顾客的人生与店铺。"
+         "坏结局",
+         "终选时选第 2 项：接受新开发，购物中心建成",
+         "推进至终盘",
+         "好结局",
+         "Globalization",
+         "〔L3·双源〕"
         ],
         [
-         "触发条件尚未核实",
-         "目前没有可靠来源给出准确结局数、名称或选择条件。"
+         "Haruhi 故事线",
+         "最后一次锦标赛胜利后邀她留下；完成游客（Tourist）的请求；她最后一次修理后对话",
+         "已到终盘",
+         "Kaito / Baketsu 线",
+         "Melancholy",
+         "〔L3·双源〕"
+        ],
+        [
+         "Kaito 故事线",
+         "邀他留下；等他找到「表」并请你修理",
+         "已到终盘",
+         "Haruhi / Baketsu 线",
+         "Ronin",
+         "〔L3·双源〕"
+        ],
+        [
+         "Baketsu 故事线",
+         "邀他留下（桶邻居）；他找到「表」并请你修理",
+         "已到终盘",
+         "Haruhi / Kaito 线",
+         "Ghost in the Frame",
+         "〔L3·双源〕"
+        ],
+        [
+         "Yui / Eggotchi 选择",
+         "修好小女孩的 Eggotchi；拒绝快递员代付",
+         "游戏早期",
+         "无",
+         "Origami",
+         "〔L0 官方条件 + L3 细节〕"
+        ],
+        [
+         "「默认 / 隐藏」结局",
+         "仅单篇媒体（allthings.how）报道，尚未证实",
+         "—",
+         "—",
+         "未确认",
+         "〔待验证〕"
         ]
        ]
       },
       {
-       "type": "list",
-       "heading": "怎样记录本周目",
+       "type": "steps",
+       "heading": "结局怎么决定：终盘一次二选一",
+       "body": "结局并不是全程按每位顾客的选择累计追踪——多份社区指南一致认为决定性时刻只有终盘这一次二选一。以下步骤为社区多源核实（L3·双源），待游戏内实测（L0）后再升级。",
        "items": [
-        "记录重大对话选项的原文，不猜测它控制了什么。",
-        "在下方分支记录器中写下顾客、游戏日期与选择。",
-        "如果游戏允许在关键决定前保留可用存档，就先保留一份。",
-        "每次只改变一个选项进行对照，这是验证触发器最快的方法。"
+        [
+         "推进至终盘",
+         "按任务清单/待办推进剧情，直到锦标赛破纪录 4 次、Yamato 告知演唱会取消。〔L3·双源〕"
+        ],
+        [
+         "Hashimoto 给出两个选项",
+         "房东到店给出最终选择——这一次决定就决定结局。〔L3·双源〕"
+        ],
+        [
+         "选项 1 → 好结局",
+         "把店卖给 Takumi、收益捐给演唱会主办方——解锁 Rock for the Ages!。〔L3·双源〕"
+        ],
+        [
+         "选项 2 → 坏结局",
+         "接受新开发，让购物中心建起来——解锁 Globalization。〔L3·双源〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "好结局：Rock for the Ages!",
+       "items": [
+        [
+         "终选时选第 1 项",
+         "Hashimoto 给出最终选择时，选择把店卖给 Takumi、捐出收益救演唱会。〔L3·双源〕"
+        ],
+        [
+         "观看结局画面",
+         "结局演出展开——社区指南描述为能看到所有角色的成长与故事开花结果。〔L3·双源〕"
+        ],
+        [
+         "成就",
+         "解锁 Rock for the Ages!。名称来自 Steam 官方；游戏内结局画面的确切标题仍需 L0 核验。〔L0 名称 / 待验证〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "先完成角色线会改变好结局画面吗？",
+       "body": "社区玩家报告先完成某条角色故事线会让结局画面更丰满，但尚未经 L0 核实。请把它当作可选项，而不是必要条件。〔待验证〕"
+      },
+      {
+       "type": "steps",
+       "heading": "坏结局：Globalization",
+       "items": [
+        [
+         "终选时选第 2 项",
+         "Hashimoto 给出最终选择时接受新开发，购物中心建成。〔L3·双源〕"
+        ],
+        [
+         "观看结局画面",
+         "故事以商场开发推进而收束。〔L3·双源〕"
+        ],
+        [
+         "成就",
+         "解锁 Globalization。名称来自 Steam 官方；游戏内结局画面的确切标题仍需 L0 核验。〔L0 名称 / 待验证〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "坏结局是正常结局",
+       "body": "Globalization 是两个命名结局之一，不是「做错很多事」的惩罚。只要终选时选第 2 项就会到达。〔L3·双源〕"
+      },
+      {
+       "type": "steps",
+       "heading": "3 条互斥角色故事线（missable）",
+       "body": "最后一次锦标赛胜利后，可以邀请一名角色留下。三条线互斥——邀请一人会锁掉另外两条，想拿全部 missable 成就请分周目规划。〔L3·双源〕",
+       "items": [
+        [
+         "只邀请一名角色",
+         "最后一次锦标赛胜利后，从 Haruhi、Kaito、Baketsu 中选一人留下；社区指南提醒，邀请其他人可能导致该线无法触发。〔L3·双源〕"
+        ],
+        [
+         "Haruhi → Melancholy",
+         "邀她留下、完成游客（Tourist）的请求，并在她最后一次修理后与她对话——「前任店主失踪」的故事由此牵出，她随后离开。〔L3·双源〕"
+        ],
+        [
+         "Kaito → Ronin",
+         "邀他留下，等他找到「表」并请你修理。〔L3·双源〕"
+        ],
+        [
+         "Baketsu → Ghost in the Frame",
+         "邀他留下（桶邻居）；他找到「表」并请你修理。〔L3·双源〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Yui 与 Eggotchi：早期的 Origami 选择",
+       "body": "Origami 的 Steam 官方条件是「免费帮助一个孩子」；社区指南描述了确切时机。〔L0 官方条件 + L3 细节〕",
+       "items": [
+        [
+         "修好小女孩的 Eggotchi",
+         "游戏早期，女孩 Yui 会带来她的 Eggotchi——这是工单设备，必须修完剧情才能继续（tinyBuild 开发者回复确认）。〔L1·官方〕"
+        ],
+        [
+         "拒绝快递员代付",
+         "快递员 Yamato 提出替她付款——拒绝收款，让帮助免费。〔L3·双源〕"
+        ],
+        [
+         "折纸稍后送到",
+         "快递员稍后会送回一只纸鹤（折纸）并附 +10 Zen；Origami 成就解锁。〔L3·双源〕"
+        ]
+       ]
+      },
+      {
+       "type": "timeline",
+       "heading": "分支路线图（文字版）",
+       "body": "社区指南报告的剧情顺序。周数与天数均为估算，不是已核实的计时器。",
+       "items": [
+        [
+         "第 1 天",
+         "开店；第一单是房东 Hashimoto 的手机（Pokia）。〔L3·单源, FIRST FIX!〕"
+        ],
+        [
+         "早期",
+         "修好小女孩的 Eggotchi 并拒绝收款 → 进入 Origami 线。〔L3·双源 + L0 官方条件〕"
+        ],
+        [
+         "中期",
+         "购买许可证解锁设备；剧情按任务清单推进。〔L0/L3〕"
+        ],
+        [
+         "约第 3 周（估算）",
+         "收件箱收到 Akiba Championship 应用；破纪录 4 次以完成剧情。〔L3·双源〕"
+        ],
+        [
+         "最后一次锦标赛胜利后",
+         "分支：从 Haruhi / Kaito / Baketsu 中只邀请一人留下。他们的最终请求总是一块「表」；修完角色离开并弹出 missable 成就。〔L3·双源〕"
+        ],
+        [
+         "终盘",
+         "Yamato 告知演唱会取消；Hashimoto 出现并给出两个选项。〔L3·双源〕"
+        ],
+        [
+         "选项 1",
+         "好结局（Rock for the Ages!）：把店卖给 Takumi，捐出收益。〔L3·双源〕"
+        ],
+        [
+         "选项 2",
+         "坏结局（Globalization）：购物中心建成。〔L3·双源〕"
+        ]
        ]
       },
       {
@@ -24681,63 +25496,299 @@
        "heading": "结局 FAQ",
        "items": [
         [
-         "有多少个结局？",
-         "未知——我们正在核实确切数量。"
+         "维修物语有几个结局？",
+         "社区多源已核实两个命名结局：好结局（Rock for the Ages!）与坏结局（Globalization），都由与 Hashimoto 的终盘一次二选一决定；另有 Haruhi、Kaito、Baketsu 三条互斥角色线，各自对应可错过的结局。〔L3·双源〕「默认/隐藏」四结局说法来自单篇媒体，尚未确认——见下方说明。〔待验证〕"
         ],
         [
-         "已确认存在真结局吗？",
-         "没有。已确认有多个结局，但没有可靠来源确认“真结局”。"
+         "有真结局吗？",
+         "没有任何成就或官方来源确认存在「真结局」。〔L0 / 待验证〕"
         ],
         [
-         "一局能看到全部结局吗？",
-         "未知。目前没有找到可核验的周目或存档要求。"
+         "一个存档能看两个终局结局吗？",
+         "可以：终选前存档，reload 后选另一个选项。〔L3·双源〕"
+        ],
+        [
+         "三个角色结局能一周目全拿吗？",
+         "不能——三者互斥，一次只能邀请一人留下。想拿全部 missable 剧情成就，请规划三周目（或用 5 个备份存档槽轮换）。〔L3·双源〕"
+        ],
+        [
+         "剧情卡住、没人来店里怎么办？",
+         "检查任务清单/待办。tinyBuild 开发者在 Steam 回复确认：工单设备（常见为 Eggotchi）没修完会卡住剧情——把它修完。另外留意店里标着「需要许可证」的设备盒。〔L1·官方〕"
+        ],
+        [
+         "拖延剧情有惩罚吗？",
+         "没有——剧情会等你；只有超过 3 天未完成的修理会让你失去一条好评。〔L3·单源〕"
+        ],
+        [
+         "结局之后还能玩吗？",
+         "社区报告故事结束即收束、无无限模式；想看另一结局需重开或读档。〔L3·单源〕"
+        ],
+        [
+         "好结局怎么打？",
+         "Hashimoto 给出最终选择时选第 1 项：把店卖给 Takumi、捐出收益救演唱会。〔L3·双源〕"
+        ],
+        [
+         "为什么我打出坏结局？",
+         "因为你选了第 2 项——接受新开发，让购物中心建起来。这是正常结局，不是失误的惩罚。〔L3·双源〕"
+        ],
+        [
+         "赢比赛或修完全部设备会改变结局吗？",
+         "赢比赛是推进到终盘所需（剧情需要 4 次破纪录）。结局本身由终盘二选一和邀请留下的那一名角色决定；其它选择似乎不影响。〔L3·双源〕"
         ]
        ]
       },
       {
        "type": "note",
-       "heading": "核实中",
-       "body": "核验状态更新于 2026 年 8 月 13 日。只有条件可复现或有可靠来源后，我们才会发布结局名称或流程图。"
+       "heading": "存在不同的「4 结局」媒体口径——尚未证实",
+       "body": "单篇媒体（allthings.how，2026-08-09 更新）把 ReStory 描述为 4 个结局——Default / Good / Secret / Bad，由全程对每位顾客的处理累计决定，并称 Secret 结局含 4 段隐藏后续场景。这与上文社区双源结构冲突，本站将其视为未证实的媒体口径，不当作事实复述。能证实它的证据：游戏内结局画面的确切名称，或存在一个不带成就的第 4 结局。在那之前，本站维持「2 个命名结局 + 3 条角色线」的口径。〔待验证〕"
+      },
+      {
+       "type": "note",
+       "heading": "验证状态",
+       "body": "核对日期：2026 年 8 月 17–18 日。依据：Steam 商店页与全球成就页（L0）、tinyBuild 开发者 Steam 回复（L1·官方）、多份社区来源（L3）。终选选项与角色邀请的确切文字为社区报告，须经游戏内实测（L0）后才能发布逐按钮指引。待 L0 核验清单：游戏内结局画面标题、终选选项原文、邀请时机、角色官方中文译名、前店主物品「表」的归属、是否存在第 4 结局、锦标赛破纪录表述、以及是否有新的官方公告（E1–E8）。"
       }
      ],
      "sources": [
       "steam",
-      "intoindie"
+      "steam-achievements",
+      "kleynce-guide",
+      "prodigygamers",
+      "steam-discussion-story",
+      "wiki-hashimoto",
+      "wiki-kaito",
+      "wiki-baketsu",
+      "wiki-haruhi",
+      "wiki-yui",
+      "wiki-tourist",
+      "allthings-endings"
      ],
      "icon": "endings"
     },
     "ja": {
-     "title": "ReStory エンディングガイド：すべての分岐",
-     "metaTitle": "ReStory エンディング：複数エンドと分岐ガイド",
-     "metaDescription": "ReStory は選択で複数のエンディングに分岐。分岐ストーリーの仕組み、進行要素、検証中の内容を紹介。",
-     "intro": "ReStory の公式説明で、選択に応じて複数のエンディングに分岐するストーリーが確認されています。正確なエンディング一覧と発生条件はまだ検証中——このページでは判明しているすべてをまとめます。",
+     "title": "ReStory エンディング完全ガイド：全エンドと発生条件",
+     "metaTitle": "ReStory エンディング：全エンドの発生条件まとめ",
+     "metaDescription": "ReStory の全エンディング解説：大家 Hashimoto の終盤の最終選択でグッドエン…",
+     "intro": "ReStory の公式説明では、選択に応じて複数のエンディングに分岐するストーリーが確認されています。コミュニティの周回プレイで核心部分が判明：Yamato がコンサート中止を知らせた後、大家 Hashimoto が最終選択を提示し、グッドエンド（Rock for the Ages!）かバッドエンド（Globalization）へ分岐します。さらに Haruhi・Kaito・Baketsu の 3 つの排他キャラストーリーが、それぞれ取り逃し可能なエンドを持ちます。このページでは全分岐を整理し、検証済みと未検証を明示し、よくある詰まりポイントに答えます。",
      "sections": [
       {
-       "type": "steps",
-       "heading": "エンディングを左右する要素",
-       "items": [
+       "type": "table",
+       "heading": "エンディングとストーリーライン一覧",
+       "body": "2 つの命名エンドは Hashimoto との最終選択 1 回で決まります。3 つのキャラストーリーは排他。序盤の Eggotchi の選択で Origami を解放します。各主張には信頼度タグを付けています——末尾の検証ノートを参照してください。",
+       "columns": [
+        "エンディング / ストーリーライン",
+        "発生条件",
+        "前提",
+        "排他対象",
+        "実績",
+        "信頼度"
+       ],
+       "rows": [
         [
-         "あなたの選択",
-         "客とのやり取りやストーリー上の判断が、到達するエンディングを形作ります。"
+         "グッドエンディング",
+         "最終選択で選択肢1：店を Takumi に売り、収益をコンサートへ寄付",
+         "終盤まで進行（大会4回記録更新）",
+         "バッドエンディング",
+         "Rock for the Ages!",
+         "〔L3·複数ソース〕"
         ],
         [
-         "客のストーリー",
-         "デバイスを修理するたびに、各客の個人的なストーリーが進みます。"
+         "バッドエンディング",
+         "最終選択で選択肢2：新開発を受け入れ、ショッピングセンターが建つ",
+         "終盤まで進行",
+         "グッドエンディング",
+         "Globalization",
+         "〔L3·複数ソース〕"
         ],
         [
-         "条件は未検証",
-         "正確なエンディング数、名称、選択条件を示す信頼できる情報源はまだありません。"
+         "Haruhi ストーリーライン",
+         "最後の大会優勝後に彼女を残すよう招待；Tourist の依頼を修理；最後の修理後に会話",
+         "終盤到達",
+         "Kaito / Baketsu ライン",
+         "Melancholy",
+         "〔L3·複数ソース〕"
+        ],
+        [
+         "Kaito ストーリーライン",
+         "彼を招待して残ってもらい、彼が「時計」を見つけて修理を頼むのを待つ",
+         "終盤到達",
+         "Haruhi / Baketsu ライン",
+         "Ronin",
+         "〔L3·複数ソース〕"
+        ],
+        [
+         "Baketsu ストーリーライン",
+         "彼を招待（バケツの隣人）；彼が「時計」を見つけて修理を頼む",
+         "終盤到達",
+         "Haruhi / Kaito ライン",
+         "Ghost in the Frame",
+         "〔L3·複数ソース〕"
+        ],
+        [
+         "Yui / Eggotchi の選択",
+         "少女の Eggotchi を修理し、配達員の代払いを断る",
+         "ゲーム序盤",
+         "なし",
+         "Origami",
+         "〔L0 公式条件 + L3 詳細〕"
+        ],
+        [
+         "「Default / Secret」エンド",
+         "メディア1社（allthings.how）のみの報告で未確認",
+         "—",
+         "—",
+         "未確認",
+         "〔未検証〕"
         ]
        ]
       },
       {
-       "type": "list",
-       "heading": "分岐について判明していること",
+       "type": "steps",
+       "heading": "エンディングの決め方：終盤の最終選択",
+       "body": "エンディングは道中のすべての客の選択を積算して決まるのではありません——複数のコミュニティガイドが、決定的な瞬間は最終選択の 1 回だけだと一致しています。以下の手順はゲーム内確認（L0）が済むまではコミュニティ検証（L3・複数ソース）です。",
        "items": [
-        "複数のエンディングがある（公式 Steam ページで確認済み）。",
-        "エンディングはストーリー中の選択によって変わる。",
-        "個別の客の分岐条件はまだ検証されていない。",
-        "隠し実績の発生条件も未検証で、エンディング条件の証拠としては扱わない。"
+        [
+         "終盤まで進める",
+         "チェックリスト／ToDo に従ってストーリーを進め、大会記録を 4 回更新して Yamato がコンサート中止を知らせるところまで到達。〔L3·複数ソース〕"
+        ],
+        [
+         "Hashimoto が 2 つの選択肢を提示",
+         "大家が店に現れて最終選択を提示——この 1 回の決定がエンディングを決めます。〔L3·複数ソース〕"
+        ],
+        [
+         "選択肢1 → グッドエンド",
+         "店を Takumi に売り、収益をコンサート関係者に寄付——Rock for the Ages! を解放。〔L3·複数ソース〕"
+        ],
+        [
+         "選択肢2 → バッドエンド",
+         "新開発を受け入れ、ショッピングセンターを建てる——Globalization を解放。〔L3·複数ソース〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "グッドエンド：Rock for the Ages!",
+       "items": [
+        [
+         "最終選択で選択肢1",
+         "Hashimoto が最終選択を提示したら、店を Takumi に売って収益でコンサートを救う選択を選ぶ。〔L3·複数ソース〕"
+        ],
+        [
+         "フィナーレを見る",
+         "エンディング演出が流れます——コミュニティガイドはキャラクターの成長と物語の報われ方を描くと説明しています。〔L3·複数ソース〕"
+        ],
+        [
+         "実績",
+         "Rock for the Ages! が解放されます。名称は公式（Steam）ですが、ゲーム内のエンド画面の正確な表示名は L0 検証待ちです。〔L0 名称 / 未検証〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "キャララインを先に終えるとグッドエンドは変わる？",
+       "body": "キャラストーリーを先に完成させるとエンド画面がより充実するというのはコミュニティプレイヤーの報告であり、L0 では未検証です。必須条件ではなく任意とお考えください。〔未検証〕"
+      },
+      {
+       "type": "steps",
+       "heading": "バッドエンド：Globalization",
+       "items": [
+        [
+         "最終選択で選択肢2",
+         "Hashimoto が最終選択を提示したら新開発を受け入れ、ショッピングセンターが建つ。〔L3·複数ソース〕"
+        ],
+        [
+         "フィナーレを見る",
+         "物語はモール開発が進む形で締めくくられます。〔L3·複数ソース〕"
+        ],
+        [
+         "実績",
+         "Globalization が解放されます。名称は公式（Steam）ですが、ゲーム内のエンド画面の正確な表示名は L0 検証待ちです。〔L0 名称 / 未検証〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "バッドエンドは普通のエンディング",
+       "body": "Globalization は 2 つの命名エンドのひとつであり、ミスの罰ではありません。最終選択で選択肢2を選ぶだけで到達します。〔L3·複数ソース〕"
+      },
+      {
+       "type": "steps",
+       "heading": "排他キャラストーリー3本（取り逃し注意）",
+       "body": "最後の大会優勝後、1 人のキャラクターを残すよう招待できます。3 本は排他——1 人を招待すると他はロックされます。取り逃し可能な実績を全部取りたい場合は周回を分けて計画しましょう。〔L3·複数ソース〕",
+       "items": [
+        [
+         "ちょうど 1 人だけ招待する",
+         "最後の大会優勝後、Haruhi・Kaito・Baketsu のうち 1 人を残すよう選びます。コミュニティガイドは、他の人を招待するとラインが発動しない恐れがあると警告しています。〔L3·複数ソース〕"
+        ],
+        [
+         "Haruhi → Melancholy",
+         "彼女を招待し、Tourist の依頼を修理し、最後の修理後に会話——前の店主が行方不明になった話が浮上し、彼女は去ります。〔L3·複数ソース〕"
+        ],
+        [
+         "Kaito → Ronin",
+         "彼を招待して残ってもらい、彼が「時計」を見つけて修理を頼むのを待つ。〔L3·複数ソース〕"
+        ],
+        [
+         "Baketsu → Ghost in the Frame",
+         "彼を招待（バケツの隣人）；彼が「時計」を見つけて修理を頼む。〔L3·複数ソース〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Yui と Eggotchi：序盤の Origami 選択",
+       "body": "Origami の公式 Steam 条件は「子供を無料で助ける」。コミュニティガイドが正確なタイミングを説明しています。〔L0 公式条件 + L3 詳細〕",
+       "items": [
+        [
+         "少女の Eggotchi を修理する",
+         "ゲーム序盤、少女 Yui が Eggotchi を持ってきます——これは依頼デバイスで、ストーリーを進めるには完全に修理する必要があります（tinyBuild 開発者の返信による）。〔L1·公式〕"
+        ],
+        [
+         "配達員の代払いを断る",
+         "配達員の Yamato が修理代を払うと申し出ます——支払いを断り、無償の助けにします。〔L3·複数ソース〕"
+        ],
+        [
+         "後日、折り紙が届く",
+         "配達員が後日、折り鶴（折り紙）と +10 Zen を届けてくれます。Origami 実績が解放されます。〔L3·複数ソース〕"
+        ]
+       ]
+      },
+      {
+       "type": "timeline",
+       "heading": "分岐ロードマップ（テキスト版）",
+       "body": "コミュニティガイドが報告するストーリーの順序。週数や日数は推定であり、検証済みのタイマーではありません。",
+       "items": [
+        [
+         "1日目",
+         "店を開業。最初の修理は大家 Hashimoto の電話（Pokia）。〔L3·単一ソース, FIRST FIX!〕"
+        ],
+        [
+         "序盤",
+         "少女の Eggotchi を修理して支払いを断る → Origami の流れへ。〔L3·複数ソース + L0 公式条件〕"
+        ],
+        [
+         "中盤",
+         "ライセンスを購入してデバイスを解放。ストーリーはチェックリスト／ToDo で進行。〔L0/L3〕"
+        ],
+        [
+         "約3週目（推定）",
+         "Akiba Championship のアプリがメールで届く。記録を 4 回更新してストーリーを完了。〔L3·複数ソース〕"
+        ],
+        [
+         "最後の大会優勝後",
+         "分岐：Haruhi / Kaito / Baketsu のうち 1 人だけを招待して残す。彼らの最後の依頼は必ず「時計」。修理が終わると去り、取り逃し可能な実績が解除されます。〔L3·複数ソース〕"
+        ],
+        [
+         "終盤",
+         "Yamato がコンサート中止を告げ、Hashimoto が 2 つの選択肢を示す。〔L3·複数ソース〕"
+        ],
+        [
+         "選択肢1",
+         "グッドエンド（Rock for the Ages!）：店を Takumi に売り、収益を寄付。〔L3·複数ソース〕"
+        ],
+        [
+         "選択肢2",
+         "バッドエンド（Globalization）：ショッピングセンターが建つ。〔L3·複数ソース〕"
+        ]
        ]
       },
       {
@@ -24745,63 +25796,299 @@
        "heading": "エンディング FAQ",
        "items": [
         [
-         "エンディングはいくつある？",
-         "まだ不明——正確な数を検証中です。"
+         "ReStory のエンディングはいくつ？",
+         "複数のコミュニティガイドが 2 つの命名エンドを確認しています：グッドエンド（Rock for the Ages!）とバッドエンド（Globalization）。どちらも Hashimoto との最終選択 1 回で決まります。Haruhi・Kaito・Baketsu の 3 つの排他キャラストーリーが、それぞれ取り逃し可能なエンドを追加します。〔L3·複数ソース〕「4 エンド（default/secret）」という枠組みはメディア 1 社のみで未確認——下の注を参照してください。〔未検証〕"
         ],
         [
-         "1 周で全エンディングを見られる？",
-         "不明です。周回数やセーブ条件を確認できる信頼できる情報源はまだありません。"
+         "真エンドはある？",
+         "「真エンド」を確認する実績や公式ソースはありません。〔L0 / 未検証〕"
         ],
         [
-         "店の要素も重要？ストーリーだけ？",
-         "不明です。公式説明は選択の影響を確認していますが、個別の変数は公開していません。"
+         "1 つのセーブで両方の最終エンドを見られる？",
+         "はい——Hashimoto の最終選択の前にセーブし、リロードして別の選択肢を選びます。〔L3·複数ソース〕"
+        ],
+        [
+         "3 つのキャラエンドを 1 周で全部取れる？",
+         "いいえ——排他なので、残るよう招待できるのは 1 人だけです。取り逃し可能なストーリー実績を全部取るには 3 周（または予備スロット 5 個をローテーション）を計画しましょう。〔L3·複数ソース〕"
+        ],
+        [
+         "ストーリーが進まない、客が来ない——どうすれば？",
+         "チェックリスト／ToDo を確認してください。tinyBuild 開発者は Steam で、ワークショップに未修理の依頼デバイス（よくあるのは Eggotchi）があるとストーリーが進まないと確認しています——修理を終わらせましょう。店内に「ライセンスが必要」と表示されたデバイス箱がないかも確認してください。〔L1·公式〕"
+        ],
+        [
+         "ストーリーを後回しにするとペナルティは？",
+         "ありません——ストーリーは待ってくれます。3 日を過ぎても未完了の修理だけが良いレビューを損ないます。〔L3·単一ソース〕"
+        ],
+        [
+         "エンディング後はどうなる？",
+         "ストーリーが完結して周回が終わります（無限モードの報告なし）。別のエンドを見るには再開またはリロードします。〔L3·単一ソース〕"
+        ],
+        [
+         "グッドエンドの取り方は？",
+         "Hashimoto が最終選択を提示したら選択肢1：店を Takumi に売り、収益を寄付してコンサートを救います。〔L3·複数ソース〕"
+        ],
+        [
+         "なぜバッドエンドになった？",
+         "選択肢2——新開発を受け入れてショッピングセンターを建てる方を選んだからです。失敗の罰ではなく普通のエンディングです。〔L3·複数ソース〕"
+        ],
+        [
+         "大会に勝つことや全デバイス修理でエンドは変わる？",
+         "大会勝利は終盤到達に必要です（ストーリーには記録 4 回更新）。エンディング自体は最終選択と、残すよう招待した 1 人のキャラクターで決まります。他の選択は影響しないようです。〔L3·複数ソース〕"
         ]
        ]
       },
       {
        "type": "note",
-       "heading": "検証中",
-       "body": "エンディングの正確な数、名称、発生条件は未検証リストに載っています。検証でき次第、完全なエンディングフローチャートを公開します。"
+       "heading": "異なる「4 エンド」の枠組み——未確認",
+       "body": "メディア 1 社（allthings.how、2026年8月9日更新）は ReStory を 4 エンド（Default / Good / Secret / Bad）とし、全客への対応の累積で決まり、Secret エンドには追加シーンが 4 つあると主張しています。これは上記のコミュニティ複数ソースと矛盾するため、未確認のメディア主張として扱い、事実として繰り返しません。確認の決め手：ゲーム内エンド画面の正確な名称、または実績が付かない追加エンドの存在。それまで当サイトは「2 つの命名エンド＋3 つのキャラライン」の枠組みを維持します。〔未検証〕"
+      },
+      {
+       "type": "note",
+       "heading": "検証ステータス",
+       "body": "確認日：2026年8月17–18日。根拠：Steam ストアページとグローバル実績一覧（L0）、tinyBuild 開発者の Steam 返信（L1·公式）、複数のコミュニティソース（L3）。最終選択とキャラ招待の正確な文言はコミュニティ報告であり、ボタン単位の手順を公開する前にゲーム内確認（L0）が必要です。L0 検証待ち：エンド画面の表示名、選択肢の正確な文言、招待のタイミング、各言語の公式キャラ名、前店主の品「時計」の扱い、第4エンドの有無、大会記録の文言、新しい公式アナウンス（E1–E8）。"
       }
      ],
      "sources": [
       "steam",
-      "intoindie"
+      "steam-achievements",
+      "kleynce-guide",
+      "prodigygamers",
+      "steam-discussion-story",
+      "wiki-hashimoto",
+      "wiki-kaito",
+      "wiki-baketsu",
+      "wiki-haruhi",
+      "wiki-yui",
+      "wiki-tourist",
+      "allthings-endings"
      ],
      "icon": "endings"
     },
     "ko": {
-     "title": "ReStory 엔딩 가이드: 모든 분기",
-     "metaTitle": "ReStory 엔딩: 여러 엔딩 · 분기 가이드",
-     "metaDescription": "ReStory에는 선택에 따른 여러 엔딩이 있습니다. 분기형 스토리, 엔딩을 결정하는 요소, 아직 확인 중인 내용.",
-     "intro": "ReStory의 공식 설명은 선택에 따라 달라지는 여러 엔딩이 있는 분기형 스토리라인을 확인해 줍니다. 정확한 엔딩 목록과 발동 조건은 아직 확인 중이며 — 이 페이지는 지금까지 알려진 모든 것을 기록합니다.",
+     "title": "ReStory 엔딩 완전 가이드: 모든 엔딩과 달성 조건",
+     "metaTitle": "ReStory 엔딩: 모든 엔딩과 달성 조건",
+     "metaDescription": "ReStory의 모든 엔딩 해설: 집주인 Hashimoto의 종반 최종 선택으로 굿엔딩(Roc…",
+     "intro": "ReStory의 공식 설명은 선택에 따라 달라지는 여러 엔딩이 있는 분기형 스토리라인을 확인해 줍니다. 커뮤니티 다회차 플레이로 핵심 구조가 검증됐습니다: Yamato가 콘서트 취소 소식을 전한 뒤 집주인 Hashimoto가 최종 선택을 제시하며, 굿엔딩(Rock for the Ages!) 또는 배드엔딩(Globalization)으로 갈라집니다. Haruhi, Kaito, Baketsu의 세 가지 배타적 캐릭터 스토리는 각각 놓치기 쉬운 엔딩을 추가합니다. 이 페이지는 모든 분기를 정리하고, 검증된 내용과 아직 확인 중인 내용을 구분하며, 흔한 막힘 지점에 답합니다.",
      "sections": [
       {
-       "type": "steps",
-       "heading": "엔딩을 결정하는 요소",
-       "items": [
+       "type": "table",
+       "heading": "엔딩과 스토리라인 개요",
+       "body": "두 개의 이름 있는 엔딩은 Hashimoto와의 최종 선택 한 번으로 결정됩니다. 세 가지 캐릭터 스토리라인은 서로 배타적입니다. 초반 Eggotchi 선택으로 Origami를 해금합니다. 각 주장에는 신뢰도 태그가 붙어 있습니다—하단 검증 노트를 참고하세요.",
+       "columns": [
+        "엔딩 / 스토리라인",
+        "발동 조건",
+        "전제",
+        "배타 대상",
+        "업적",
+        "신뢰도"
+       ],
+       "rows": [
         [
-         "당신의 선택",
-         "손님과의 상호작용과 스토리 결정이 도달하는 엔딩을 결정합니다."
+         "굿엔딩",
+         "최종 선택에서 선택지 1: 가게를 Takumi에게 팔고 수익을 콘서트에 기부",
+         "종반까지 진행(대회 4회 기록 갱신)",
+         "배드엔딩",
+         "Rock for the Ages!",
+         "〔L3·복수 소스〕"
         ],
         [
-         "손님 스토리",
-         "손님의 기기를 수리하면서 각 손님의 개인 스토리가 진행됩니다."
+         "배드엔딩",
+         "최종 선택에서 선택지 2: 신규 개발을 받아들이고 쇼핑센터가 세워짐",
+         "종반까지 진행",
+         "굿엔딩",
+         "Globalization",
+         "〔L3·복수 소스〕"
         ],
         [
-         "조건은 미확인",
-         "정확한 엔딩 수, 이름, 선택 조건을 제시하는 신뢰할 수 있는 출처는 아직 없습니다."
+         "Haruhi 스토리라인",
+         "마지막 대회 우승 후 그녀를 남게 초대; Tourist의 요청 수리; 마지막 수리 후 대화",
+         "종반 도달",
+         "Kaito / Baketsu 라인",
+         "Melancholy",
+         "〔L3·복수 소스〕"
+        ],
+        [
+         "Kaito 스토리라인",
+         "그를 초대해 남게 하고, 그가 '시계'를 찾아 수리를 요청할 때까지 기다림",
+         "종반 도달",
+         "Haruhi / Baketsu 라인",
+         "Ronin",
+         "〔L3·복수 소스〕"
+        ],
+        [
+         "Baketsu 스토리라인",
+         "그를 초대(버킷 이웃); 그가 '시계'를 찾아 수리를 요청함",
+         "종반 도달",
+         "Haruhi / Kaito 라인",
+         "Ghost in the Frame",
+         "〔L3·복수 소스〕"
+        ],
+        [
+         "Yui / Eggotchi 선택",
+         "소녀의 Eggotchi를 수리하고 배달원의 대납 제의를 거절",
+         "게임 초반",
+         "없음",
+         "Origami",
+         "〔L0 공식 조건 + L3 세부〕"
+        ],
+        [
+         "「Default / Secret」엔딩",
+         "단일 매체(allthings.how)만 보고, 미확인",
+         "—",
+         "—",
+         "미확인",
+         "〔미검증〕"
         ]
        ]
       },
       {
-       "type": "list",
-       "heading": "분기에 대해 확인된 내용",
+       "type": "steps",
+       "heading": "엔딩이 결정되는 방식: 종반의 최종 선택",
+       "body": "엔딩은 지나온 모든 손님 선택을 누적해 결정되지 않습니다—여러 커뮤니티 가이드가 결정적 순간은 단 한 번의 최종 선택이라고 일치합니다. 아래 단계는 게임 내 확인(L0) 전까지 커뮤니티 검증(L3·복수 소스)입니다.",
        "items": [
-        "여러 엔딩이 있습니다(공식 Steam 페이지에서 확인).",
-        "엔딩은 스토리 중 내리는 선택에 따라 달라집니다.",
-        "개별 손님 분기의 조건은 아직 확인되지 않았습니다.",
-        "숨은 업적의 발동 조건도 미확인이므로 엔딩 조건의 증거로 사용하지 않습니다."
+        [
+         "종반까지 진행",
+         "체크리스트/할 일에 따라 스토리를 진행해 대회 기록을 4번 갱신하고 Yamato가 콘서트 취소 소식을 전할 때까지 도달합니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "Hashimoto가 두 선택지를 제시",
+         "집주인이 가게에 나타나 최종 선택을 제시합니다—이 한 번의 결정이 엔딩을 결정합니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "선택지 1 → 굿엔딩",
+         "가게를 Takumi에게 팔고 수익을 콘서트 주최 측에 기부—Rock for the Ages! 해금. 〔L3·복수 소스〕"
+        ],
+        [
+         "선택지 2 → 배드엔딩",
+         "신규 개발을 받아들이고 쇼핑센터가 세워지게 함—Globalization 해금. 〔L3·복수 소스〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "굿엔딩: Rock for the Ages!",
+       "items": [
+        [
+         "최종 선택에서 선택지 1",
+         "Hashimoto가 최종 선택을 제시하면 가게를 Takumi에게 팔고 수익으로 콘서트를 살리는 선택을 합니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "피날레 감상",
+         "엔딩 장면이 이어집니다—커뮤니티 가이드는 캐릭터들의 성장과 이야기가 결실을 맺는 모습을 보여준다고 설명합니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "업적",
+         "Rock for the Ages!가 해금됩니다. 이름은 공식(Steam)이며, 게임 내 엔딩 화면의 정확한 표기는 L0 검증이 필요합니다. 〔L0 이름 / 미검증〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "캐릭터 라인을 먼저 끝내면 굿엔딩이 바뀌나요?",
+       "body": "캐릭터 스토리를 먼저 완료하면 엔딩 화면이 더 풍성해진다는 것은 커뮤니티 플레이어의 보고이며 아직 L0에서 검증되지 않았습니다. 필수 조건이 아닌 선택 사항으로 보세요. 〔미검증〕"
+      },
+      {
+       "type": "steps",
+       "heading": "배드엔딩: Globalization",
+       "items": [
+        [
+         "최종 선택에서 선택지 2",
+         "Hashimoto가 최종 선택을 제시하면 신규 개발을 받아들이고 쇼핑센터가 세워집니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "피날레 감상",
+         "이야기는 몰 건설이 진행되는 모습으로 마무리됩니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "업적",
+         "Globalization이 해금됩니다. 이름은 공식(Steam)이며, 게임 내 엔딩 화면의 정확한 표기는 L0 검증이 필요합니다. 〔L0 이름 / 미검증〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "배드엔딩은 정상적인 엔딩입니다",
+       "body": "Globalization은 두 이름 있는 엔딩 중 하나이며, 실수에 대한 처벌이 아닙니다. 최종 선택에서 선택지 2를 고르기만 하면 도달합니다. 〔L3·복수 소스〕"
+      },
+      {
+       "type": "steps",
+       "heading": "상호 배타적 캐릭터 스토리라인 3개 (놓치기 쉬움)",
+       "body": "마지막 대회 우승 후 캐릭터 한 명을 남게 초대할 수 있습니다. 세 라인은 서로 배타적입니다—한 명을 초대하면 나머지는 잠깁니다. 놓치기 쉬운 업적을 모두 얻으려면 회차를 나눠 계획하세요. 〔L3·복수 소스〕",
+       "items": [
+        [
+         "정확히 한 명만 초대",
+         "마지막 대회 우승 후 Haruhi, Kaito, Baketsu 중 한 명을 남게 선택합니다. 커뮤니티 가이드는 다른 사람을 초대하면 라인이 발동하지 않을 수 있다고 경고합니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "Haruhi → Melancholy",
+         "그녀를 초대하고 Tourist의 요청을 수리하며 마지막 수리 후 대화—이전 주인 실종 이야기가 드러나고 그녀가 떠납니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "Kaito → Ronin",
+         "그를 초대해 남게 하고 그가 '시계'를 찾아 수리를 요청할 때까지 기다립니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "Baketsu → Ghost in the Frame",
+         "그를 초대(버킷 이웃); 그가 '시계'를 찾아 수리를 요청합니다. 〔L3·복수 소스〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Yui와 Eggotchi: 초반의 Origami 선택",
+       "body": "Origami의 공식 Steam 조건은 '아이를 무료로 돕기'입니다. 커뮤니티 가이드가 정확한 시점을 설명합니다. 〔L0 공식 조건 + L3 세부〕",
+       "items": [
+        [
+         "소녀의 Eggotchi 수리",
+         "게임 초반 소녀 Yui가 Eggotchi를 가져옵니다—의뢰 기기로, 스토리를 이어가려면 완전히 수리해야 합니다(tinyBuild 개발자 답변). 〔L1·공식〕"
+        ],
+        [
+         "배달원의 대납 제의 거절",
+         "배달원 Yamato가 수리비를 대신 내겠다고 제안합니다—대금 수령을 거절해 무료 도움으로 만듭니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "나중에 종이학이 도착",
+         "배달원이 나중에 종이학(오리가미)과 +10 Zen을 가져다줍니다. Origami 업적이 해금됩니다. 〔L3·복수 소스〕"
+        ]
+       ]
+      },
+      {
+       "type": "timeline",
+       "heading": "분기 로드맵 (텍스트 버전)",
+       "body": "커뮤니티 가이드가 보고한 스토리 순서입니다. 주차와 일수는 추정치이며 검증된 타이머가 아닙니다.",
+       "items": [
+        [
+         "1일차",
+         "가게 오픈; 첫 수리는 집주인 Hashimoto의 전화기(Pokia). 〔L3·단일 소스, FIRST FIX!〕"
+        ],
+        [
+         "초반",
+         "소녀의 Eggotchi를 수리하고 대금 수령을 거절 → Origami 흐름 진입. 〔L3·복수 소스 + L0 공식 조건〕"
+        ],
+        [
+         "중반",
+         "라이선스를 구매해 기기 해금; 스토리는 체크리스트/할 일로 진행. 〔L0/L3〕"
+        ],
+        [
+         "약 3주차(추정)",
+         "이메일로 Akiba Championship 앱 도착; 기록을 4번 갱신해 스토리 완료. 〔L3·복수 소스〕"
+        ],
+        [
+         "마지막 대회 우승 후",
+         "분기: Haruhi / Kaito / Baketsu 중 정확히 한 명만 초대해 남게 함. 그들의 마지막 요청은 항상 '시계'; 수리 후 떠나며 놓치기 쉬운 업적이 뜹니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "종반",
+         "Yamato가 콘서트 취소를 알리고 Hashimoto가 두 선택지를 제시합니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "선택지 1",
+         "굿엔딩(Rock for the Ages!): 가게를 Takumi에게 팔고 수익 기부. 〔L3·복수 소스〕"
+        ],
+        [
+         "선택지 2",
+         "배드엔딩(Globalization): 쇼핑센터가 세워짐. 〔L3·복수 소스〕"
+        ]
        ]
       },
       {
@@ -24809,127 +26096,599 @@
        "heading": "엔딩 FAQ",
        "items": [
         [
-         "엔딩은 몇 개인가요?",
-         "아직 알 수 없습니다 — 정확한 개수를 확인 중입니다."
+         "ReStory에는 엔딩이 몇 개인가요?",
+         "여러 커뮤니티 가이드가 두 이름 있는 엔딩을 확인했습니다: 굿엔딩(Rock for the Ages!)과 배드엔딩(Globalization), 둘 다 Hashimoto와의 최종 선택 한 번으로 결정됩니다. Haruhi, Kaito, Baketsu의 세 가지 배타적 캐릭터 스토리라인은 각각 놓치기 쉬운 엔딩을 추가합니다. 〔L3·복수 소스〕 '4엔딩(default/secret)'이라는 틀은 단일 매체에서만 나온 미확인 내용입니다—아래 주를 참고하세요. 〔미검증〕"
         ],
         [
-         "한 번의 플레이로 모든 엔딩을 볼 수 있나요?",
-         "알 수 없습니다. 회차나 저장 조건에 대한 검증된 출처를 찾지 못했습니다."
+         "진엔딩이 있나요?",
+         "'진엔딩'을 확인해 주는 업적이나 공식 소스는 없습니다. 〔L0 / 미검증〕"
         ],
         [
-         "가게가 중요할까요, 스토리만 중요할까요?",
-         "알 수 없습니다. 공식 설명은 선택의 영향을 확인하지만 개별 변수는 공개하지 않습니다."
+         "하나의 세이브로 두 최종 엔딩을 모두 볼 수 있나요?",
+         "네—Hashimoto의 최종 선택 전에 저장하고 리로드해 다른 선택지를 고르면 됩니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "세 캐릭터 엔딩을 한 회차에 모두 해금할 수 있나요?",
+         "아니요—서로 배타적이라 한 명만 남게 초대할 수 있습니다. 놓치기 쉬운 스토리 업적을 모두 얻으려면 3회차(또는 예비 슬롯 5개 순환)를 계획하세요. 〔L3·복수 소스〕"
+        ],
+        [
+         "스토리가 막혔고 손님이 안 오는데 어떡하죠?",
+         "체크리스트/할 일을 확인하세요. tinyBuild 개발자가 Steam에서 작업장에 미완료 의뢰 기기(흔히 Eggotchi)가 있으면 스토리가 진행되지 않는다고 확인했습니다—끝내세요. 가게 주변에 '라이선스 필요'라고 표시된 기기 상자도 확인하세요. 〔L1·공식〕"
+        ],
+        [
+         "스토리를 미루면 불이익이 있나요?",
+         "없습니다—스토리는 기다려 줍니다. 3일을 넘긴 미완료 수리만 좋은 리뷰를 잃게 합니다. 〔L3·단일 소스〕"
+        ],
+        [
+         "엔딩 후에는 어떻게 되나요?",
+         "스토리가 끝나고 회차가 종료됩니다(무한 모드 보고 없음). 다른 엔딩을 보려면 재시작하거나 리로드합니다. 〔L3·단일 소스〕"
+        ],
+        [
+         "굿엔딩은 어떻게 얻나요?",
+         "Hashimoto가 최종 선택을 제시하면 선택지 1: 가게를 Takumi에게 팔고 수익을 기부해 콘서트를 살립니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "왜 배드엔딩을 받았나요?",
+         "선택지 2—신규 개발을 받아들이고 쇼핑센터가 세워지게 했기 때문입니다. 실수에 대한 처벌이 아니라 정상적인 엔딩입니다. 〔L3·복수 소스〕"
+        ],
+        [
+         "대회 우승이나 전 기기 수리가 엔딩을 바꾸나요?",
+         "대회 우승은 종반 도달에 필요합니다(스토리에는 기록 4회 갱신). 엔딩 자체는 최종 선택과 남게 초대한 한 명의 캐릭터로 결정되며, 다른 선택은 영향을 주지 않는 것으로 보입니다. 〔L3·복수 소스〕"
         ]
        ]
       },
       {
        "type": "note",
-       "heading": "확인 중",
-       "body": "정확한 엔딩 개수, 이름, 발동 조건은 미검증 목록에 있습니다. 검증되는 대로 전체 엔딩 플로우차트를 게시하겠습니다."
+       "heading": "다른 '4엔딩' 틀 — 미확인",
+       "body": "단일 매체(allthings.how, 2026년 8월 9일 업데이트)는 ReStory에 4개의 엔딩(Default / Good / Secret / Bad)이 있고 모든 손님을 대하는 방식의 누적으로 결정되며 Secret 엔딩에 추가 장면이 4개 있다고 주장합니다. 이는 위 커뮤니티 복수 소스와 충돌하므로 미확인 매체 주장으로 취급하며 사실로 반복하지 않습니다. 확정의 근거가 될 것: 게임 내 엔딩 화면의 정확한 표기, 또는 업적이 붙지 않은 추가 엔딩의 존재. 그때까지 이 사이트는 '이름 있는 엔딩 2개 + 캐릭터 라인 3개' 구조를 유지합니다. 〔미검증〕"
+      },
+      {
+       "type": "note",
+       "heading": "검증 상태",
+       "body": "확인일: 2026년 8월 17–18일. 근거: Steam 스토어 페이지와 글로벌 업적 목록(L0), tinyBuild 개발자의 Steam 답변(L1·공식), 여러 커뮤니티 소스(L3). 최종 선택과 캐릭터 초대의 정확한 문구는 커뮤니티 보고이며, 버튼 단위 지침을 공개하기 전에 게임 내 확인(L0)이 필요합니다. L0 검증 대기: 게임 내 엔딩 화면 표기, 선택지 정확한 문구, 초대 시점, 공식 현지화 캐릭터 이름, 이전 주인 물건 '시계'의 귀속, 제4 엔딩 존재 여부, 대회 기록 문구, 새로운 공식 공지(E1–E8)."
       }
      ],
      "sources": [
       "steam",
-      "intoindie"
+      "steam-achievements",
+      "kleynce-guide",
+      "prodigygamers",
+      "steam-discussion-story",
+      "wiki-hashimoto",
+      "wiki-kaito",
+      "wiki-baketsu",
+      "wiki-haruhi",
+      "wiki-yui",
+      "wiki-tourist",
+      "allthings-endings"
      ],
      "icon": "endings"
     },
     "fr": {
-     "title": "Guide des fins de ReStory : toutes les branches",
-     "metaTitle": "Fins de ReStory : les fins multiples et les embranchements",
-     "metaDescription": "ReStory propose plusieurs fins selon vos choix. Ce que nous savons de l'histoire à embranchements, ce qui la pilote et ce qui reste à vérifier.",
-     "intro": "La description officielle de ReStory confirme une histoire à embranchements avec plusieurs fins qui dépendent de vos choix. La liste exacte des fins et leurs déclencheurs sont encore en cours de vérification — cette page suit tout ce que nous savons.",
+     "title": "Fins de ReStory : toutes les fins et comment les obtenir",
+     "metaTitle": "Fins de ReStory : toutes les fins et conditions",
+     "metaDescription": "Toutes les fins de ReStory expliquées : le dernier choix avec Hashimoto pour la bonne fin (Rock for the Ages!) et la mauvaise fin (Globalization), tr…",
+     "intro": "La description officielle de ReStory confirme une histoire à embranchements avec plusieurs fins qui dépendent de vos choix. Les parties de la communauté ont maintenant vérifié la structure centrale : après que Yamato annonce l'annulation du concert, le propriétaire Hashimoto propose un dernier choix qui mène à la bonne fin (Rock for the Ages!) ou à la mauvaise fin (Globalization). Trois lignes de personnages mutuellement exclusives — Haruhi, Kaito et Baketsu — ajoutent des fins à ne pas manquer. Cette page cartographie chaque branche, distingue le vérifié du non vérifié et répond aux blocages courants.",
      "sections": [
       {
-       "type": "steps",
-       "heading": "Ce qui pilote les fins",
-       "items": [
+       "type": "table",
+       "heading": "Aperçu des fins et lignes de personnages",
+       "body": "Deux fins nommées sont décidées par un dernier choix avec Hashimoto ; trois lignes de personnages sont mutuellement exclusives ; le choix précoce d'Eggotchi débloque Origami. Chaque affirmation porte un indice de confiance — voir la note de vérification en bas de page.",
+       "columns": [
+        "Fin / ligne",
+        "Comment la déclencher",
+        "Prérequis",
+        "Mutuellement exclusive avec",
+        "Succès",
+        "Confiance"
+       ],
+       "rows": [
         [
-         "Vos choix",
-         "Les interactions avec les clients et les décisions de l'histoire façonnent la fin que vous atteignez."
+         "Bonne fin",
+         "Dernier choix avec Hashimoto : option 1 — vendre la boutique à Takumi et donner les bénéfices au concert",
+         "Atteindre le final (4 records au tournoi)",
+         "Mauvaise fin",
+         "Rock for the Ages!",
+         "〔L3·deux sources〕"
         ],
         [
-         "Les histoires de clients",
-         "L'histoire personnelle de chaque client avance à mesure que vous réparez ses appareils."
+         "Mauvaise fin",
+         "Dernier choix avec Hashimoto : option 2 — accepter le nouveau projet ; le centre commercial est construit",
+         "Atteindre le final",
+         "Bonne fin",
+         "Globalization",
+         "〔L3·deux sources〕"
         ],
         [
-         "Déclencheurs non vérifiés",
-         "Aucune source fiable ne donne encore le nombre exact de fins, leurs noms ou les choix requis."
+         "Ligne Haruhi",
+         "Après la dernière victoire au tournoi : l'inviter à rester ; réparer les demandes du Touriste ; lui parler après sa dernière réparation",
+         "Final atteint",
+         "Lignes Kaito / Baketsu",
+         "Melancholy",
+         "〔L3·deux sources〕"
+        ],
+        [
+         "Ligne Kaito",
+         "L'inviter à rester ; il trouve la montre et vous demande de la réparer",
+         "Final atteint",
+         "Lignes Haruhi / Baketsu",
+         "Ronin",
+         "〔L3·deux sources〕"
+        ],
+        [
+         "Ligne Baketsu",
+         "L'inviter à rester (le voisin au seau) ; il trouve la montre et vous demande de la réparer",
+         "Final atteint",
+         "Lignes Haruhi / Kaito",
+         "Ghost in the Frame",
+         "〔L3·deux sources〕"
+        ],
+        [
+         "Choix Yui / Eggotchi",
+         "Réparer l'Eggotchi de la fillette ; refuser l'offre de paiement du livreur",
+         "Début de partie",
+         "Aucune",
+         "Origami",
+         "〔L0 condition officielle + détails L3〕"
+        ],
+        [
+         "Fins « Default / Secret »",
+         "Rapportées par un seul guide média (allthings.how) ; non confirmées",
+         "—",
+         "—",
+         "Aucun confirmé",
+         "〔à vérifier〕"
         ]
        ]
       },
       {
-       "type": "list",
-       "heading": "Ce que nous savons des embranchements",
+       "type": "steps",
+       "heading": "Comment la fin est décidée : le dernier choix",
+       "body": "La fin n'est pas calculée en cumulant chaque choix de client en cours de route — plusieurs guides communautaires s'accordent sur un seul moment décisif : le dernier choix. Les étapes ci-dessous sont vérifiées par la communauté (L3, deux sources ou plus) jusqu'à confirmation en jeu (L0).",
        "items": [
-        "Il existe plusieurs fins (confirmé sur la page Steam officielle).",
-        "Les fins dépendent des choix que vous faites pendant l'histoire.",
-        "Les conditions des branches individuelles des clients ne sont pas encore vérifiées.",
-        "Les conditions des succès cachés restent inconnues et ne constituent pas une preuve des fins."
+        [
+         "Atteindre le final",
+         "Avancer l'histoire — pilotée par votre liste de choses à faire — jusqu'à battre 4 fois le record de l'Akiba Championship et que Yamato annonce l'annulation du concert. 〔L3·deux sources〕"
+        ],
+        [
+         "Hashimoto arrive avec deux options",
+         "Le propriétaire apparaît dans votre boutique et propose le dernier choix — cette seule décision détermine la fin. 〔L3·deux sources〕"
+        ],
+        [
+         "Option 1 → bonne fin",
+         "Vendre votre boutique à Takumi et donner les bénéfices aux organisateurs du concert — débloque Rock for the Ages!. 〔L3·deux sources〕"
+        ],
+        [
+         "Option 2 → mauvaise fin",
+         "Accepter le nouveau projet et laisser le centre commercial se construire — débloque Globalization. 〔L3·deux sources〕"
+        ]
        ]
       },
       {
-       "type": "faq",
-       "heading": "FAQ fins",
+       "type": "steps",
+       "heading": "La bonne fin : Rock for the Ages!",
        "items": [
         [
-         "Combien y a-t-il de fins ?",
-         "Inconnu pour l'instant — nous vérifions le nombre exact."
+         "Choisir l'option 1 au dernier choix",
+         "Quand Hashimoto propose le dernier choix, choisissez de vendre la boutique à Takumi et de donner les bénéfices pour sauver le concert. 〔L3·deux sources〕"
         ],
         [
-         "Puis-je voir toutes les fins en une seule partie ?",
-         "Inconnu. Nous n'avons pas trouvé de source vérifiée sur les parties ou sauvegardes requises."
+         "Regarder le final",
+         "La scène de fin se joue — les guides communautaires la décrivent comme montrant l'évolution des personnages et la réussite de leurs histoires. 〔L3·deux sources〕"
         ],
         [
-         "La boutique compte-t-elle ou seulement l'histoire ?",
-         "Inconnu. La description officielle confirme l'effet des choix, mais ne détaille pas les variables."
+         "Succès",
+         "Rock for the Ages! se débloque. Le nom est officiel (Steam) ; le libellé exact de l'écran de fin en jeu reste à vérifier en L0. 〔L0 nom / à vérifier〕"
         ]
        ]
       },
       {
        "type": "note",
-       "heading": "En cours de vérification",
-       "body": "Le nombre exact de fins, leurs noms et leurs conditions de déclenchement figurent sur notre liste des éléments non vérifiés. Nous publierons un organigramme complet des fins une fois vérifié."
-      }
-     ],
-     "sources": [
-      "steam",
-      "intoindie"
-     ],
-     "icon": "endings"
-    },
-    "de": {
-     "title": "ReStory Enden-Guide: Jede Verzweigung",
-     "metaTitle": "ReStory Enden: Mehrere Enden and Verzweigungs-Guide",
-     "metaDescription": "ReStory hat mehrere Enden, die von deinen Entscheidungen abhängen. Was wir über die verzweigte Story wissen und was noch geprüft wird.",
-     "intro": "Die offizielle Beschreibung von ReStory bestätigt eine verzweigte Storyline mit mehreren Enden, die von deinen Entscheidungen abhängen. Die genaue Enden-Liste und die Auslöser werden noch geprüft — diese Seite verfolgt alles, was wir wissen.",
-     "sections": [
+       "heading": "Terminer une ligne de personnage change-t-il la bonne fin ?",
+       "body": "Que terminer une ligne de personnage rende l'écran de fin plus riche est rapporté par des joueurs, mais pas encore vérifié en L0. Traitez-le comme un plus, pas comme une condition. 〔à vérifier〕"
+      },
       {
        "type": "steps",
-       "heading": "Was die Enden antreibt",
+       "heading": "La mauvaise fin : Globalization",
        "items": [
         [
-         "Deine Entscheidungen",
-         "Kundeninteraktionen und Story-Entscheidungen formen, welches Ende du erreichst."
+         "Choisir l'option 2 au dernier choix",
+         "Accepter le nouveau projet quand Hashimoto propose le dernier choix ; le centre commercial est construit. 〔L3·deux sources〕"
         ],
         [
-         "Kundengeschichten",
-         "Die persönliche Geschichte jedes Kunden schreitet voran, während du seine Geräte reparierst."
+         "Regarder le final",
+         "L'histoire se conclut avec le développement du centre commercial. 〔L3·deux sources〕"
         ],
         [
-         "Auslöser nicht verifiziert",
-         "Keine zuverlässige Quelle nennt bisher die genaue Anzahl, Namen oder erforderlichen Entscheidungen."
+         "Succès",
+         "Globalization se débloque. Le nom est officiel (Steam) ; le libellé exact de l'écran de fin en jeu reste à vérifier en L0. 〔L0 nom / à vérifier〕"
         ]
        ]
       },
       {
-       "type": "list",
-       "heading": "Was wir über die Verzweigungen wissen",
+       "type": "note",
+       "heading": "La mauvaise fin est une fin normale",
+       "body": "Globalization est l'une des deux fins nommées — pas une punition pour avoir fait beaucoup d'erreurs. On y arrive simplement en choisissant la deuxième option au dernier choix. 〔L3·deux sources〕"
+      },
+      {
+       "type": "steps",
+       "heading": "3 lignes de personnages mutuellement exclusives (à ne pas manquer)",
+       "body": "Après la dernière victoire au tournoi, vous pouvez inviter un personnage à rester. Les trois lignes sont mutuellement exclusives — en inviter une verrouille les autres, alors planifiez des parties séparées pour les succès à ne pas manquer. 〔L3·deux sources〕",
        "items": [
-        "Es gibt mehrere Enden (auf der offiziellen Steam-Seite bestätigt).",
-        "Die Enden hängen von den Entscheidungen ab, die du während der Story triffst.",
-        "Die Bedingungen einzelner Kundenverzweigungen sind noch nicht verifiziert.",
-        "Auch die Auslöser versteckter Errungenschaften sind unbekannt und kein Beleg für Endenbedingungen."
+        [
+         "Inviter exactement un personnage",
+         "Choisir Haruhi, Kaito ou Baketsu pour rester après la dernière victoire au tournoi ; les guides avertissent qu'inviter d'autres personnes peut empêcher la ligne de se déclencher. 〔L3·deux sources〕"
+        ],
+        [
+         "Haruhi → Melancholy",
+         "L'inviter à rester, réparer les demandes du Touriste et lui parler après sa dernière réparation — l'histoire de l'ancien propriétaire disparu apparaît et elle part. 〔L3·deux sources〕"
+        ],
+        [
+         "Kaito → Ronin",
+         "L'inviter à rester et attendre qu'il trouve la montre et vous demande de la réparer. 〔L3·deux sources〕"
+        ],
+        [
+         "Baketsu → Ghost in the Frame",
+         "L'inviter à rester (le voisin au seau) ; il trouve la montre et vous demande de la réparer. 〔L3·deux sources〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Yui et l'Eggotchi : le choix précoce d'Origami",
+       "body": "La condition officielle Steam d'Origami est d'aider un enfant gratuitement ; les guides communautaires décrivent le moment exact. 〔L0 condition officielle + détails L3〕",
+       "items": [
+        [
+         "Réparer l'Eggotchi de la fillette",
+         "Au début du jeu, la fillette Yui apporte son Eggotchi — un appareil de quête qui doit être entièrement réparé pour continuer l'histoire (selon la réponse d'un développeur tinyBuild). 〔L1·officiel〕"
+        ],
+        [
+         "Refuser l'offre du livreur",
+         "Le livreur Yamato propose de payer pour elle — refusez le paiement pour que l'aide reste gratuite. 〔L3·deux sources〕"
+        ],
+        [
+         "L'origami arrive plus tard",
+         "Le livreur revient plus tard avec une grue en papier (origami) et +10 Zen pour vous ; le succès Origami se débloque. 〔L3·deux sources〕"
+        ]
+       ]
+      },
+      {
+       "type": "timeline",
+       "heading": "Plan des branches (version texte)",
+       "body": "Ordre de l'histoire rapporté par les guides communautaires. Les numéros de semaine et les jours sont des estimations, pas des minuteries vérifiées.",
+       "items": [
+        [
+         "Jour 1",
+         "Ouverture de la boutique ; la première réparation est le téléphone (Pokia) du propriétaire Hashimoto. 〔L3·source unique, FIRST FIX!〕"
+        ],
+        [
+         "Début",
+         "Réparer l'Eggotchi de la fillette et refuser le paiement → l'arc Origami. 〔L3·deux sources + condition L0〕"
+        ],
+        [
+         "Milieu",
+         "Acheter des licences pour débloquer les appareils ; l'histoire avance via votre liste de choses à faire. 〔L0/L3〕"
+        ],
+        [
+         "Semaine ~3 (estimation)",
+         "L'application Akiba Championship arrive par e-mail ; battre 4 fois le record pour terminer l'histoire. 〔L3·deux sources〕"
+        ],
+        [
+         "Après la dernière victoire",
+         "Branche : inviter exactement une personne parmi Haruhi / Kaito / Baketsu à rester. Leur dernière demande est toujours une montre ; ils partent et le succès à ne pas manquer apparaît. 〔L3·deux sources〕"
+        ],
+        [
+         "Final",
+         "Yamato annonce l'annulation du concert ; Hashimoto apparaît avec deux options. 〔L3·deux sources〕"
+        ],
+        [
+         "Option 1",
+         "Bonne fin (Rock for the Ages!) : vendre la boutique à Takumi, donner les bénéfices. 〔L3·deux sources〕"
+        ],
+        [
+         "Option 2",
+         "Mauvaise fin (Globalization) : le centre commercial est construit. 〔L3·deux sources〕"
+        ]
+       ]
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ des fins",
+       "items": [
+        [
+         "Combien de fins ReStory a-t-il ?",
+         "Deux fins nommées sont confirmées par plusieurs guides communautaires : la bonne fin (Rock for the Ages!) et la mauvaise fin (Globalization), toutes deux décidées par un dernier choix avec Hashimoto. Trois lignes de personnages mutuellement exclusives (Haruhi, Kaito, Baketsu) ajoutent leurs propres fins à ne pas manquer. 〔L3·deux sources〕 Un découpage « quatre fins » (défaut/secret) existe dans un seul guide média mais n'est pas confirmé — voir la note ci-dessous. 〔à vérifier〕"
+        ],
+        [
+         "Existe-t-il une vraie fin ?",
+         "Aucun succès ni source officielle ne confirme de « vraie fin ». 〔L0 / à vérifier〕"
+        ],
+        [
+         "Puis-je voir les deux fins finales dans une même sauvegarde ?",
+         "Oui : sauvegardez avant le dernier choix d'Hashimoto et rechargez pour choisir l'autre option. 〔L3·deux sources〕"
+        ],
+        [
+         "Puis-je débloquer les trois fins de personnages en une seule partie ?",
+         "Non — elles sont mutuellement exclusives ; vous ne pouvez inviter qu'un personnage à rester. Prévoyez trois parties (ou alternez cinq emplacements de sauvegarde) pour tous les succès d'histoire à ne pas manquer. 〔L3·deux sources〕"
+        ],
+        [
+         "L'histoire est bloquée et personne ne visite ma boutique — que faire ?",
+         "Vérifiez votre liste de choses à faire. Un développeur tinyBuild a confirmé sur Steam qu'un appareil de quête (souvent l'Eggotchi) laissé non réparé dans l'atelier bloque la progression de l'histoire — terminez-le. Cherchez aussi les boîtes marquées « Licence requise » autour de la boutique. 〔L1·officiel〕"
+        ],
+        [
+         "Y a-t-il une pénalité à retarder l'histoire ?",
+         "Non — l'histoire vous attend ; seules les réparations laissées inachevées au-delà de 3 jours vous coûtent un bon avis. 〔L3·source unique〕"
+        ],
+        [
+         "Que se passe-t-il après la fin ?",
+         "L'histoire se conclut et la partie se termine (aucun mode infini rapporté) ; les joueurs recommencent pour voir l'autre fin. 〔L3·source unique〕"
+        ],
+        [
+         "Comment obtenir la bonne fin ?",
+         "Choisissez la première option quand Hashimoto propose le dernier choix : vendre votre boutique à Takumi et donner les bénéfices pour sauver le concert. 〔L3·deux sources〕"
+        ],
+        [
+         "Pourquoi ai-je eu la mauvaise fin ?",
+         "Vous avez choisi la deuxième option — accepter le nouveau projet et laisser le centre commercial se construire. C'est une fin normale, pas une punition pour les erreurs. 〔L3·deux sources〕"
+        ],
+        [
+         "Les victoires au tournoi ou la réparation de tous les appareils changent-elles la fin ?",
+         "Les victoires sont nécessaires pour atteindre le final (4 records pour l'histoire). La fin elle-même est décidée par le dernier choix et le personnage que vous invitez à rester ; les autres choix ne semblent pas compter. 〔L3·deux sources〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Un découpage différent en « 4 fins » existe — non confirmé",
+       "body": "Un guide média (allthings.how, mis à jour le 9 août 2026) présente ReStory avec quatre fins — Default, Good, Secret et Bad — décidées par le traitement cumulé de chaque client, et décrit une fin Secret avec quatre scènes supplémentaires. Cela entre en conflit avec la structure communautaire à deux sources ci-dessus ; nous le traitons comme une affirmation médiatique non vérifiée, pas comme un fait. Ce qui le confirmerait : les noms exacts affichés sur les écrans de fin en jeu, ou la preuve d'une fin supplémentaire sans succès associé. En attendant, nous conservons la structure « deux fins nommées + trois lignes de personnages ». 〔à vérifier〕"
+      },
+      {
+       "type": "note",
+       "heading": "Statut de vérification",
+       "body": "Vérifié les 17–18 août 2026 à partir de la page Steam et de la liste globale des succès (L0), d'une réponse de développeur tinyBuild sur Steam (L1·officiel) et de plusieurs sources communautaires (L3). Le libellé exact du dernier choix et des invitations est rapporté par la communauté et doit être confirmé en jeu (L0) avant de publier des instructions étape par étape. À vérifier en L0 : libellés des écrans de fin, texte exact des options, moment de l'invitation, noms officiels localisés des personnages, la montre comme objet de l'ancien propriétaire, une éventuelle 4e fin, le libellé des records de tournoi et toute nouvelle annonce officielle (E1–E8)."
+      }
+     ],
+     "sources": [
+      "steam",
+      "steam-achievements",
+      "kleynce-guide",
+      "prodigygamers",
+      "steam-discussion-story",
+      "wiki-hashimoto",
+      "wiki-kaito",
+      "wiki-baketsu",
+      "wiki-haruhi",
+      "wiki-yui",
+      "wiki-tourist",
+      "allthings-endings"
+     ],
+     "icon": "endings"
+    },
+    "de": {
+     "title": "ReStory Enden: Alle Enden und wie man sie erreicht",
+     "metaTitle": "ReStory Enden: Alle Enden und Freischalt-Bedingungen",
+     "metaDescription": "Alle ReStory-Enden erklärt: die finale Wahl mit Hashimoto für gutes Ende (Rock for the Ages!) und schlechtes Ende (Globalization), drei verpassbare C…",
+     "intro": "Die offizielle Beschreibung von ReStory bestätigt eine verzweigte Story mit mehreren Enden, die von deinen Entscheidungen abhängen. Community-Durchläufe haben die Kernstruktur inzwischen verifiziert: Nachdem Yamato die Absage des Konzerts überbringt, bietet Vermieter Hashimoto eine finale Wahl, die zum guten Ende (Rock for the Ages!) oder zum schlechten Ende (Globalization) führt. Drei sich gegenseitig ausschließende Charakter-Linien — Haruhi, Kaito und Baketsu — bringen jeweils eigene verpassbare Enden mit. Diese Seite bildet jede Verzweigung ab, markiert Verifiziertes gegenüber noch Offenem und beantwortet die häufigen Hänger.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Übersicht der Enden und Story-Linien",
+       "body": "Zwei benannte Enden werden durch eine finale Wahl mit Hashimoto entschieden; drei Charakter-Linien schließen sich gegenseitig aus; die frühe Eggotchi-Wahl schaltet Origami frei. Jede Aussage trägt ein Vertrauens-Tag — siehe die Verifikations-Notiz am Seitenende.",
+       "columns": [
+        "Ende / Linie",
+        "Auslöser",
+        "Voraussetzung",
+        "Schließt aus mit",
+        "Errungenschaft",
+        "Vertrauen"
+       ],
+       "rows": [
+        [
+         "Gutes Ende",
+         "Finale Wahl mit Hashimoto: Option 1 — den Laden an Takumi verkaufen und den Gewinn an das Konzert spenden",
+         "Finale erreichen (4 Turnier-Rekorde)",
+         "Schlechtes Ende",
+         "Rock for the Ages!",
+         "〔L3·zwei Quellen〕"
+        ],
+        [
+         "Schlechtes Ende",
+         "Finale Wahl mit Hashimoto: Option 2 — die neue Bebauung akzeptieren; das Einkaufszentrum wird gebaut",
+         "Finale erreichen",
+         "Gutes Ende",
+         "Globalization",
+         "〔L3·zwei Quellen〕"
+        ],
+        [
+         "Haruhi-Linie",
+         "Nach dem letzten Turniersieg: sie bitten zu bleiben; die Wünsche des Touristen reparieren; nach ihrer letzten Reparatur sprechen",
+         "Finale erreicht",
+         "Kaito / Baketsu-Linien",
+         "Melancholy",
+         "〔L3·zwei Quellen〕"
+        ],
+        [
+         "Kaito-Linie",
+         "Ihn bitten zu bleiben; er findet die Uhr und bittet dich, sie zu reparieren",
+         "Finale erreicht",
+         "Haruhi / Baketsu-Linien",
+         "Ronin",
+         "〔L3·zwei Quellen〕"
+        ],
+        [
+         "Baketsu-Linie",
+         "Ihn bitten zu bleiben (der Eimer-Nachbar); er findet die Uhr und bittet dich, sie zu reparieren",
+         "Finale erreicht",
+         "Haruhi / Kaito-Linien",
+         "Ghost in the Frame",
+         "〔L3·zwei Quellen〕"
+        ],
+        [
+         "Yui / Eggotchi-Wahl",
+         "Das Eggotchi des Mädchens reparieren; das Angebot des Lieferboten, zu zahlen, ablehnen",
+         "Frühes Spiel",
+         "Keine",
+         "Origami",
+         "〔L0 offizielle Bedingung + L3-Details〕"
+        ],
+        [
+         "„Default / Secret“-Enden",
+         "Nur von einem Medien-Guide (allthings.how) berichtet; nicht bestätigt",
+         "—",
+         "—",
+         "Keine bestätigt",
+         "〔unbestätigt〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Wie das Ende entschieden wird: die finale Wahl",
+       "body": "Das Ende wird nicht durch die Summe aller Kundenentscheidungen bestimmt — mehrere Community-Guides stimmen überein, dass der entscheidende Moment eine einzige finale Wahl ist. Die folgenden Schritte sind Community-verifiziert (L3, zwei oder mehr Quellen), bis sie im Spiel (L0) bestätigt sind.",
+       "items": [
+        [
+         "Das Finale erreichen",
+         "Die Story vorantreiben — gesteuert über deine Checkliste/To-do-Liste — bis du 4-mal den Akiba-Championship-Rekord brichst und Yamato die Absage des Konzerts überbringt. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Hashimoto kommt mit zwei Optionen",
+         "Der Vermieter erscheint in deinem Laden und bietet die finale Wahl — diese eine Entscheidung bestimmt das Ende. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Option 1 → gutes Ende",
+         "Deinen Laden an Takumi verkaufen und den Gewinn den Konzertveranstaltern spenden — schaltet Rock for the Ages! frei. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Option 2 → schlechtes Ende",
+         "Die neue Bebauung akzeptieren und das Einkaufszentrum bauen lassen — schaltet Globalization frei. 〔L3·zwei Quellen〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Das gute Ende: Rock for the Ages!",
+       "items": [
+        [
+         "Bei der finalen Wahl Option 1 wählen",
+         "Wenn Hashimoto die finale Wahl anbietet, wähle, den Laden an Takumi zu verkaufen und den Gewinn zu spenden, um das Konzert zu retten. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Das Finale ansehen",
+         "Die Endszene läuft — Community-Guides beschreiben sie als Darstellung des Wachstums der Charaktere und des sich auszahlenden Geschichten. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Errungenschaft",
+         "Rock for the Ages! wird freigeschaltet. Der Name ist offiziell (Steam); die genaue Bezeichnung des Endbildschirms im Spiel muss noch per L0 verifiziert werden. 〔L0 Name / unbestätigt〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Verändert das Abschließen einer Charakter-Linie das gute Ende?",
+       "body": "Ob der Endbildschirm reicher ist, wenn du zuerst eine Charakter-Linie abschließt, wird von Community-Spielern berichtet, ist aber noch nicht per L0 verifiziert. Behandle es als optional, nicht als Voraussetzung. 〔unbestätigt〕"
+      },
+      {
+       "type": "steps",
+       "heading": "Das schlechte Ende: Globalization",
+       "items": [
+        [
+         "Bei der finalen Wahl Option 2 wählen",
+         "Die neue Bebauung akzeptieren, wenn Hashimoto die finale Wahl anbietet; das Einkaufszentrum wird gebaut. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Das Finale ansehen",
+         "Die Story endet mit der Umsetzung der Mall-Bebauung. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Errungenschaft",
+         "Globalization wird freigeschaltet. Der Name ist offiziell (Steam); die genaue Bezeichnung des Endbildschirms im Spiel muss noch per L0 verifiziert werden. 〔L0 Name / unbestätigt〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Das schlechte Ende ist ein normales Ende",
+       "body": "Globalization ist eines der zwei benannten Enden — keine Strafe für viele Fehler. Man erreicht es einfach, indem man bei der finalen Wahl die zweite Option wählt. 〔L3·zwei Quellen〕"
+      },
+      {
+       "type": "steps",
+       "heading": "3 sich ausschließende Charakter-Linien (verpassbar)",
+       "body": "Nach dem letzten Turniersieg kannst du einen Charakter bitten zu bleiben. Die drei Linien schließen sich gegenseitig aus — eine Einladung sperrt die anderen, also plane getrennte Durchläufe für die verpassbaren Errungenschaften. 〔L3·zwei Quellen〕",
+       "items": [
+        [
+         "Genau einen Charakter einladen",
+         "Wähle nach dem letzten Turniersieg Haruhi, Kaito oder Baketsu zum Bleiben; Community-Guides warnen, dass das Einladen anderer Personen die Linie verhindern kann. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Haruhi → Melancholy",
+         "Sie bitten zu bleiben, die Wünsche des Touristen reparieren und nach ihrer letzten Reparatur mit ihr sprechen — die Geschichte um den verschwundenen Vorbesitzer kommt auf und sie geht. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Kaito → Ronin",
+         "Ihn bitten zu bleiben und warten, bis er die Uhr findet und dich bittet, sie zu reparieren. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Baketsu → Ghost in the Frame",
+         "Ihn bitten zu bleiben (der Eimer-Nachbar); er findet die Uhr und bittet dich, sie zu reparieren. 〔L3·zwei Quellen〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Yui & das Eggotchi: die frühe Origami-Wahl",
+       "body": "Die offizielle Steam-Bedingung für Origami ist, einem Kind kostenlos zu helfen; Community-Guides beschreiben den genauen Moment. 〔L0 offizielle Bedingung + L3-Details〕",
+       "items": [
+        [
+         "Das Eggotchi des Mädchens reparieren",
+         "Früh im Spiel bringt das Mädchen Yui ihr Eggotchi — ein Quest-Gerät, das vollständig repariert sein muss, damit die Story weitergeht (laut Antwort eines tinyBuild-Entwicklers). 〔L1·offiziell〕"
+        ],
+        [
+         "Das Angebot des Lieferboten ablehnen",
+         "Der Bote Yamato bietet an, für sie zu zahlen — lehne die Zahlung ab, damit die Hilfe kostenlos bleibt. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Das Origami kommt später",
+         "Der Bote kommt später mit einem Papierkranich (Origami) und +10 Zen für dich zurück; die Errungenschaft Origami wird freigeschaltet. 〔L3·zwei Quellen〕"
+        ]
+       ]
+      },
+      {
+       "type": "timeline",
+       "heading": "Ablaufplan der Verzweigungen (Textversion)",
+       "body": "Von Community-Guides berichtete Story-Reihenfolge. Wochenzahlen und Tage sind Schätzungen, keine verifizierten Timer.",
+       "items": [
+        [
+         "Tag 1",
+         "Laden eröffnen; die erste Reparatur ist das Telefon (Pokia) des Vermieters Hashimoto. 〔L3·Einzelquelle, FIRST FIX!〕"
+        ],
+        [
+         "Früh",
+         "Das Eggotchi des Mädchens reparieren und die Zahlung ablehnen → der Origami-Bogen. 〔L3·zwei Quellen + L0-Bedingung〕"
+        ],
+        [
+         "Mitte",
+         "Lizenzen kaufen, um Geräte freizuschalten; die Story schreitet über deine Checkliste/To-do-Liste voran. 〔L0/L3〕"
+        ],
+        [
+         "Woche ~3 (Schätzung)",
+         "Die Akiba-Championship-App kommt per E-Mail; brich den Rekord 4-mal, um die Story abzuschließen. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Nach dem letzten Turniersieg",
+         "Verzweigung: genau einen von Haruhi / Kaito / Baketsu bitten zu bleiben. Ihre letzte Bitte ist immer eine Uhr; sie gehen und die verpassbare Errungenschaft erscheint. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Finale",
+         "Yamato kündigt die Absage des Konzerts an; Hashimoto erscheint mit zwei Optionen. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Option 1",
+         "Gutes Ende (Rock for the Ages!): Laden an Takumi verkaufen, Gewinn spenden. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Option 2",
+         "Schlechtes Ende (Globalization): das Einkaufszentrum wird gebaut. 〔L3·zwei Quellen〕"
+        ]
        ]
       },
       {
@@ -24937,63 +26696,299 @@
        "heading": "Enden-FAQ",
        "items": [
         [
-         "Wie viele Enden gibt es?",
-         "Noch unbekannt — wir prüfen die genaue Anzahl."
+         "Wie viele Enden hat ReStory?",
+         "Zwei benannte Enden sind durch mehrere Community-Guides bestätigt: das gute Ende (Rock for the Ages!) und das schlechte Ende (Globalization), beide durch eine finale Wahl mit Hashimoto entschieden. Drei sich ausschließende Charakter-Linien (Haruhi, Kaito, Baketsu) bringen eigene verpassbare Enden mit. 〔L3·zwei Quellen〕 Ein separates „vier Enden“-Raster (default/secret) existiert in einem Medien-Guide, ist aber nicht bestätigt — siehe die Notiz unten. 〔unbestätigt〕"
         ],
         [
-         "Kann ich in einem Durchlauf alle Enden sehen?",
-         "Unbekannt. Es gibt keine verifizierte Quelle zu nötigen Durchläufen oder Speicherständen."
+         "Gibt es ein wahres Ende?",
+         "Keine Errungenschaft oder offizielle Quelle bestätigt ein „wahres Ende“. 〔L0 / unbestätigt〕"
         ],
         [
-         "Zählt nur die Story oder auch der Laden?",
-         "Unbekannt. Die offizielle Beschreibung bestätigt den Einfluss von Entscheidungen, nennt aber keine einzelnen Variablen."
+         "Kann ich beide finalen Enden in einem Speicherstand sehen?",
+         "Ja: Speichere vor der finalen Hashimoto-Wahl und lade neu, um die andere Option zu wählen. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Kann ich alle drei Charakter-Enden in einem Durchlauf freischalten?",
+         "Nein — sie schließen sich gegenseitig aus; du kannst nur einen Charakter bitten zu bleiben. Plane drei Durchläufe (oder rotiere fünf Backup-Speicherplätze) für alle verpassbaren Story-Errungenschaften. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Die Story hängt und niemand besucht meinen Laden — was nun?",
+         "Prüfe deine Checkliste/To-do-Liste. Ein tinyBuild-Entwickler bestätigte auf Steam, dass ein unfertiges Quest-Gerät (oft das Eggotchi) in deiner Werkstatt den Story-Fortschritt blockiert — mach es fertig. Suche auch nach Gerätekisten mit der Markierung „Lizenz erforderlich“ im Laden. 〔L1·offiziell〕"
+        ],
+        [
+         "Gibt es eine Strafe, wenn ich die Story aufschiebe?",
+         "Nein — die Story wartet auf dich; nur Reparaturen, die über 3 Tage unfertig bleiben, kosten dich eine gute Bewertung. 〔L3·Einzelquelle〕"
+        ],
+        [
+         "Was passiert nach dem Ende?",
+         "Die Story schließt ab und der Durchlauf endet (kein berichteter Endlos-Modus); Spieler starten neu, um das andere Ende zu sehen. 〔L3·Einzelquelle〕"
+        ],
+        [
+         "Wie bekomme ich das gute Ende?",
+         "Wähle die erste Option, wenn Hashimoto die finale Wahl anbietet: Verkaufe deinen Laden an Takumi und spende den Gewinn, um das Konzert zu retten. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Warum habe ich das schlechte Ende bekommen?",
+         "Du hast die zweite Option gewählt — die neue Bebauung akzeptieren und das Einkaufszentrum bauen lassen. Es ist ein normales Ende, keine Strafe für Fehler. 〔L3·zwei Quellen〕"
+        ],
+        [
+         "Verändern Turniersiege oder das Reparieren aller Geräte das Ende?",
+         "Turniersiege sind nötig, um das Finale zu erreichen (4 Rekorde für die Story). Das Ende selbst wird durch die finale Wahl und den einen Charakter bestimmt, den du bittest zu bleiben; andere Entscheidungen scheinen keine Rolle zu spielen. 〔L3·zwei Quellen〕"
         ]
        ]
       },
       {
        "type": "note",
-       "heading": "Wird geprüft",
-       "body": "Die genaue Anzahl der Enden, ihre Namen und Auslösebedingungen stehen auf unserer Liste nicht verifizierter Punkte. Wir veröffentlichen ein vollständiges Enden-Flussdiagramm, sobald es verifiziert ist."
+       "heading": "Ein anderes „4 Enden“-Raster existiert — nicht bestätigt",
+       "body": "Ein Medien-Guide (allthings.how, aktualisiert am 9. August 2026) stellt ReStory mit vier Enden dar — Default, Good, Secret und Bad — entschieden durch die kumulative Behandlung jedes Kunden, und beschreibt ein Secret-Ende mit vier zusätzlichen Szenen. Das widerspricht der obigen Community-Struktur mit zwei Quellen; wir behandeln es als unbestätigte Medienbehauptung, nicht als Tatsache. Was es bestätigen würde: die exakten Namen auf den Endbildschirmen im Spiel oder der Nachweis eines zusätzlichen Endes ohne zugehörige Errungenschaft. Bis dahin behalten wir die Struktur „zwei benannte Enden + drei Charakter-Linien“ bei. 〔unbestätigt〕"
+      },
+      {
+       "type": "note",
+       "heading": "Verifikationsstatus",
+       "body": "Geprüft am 17.–18. August 2026 anhand der Steam-Seite und der globalen Errungenschaftsliste (L0), einer Antwort eines tinyBuild-Entwicklers auf Steam (L1·offiziell) und mehrerer Community-Quellen (L3). Der genaue Wortlaut der finalen Wahl und der Einladungen ist community-berichtet und muss im Spiel (L0) bestätigt werden, bevor Schritt-für-Schritt-Anleitungen veröffentlicht werden können. Ausstehend per L0: Endbildschirm-Bezeichnungen, exakter Optionstext, Zeitpunkt der Einladung, offizielle lokalisierte Charakternamen, die Uhr als Gegenstand des Vorbesitzers, ein mögliches 4. Ende, der Wortlaut der Turnierrekorde und neue offizielle Ankündigungen (E1–E8)."
       }
      ],
      "sources": [
       "steam",
-      "intoindie"
+      "steam-achievements",
+      "kleynce-guide",
+      "prodigygamers",
+      "steam-discussion-story",
+      "wiki-hashimoto",
+      "wiki-kaito",
+      "wiki-baketsu",
+      "wiki-haruhi",
+      "wiki-yui",
+      "wiki-tourist",
+      "allthings-endings"
      ],
      "icon": "endings"
     },
     "es": {
-     "title": "Guía de finales de ReStory: todas las ramas",
-     "metaTitle": "Finales de ReStory: múltiples finales y guía de ramas",
-     "metaDescription": "ReStory tiene múltiples finales según tus decisiones. Lo que sabemos sobre la historia ramificada, qué la impulsa y qué sigue en verificación.",
-     "intro": "La descripción oficial de ReStory confirma una historia ramificada con múltiples finales que dependen de tus decisiones. La lista exacta de finales y sus desencadenantes siguen en verificación; esta página registra todo lo que sabemos.",
+     "title": "Finales de ReStory: todos los finales y cómo conseguirlos",
+     "metaTitle": "Finales de ReStory: todos y cómo desbloquearlos",
+     "metaDescription": "Todos los finales de ReStory explicados: la elección final con Hashimoto para el final bueno (Rock for the Ages!) y el malo (Globalization), tres lín…",
+     "intro": "La descripción oficial de ReStory confirma una historia ramificada con múltiples finales que dependen de tus decisiones. Las partidas de la comunidad ya han verificado la estructura central: después de que Yamato trae la noticia de que el concierto se cancela, el casero Hashimoto ofrece una elección final que lleva al final bueno (Rock for the Ages!) o al final malo (Globalization). Tres líneas de personajes mutuamente excluyentes — Haruhi, Kaito y Baketsu — añaden finales que no debes perderte. Esta página mapea cada rama, marca lo verificado frente a lo pendiente y responde los atascos habituales.",
      "sections": [
       {
-       "type": "steps",
-       "heading": "Qué impulsa los finales",
-       "items": [
+       "type": "table",
+       "heading": "Resumen de finales y líneas de historia",
+       "body": "Dos finales con nombre se deciden con una elección final ante Hashimoto; tres líneas de personajes son mutuamente excluyentes; la elección temprana del Eggotchi desbloquea Origami. Cada afirmación lleva una etiqueta de confianza — consulta la nota de verificación al final.",
+       "columns": [
+        "Final / línea",
+        "Cómo se desencadena",
+        "Requisito previo",
+        "Se excluye con",
+        "Logro",
+        "Confianza"
+       ],
+       "rows": [
         [
-         "Tus decisiones",
-         "Las interacciones con los clientes y las decisiones de la historia determinan a qué final llegas."
+         "Final bueno",
+         "Elección final con Hashimoto: opción 1 — vender la tienda a Takumi y donar los beneficios al concierto",
+         "Alcanzar el final (4 récords en el torneo)",
+         "Final malo",
+         "Rock for the Ages!",
+         "〔L3·dos fuentes〕"
         ],
         [
-         "Las historias de los clientes",
-         "La historia personal de cada cliente avanza a medida que reparas sus dispositivos."
+         "Final malo",
+         "Elección final con Hashimoto: opción 2 — aceptar el nuevo desarrollo; se construye el centro comercial",
+         "Alcanzar el final",
+         "Final bueno",
+         "Globalization",
+         "〔L3·dos fuentes〕"
         ],
         [
-         "Desencadenantes sin verificar",
-         "Ninguna fuente fiable ofrece todavía el número exacto, los nombres o las decisiones necesarias."
+         "Línea de Haruhi",
+         "Tras la última victoria del torneo: invitarla a quedarse; reparar las peticiones del Turista; hablar con ella tras su última reparación",
+         "Final alcanzado",
+         "Líneas Kaito / Baketsu",
+         "Melancholy",
+         "〔L3·dos fuentes〕"
+        ],
+        [
+         "Línea de Kaito",
+         "Invitarlo a quedarse; él encuentra el reloj y te pide que lo arregles",
+         "Final alcanzado",
+         "Líneas Haruhi / Baketsu",
+         "Ronin",
+         "〔L3·dos fuentes〕"
+        ],
+        [
+         "Línea de Baketsu",
+         "Invitarlo a quedarse (el vecino del cubo); él encuentra el reloj y te pide que lo arregles",
+         "Final alcanzado",
+         "Líneas Haruhi / Kaito",
+         "Ghost in the Frame",
+         "〔L3·dos fuentes〕"
+        ],
+        [
+         "Elección de Yui / Eggotchi",
+         "Arreglar el Eggotchi de la niña; rechazar la oferta de pago del repartidor",
+         "Principio del juego",
+         "Ninguna",
+         "Origami",
+         "〔L0 condición oficial + detalles L3〕"
+        ],
+        [
+         "Finales «Default / Secret»",
+         "Reportados por una sola guía de medios (allthings.how); sin confirmar",
+         "—",
+         "—",
+         "Ninguno confirmado",
+         "〔sin verificar〕"
         ]
        ]
       },
       {
-       "type": "list",
-       "heading": "Lo que sabemos sobre las ramas",
+       "type": "steps",
+       "heading": "Cómo se decide el final: la elección final",
+       "body": "El final no se decide acumulando cada elección con cada cliente por el camino — varias guías de la comunidad coinciden en que el momento decisivo es una única elección final. Los pasos siguientes están verificados por la comunidad (L3, dos o más fuentes) hasta que se confirmen en el juego (L0).",
        "items": [
-        "Hay múltiples finales (confirmado en la página oficial de Steam).",
-        "Los finales dependen de las decisiones que tomas durante la historia.",
-        "Las condiciones de las ramas individuales de los clientes aún no están verificadas.",
-        "Los desencadenantes de los logros ocultos también son desconocidos y no prueban condiciones de finales."
+        [
+         "Alcanzar el final",
+         "Avanzar la historia — guiada por tu lista de tareas — hasta batir 4 veces el récord del Akiba Championship y que Yamato traiga la noticia de la cancelación del concierto. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Hashimoto llega con dos opciones",
+         "El casero aparece en tu tienda y ofrece la elección final — esta única decisión determina el final. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Opción 1 → final bueno",
+         "Vender tu tienda a Takumi y donar los beneficios a los organizadores del concierto — desbloquea Rock for the Ages!. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Opción 2 → final malo",
+         "Aceptar el nuevo desarrollo y dejar que se construya el centro comercial — desbloquea Globalization. 〔L3·dos fuentes〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "El final bueno: Rock for the Ages!",
+       "items": [
+        [
+         "Elegir la opción 1 en la elección final",
+         "Cuando Hashimoto ofrezca la elección final, elige vender la tienda a Takumi y donar los beneficios para salvar el concierto. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Ver el final",
+         "La escena final se desarrolla — las guías de la comunidad la describen mostrando el crecimiento de los personajes y cómo sus historias dan fruto. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Logro",
+         "Se desbloquea Rock for the Ages!. El nombre es oficial (Steam); la etiqueta exacta de la pantalla final en el juego aún requiere verificación L0. 〔L0 nombre / sin verificar〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "¿Terminar una línea de personaje cambia el final bueno?",
+       "body": "Que completar antes una línea de personaje haga más rica la pantalla final lo reportan jugadores, pero aún no está verificado en L0. Trátalo como opcional, no como requisito. 〔sin verificar〕"
+      },
+      {
+       "type": "steps",
+       "heading": "El final malo: Globalization",
+       "items": [
+        [
+         "Elegir la opción 2 en la elección final",
+         "Aceptar el nuevo desarrollo cuando Hashimoto ofrezca la elección final; se construye el centro comercial. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Ver el final",
+         "La historia concluye con el desarrollo del centro comercial en marcha. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Logro",
+         "Se desbloquea Globalization. El nombre es oficial (Steam); la etiqueta exacta de la pantalla final en el juego aún requiere verificación L0. 〔L0 nombre / sin verificar〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "El final malo es un final normal",
+       "body": "Globalization es uno de los dos finales con nombre — no un castigo por cometer muchos errores. Se alcanza simplemente eligiendo la segunda opción en la elección final. 〔L3·dos fuentes〕"
+      },
+      {
+       "type": "steps",
+       "heading": "3 líneas de personajes mutuamente excluyentes (que no debes perderte)",
+       "body": "Tras la última victoria del torneo puedes invitar a un personaje a quedarse. Las tres líneas son mutuamente excluyentes — invitar a uno bloquea a los demás, así que planea partidas separadas para los logros que no debes perderte. 〔L3·dos fuentes〕",
+       "items": [
+        [
+         "Invitar exactamente a un personaje",
+         "Elige a Haruhi, Kaito o Baketsu para que se quede tras la última victoria del torneo; las guías advierten que invitar a otras personas puede impedir que la línea se active. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Haruhi → Melancholy",
+         "Invitarla a quedarse, reparar las peticiones del Turista y hablar con ella tras su última reparación — surge la historia del dueño anterior desaparecido y ella se marcha. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Kaito → Ronin",
+         "Invitarlo a quedarse y esperar a que encuentre el reloj y te pida repararlo. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Baketsu → Ghost in the Frame",
+         "Invitarlo a quedarse (el vecino del cubo); encuentra el reloj y te pide repararlo. 〔L3·dos fuentes〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Yui y el Eggotchi: la elección temprana de Origami",
+       "body": "La condición oficial en Steam de Origami es ayudar gratis a un niño; las guías de la comunidad describen el momento exacto. 〔L0 condición oficial + detalles L3〕",
+       "items": [
+        [
+         "Arreglar el Eggotchi de la niña",
+         "Al principio del juego, la niña Yui trae su Eggotchi — un aparato de misión que debe repararse por completo para que la historia continúe (según la respuesta de un desarrollador de tinyBuild). 〔L1·oficial〕"
+        ],
+        [
+         "Rechazar la oferta del repartidor",
+         "El repartidor Yamato ofrece pagar por ella — rechaza el pago para que la ayuda sea gratuita. 〔L3·dos fuentes〕"
+        ],
+        [
+         "El origami llega después",
+         "El repartidor vuelve más tarde con una grulla de papel (origami) y +10 Zen para ti; se desbloquea el logro Origami. 〔L3·dos fuentes〕"
+        ]
+       ]
+      },
+      {
+       "type": "timeline",
+       "heading": "Mapa de ramas (versión en texto)",
+       "body": "Orden de la historia según las guías de la comunidad. Los números de semana y los días son estimaciones, no temporizadores verificados.",
+       "items": [
+        [
+         "Día 1",
+         "Abrir la tienda; la primera reparación es el teléfono (Pokia) del casero Hashimoto. 〔L3·fuente única, FIRST FIX!〕"
+        ],
+        [
+         "Principio",
+         "Arreglar el Eggotchi de la niña y rechazar el pago → el arco de Origami. 〔L3·dos fuentes + condición L0〕"
+        ],
+        [
+         "Mitad",
+         "Comprar licencias para desbloquear aparatos; la historia avanza con tu lista de tareas. 〔L0/L3〕"
+        ],
+        [
+         "Semana ~3 (estimación)",
+         "La aplicación Akiba Championship llega por correo; bate el récord 4 veces para completar la historia. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Tras la última victoria",
+         "Rama: invitar exactamente a una de Haruhi / Kaito / Baketsu a quedarse. Su petición final siempre es un reloj; se marchan y aparece el logro que no debes perderte. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Final",
+         "Yamato anuncia la cancelación del concierto; Hashimoto aparece con dos opciones. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Opción 1",
+         "Final bueno (Rock for the Ages!): vender la tienda a Takumi, donar los beneficios. 〔L3·dos fuentes〕"
+        ],
+        [
+         "Opción 2",
+         "Final malo (Globalization): se construye el centro comercial. 〔L3·dos fuentes〕"
+        ]
        ]
       },
       {
@@ -25001,63 +26996,299 @@
        "heading": "Preguntas frecuentes sobre finales",
        "items": [
         [
-         "¿Cuántos finales hay?",
-         "Aún se desconoce: estamos verificando el número exacto."
+         "¿Cuántos finales tiene ReStory?",
+         "Dos finales con nombre están confirmados por varias guías de la comunidad: el final bueno (Rock for the Ages!) y el final malo (Globalization), ambos decididos por una elección final con Hashimoto. Tres líneas de personajes mutuamente excluyentes (Haruhi, Kaito, Baketsu) añaden finales que no debes perderte. 〔L3·dos fuentes〕 Un marco separado de «cuatro finales» (default/secret) existe en una guía de medios pero no está confirmado — ver la nota de abajo. 〔sin verificar〕"
         ],
         [
-         "¿Puedo ver todos los finales en una sola partida?",
-         "Se desconoce. No encontramos una fuente verificada sobre partidas o guardados necesarios."
+         "¿Existe un final verdadero?",
+         "Ningún logro ni fuente oficial confirma un «final verdadero». 〔L0 / sin verificar〕"
         ],
         [
-         "¿Importa la tienda o solo la historia?",
-         "Se desconoce. La descripción oficial confirma el efecto de las decisiones, pero no detalla variables concretas."
+         "¿Puedo ver los dos finales finales en una misma partida guardada?",
+         "Sí: guarda antes de la elección final de Hashimoto y recarga para elegir la otra opción. 〔L3·dos fuentes〕"
+        ],
+        [
+         "¿Puedo desbloquear los tres finales de personajes en una sola partida?",
+         "No — son mutuamente excluyentes; solo puedes invitar a un personaje a quedarse. Planea tres partidas (o rota cinco ranuras de guardado de respaldo) para todos los logros de historia que no debes perderte. 〔L3·dos fuentes〕"
+        ],
+        [
+         "La historia está atascada y nadie visita mi tienda — ¿qué hago?",
+         "Revisa tu lista de tareas. Un desarrollador de tinyBuild confirmó en Steam que un aparato de misión (a menudo el Eggotchi) sin terminar en tu taller bloquea la progresión de la historia — termínalo. Busca también cajas de aparatos marcadas como «Licencia necesaria» por la tienda. 〔L1·oficial〕"
+        ],
+        [
+         "¿Hay penalización por retrasar la historia?",
+         "No — la historia te espera; solo las reparaciones sin terminar pasados 3 días te cuestan una buena reseña. 〔L3·fuente única〕"
+        ],
+        [
+         "¿Qué pasa después del final?",
+         "La historia concluye y la partida termina (no se reporta modo infinito); los jugadores reinician para ver el otro final. 〔L3·fuente única〕"
+        ],
+        [
+         "¿Cómo consigo el final bueno?",
+         "Elige la primera opción cuando Hashimoto ofrezca la elección final: vender tu tienda a Takumi y donar los beneficios para salvar el concierto. 〔L3·dos fuentes〕"
+        ],
+        [
+         "¿Por qué obtuve el final malo?",
+         "Elegiste la segunda opción — aceptar el nuevo desarrollo y dejar que se construya el centro comercial. Es un final normal, no un castigo por errores. 〔L3·dos fuentes〕"
+        ],
+        [
+         "¿Las victorias del torneo o arreglar todos los aparatos cambian el final?",
+         "Las victorias son necesarias para alcanzar el final (4 récords para la historia). El final en sí lo deciden la elección final y el único personaje que invitas a quedarse; las demás elecciones no parecen importar. 〔L3·dos fuentes〕"
         ]
        ]
       },
       {
        "type": "note",
-       "heading": "En verificación",
-       "body": "El número exacto de finales, sus nombres y sus condiciones de desencadenamiento están en nuestra lista de sin verificar. Publicaremos un diagrama completo de finales cuando se verifique."
+       "heading": "Existe un marco diferente de «4 finales» — no confirmado",
+       "body": "Una guía de medios (allthings.how, actualizada el 9 de agosto de 2026) presenta ReStory con cuatro finales — Default, Good, Secret y Bad — decididos por el trato acumulado a cada cliente, y describe un final Secret con cuatro escenas adicionales. Esto entra en conflicto con la estructura comunitaria de dos fuentes anterior, así que lo tratamos como una afirmación mediática sin verificar, no como un hecho. Lo que la confirmaría: los nombres exactos en las pantallas de final del juego, o la evidencia de un final adicional sin logro asociado. Hasta entonces mantenemos la estructura de dos finales con nombre más tres líneas de personajes. 〔sin verificar〕"
+      },
+      {
+       "type": "note",
+       "heading": "Estado de verificación",
+       "body": "Comprobado el 17–18 de agosto de 2026 frente a la página de Steam y la lista global de logros (L0), una respuesta de desarrollador de tinyBuild en Steam (L1·oficial) y varias fuentes comunitarias (L3). El texto exacto de la elección final y de las invitaciones es reportado por la comunidad y debe confirmarse en el juego (L0) antes de publicar instrucciones paso a paso. Pendiente de verificación L0: etiquetas de las pantallas de final, texto exacto de las opciones, momento de la invitación, nombres oficiales localizados de los personajes, el reloj como objeto del dueño anterior, un posible cuarto final, la redacción de los récords del torneo y cualquier anuncio oficial nuevo (E1–E8)."
       }
      ],
      "sources": [
       "steam",
-      "intoindie"
+      "steam-achievements",
+      "kleynce-guide",
+      "prodigygamers",
+      "steam-discussion-story",
+      "wiki-hashimoto",
+      "wiki-kaito",
+      "wiki-baketsu",
+      "wiki-haruhi",
+      "wiki-yui",
+      "wiki-tourist",
+      "allthings-endings"
      ],
      "icon": "endings"
     },
     "pt-BR": {
-     "title": "Guia de Finais de ReStory: Todos os Ramos",
-     "metaTitle": "Finais de ReStory: Vários Finais e Guia de Ramos",
-     "metaDescription": "ReStory tem vários finais baseados nas suas escolhas: o que sabemos sobre a história ramificada, o que a conduz e o que ainda está em verificação.",
-     "intro": "A descrição oficial de ReStory confirma uma história ramificada com vários finais que dependem das suas escolhas. A lista exata de finais e os gatilhos ainda estão sendo verificados — esta página registra tudo o que sabemos.",
+     "title": "Finais de ReStory: todos os finais e como obtê-los",
+     "metaTitle": "Finais de ReStory: todos e como desbloquear",
+     "metaDescription": "Todos os finais de ReStory explicados: a escolha final com Hashimoto para o final bom (Rock for the Ages!) e o final ruim (Globalization), três linha…",
+     "intro": "A descrição oficial de ReStory confirma uma história ramificada com múltiplos finais que dependem das suas escolhas. As partidas da comunidade já verificaram a estrutura central: depois que Yamato traz a notícia do cancelamento do show, o proprietário Hashimoto oferece uma escolha final que leva ao final bom (Rock for the Ages!) ou ao final ruim (Globalization). Três linhas de personagens mutuamente exclusivas — Haruhi, Kaito e Baketsu — adicionam finais próprios que não podem ser perdidos. Esta página mapeia cada ramo, marca o que está verificado versus o que ainda está pendente e responde os travamentos comuns.",
      "sections": [
       {
-       "type": "steps",
-       "heading": "O que conduz os finais",
-       "items": [
+       "type": "table",
+       "heading": "Visão geral dos finais e linhas de história",
+       "body": "Dois finais nomeados são decididos por uma escolha final com Hashimoto; três linhas de personagens são mutuamente exclusivas; a escolha inicial do Eggotchi desbloqueia Origami. Cada afirmação traz uma etiqueta de confiança — veja a nota de verificação no fim da página.",
+       "columns": [
+        "Final / linha",
+        "Como desencadear",
+        "Pré-requisito",
+        "Mutualmente exclusivo com",
+        "Conquista",
+        "Confiança"
+       ],
+       "rows": [
         [
-         "Suas escolhas",
-         "As interações com clientes e as decisões da história moldam qual final você alcança."
+         "Final bom",
+         "Escolha final com Hashimoto: opção 1 — vender a loja para Takumi e doar os lucros ao show",
+         "Alcançar o final (4 recordes no torneio)",
+         "Final ruim",
+         "Rock for the Ages!",
+         "〔L3·duas fontes〕"
         ],
         [
-         "Histórias dos clientes",
-         "A história pessoal de cada cliente avança conforme você conserta os aparelhos deles."
+         "Final ruim",
+         "Escolha final com Hashimoto: opção 2 — aceitar o novo empreendimento; o shopping center é construído",
+         "Alcançar o final",
+         "Final bom",
+         "Globalization",
+         "〔L3·duas fontes〕"
         ],
         [
-         "Gatilhos não verificados",
-         "Nenhuma fonte confiável informa ainda o número exato, os nomes ou as escolhas necessárias."
+         "Linha da Haruhi",
+         "Após a última vitória no torneio: convidá-la a ficar; consertar os pedidos do Turista; conversar com ela após o último conserto",
+         "Final alcançado",
+         "Linhas Kaito / Baketsu",
+         "Melancholy",
+         "〔L3·duas fontes〕"
+        ],
+        [
+         "Linha do Kaito",
+         "Convidá-lo a ficar; ele encontra o relógio e pede que você o conserte",
+         "Final alcançado",
+         "Linhas Haruhi / Baketsu",
+         "Ronin",
+         "〔L3·duas fontes〕"
+        ],
+        [
+         "Linha do Baketsu",
+         "Convidá-lo a ficar (o vizinho do balde); ele encontra o relógio e pede que você o conserte",
+         "Final alcançado",
+         "Linhas Haruhi / Kaito",
+         "Ghost in the Frame",
+         "〔L3·duas fontes〕"
+        ],
+        [
+         "Escolha Yui / Eggotchi",
+         "Consertar o Eggotchi da menina; recusar a oferta de pagamento do entregador",
+         "Início do jogo",
+         "Nenhuma",
+         "Origami",
+         "〔L0 condição oficial + detalhes L3〕"
+        ],
+        [
+         "Finais «Default / Secret»",
+         "Relatados por apenas um guia de mídia (allthings.how); não confirmados",
+         "—",
+         "—",
+         "Nenhuma confirmada",
+         "〔não verificado〕"
         ]
        ]
       },
       {
-       "type": "list",
-       "heading": "O que sabemos sobre os ramos",
+       "type": "steps",
+       "heading": "Como o final é decidido: a escolha final",
+       "body": "O final não é decidido acumulando cada escolha de cliente pelo caminho — vários guias da comunidade concordam que o momento decisivo é uma única escolha final. Os passos abaixo estão verificados pela comunidade (L3, duas ou mais fontes) até serem confirmados no jogo (L0).",
        "items": [
-        "Existem vários finais (confirmado na página oficial da Steam).",
-        "Os finais dependem das escolhas que você faz durante a história.",
-        "As condições dos ramos individuais dos clientes ainda não foram verificadas.",
-        "Os gatilhos das conquistas ocultas também são desconhecidos e não comprovam condições de finais."
+        [
+         "Alcançar o final",
+         "Avance a história — guiada pela sua lista de tarefas — até bater 4 vezes o recorde do Akiba Championship e Yamato trazer a notícia do cancelamento do show. 〔L3·duas fontes〕"
+        ],
+        [
+         "Hashimoto chega com duas opções",
+         "O proprietário aparece na sua loja e oferece a escolha final — essa única decisão determina o final. 〔L3·duas fontes〕"
+        ],
+        [
+         "Opção 1 → final bom",
+         "Vender sua loja para Takumi e doar os lucros aos organizadores do show — desbloqueia Rock for the Ages!. 〔L3·duas fontes〕"
+        ],
+        [
+         "Opção 2 → final ruim",
+         "Aceitar o novo empreendimento e deixar o shopping center ser construído — desbloqueia Globalization. 〔L3·duas fontes〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "O final bom: Rock for the Ages!",
+       "items": [
+        [
+         "Escolher a opção 1 na escolha final",
+         "Quando Hashimoto oferecer a escolha final, escolha vender a loja para Takumi e doar os lucros para salvar o show. 〔L3·duas fontes〕"
+        ],
+        [
+         "Assistir ao final",
+         "A cena final se desenrola — os guias da comunidade a descrevem mostrando o crescimento dos personagens e suas histórias dando frutos. 〔L3·duas fontes〕"
+        ],
+        [
+         "Conquista",
+         "Rock for the Ages! é desbloqueada. O nome é oficial (Steam); o rótulo exato da tela de final no jogo ainda precisa de verificação L0. 〔L0 nome / não verificado〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Terminar uma linha de personagem muda o final bom?",
+       "body": "Se terminar antes uma linha de personagem deixa a tela final mais rica é relatado por jogadores, mas ainda não verificado em L0. Trate como opcional, não como requisito. 〔não verificado〕"
+      },
+      {
+       "type": "steps",
+       "heading": "O final ruim: Globalization",
+       "items": [
+        [
+         "Escolher a opção 2 na escolha final",
+         "Aceitar o novo empreendimento quando Hashimoto oferecer a escolha final; o shopping center é construído. 〔L3·duas fontes〕"
+        ],
+        [
+         "Assistir ao final",
+         "A história termina com o desenvolvimento do shopping indo adiante. 〔L3·duas fontes〕"
+        ],
+        [
+         "Conquista",
+         "Globalization é desbloqueada. O nome é oficial (Steam); o rótulo exato da tela de final no jogo ainda precisa de verificação L0. 〔L0 nome / não verificado〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "O final ruim é um final normal",
+       "body": "Globalization é um dos dois finais nomeados — não uma punição por cometer muitos erros. Basta escolher a segunda opção na escolha final. 〔L3·duas fontes〕"
+      },
+      {
+       "type": "steps",
+       "heading": "3 linhas de personagens mutuamente exclusivas (que não podem ser perdidas)",
+       "body": "Após a última vitória no torneio, você pode convidar um personagem a ficar. As três linhas são mutuamente exclusivas — convidar uma bloqueia as outras, então planeje partidas separadas para as conquistas que não podem ser perdidas. 〔L3·duas fontes〕",
+       "items": [
+        [
+         "Convidar exatamente um personagem",
+         "Escolha Haruhi, Kaito ou Baketsu para ficar após a última vitória no torneio; os guias alertam que convidar outras pessoas pode impedir a linha de acontecer. 〔L3·duas fontes〕"
+        ],
+        [
+         "Haruhi → Melancholy",
+         "Convidá-la a ficar, consertar os pedidos do Turista e conversar com ela após o último conserto — a história do dono anterior desaparecido vem à tona e ela vai embora. 〔L3·duas fontes〕"
+        ],
+        [
+         "Kaito → Ronin",
+         "Convidá-lo a ficar e esperar ele encontrar o relógio e pedir que você o conserte. 〔L3·duas fontes〕"
+        ],
+        [
+         "Baketsu → Ghost in the Frame",
+         "Convidá-lo a ficar (o vizinho do balde); ele encontra o relógio e pede que você o conserte. 〔L3·duas fontes〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Yui e o Eggotchi: a escolha inicial de Origami",
+       "body": "A condição oficial na Steam de Origami é ajudar uma criança de graça; os guias da comunidade descrevem o momento exato. 〔L0 condição oficial + detalhes L3〕",
+       "items": [
+        [
+         "Consertar o Eggotchi da menina",
+         "No início do jogo, a menina Yui traz seu Eggotchi — um aparelho de missão que precisa ser totalmente consertado para a história continuar (segundo resposta de um desenvolvedor da tinyBuild). 〔L1·oficial〕"
+        ],
+        [
+         "Recusar a oferta do entregador",
+         "O entregador Yamato se oferece para pagar por ela — recuse o pagamento para que a ajuda seja gratuita. 〔L3·duas fontes〕"
+        ],
+        [
+         "O origami chega depois",
+         "O entregador volta depois com um tsuru de papel (origami) e +10 Zen para você; a conquista Origami é desbloqueada. 〔L3·duas fontes〕"
+        ]
+       ]
+      },
+      {
+       "type": "timeline",
+       "heading": "Mapa de ramos (versão em texto)",
+       "body": "Ordem da história relatada pelos guias da comunidade. Números de semana e dias são estimativas, não cronômetros verificados.",
+       "items": [
+        [
+         "Dia 1",
+         "Abrir a loja; o primeiro conserto é o telefone (Pokia) do proprietário Hashimoto. 〔L3·fonte única, FIRST FIX!〕"
+        ],
+        [
+         "Início",
+         "Consertar o Eggotchi da menina e recusar o pagamento → o arco de Origami. 〔L3·duas fontes + condição L0〕"
+        ],
+        [
+         "Meio",
+         "Comprar licenças para desbloquear aparelhos; a história avança pela sua lista de tarefas. 〔L0/L3〕"
+        ],
+        [
+         "Semana ~3 (estimativa)",
+         "O aplicativo Akiba Championship chega por e-mail; bata o recorde 4 vezes para terminar a história. 〔L3·duas fontes〕"
+        ],
+        [
+         "Após a última vitória no torneio",
+         "Ramo: convidar exatamente um de Haruhi / Kaito / Baketsu a ficar. O pedido final deles é sempre um relógio; eles vão embora e a conquista que não pode ser perdida aparece. 〔L3·duas fontes〕"
+        ],
+        [
+         "Final",
+         "Yamato anuncia o cancelamento do show; Hashimoto aparece com duas opções. 〔L3·duas fontes〕"
+        ],
+        [
+         "Opção 1",
+         "Final bom (Rock for the Ages!): vender a loja para Takumi, doar os lucros. 〔L3·duas fontes〕"
+        ],
+        [
+         "Opção 2",
+         "Final ruim (Globalization): o shopping center é construído. 〔L3·duas fontes〕"
+        ]
        ]
       },
       {
@@ -25065,63 +27296,299 @@
        "heading": "Perguntas frequentes sobre finais",
        "items": [
         [
-         "Quantos finais existem?",
-         "Ainda desconhecido — estamos verificando o número exato."
+         "Quantos finais ReStory tem?",
+         "Dois finais nomeados são confirmados por vários guias da comunidade: o final bom (Rock for the Ages!) e o final ruim (Globalization), ambos decididos por uma escolha final com Hashimoto. Três linhas de personagens mutuamente exclusivas (Haruhi, Kaito, Baketsu) adicionam finais próprios que não podem ser perdidos. 〔L3·duas fontes〕 Um enquadramento separado de «quatro finais» (default/secret) existe em um guia de mídia, mas não é confirmado — veja a nota abaixo. 〔não verificado〕"
         ],
         [
-         "Consigo ver todos os finais em uma única partida?",
-         "Não se sabe. Não encontramos fonte verificada sobre partidas ou saves necessários."
+         "Existe um final verdadeiro?",
+         "Nenhuma conquista ou fonte oficial confirma um «final verdadeiro». 〔L0 / não verificado〕"
         ],
         [
-         "A loja importa ou só a história?",
-         "Não se sabe. A descrição oficial confirma o efeito das escolhas, mas não detalha variáveis específicas."
+         "Consigo ver os dois finais finais em um mesmo save?",
+         "Sim: salve antes da escolha final de Hashimoto e recarregue para escolher a outra opção. 〔L3·duas fontes〕"
+        ],
+        [
+         "Consigo desbloquear os três finais de personagens em uma única partida?",
+         "Não — eles são mutuamente exclusivos; você só pode convidar um personagem a ficar. Planeje três partidas (ou alterne cinco slots de save reserva) para todas as conquistas de história que não podem ser perdidas. 〔L3·duas fontes〕"
+        ],
+        [
+         "A história travou e ninguém visita minha loja — e agora?",
+         "Verifique sua lista de tarefas. Um desenvolvedor da tinyBuild confirmou na Steam que um aparelho de missão (muitas vezes o Eggotchi) deixado sem terminar na sua oficina bloqueia a progressão da história — termine-o. Procure também caixas de aparelhos marcadas com «Licença necessária» pela loja. 〔L1·oficial〕"
+        ],
+        [
+         "Há penalidade por atrasar a história?",
+         "Não — a história espera por você; apenas consertos deixados sem terminar após 3 dias custam uma boa avaliação. 〔L3·fonte única〕"
+        ],
+        [
+         "O que acontece depois do final?",
+         "A história termina e a partida acaba (nenhum modo infinito relatado); os jogadores recomeçam para ver o outro final. 〔L3·fonte única〕"
+        ],
+        [
+         "Como consigo o final bom?",
+         "Escolha a primeira opção quando Hashimoto oferecer a escolha final: vender sua loja para Takumi e doar os lucros para salvar o show. 〔L3·duas fontes〕"
+        ],
+        [
+         "Por que recebi o final ruim?",
+         "Você escolheu a segunda opção — aceitar o novo empreendimento e deixar o shopping center ser construído. É um final normal, não uma punição por erros. 〔L3·duas fontes〕"
+        ],
+        [
+         "Vitórias no torneio ou consertar todos os aparelhos mudam o final?",
+         "Vitórias são necessárias para alcançar o final (4 recordes para a história). O final em si é decidido pela escolha final e pelo único personagem que você convida a ficar; outras escolhas não parecem importar. 〔L3·duas fontes〕"
         ]
        ]
       },
       {
        "type": "note",
-       "heading": "Em verificação",
-       "body": "O número exato de finais, seus nomes e as condições de gatilho estão na nossa lista de não verificados. Publicaremos um fluxograma completo dos finais assim que for verificado."
+       "heading": "Existe um enquadramento diferente de «4 finais» — não confirmado",
+       "body": "Um guia de mídia (allthings.how, atualizado em 9 de agosto de 2026) apresenta ReStory com quatro finais — Default, Good, Secret e Bad — decididos pelo tratamento acumulado de cada cliente, e descreve um final Secret com quatro cenas extras. Isso conflita com a estrutura comunitária de duas fontes acima, então tratamos como afirmação de mídia não verificada, não como fato. O que a confirmaria: os nomes exatos nas telas de final do jogo, ou a evidência de um final extra sem conquista associada. Até lá mantemos a estrutura de dois finais nomeados mais três linhas de personagens. 〔não verificado〕"
+      },
+      {
+       "type": "note",
+       "heading": "Status de verificação",
+       "body": "Verificado em 17–18 de agosto de 2026 contra a página da Steam e a lista global de conquistas (L0), uma resposta de desenvolvedor da tinyBuild na Steam (L1·oficial) e várias fontes da comunidade (L3). O texto exato da escolha final e dos convites é relatado pela comunidade e deve ser confirmado no jogo (L0) antes de publicarmos instruções passo a passo. Pendente de verificação L0: rótulos das telas de final, texto exato das opções, momento do convite, nomes oficiais localizados dos personagens, o relógio como item do dono anterior, um possível 4º final, a redação dos recordes do torneio e novos anúncios oficiais (E1–E8)."
       }
      ],
      "sources": [
       "steam",
-      "intoindie"
+      "steam-achievements",
+      "kleynce-guide",
+      "prodigygamers",
+      "steam-discussion-story",
+      "wiki-hashimoto",
+      "wiki-kaito",
+      "wiki-baketsu",
+      "wiki-haruhi",
+      "wiki-yui",
+      "wiki-tourist",
+      "allthings-endings"
      ],
      "icon": "endings"
     },
     "ru": {
-     "title": "Гайд по концовкам ReStory: все ветки",
-     "metaTitle": "Концовки ReStory: несколько концовок и ветки",
-     "metaDescription": "В ReStory несколько концовок, зависящих от выбора. Что мы знаем о ветвящемся сюжете, что его определяет и что ещё проверяется.",
-     "intro": "Официальное описание ReStory подтверждает ветвящийся сюжет с несколькими концовками, зависящими от выбора. Точный список концовок и триггеры ещё проверяются — эта страница отслеживает всё, что мы знаем.",
+     "title": "Концовки ReStory: все концовки и как их получить",
+     "metaTitle": "Концовки ReStory: все и как открыть",
+     "metaDescription": "Все концовки ReStory: финальный выбор с Хатимото для хорошей (Rock for the Ages!) и плохой (Globalization) концовки, три взаимоисключающие сюжетные л…",
+     "intro": "Официальное описание ReStory подтверждает ветвящийся сюжет с несколькими концовками, зависящими от выбора. Прохождения сообщества уже проверили ключевую структуру: после того как Ямато сообщает об отмене концерта, домовладелец Хатимото предлагает финальный выбор, ведущий к хорошей концовке (Rock for the Ages!) или плохой (Globalization). Три взаимоисключающие сюжетные линии персонажей — Харухи, Кайто и Бакэцу — добавляют свои концовки, которые легко пропустить. На этой странице показаны все ветвления, отмечено проверенное и непроверенное, а также даны ответы на частые застревания.",
      "sections": [
       {
-       "type": "steps",
-       "heading": "Что определяет концовки",
-       "items": [
+       "type": "table",
+       "heading": "Обзор концовок и сюжетных линий",
+       "body": "Две именованные концовки определяются одним финальным выбором с Хатимото; три линии персонажей взаимоисключающие; ранний выбор с Eggotchi открывает Origami. Каждое утверждение несёт метку доверия — см. примечание о проверке внизу страницы.",
+       "columns": [
+        "Концовка / линия",
+        "Как получить",
+        "Предпосылка",
+        "Несовместима с",
+        "Достижение",
+        "Доверие"
+       ],
+       "rows": [
         [
-         "Ваши выборы",
-         "Взаимодействия с клиентами и сюжетные решения определяют, к какой концовке вы придёте."
+         "Хорошая концовка",
+         "Финальный выбор с Хатимото: вариант 1 — продать магазин Такуми и пожертвовать прибыль концерту",
+         "Дойти до финала (4 рекорда на турнире)",
+         "Плохая концовка",
+         "Rock for the Ages!",
+         "〔L3·два источника〕"
         ],
         [
-         "Истории клиентов",
-         "Личная история каждого клиента продвигается по мере ремонта их устройств."
+         "Плохая концовка",
+         "Финальный выбор с Хатимото: вариант 2 — принять новую застройку; торговый центр построен",
+         "Дойти до финала",
+         "Хорошая концовка",
+         "Globalization",
+         "〔L3·два источника〕"
         ],
         [
-         "Триггеры не проверены",
-         "Надёжного источника с точным числом, названиями или нужными выборами пока нет."
+         "Линия Харухи",
+         "После последней победы на турнире: пригласить её остаться; выполнить просьбы Туриста; поговорить с ней после её последнего ремонта",
+         "Финал достигнут",
+         "Линии Кайто / Бакэцу",
+         "Melancholy",
+         "〔L3·два источника〕"
+        ],
+        [
+         "Линия Кайто",
+         "Пригласить его остаться; он находит часы и просит их починить",
+         "Финал достигнут",
+         "Линии Харухи / Бакэцу",
+         "Ronin",
+         "〔L3·два источника〕"
+        ],
+        [
+         "Линия Бакэцу",
+         "Пригласить его остаться (сосед с ведром); он находит часы и просит их починить",
+         "Финал достигнут",
+         "Линии Харухи / Кайто",
+         "Ghost in the Frame",
+         "〔L3·два источника〕"
+        ],
+        [
+         "Выбор Юи / Eggotchi",
+         "Починить Eggotchi девочки; отказаться от оплаты курьера",
+         "Начало игры",
+         "Нет",
+         "Origami",
+         "〔L0 офиц. условие + детали L3〕"
+        ],
+        [
+         "Концовки «Default / Secret»",
+         "Сообщены только одним медиа-гайдом (allthings.how); не подтверждены",
+         "—",
+         "—",
+         "Ни одно не подтверждено",
+         "〔не проверено〕"
         ]
        ]
       },
       {
-       "type": "list",
-       "heading": "Что мы знаем о ветках",
+       "type": "steps",
+       "heading": "Как определяется концовка: финальный выбор",
+       "body": "Концовка не определяется накоплением всех выборов с клиентами по ходу игры — несколько гайдов сообщества сходятся на том, что решающий момент — один-единственный финальный выбор. Шаги ниже проверены сообществом (L3, два и более источника), пока не подтверждены в игре (L0).",
        "items": [
-        "Концовок несколько (подтверждено на официальной странице Steam).",
-        "Концовки зависят от выбора в сюжете.",
-        "Условия отдельных веток клиентов пока не проверены.",
-        "Триггеры скрытых достижений также неизвестны и не доказывают условия концовок."
+        [
+         "Дойти до финала",
+         "Продвигайте сюжет — им управляет ваш список задач — пока не побьёте рекорд Akiba Championship 4 раза и Ямато не сообщит об отмене концерта. 〔L3·два источника〕"
+        ],
+        [
+         "Хатимото предлагает два варианта",
+         "Домовладелец появляется в вашем магазине и предлагает финальный выбор — это единственное решение определяет концовку. 〔L3·два источника〕"
+        ],
+        [
+         "Вариант 1 → хорошая концовка",
+         "Продать магазин Такуми и пожертвовать прибыль организаторам концерта — открывает Rock for the Ages!. 〔L3·два источника〕"
+        ],
+        [
+         "Вариант 2 → плохая концовка",
+         "Принять новую застройку и позволить построить торговый центр — открывает Globalization. 〔L3·два источника〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Хорошая концовка: Rock for the Ages!",
+       "items": [
+        [
+         "Выбрать вариант 1 при финальном выборе",
+         "Когда Хатимото предложит финальный выбор, выберите продажу магазина Такуми и пожертвование прибыли ради спасения концерта. 〔L3·два источника〕"
+        ],
+        [
+         "Посмотреть финал",
+         "Финальная сцена разворачивается — гайды сообщества описывают её как показ роста персонажей и того, как их истории окупаются. 〔L3·два источника〕"
+        ],
+        [
+         "Достижение",
+         "Открывается Rock for the Ages!. Название официальное (Steam); точную надпись на финальном экране в игре ещё предстоит проверить на L0. 〔L0 название / не проверено〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Меняет ли прохождение линии персонажа хорошую концовку?",
+       "body": "То, что финальный экран становится богаче, если сначала завершить сюжетную линию персонажа, сообщают игроки, но на L0 это ещё не проверено. Относитесь к этому как к приятному бонусу, а не требованию. 〔не проверено〕"
+      },
+      {
+       "type": "steps",
+       "heading": "Плохая концовка: Globalization",
+       "items": [
+        [
+         "Выбрать вариант 2 при финальном выборе",
+         "Принять новую застройку, когда Хатимото предложит финальный выбор; торговый центр построен. 〔L3·два источника〕"
+        ],
+        [
+         "Посмотреть финал",
+         "История завершается тем, что строительство торгового центра идёт вперёд. 〔L3·два источника〕"
+        ],
+        [
+         "Достижение",
+         "Открывается Globalization. Название официальное (Steam); точную надпись на финальном экране в игре ещё предстоит проверить на L0. 〔L0 название / не проверено〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Плохая концовка — это обычная концовка",
+       "body": "Globalization — одна из двух именованных концовок, а не наказание за множество ошибок. До неё можно дойти, просто выбрав второй вариант при финальном выборе. 〔L3·два источника〕"
+      },
+      {
+       "type": "steps",
+       "heading": "3 взаимоисключающие сюжетные линии персонажей (легко пропустить)",
+       "body": "После последней победы на турнире можно пригласить одного персонажа остаться. Три линии взаимоисключающие — приглашение одной блокирует остальные, поэтому планируйте отдельные прохождения ради достижений, которые легко пропустить. 〔L3·два источника〕",
+       "items": [
+        [
+         "Пригласить ровно одного персонажа",
+         "Выберите Харухи, Кайто или Бакэцу, чтобы остаться после последней победы на турнире; гайды предупреждают, что приглашение других людей может помешать запуску линии. 〔L3·два источника〕"
+        ],
+        [
+         "Харухи → Melancholy",
+         "Пригласить её остаться, выполнить просьбы Туриста и поговорить с ней после её последнего ремонта — всплывает история о пропавшем прежнем владельце, и она уходит. 〔L3·два источника〕"
+        ],
+        [
+         "Кайто → Ronin",
+         "Пригласить его остаться и ждать, пока он найдёт часы и попросит их починить. 〔L3·два источника〕"
+        ],
+        [
+         "Бакэцу → Ghost in the Frame",
+         "Пригласить его остаться (сосед с ведром); он находит часы и просит их починить. 〔L3·два источника〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Юи и Eggotchi: ранний выбор Origami",
+       "body": "Официальное условие Steam для Origami — бесплатно помочь ребёнку; гайды сообщества описывают точный момент. 〔L0 офиц. условие + детали L3〕",
+       "items": [
+        [
+         "Починить Eggotchi девочки",
+         "В начале игры девочка Юи приносит свой Eggotchi — квестовое устройство, которое нужно полностью починить, чтобы сюжет продолжился (по ответу разработчика tinyBuild). 〔L1·официально〕"
+        ],
+        [
+         "Отказаться от оплаты курьера",
+         "Курьер Ямато предлагает заплатить за неё — откажитесь от оплаты, чтобы помощь была бесплатной. 〔L3·два источника〕"
+        ],
+        [
+         "Оригами приходит позже",
+         "Курьер позже возвращается с бумажным журавликом (оригами) и +10 дзен для вас; открывается достижение Origami. 〔L3·два источника〕"
+        ]
+       ]
+      },
+      {
+       "type": "timeline",
+       "heading": "Карта ветвлений (текстовая версия)",
+       "body": "Порядок сюжета по сообщениям гайдов сообщества. Номера недель и дни — оценки, а не проверенные таймеры.",
+       "items": [
+        [
+         "День 1",
+         "Открыть магазин; первый ремонт — телефон (Pokia) домовладельца Хатимото. 〔L3·один источник, FIRST FIX!〕"
+        ],
+        [
+         "Начало",
+         "Починить Eggotchi девочки и отказаться от оплаты → ветка Origami. 〔L3·два источника + условие L0〕"
+        ],
+        [
+         "Середина",
+         "Покупать лицензии, чтобы открывать устройства; сюжет движется через список задач. 〔L0/L3〕"
+        ],
+        [
+         "Неделя ~3 (оценка)",
+         "Приложение Akiba Championship приходит по почте; побейте рекорд 4 раза, чтобы завершить сюжет. 〔L3·два источника〕"
+        ],
+        [
+         "После последней победы на турнире",
+         "Ветвление: пригласить ровно одного из Харухи / Кайто / Бакэцу остаться. Их последняя просьба — всегда часы; они уходят, и появляется достижение, которое легко пропустить. 〔L3·два источника〕"
+        ],
+        [
+         "Финал",
+         "Ямато объявляет об отмене концерта; Хатимото появляется с двумя вариантами. 〔L3·два источника〕"
+        ],
+        [
+         "Вариант 1",
+         "Хорошая концовка (Rock for the Ages!): продать магазин Такуми, пожертвовать прибыль. 〔L3·два источника〕"
+        ],
+        [
+         "Вариант 2",
+         "Плохая концовка (Globalization): торговый центр построен. 〔L3·два источника〕"
+        ]
        ]
       },
       {
@@ -25129,63 +27596,299 @@
        "heading": "FAQ по концовкам",
        "items": [
         [
-         "Сколько концовок?",
-         "Пока неизвестно — проверяем точное число."
+         "Сколько концовок в ReStory?",
+         "Две именованные концовки подтверждены несколькими гайдами сообщества: хорошая (Rock for the Ages!) и плохая (Globalization), обе определяются одним финальным выбором с Хатимото. Три взаимоисключающие сюжетные линии персонажей (Харухи, Кайто, Бакэцу) добавляют свои концовки, которые легко пропустить. 〔L3·два источника〕 Отдельный подход «четыре концовки» (default/secret) есть в одном медиа-гайде, но не подтверждён — см. примечание ниже. 〔не проверено〕"
         ],
         [
-         "Можно ли увидеть все концовки за одно прохождение?",
-         "Неизвестно. Проверенного источника о нужных прохождениях или сохранениях нет."
+         "Есть ли истинная концовка?",
+         "Ни одно достижение или официальный источник не подтверждает «истинную концовку». 〔L0 / не проверено〕"
         ],
         [
-         "Мастерская влияет или только сюжет?",
-         "Неизвестно. Официальное описание подтверждает влияние выбора, но не перечисляет конкретные переменные."
+         "Можно ли увидеть обе финальные концовки в одном сохранении?",
+         "Да: сохранитесь перед финальным выбором Хатимото и перезагрузитесь, чтобы выбрать другой вариант. 〔L3·два источника〕"
+        ],
+        [
+         "Можно ли открыть все три концовки персонажей за одно прохождение?",
+         "Нет — они взаимоисключающие; можно пригласить остаться только одного персонажа. Планируйте три прохождения (или чередуйте пять резервных слотов сохранения), чтобы собрать все сюжетные достижения, которые легко пропустить. 〔L3·два источника〕"
+        ],
+        [
+         "Сюжет застрял, и в мой магазин никто не приходит — что делать?",
+         "Проверьте свой список задач. Разработчик tinyBuild подтвердил на Steam, что незавершённое квестовое устройство (часто Eggotchi) в мастерской блокирует продвижение сюжета — почините его. Также поищите коробки с пометкой «Нужна лицензия» по магазину. 〔L1·официально〕"
+        ],
+        [
+         "Есть ли штраф за откладывание сюжета?",
+         "Нет — сюжет вас подождёт; только незавершённые вовремя ремонты (дольше 3 дней) лишают вас хорошего отзыва. 〔L3·один источник〕"
+        ],
+        [
+         "Что происходит после концовки?",
+         "Сюжет завершается, и прохождение заканчивается (бесконечного режима не сообщалось); игроки начинают заново, чтобы увидеть другую концовку. 〔L3·один источник〕"
+        ],
+        [
+         "Как получить хорошую концовку?",
+         "Выберите первый вариант, когда Хатимото предложит финальный выбор: продать магазин Такуми и пожертвовать прибыль, чтобы спасти концерт. 〔L3·два источника〕"
+        ],
+        [
+         "Почему я получил плохую концовку?",
+         "Вы выбрали второй вариант — принять новую застройку и позволить построить торговый центр. Это обычная концовка, а не наказание за ошибки. 〔L3·два источника〕"
+        ],
+        [
+         "Победы на турнире или ремонт всех устройств меняют концовку?",
+         "Победы нужны, чтобы дойти до финала (4 рекорда для сюжета). Сама концовка определяется финальным выбором и тем единственным персонажем, которого вы приглашаете остаться; другие выборы, судя по всему, не важны. 〔L3·два источника〕"
         ]
        ]
       },
       {
        "type": "note",
-       "heading": "Проверяется",
-       "body": "Точное число концовок, их названия и условия триггеров в нашем списке непроверенного. Полную схему концовок опубликуем после проверки."
+       "heading": "Существует другой подход «4 концовки» — не подтверждён",
+       "body": "Один медиа-гайд (allthings.how, обновлён 9 августа 2026) представляет ReStory с четырьмя концовками — Default, Good, Secret и Bad — определяемыми совокупным отношением к каждому клиенту, и описывает концовку Secret с четырьмя дополнительными сценами. Это противоречит приведённой выше структуре сообщества из двух источников, поэтому мы считаем это непроверенным заявлением СМИ, а не фактом. Что бы это подтвердило: точные названия на финальных экранах в игре или доказательство дополнительной концовки без привязанного достижения. До тех пор мы сохраняем структуру «две именованные концовки + три линии персонажей». 〔не проверено〕"
+      },
+      {
+       "type": "note",
+       "heading": "Статус проверки",
+       "body": "Проверено 17–18 августа 2026 по странице Steam и глобальному списку достижений (L0), ответу разработчика tinyBuild на Steam (L1·официально) и нескольким источникам сообщества (L3). Точный текст финального выбора и приглашений сообщается сообществом и должен быть подтверждён в игре (L0), прежде чем можно будет публиковать пошаговые инструкции. Ожидает проверки L0: надписи на финальных экранах, точный текст вариантов, момент приглашения, официальные локализованные имена персонажей, часы как предмет прежнего владельца, возможная 4-я концовка, формулировка рекордов турнира и новые официальные анонсы (E1–E8)."
       }
      ],
      "sources": [
       "steam",
-      "intoindie"
+      "steam-achievements",
+      "kleynce-guide",
+      "prodigygamers",
+      "steam-discussion-story",
+      "wiki-hashimoto",
+      "wiki-kaito",
+      "wiki-baketsu",
+      "wiki-haruhi",
+      "wiki-yui",
+      "wiki-tourist",
+      "allthings-endings"
      ],
      "icon": "endings"
     },
     "zh-TW": {
-     "title": "維修物語結局攻略：全分支",
-     "metaTitle": "維修物語結局：多結局與分支攻略",
-     "metaDescription": "維修物語基於選擇有多結局。我們已知的分支劇情、什麼決定結局，以及仍在核實的內容。",
-     "intro": "維修物語的官方描述確認：分支劇情、多個結局，結局取決於你的選擇。確切結局數量與觸發條件仍在核實——本頁跟蹤我們已知的一切。",
+     "title": "維修物語結局攻略：所有結局與達成條件",
+     "metaTitle": "維修物語結局攻略：所有結局與達成條件",
+     "metaDescription": "維修物語全結局：終盤二選一決定好/壞結局，三條互斥角色線、分支路線圖與FAQ。",
+     "intro": "《維修物語》的官方描述確認：分支劇情、多個結局，結局取決於你的選擇。社區多周目實測已核實核心結構：Yamato 告知演唱會取消後，房東 Hashimoto 會給出最終二選一，通向好結局（Rock for the Ages!）或壞結局（Globalization）；另有 Haruhi、Kaito、Baketsu 三條互斥角色故事線，各自對應可錯過的結局。本頁梳理所有分支，標註哪些已核實、哪些仍待驗證，並回答常見卡點。",
      "sections": [
       {
-       "type": "steps",
-       "heading": "已經確認的事實",
-       "items": [
+       "type": "table",
+       "heading": "結局與故事線總覽",
+       "body": "兩個命名結局由與 Hashimoto 的終盤一次二選一決定；三條角色故事線互斥；早期 Eggotchi 選擇解鎖 Origami。每條結論都附置信度標註——詳見頁尾驗證說明。",
+       "columns": [
+        "結局 / 故事線",
+        "觸發方式",
+        "前置條件",
+        "與誰互斥",
+        "關聯成就",
+        "置信度"
+       ],
+       "rows": [
         [
-         "存在多個結局",
-         "Steam 官方描述明確確認了分支劇情與多個結局。"
+         "好結局",
+         "終選時選第 1 項：把店賣給 Takumi、收益捐給演唱會主辦方",
+         "推進至終盤（錦標賽 4 次破紀錄）",
+         "壞結局",
+         "Rock for the Ages!",
+         "〔L3·雙源〕"
         ],
         [
-         "選擇會產生影響",
-         "同一官方描述確認，你的決定會影響顧客的人生與店鋪。"
+         "壞結局",
+         "終選時選第 2 項：接受新開發，購物中心建成",
+         "推進至終盤",
+         "好結局",
+         "Globalization",
+         "〔L3·雙源〕"
         ],
         [
-         "觸發條件尚未核實",
-         "目前沒有可靠來源給出準確結局數、名稱或選擇條件。"
+         "Haruhi 故事線",
+         "最後一次錦標賽勝利後邀她留下；完成遊客（Tourist）的請求；她最後一次修理後對話",
+         "已到終盤",
+         "Kaito / Baketsu 線",
+         "Melancholy",
+         "〔L3·雙源〕"
+        ],
+        [
+         "Kaito 故事線",
+         "邀他留下；等他找到「表」並請你修理",
+         "已到終盤",
+         "Haruhi / Baketsu 線",
+         "Ronin",
+         "〔L3·雙源〕"
+        ],
+        [
+         "Baketsu 故事線",
+         "邀他留下（桶鄰居）；他找到「表」並請你修理",
+         "已到終盤",
+         "Haruhi / Kaito 線",
+         "Ghost in the Frame",
+         "〔L3·雙源〕"
+        ],
+        [
+         "Yui / Eggotchi 選擇",
+         "修好小女孩的 Eggotchi；拒絕快遞員代付",
+         "遊戲早期",
+         "無",
+         "Origami",
+         "〔L0 官方條件 + L3 細節〕"
+        ],
+        [
+         "「默認 / 隱藏」結局",
+         "僅單篇媒體（allthings.how）報道，尚未證實",
+         "—",
+         "—",
+         "未確認",
+         "〔待驗證〕"
         ]
        ]
       },
       {
-       "type": "list",
-       "heading": "怎樣記錄本周目",
+       "type": "steps",
+       "heading": "結局怎麼決定：終盤一次二選一",
+       "body": "結局並不是全程按每位顧客的選擇累計追蹤——多份社區指南一致認為決定性時刻只有終盤這一次二選一。以下步驟為社區多源核實（L3·雙源），待遊戲內實測（L0）後再升級。",
        "items": [
-        "記錄重大對話選項的原文，不猜測它控制了什麼。",
-        "在下方分支記錄器中寫下顧客、遊戲日期與選擇。",
-        "如果遊戲允許在關鍵決定前保留可用存檔，就先保留一份。",
-        "每次只改變一個選項進行對照，這是驗證觸發器最快的方法。"
+        [
+         "推進至終盤",
+         "按任務清單/待辦推進劇情，直到錦標賽破紀錄 4 次、Yamato 告知演唱會取消。〔L3·雙源〕"
+        ],
+        [
+         "Hashimoto 給出兩個選項",
+         "房東到店給出最終選擇——這一次決定就決定結局。〔L3·雙源〕"
+        ],
+        [
+         "選項 1 → 好結局",
+         "把店賣給 Takumi、收益捐給演唱會主辦方——解鎖 Rock for the Ages!。〔L3·雙源〕"
+        ],
+        [
+         "選項 2 → 壞結局",
+         "接受新開發，讓購物中心建起來——解鎖 Globalization。〔L3·雙源〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "好結局：Rock for the Ages!",
+       "items": [
+        [
+         "終選時選第 1 項",
+         "Hashimoto 給出最終選擇時，選擇把店賣給 Takumi、捐出收益救演唱會。〔L3·雙源〕"
+        ],
+        [
+         "觀看結局畫面",
+         "結局演出展開——社區指南描述為能看到所有角色的成長與故事開花結果。〔L3·雙源〕"
+        ],
+        [
+         "成就",
+         "解鎖 Rock for the Ages!。名稱來自 Steam 官方；遊戲內結局畫面的確切標題仍需 L0 核驗。〔L0 名稱 / 待驗證〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "先完成角色線會改變好結局畫面嗎？",
+       "body": "社區玩家報告先完成某條角色故事線會讓結局畫面更豐滿，但尚未經 L0 核實。請把它當作可選項，而不是必要條件。〔待驗證〕"
+      },
+      {
+       "type": "steps",
+       "heading": "壞結局：Globalization",
+       "items": [
+        [
+         "終選時選第 2 項",
+         "Hashimoto 給出最終選擇時接受新開發，購物中心建成。〔L3·雙源〕"
+        ],
+        [
+         "觀看結局畫面",
+         "故事以商場開發推進而收束。〔L3·雙源〕"
+        ],
+        [
+         "成就",
+         "解鎖 Globalization。名稱來自 Steam 官方；遊戲內結局畫面的確切標題仍需 L0 核驗。〔L0 名稱 / 待驗證〕"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "壞結局是正常結局",
+       "body": "Globalization 是兩個命名結局之一，不是「做錯很多事」的懲罰。只要終選時選第 2 項就會到達。〔L3·雙源〕"
+      },
+      {
+       "type": "steps",
+       "heading": "3 條互斥角色故事線（missable）",
+       "body": "最後一次錦標賽勝利後，可以邀請一名角色留下。三條線互斥——邀請一人會鎖掉另外兩條，想拿全部 missable 成就請分周目規劃。〔L3·雙源〕",
+       "items": [
+        [
+         "只邀請一名角色",
+         "最後一次錦標賽勝利後，從 Haruhi、Kaito、Baketsu 中選一人留下；社區指南提醒，邀請其他人可能導致該線無法觸發。〔L3·雙源〕"
+        ],
+        [
+         "Haruhi → Melancholy",
+         "邀她留下、完成遊客（Tourist）的請求，並在她最後一次修理後與她對話——「前任店主失蹤」的故事由此牽出，她隨後離開。〔L3·雙源〕"
+        ],
+        [
+         "Kaito → Ronin",
+         "邀他留下，等他找到「表」並請你修理。〔L3·雙源〕"
+        ],
+        [
+         "Baketsu → Ghost in the Frame",
+         "邀他留下（桶鄰居）；他找到「表」並請你修理。〔L3·雙源〕"
+        ]
+       ]
+      },
+      {
+       "type": "steps",
+       "heading": "Yui 與 Eggotchi：早期的 Origami 選擇",
+       "body": "Origami 的 Steam 官方條件是「免費幫助一個孩子」；社區指南描述了確切時機。〔L0 官方條件 + L3 細節〕",
+       "items": [
+        [
+         "修好小女孩的 Eggotchi",
+         "遊戲早期，女孩 Yui 會帶來她的 Eggotchi——這是工單設備，必須修完劇情才能繼續（tinyBuild 開發者回覆確認）。〔L1·官方〕"
+        ],
+        [
+         "拒絕快遞員代付",
+         "快遞員 Yamato 提出替她付款——拒絕收款，讓幫助免費。〔L3·雙源〕"
+        ],
+        [
+         "摺紙稍後送到",
+         "快遞員稍後會送回一隻紙鶴（摺紙）並附 +10 Zen；Origami 成就解鎖。〔L3·雙源〕"
+        ]
+       ]
+      },
+      {
+       "type": "timeline",
+       "heading": "分支路線圖（文字版）",
+       "body": "社區指南報告的劇情順序。週數與天數均為估算，不是已核實的計時器。",
+       "items": [
+        [
+         "第 1 天",
+         "開店；第一單是房東 Hashimoto 的手機（Pokia）。〔L3·單源, FIRST FIX!〕"
+        ],
+        [
+         "早期",
+         "修好小女孩的 Eggotchi 並拒絕收款 → 進入 Origami 線。〔L3·雙源 + L0 官方條件〕"
+        ],
+        [
+         "中期",
+         "購買許可證解鎖設備；劇情按任務清單推進。〔L0/L3〕"
+        ],
+        [
+         "約第 3 周（估算）",
+         "收件箱收到 Akiba Championship 應用；破紀錄 4 次以完成劇情。〔L3·雙源〕"
+        ],
+        [
+         "最後一次錦標賽勝利後",
+         "分支：從 Haruhi / Kaito / Baketsu 中只邀請一人留下。他們的最終請求總是一塊「表」；修完角色離開並彈出 missable 成就。〔L3·雙源〕"
+        ],
+        [
+         "終盤",
+         "Yamato 告知演唱會取消；Hashimoto 出現並給出兩個選項。〔L3·雙源〕"
+        ],
+        [
+         "選項 1",
+         "好結局（Rock for the Ages!）：把店賣給 Takumi，捐出收益。〔L3·雙源〕"
+        ],
+        [
+         "選項 2",
+         "壞結局（Globalization）：購物中心建成。〔L3·雙源〕"
+        ]
        ]
       },
       {
@@ -25193,28 +27896,71 @@
        "heading": "結局 FAQ",
        "items": [
         [
-         "有多少個結局？",
-         "未知——我們正在核實確切數量。"
+         "維修物語有幾個結局？",
+         "社區多源已核實兩個命名結局：好結局（Rock for the Ages!）與壞結局（Globalization），都由與 Hashimoto 的終盤一次二選一決定；另有 Haruhi、Kaito、Baketsu 三條互斥角色線，各自對應可錯過的結局。〔L3·雙源〕「默認/隱藏」四結局說法來自單篇媒體，尚未確認——見下方說明。〔待驗證〕"
         ],
         [
-         "已確認存在真結局嗎？",
-         "沒有。已確認有多個結局，但沒有可靠來源確認“真結局”。"
+         "有真結局嗎？",
+         "沒有任何成就或官方來源確認存在「真結局」。〔L0 / 待驗證〕"
         ],
         [
-         "一局能看到全部結局嗎？",
-         "未知。目前沒有找到可核驗的周目或存檔要求。"
+         "一個存檔能看兩個終局結局嗎？",
+         "可以：終選前存檔，reload 後選另一個選項。〔L3·雙源〕"
+        ],
+        [
+         "三個角色結局能一週目全拿嗎？",
+         "不能——三者互斥，一次只能邀請一人留下。想拿全部 missable 劇情成就，請規劃三週目（或用 5 個備份存檔槽輪換）。〔L3·雙源〕"
+        ],
+        [
+         "劇情卡住、沒人來店裡怎麼辦？",
+         "檢查任務清單/待辦。tinyBuild 開發者在 Steam 回覆確認：工單設備（常見為 Eggotchi）沒修完會卡住劇情——把它修完。另外留意店裡標著「需要許可證」的設備盒。〔L1·官方〕"
+        ],
+        [
+         "拖延劇情有懲罰嗎？",
+         "沒有——劇情會等你；只有超過 3 天未完成的修理會讓你失去一條好評。〔L3·單源〕"
+        ],
+        [
+         "結局之後還能玩嗎？",
+         "社區報告故事結束即收束、無無限模式；想看另一結局需重開或讀檔。〔L3·單源〕"
+        ],
+        [
+         "好結局怎麼打？",
+         "Hashimoto 給出最終選擇時選第 1 項：把店賣給 Takumi、捐出收益救演唱會。〔L3·雙源〕"
+        ],
+        [
+         "為什麼我打出壞結局？",
+         "因為你選了第 2 項——接受新開發，讓購物中心建起來。這是正常結局，不是失誤的懲罰。〔L3·雙源〕"
+        ],
+        [
+         "贏比賽或修完全部設備會改變結局嗎？",
+         "贏比賽是推進到終盤所需（劇情需要 4 次破紀錄）。結局本身由終盤二選一和邀請留下的那一名角色決定；其它選擇似乎不影響。〔L3·雙源〕"
         ]
        ]
       },
       {
        "type": "note",
-       "heading": "核實中",
-       "body": "核驗狀態更新於 2026 年 8 月 13 日。只有條件可復現或有可靠來源後，我們才會發佈結局名稱或流程圖。"
+       "heading": "存在不同的「4 結局」媒體口徑——尚未證實",
+       "body": "單篇媒體（allthings.how，2026-08-09 更新）把 ReStory 描述為 4 個結局——Default / Good / Secret / Bad，由全程對每位顧客的處理累計決定，並稱 Secret 結局含 4 段隱藏後續場景。這與上文社區雙源結構衝突，本站將其視為未證實的媒體口徑，不當作事實複述。能證實它的證據：遊戲內結局畫面的確切名稱，或存在一個不帶成就的第 4 結局。在那之前，本站維持「2 個命名結局 + 3 條角色線」的口徑。〔待驗證〕"
+      },
+      {
+       "type": "note",
+       "heading": "驗證狀態",
+       "body": "核對日期：2026 年 8 月 17–18 日。依據：Steam 商店頁與全球成就頁（L0）、tinyBuild 開發者 Steam 回覆（L1·官方）、多份社區來源（L3）。終選選項與角色邀請的確切文字為社區報告，須經遊戲內實測（L0）後才能發佈逐按鈕指引。待 L0 核驗清單：遊戲內結局畫面標題、終選選項原文、邀請時機、角色官方中文譯名、前店主物品「表」的歸屬、是否存在第 4 結局、錦標賽破紀錄表述、以及是否有新的官方公告（E1–E8）。"
       }
      ],
      "sources": [
       "steam",
-      "intoindie"
+      "steam-achievements",
+      "kleynce-guide",
+      "prodigygamers",
+      "steam-discussion-story",
+      "wiki-hashimoto",
+      "wiki-kaito",
+      "wiki-baketsu",
+      "wiki-haruhi",
+      "wiki-yui",
+      "wiki-tourist",
+      "allthings-endings"
      ],
      "icon": "endings"
     }

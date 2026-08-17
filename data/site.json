@@ -1268,7 +1268,7 @@
     "label": "Official + guide languages"
    },
    {
-    "value": "14+",
+    "value": "29",
     "label": "Repairable devices"
    },
    {
@@ -4269,7 +4269,7 @@
     {
      "type": "note",
      "heading": "Per-device steps are being verified",
-     "body": "Device-by-device repair steps (exact parts and order for each of the 14+ devices) are on our unverified list. We will publish per-device step pages as we verify them."
+     "body": "Device-by-device repair steps (exact parts and order for each of the 29 devices) are on our unverified list. We will publish per-device step pages as we verify them."
     },
     {
      "type": "list",
@@ -4479,7 +4479,7 @@
       {
        "type": "note",
        "heading": "Per-device steps are being verified",
-       "body": "Device-by-device repair steps (exact parts and order for each of the 14+ devices) are on our unverified list. We will publish per-device step pages as we verify them."
+       "body": "Device-by-device repair steps (exact parts and order for each of the 29 devices) are on our unverified list. We will publish per-device step pages as we verify them."
       },
       {
        "type": "list",
@@ -4657,7 +4657,7 @@
       {
        "type": "note",
        "heading": "逐设备步骤核实中",
-       "body": "每台设备的修复步骤（14+ 台各自的零件与顺序）在待补清单上。我们会随实测逐台发布步骤页。"
+       "body": "每台设备的修复步骤（29 台各自的零件与顺序）在待补清单上。我们会随实测逐台发布步骤页。"
       },
       {
        "type": "list",
@@ -4835,7 +4835,7 @@
       {
        "type": "note",
        "heading": "デバイス別手順は検証中",
-       "body": "デバイスごとの修理手順（14 台以上の各機種の正確なパーツと順序）は未検証リストに載っています。検証でき次第、デバイス別のステップページを公開します。"
+       "body": "デバイスごとの修理手順（29台の各機種の正確なパーツと順序）は未検証リストに載っています。検証でき次第、デバイス別のステップページを公開します。"
       },
       {
        "type": "list",
@@ -5013,7 +5013,7 @@
       {
        "type": "note",
        "heading": "기기별 수리 단계 확인 중",
-       "body": "기기별 수리 단계(14개 이상의 각 기기에 대한 정확한 부품과 순서)는 미검증 목록에 있습니다. 확인되는 대로 기기별 단계 페이지를 게시하겠습니다."
+       "body": "기기별 수리 단계(29개 기기의 정확한 부품과 순서)는 미검증 목록에 있습니다. 확인되는 대로 기기별 단계 페이지를 게시하겠습니다."
       },
       {
        "type": "list",
@@ -5191,7 +5191,7 @@
       {
        "type": "note",
        "heading": "Les étapes par appareil sont en cours de vérification",
-       "body": "Les étapes de réparation appareil par appareil (pièces exactes et ordre pour chacun des 14+ appareils) figurent sur notre liste des éléments non vérifiés. Nous publierons des pages d'étapes par appareil au fur et à mesure de la vérification."
+       "body": "Les étapes de réparation appareil par appareil (pièces exactes et ordre pour chacun des 29 appareils) figurent sur notre liste des éléments non vérifiés. Nous publierons des pages d'étapes par appareil au fur et à mesure de la vérification."
       },
       {
        "type": "list",
@@ -5369,7 +5369,7 @@
       {
        "type": "note",
        "heading": "Schritte pro Gerät werden geprüft",
-       "body": "Gerätespezifische Reparaturschritte (genaue Teile und Reihenfolge für jedes der 14+ Geräte) stehen auf unserer Liste nicht verifizierter Punkte. Wir veröffentlichen Schritt-Seiten pro Gerät, sobald wir sie verifiziert haben."
+       "body": "Gerätespezifische Reparaturschritte (genaue Teile und Reihenfolge für jedes der 29 Geräte) stehen auf unserer Liste nicht verifizierter Punkte. Wir veröffentlichen Schritt-Seiten pro Gerät, sobald wir sie verifiziert haben."
       },
       {
        "type": "list",
@@ -5547,7 +5547,7 @@
       {
        "type": "note",
        "heading": "Pasos por dispositivo en verificación",
-       "body": "Los pasos de reparación de cada dispositivo (piezas exactas y orden de los 14+ dispositivos) están en nuestra lista de sin verificar. Publicaremos páginas de pasos por dispositivo a medida que los verifiquemos."
+       "body": "Los pasos de reparación de cada dispositivo (piezas exactas y orden de los 29 dispositivos) están en nuestra lista de sin verificar. Publicaremos páginas de pasos por dispositivo a medida que los verifiquemos."
       },
       {
        "type": "list",
@@ -5725,7 +5725,7 @@
       {
        "type": "note",
        "heading": "As etapas por aparelho estão sendo verificadas",
-       "body": "As etapas de conserto de cada aparelho (peças exatas e ordem para cada um dos 14+ aparelhos) estão na nossa lista de não verificados. Publicaremos páginas de etapas por aparelho à medida que as verificarmos."
+       "body": "As etapas de conserto de cada aparelho (peças exatas e ordem para cada um dos 29 aparelhos) estão na nossa lista de não verificados. Publicaremos páginas de etapas por aparelho à medida que as verificarmos."
       },
       {
        "type": "list",
@@ -5903,7 +5903,7 @@
       {
        "type": "note",
        "heading": "Шаги по устройствам проверяются",
-       "body": "Пошаговый ремонт каждого устройства (точные детали и порядок для всех 14+ устройств) в нашем списке непроверенного. Мы опубликуем страницы шагов по каждому устройству после проверки."
+       "body": "Пошаговый ремонт каждого устройства (точные детали и порядок для всех 29 устройств) в нашем списке непроверенного. Мы опубликуем страницы шагов по каждому устройству после проверки."
       },
       {
        "type": "list",
@@ -6081,7 +6081,7 @@
       {
        "type": "note",
        "heading": "逐設備步驟核實中",
-       "body": "每臺設備的修復步驟（14+ 臺各自的零件與順序）在待補清單上。我們會隨實測逐臺發佈步驟頁。"
+       "body": "每臺設備的修復步驟（29 臺各自的零件與順序）在待補清單上。我們會隨實測逐臺發佈步驟頁。"
       },
       {
        "type": "list",
@@ -6174,8 +6174,8 @@
    "slug": "all-devices",
    "title": "Every Device You Can Repair in ReStory",
    "metaTitle": "Every Device You Can Repair in ReStory (Full List)",
-   "metaDescription": "The full list of repairable devices in ReStory: Atari 2600, Eggotchi, Pokia 3310, Nony PlayMachine, Palaloid and more — with how to unlock them.",
-   "intro": "ReStory is packed with nostalgic Y2K devices, including officially licensed Atari hardware. Here is the full device list we have confirmed, what each one is, and how unlocking works.Every device runs through the same five-step loop; what changes is which parts it hides and which tools you need. Knowing the full roster early helps you plan which licenses and tools to chase. Bookmark this page — it is the map you will reference every time a new device appears on the bench.",
+   "metaDescription": "The full list of repairable devices in ReStory: 29 devices from community sources, from Atari 2600 to Brick Game and Robby — with how to unlock them.",
+   "intro": "ReStory is packed with nostalgic Y2K devices, including officially licensed Atari hardware. Community sources consistently list 29 repairable devices — here is the full list, what each one is, and how unlocking works. Entries based on community sources are labeled L3 and are not officially confirmed.Every device runs through the same five-step loop; what changes is which parts it hides and which tools you need. Knowing the full roster early helps you plan which licenses and tools to chase. Bookmark this page — it is the map you will reference every time a new device appears on the bench.",
    "sections": [
     {
      "type": "table",
@@ -6249,7 +6249,7 @@
       [
        "Walkie-talkie",
        "Two-way radio",
-       "—"
+       "Name pending L0 verification — community sources suggest this is the Autorolla WT2000"
       ],
       [
        "Unicorp 99L",
@@ -6259,7 +6259,87 @@
       [
        "Robodog",
        "Aibo-style robot dog",
-       "Parody device"
+       "Name pending L0 verification — community sources suggest this is Robby"
+      ],
+      [
+       "Brick Game",
+       "90s Brick Game handheld",
+       "Consoles · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
+      ],
+      [
+       "Game Duck",
+       "Game Boy-style handheld",
+       "Handhelds · Community reference (L3)"
+      ],
+      [
+       "BreadBox Joystick",
+       "Commodore 64 T-1341 joystick",
+       "Controllers · Community reference (L3)"
+      ],
+      [
+       "XI-box",
+       "Xbox-style console",
+       "Consoles · Community reference (L3)"
+      ],
+      [
+       "XI-box Controller",
+       "Xbox 'Duke' controller",
+       "Controllers · Community reference (L3)"
+      ],
+      [
+       "Simsons M65",
+       "Siemens M65 phone",
+       "Phones · Community reference (L3)"
+      ],
+      [
+       "Blueberry Curl",
+       "BlackBerry Curve phone",
+       "Phones · Community reference (L3)"
+      ],
+      [
+       "Wertu Signature",
+       "Not specified in community sources",
+       "Phones · Community reference (L3)"
+      ],
+      [
+       "Unicorp Kettle",
+       "Callback to I Am Future (developer's previous game)",
+       "Appliances · Community reference (L3)"
+      ],
+      [
+       "Autorolla WT2000",
+       "Motorola GP328 two-way radio",
+       "Appliances · Community reference (L3)"
+      ],
+      [
+       "Unicorp Vision",
+       "Callback to I Am Future (developer's previous game)",
+       "Appliances · Community reference (L3)"
+      ],
+      [
+       "Robby",
+       "Tekno-style robot puppy",
+       "Gadgets & toys · Named in official Steam Update #2 (v1.0.010r) · Community reference (L3)"
+      ],
+      [
+       "Nerdio W-91F",
+       "Casio F-91W watch",
+       "Gadgets & toys · Community reference (L3)"
+      ],
+      [
+       "Guitar Legend",
+       "Guitar Hero-style guitar controller",
+       "Controllers · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
+      ],
+      [
+       "Mapple Mypod",
+       "iPod Classic-style music player",
+       "Music & media · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
+      ],
+      [
+       "IDM ThinkerDad",
+       "ThinkPad 365XD-style laptop",
+       "Laptops · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
       ]
      ]
     },
@@ -6296,7 +6376,7 @@
      "items": [
       [
        "How many devices are in ReStory?",
-       "We have confirmed 15 entries in the device list (source: allthings.how). The exact total is being verified."
+       "Community sources consistently list 29 devices: restory.wiki's Devices category, a Steam community device list and the Steam guide 'Legend of Akiba' all match (L3 — community sources, not officially confirmed). The exact in-game total is still being verified. Two entries on this page — walkie-talkie and robodog — are pending name verification."
       ],
       [
        "Are the Atari devices real?",
@@ -6409,19 +6489,83 @@
    ],
    "sources": [
     {
-     "label": "allthings.how — ReStory device list & achievements",
-     "url": "https://allthings.how/restory-chill-electronics-repairs-every-device-you-can-repair/",
+     "label": "restory.wiki — Devices category (community wiki)",
+     "url": "https://restory.wiki/w/Devices",
      "labels": {
-      "en": "allthings.how — ReStory devices & achievements",
-      "zh-CN": "allthings.how — ReStory 设备清单与成就",
-      "ja": "allthings.how — ReStory デバイス一覧と実績",
-      "ko": "allthings.how — ReStory 기기 목록 및 업적",
-      "fr": "allthings.how — appareils et succès ReStory",
-      "de": "allthings.how — ReStory Geräte & Errungenschaften",
-      "es": "allthings.how — dispositivos y logros de ReStory",
-      "pt-BR": "allthings.how — aparelhos e conquistas de ReStory",
-      "ru": "allthings.how — устройства и достижения ReStory",
-      "zh-TW": "allthings.how — ReStory 設備清單與成就"
+      "en": "restory.wiki — Devices category (community wiki)",
+      "zh-CN": "restory.wiki — 设备分类页（社区维基）",
+      "ja": "restory.wiki — デバイスカテゴリ（コミュニティWiki）",
+      "ko": "restory.wiki — 기기 분류 페이지（커뮤니티 위키）",
+      "fr": "restory.wiki — catégorie Appareils (wiki communautaire)",
+      "de": "restory.wiki — Kategorie Geräte (Community-Wiki)",
+      "es": "restory.wiki — categoría Dispositivos (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — categoria Aparelhos (wiki da comunidade)",
+      "ru": "restory.wiki — категория «Устройства» (вики сообщества)",
+      "zh-TW": "restory.wiki — 設備分類頁（社區維基）"
+     }
+    },
+    {
+     "label": "Steam discussion: ReStory device list (29 devices)",
+     "url": "https://steamcommunity.com/app/3812600/discussions/0/588434434320138300/",
+     "labels": {
+      "en": "Steam discussion: ReStory device list (29 devices)",
+      "zh-CN": "Steam 讨论：ReStory 设备清单（29 台）",
+      "ja": "Steam ディスカッション：ReStory デバイス一覧（29台）",
+      "ko": "Steam 토론: ReStory 기기 목록(29개)",
+      "fr": "Discussion Steam : liste des appareils ReStory (29 appareils)",
+      "de": "Steam-Diskussion: ReStory Geräteliste (29 Geräte)",
+      "es": "Debate de Steam: lista de dispositivos de ReStory (29 dispositivos)",
+      "pt-BR": "Tópico da Steam: lista de aparelhos de ReStory (29 aparelhos)",
+      "ru": "Обсуждение Steam: список устройств ReStory (29 устройств)",
+      "zh-TW": "Steam 討論：ReStory 設備清單（29 臺）"
+     }
+    },
+    {
+     "label": "Steam guide: Legend of Akiba [EN]",
+     "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3782095380",
+     "labels": {
+      "en": "Steam guide: Legend of Akiba [EN]",
+      "zh-CN": "Steam 指南：Legend of Akiba [EN]",
+      "ja": "Steam ガイド：Legend of Akiba [EN]",
+      "ko": "Steam 가이드: Legend of Akiba [EN]",
+      "fr": "Guide Steam : Legend of Akiba [EN]",
+      "de": "Steam-Guide: Legend of Akiba [EN]",
+      "es": "Guía de Steam: Legend of Akiba [EN]",
+      "pt-BR": "Guia da Steam: Legend of Akiba [EN]",
+      "ru": "Гайд Steam: Legend of Akiba [EN]",
+      "zh-TW": "Steam 指南：Legend of Akiba [EN]"
+     }
+    },
+    {
+     "label": "Official Steam announcement — Update #1 (v1.0.009r)",
+     "url": "https://steamcommunity.com/app/3812600/allnews/",
+     "labels": {
+      "en": "Official Steam announcement — Update #1 (v1.0.009r)",
+      "zh-CN": "Steam 官方公告——更新 #1（v1.0.009r）",
+      "ja": "Steam公式アナウンス — アップデート#1（v1.0.009r）",
+      "ko": "Steam 공식 공지 — 업데이트 #1(v1.0.009r)",
+      "fr": "Annonce Steam officielle — Mise à jour n°1 (v1.0.009r)",
+      "de": "Offizielle Steam-Ankündigung — Update Nr. 1 (v1.0.009r)",
+      "es": "Anuncio oficial de Steam — Actualización n.º 1 (v1.0.009r)",
+      "pt-BR": "Anúncio oficial da Steam — Atualização nº 1 (v1.0.009r)",
+      "ru": "Официальное объявление Steam — Обновление №1 (v1.0.009r)",
+      "zh-TW": "Steam 官方公告——更新 #1（v1.0.009r）"
+     }
+    },
+    {
+     "label": "Official Steam announcement — Update #2 (v1.0.010r)",
+     "url": "https://steamcommunity.com/app/3812600/allnews/",
+     "labels": {
+      "en": "Official Steam announcement — Update #2 (v1.0.010r)",
+      "zh-CN": "Steam 官方公告——更新 #2（v1.0.010r）",
+      "ja": "Steam公式アナウンス — アップデート#2（v1.0.010r）",
+      "ko": "Steam 공식 공지 — 업데이트 #2(v1.0.010r)",
+      "fr": "Annonce Steam officielle — Mise à jour n°2 (v1.0.010r)",
+      "de": "Offizielle Steam-Ankündigung — Update Nr. 2 (v1.0.010r)",
+      "es": "Anuncio oficial de Steam — Actualización n.º 2 (v1.0.010r)",
+      "pt-BR": "Anúncio oficial da Steam — Atualização nº 2 (v1.0.010r)",
+      "ru": "Официальное объявление Steam — Обновление №2 (v1.0.010r)",
+      "zh-TW": "Steam 官方公告——更新 #2（v1.0.010r）"
      }
     },
     {
@@ -6439,6 +6583,262 @@
       "ru": "Официальная страница Steam",
       "zh-TW": "Steam 官方商店頁"
      }
+    },
+    {
+     "label": "restory.wiki — Brick Game (community wiki)",
+     "url": "https://restory.wiki/w/Brick_Game",
+     "labels": {
+      "en": "restory.wiki — Brick Game (community wiki)",
+      "zh-CN": "restory.wiki — Brick Game（社区维基）",
+      "ja": "restory.wiki — Brick Game（コミュニティWiki）",
+      "ko": "restory.wiki — Brick Game（커뮤니티 위키）",
+      "fr": "restory.wiki — Brick Game (wiki communautaire)",
+      "de": "restory.wiki — Brick Game (Community-Wiki)",
+      "es": "restory.wiki — Brick Game (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Brick Game (wiki da comunidade)",
+      "ru": "restory.wiki — Brick Game (вики сообщества)",
+      "zh-TW": "restory.wiki — Brick Game（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Game Duck (community wiki)",
+     "url": "https://restory.wiki/w/Game_Duck",
+     "labels": {
+      "en": "restory.wiki — Game Duck (community wiki)",
+      "zh-CN": "restory.wiki — Game Duck（社区维基）",
+      "ja": "restory.wiki — Game Duck（コミュニティWiki）",
+      "ko": "restory.wiki — Game Duck（커뮤니티 위키）",
+      "fr": "restory.wiki — Game Duck (wiki communautaire)",
+      "de": "restory.wiki — Game Duck (Community-Wiki)",
+      "es": "restory.wiki — Game Duck (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Game Duck (wiki da comunidade)",
+      "ru": "restory.wiki — Game Duck (вики сообщества)",
+      "zh-TW": "restory.wiki — Game Duck（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — BreadBox Joystick (community wiki)",
+     "url": "https://restory.wiki/w/BreadBox_Joystick",
+     "labels": {
+      "en": "restory.wiki — BreadBox Joystick (community wiki)",
+      "zh-CN": "restory.wiki — BreadBox Joystick（社区维基）",
+      "ja": "restory.wiki — BreadBox Joystick（コミュニティWiki）",
+      "ko": "restory.wiki — BreadBox Joystick（커뮤니티 위키）",
+      "fr": "restory.wiki — BreadBox Joystick (wiki communautaire)",
+      "de": "restory.wiki — BreadBox Joystick (Community-Wiki)",
+      "es": "restory.wiki — BreadBox Joystick (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — BreadBox Joystick (wiki da comunidade)",
+      "ru": "restory.wiki — BreadBox Joystick (вики сообщества)",
+      "zh-TW": "restory.wiki — BreadBox Joystick（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — XI-box (community wiki)",
+     "url": "https://restory.wiki/w/XI-box",
+     "labels": {
+      "en": "restory.wiki — XI-box (community wiki)",
+      "zh-CN": "restory.wiki — XI-box（社区维基）",
+      "ja": "restory.wiki — XI-box（コミュニティWiki）",
+      "ko": "restory.wiki — XI-box（커뮤니티 위키）",
+      "fr": "restory.wiki — XI-box (wiki communautaire)",
+      "de": "restory.wiki — XI-box (Community-Wiki)",
+      "es": "restory.wiki — XI-box (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — XI-box (wiki da comunidade)",
+      "ru": "restory.wiki — XI-box (вики сообщества)",
+      "zh-TW": "restory.wiki — XI-box（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — XI-box Controller (community wiki)",
+     "url": "https://restory.wiki/w/XI-box_Controller",
+     "labels": {
+      "en": "restory.wiki — XI-box Controller (community wiki)",
+      "zh-CN": "restory.wiki — XI-box Controller（社区维基）",
+      "ja": "restory.wiki — XI-box Controller（コミュニティWiki）",
+      "ko": "restory.wiki — XI-box Controller（커뮤니티 위키）",
+      "fr": "restory.wiki — XI-box Controller (wiki communautaire)",
+      "de": "restory.wiki — XI-box Controller (Community-Wiki)",
+      "es": "restory.wiki — XI-box Controller (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — XI-box Controller (wiki da comunidade)",
+      "ru": "restory.wiki — XI-box Controller (вики сообщества)",
+      "zh-TW": "restory.wiki — XI-box Controller（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Simsons M65 (community wiki)",
+     "url": "https://restory.wiki/w/Simsons_M65",
+     "labels": {
+      "en": "restory.wiki — Simsons M65 (community wiki)",
+      "zh-CN": "restory.wiki — Simsons M65（社区维基）",
+      "ja": "restory.wiki — Simsons M65（コミュニティWiki）",
+      "ko": "restory.wiki — Simsons M65（커뮤니티 위키）",
+      "fr": "restory.wiki — Simsons M65 (wiki communautaire)",
+      "de": "restory.wiki — Simsons M65 (Community-Wiki)",
+      "es": "restory.wiki — Simsons M65 (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Simsons M65 (wiki da comunidade)",
+      "ru": "restory.wiki — Simsons M65 (вики сообщества)",
+      "zh-TW": "restory.wiki — Simsons M65（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Blueberry Curl (community wiki)",
+     "url": "https://restory.wiki/w/Blueberry_Curl",
+     "labels": {
+      "en": "restory.wiki — Blueberry Curl (community wiki)",
+      "zh-CN": "restory.wiki — Blueberry Curl（社区维基）",
+      "ja": "restory.wiki — Blueberry Curl（コミュニティWiki）",
+      "ko": "restory.wiki — Blueberry Curl（커뮤니티 위키）",
+      "fr": "restory.wiki — Blueberry Curl (wiki communautaire)",
+      "de": "restory.wiki — Blueberry Curl (Community-Wiki)",
+      "es": "restory.wiki — Blueberry Curl (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Blueberry Curl (wiki da comunidade)",
+      "ru": "restory.wiki — Blueberry Curl (вики сообщества)",
+      "zh-TW": "restory.wiki — Blueberry Curl（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Wertu Signature (community wiki)",
+     "url": "https://restory.wiki/w/Wertu_Signature",
+     "labels": {
+      "en": "restory.wiki — Wertu Signature (community wiki)",
+      "zh-CN": "restory.wiki — Wertu Signature（社区维基）",
+      "ja": "restory.wiki — Wertu Signature（コミュニティWiki）",
+      "ko": "restory.wiki — Wertu Signature（커뮤니티 위키）",
+      "fr": "restory.wiki — Wertu Signature (wiki communautaire)",
+      "de": "restory.wiki — Wertu Signature (Community-Wiki)",
+      "es": "restory.wiki — Wertu Signature (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Wertu Signature (wiki da comunidade)",
+      "ru": "restory.wiki — Wertu Signature (вики сообщества)",
+      "zh-TW": "restory.wiki — Wertu Signature（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Unicorp Kettle (community wiki)",
+     "url": "https://restory.wiki/w/Unicorp_Kettle",
+     "labels": {
+      "en": "restory.wiki — Unicorp Kettle (community wiki)",
+      "zh-CN": "restory.wiki — Unicorp Kettle（社区维基）",
+      "ja": "restory.wiki — Unicorp Kettle（コミュニティWiki）",
+      "ko": "restory.wiki — Unicorp Kettle（커뮤니티 위키）",
+      "fr": "restory.wiki — Unicorp Kettle (wiki communautaire)",
+      "de": "restory.wiki — Unicorp Kettle (Community-Wiki)",
+      "es": "restory.wiki — Unicorp Kettle (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Unicorp Kettle (wiki da comunidade)",
+      "ru": "restory.wiki — Unicorp Kettle (вики сообщества)",
+      "zh-TW": "restory.wiki — Unicorp Kettle（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Autorolla WT2000 (community wiki)",
+     "url": "https://restory.wiki/w/Autorolla_WT2000",
+     "labels": {
+      "en": "restory.wiki — Autorolla WT2000 (community wiki)",
+      "zh-CN": "restory.wiki — Autorolla WT2000（社区维基）",
+      "ja": "restory.wiki — Autorolla WT2000（コミュニティWiki）",
+      "ko": "restory.wiki — Autorolla WT2000（커뮤니티 위키）",
+      "fr": "restory.wiki — Autorolla WT2000 (wiki communautaire)",
+      "de": "restory.wiki — Autorolla WT2000 (Community-Wiki)",
+      "es": "restory.wiki — Autorolla WT2000 (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Autorolla WT2000 (wiki da comunidade)",
+      "ru": "restory.wiki — Autorolla WT2000 (вики сообщества)",
+      "zh-TW": "restory.wiki — Autorolla WT2000（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Unicorp Vision (community wiki)",
+     "url": "https://restory.wiki/w/Unicorp_Vision",
+     "labels": {
+      "en": "restory.wiki — Unicorp Vision (community wiki)",
+      "zh-CN": "restory.wiki — Unicorp Vision（社区维基）",
+      "ja": "restory.wiki — Unicorp Vision（コミュニティWiki）",
+      "ko": "restory.wiki — Unicorp Vision（커뮤니티 위키）",
+      "fr": "restory.wiki — Unicorp Vision (wiki communautaire)",
+      "de": "restory.wiki — Unicorp Vision (Community-Wiki)",
+      "es": "restory.wiki — Unicorp Vision (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Unicorp Vision (wiki da comunidade)",
+      "ru": "restory.wiki — Unicorp Vision (вики сообщества)",
+      "zh-TW": "restory.wiki — Unicorp Vision（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Robby (community wiki)",
+     "url": "https://restory.wiki/w/Robby",
+     "labels": {
+      "en": "restory.wiki — Robby (community wiki)",
+      "zh-CN": "restory.wiki — Robby（社区维基）",
+      "ja": "restory.wiki — Robby（コミュニティWiki）",
+      "ko": "restory.wiki — Robby（커뮤니티 위키）",
+      "fr": "restory.wiki — Robby (wiki communautaire)",
+      "de": "restory.wiki — Robby (Community-Wiki)",
+      "es": "restory.wiki — Robby (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Robby (wiki da comunidade)",
+      "ru": "restory.wiki — Robby (вики сообщества)",
+      "zh-TW": "restory.wiki — Robby（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Nerdio W-91F (community wiki)",
+     "url": "https://restory.wiki/w/Nerdio_W-91F",
+     "labels": {
+      "en": "restory.wiki — Nerdio W-91F (community wiki)",
+      "zh-CN": "restory.wiki — Nerdio W-91F（社区维基）",
+      "ja": "restory.wiki — Nerdio W-91F（コミュニティWiki）",
+      "ko": "restory.wiki — Nerdio W-91F（커뮤니티 위키）",
+      "fr": "restory.wiki — Nerdio W-91F (wiki communautaire)",
+      "de": "restory.wiki — Nerdio W-91F (Community-Wiki)",
+      "es": "restory.wiki — Nerdio W-91F (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Nerdio W-91F (wiki da comunidade)",
+      "ru": "restory.wiki — Nerdio W-91F (вики сообщества)",
+      "zh-TW": "restory.wiki — Nerdio W-91F（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Guitar Legend (community wiki)",
+     "url": "https://restory.wiki/w/Guitar_Legend",
+     "labels": {
+      "en": "restory.wiki — Guitar Legend (community wiki)",
+      "zh-CN": "restory.wiki — Guitar Legend（社区维基）",
+      "ja": "restory.wiki — Guitar Legend（コミュニティWiki）",
+      "ko": "restory.wiki — Guitar Legend（커뮤니티 위키）",
+      "fr": "restory.wiki — Guitar Legend (wiki communautaire)",
+      "de": "restory.wiki — Guitar Legend (Community-Wiki)",
+      "es": "restory.wiki — Guitar Legend (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Guitar Legend (wiki da comunidade)",
+      "ru": "restory.wiki — Guitar Legend (вики сообщества)",
+      "zh-TW": "restory.wiki — Guitar Legend（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — Mapple Mypod (community wiki)",
+     "url": "https://restory.wiki/w/Mapple_Mypod",
+     "labels": {
+      "en": "restory.wiki — Mapple Mypod (community wiki)",
+      "zh-CN": "restory.wiki — Mapple Mypod（社区维基）",
+      "ja": "restory.wiki — Mapple Mypod（コミュニティWiki）",
+      "ko": "restory.wiki — Mapple Mypod（커뮤니티 위키）",
+      "fr": "restory.wiki — Mapple Mypod (wiki communautaire)",
+      "de": "restory.wiki — Mapple Mypod (Community-Wiki)",
+      "es": "restory.wiki — Mapple Mypod (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Mapple Mypod (wiki da comunidade)",
+      "ru": "restory.wiki — Mapple Mypod (вики сообщества)",
+      "zh-TW": "restory.wiki — Mapple Mypod（社區維基）"
+     }
+    },
+    {
+     "label": "restory.wiki — IDM ThinkerDad (community wiki)",
+     "url": "https://restory.wiki/w/IDM_ThinkerDad",
+     "labels": {
+      "en": "restory.wiki — IDM ThinkerDad (community wiki)",
+      "zh-CN": "restory.wiki — IDM ThinkerDad（社区维基）",
+      "ja": "restory.wiki — IDM ThinkerDad（コミュニティWiki）",
+      "ko": "restory.wiki — IDM ThinkerDad（커뮤니티 위키）",
+      "fr": "restory.wiki — IDM ThinkerDad (wiki communautaire)",
+      "de": "restory.wiki — IDM ThinkerDad (Community-Wiki)",
+      "es": "restory.wiki — IDM ThinkerDad (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — IDM ThinkerDad (wiki da comunidade)",
+      "ru": "restory.wiki — IDM ThinkerDad (вики сообщества)",
+      "zh-TW": "restory.wiki — IDM ThinkerDad（社區維基）"
+     }
     }
    ],
    "meta": {
@@ -6448,8 +6848,8 @@
     "en": {
      "title": "Every Device You Can Repair in ReStory",
      "metaTitle": "Every Device You Can Repair in ReStory (Full List)",
-     "metaDescription": "The full list of repairable devices in ReStory: Atari 2600, Eggotchi, Pokia 3310, Nony PlayMachine, Palaloid and more — with how to unlock them.",
-     "intro": "ReStory is packed with nostalgic Y2K devices, including officially licensed Atari hardware. Here is the full device list we have confirmed, what each one is, and how unlocking works.Every device runs through the same five-step loop; what changes is which parts it hides and which tools you need. Knowing the full roster early helps you plan which licenses and tools to chase. Bookmark this page — it is the map you will reference every time a new device appears on the bench.",
+     "metaDescription": "The full list of repairable devices in ReStory: 29 devices from community sources, from Atari 2600 to Brick Game and Robby — with how to unlock them.",
+     "intro": "ReStory is packed with nostalgic Y2K devices, including officially licensed Atari hardware. Community sources consistently list 29 repairable devices — here is the full list, what each one is, and how unlocking works. Entries based on community sources are labeled L3 and are not officially confirmed.Every device runs through the same five-step loop; what changes is which parts it hides and which tools you need. Knowing the full roster early helps you plan which licenses and tools to chase. Bookmark this page — it is the map you will reference every time a new device appears on the bench.",
      "sections": [
       {
        "type": "table",
@@ -6523,7 +6923,7 @@
         [
          "Walkie-talkie",
          "Two-way radio",
-         "—"
+         "Name pending L0 verification — community sources suggest this is the Autorolla WT2000"
         ],
         [
          "Unicorp 99L",
@@ -6533,7 +6933,87 @@
         [
          "Robodog",
          "Aibo-style robot dog",
-         "Parody device"
+         "Name pending L0 verification — community sources suggest this is Robby"
+        ],
+        [
+         "Brick Game",
+         "90s Brick Game handheld",
+         "Consoles · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
+        ],
+        [
+         "Game Duck",
+         "Game Boy-style handheld",
+         "Handhelds · Community reference (L3)"
+        ],
+        [
+         "BreadBox Joystick",
+         "Commodore 64 T-1341 joystick",
+         "Controllers · Community reference (L3)"
+        ],
+        [
+         "XI-box",
+         "Xbox-style console",
+         "Consoles · Community reference (L3)"
+        ],
+        [
+         "XI-box Controller",
+         "Xbox 'Duke' controller",
+         "Controllers · Community reference (L3)"
+        ],
+        [
+         "Simsons M65",
+         "Siemens M65 phone",
+         "Phones · Community reference (L3)"
+        ],
+        [
+         "Blueberry Curl",
+         "BlackBerry Curve phone",
+         "Phones · Community reference (L3)"
+        ],
+        [
+         "Wertu Signature",
+         "Not specified in community sources",
+         "Phones · Community reference (L3)"
+        ],
+        [
+         "Unicorp Kettle",
+         "Callback to I Am Future (developer's previous game)",
+         "Appliances · Community reference (L3)"
+        ],
+        [
+         "Autorolla WT2000",
+         "Motorola GP328 two-way radio",
+         "Appliances · Community reference (L3)"
+        ],
+        [
+         "Unicorp Vision",
+         "Callback to I Am Future (developer's previous game)",
+         "Appliances · Community reference (L3)"
+        ],
+        [
+         "Robby",
+         "Tekno-style robot puppy",
+         "Gadgets & toys · Named in official Steam Update #2 (v1.0.010r) · Community reference (L3)"
+        ],
+        [
+         "Nerdio W-91F",
+         "Casio F-91W watch",
+         "Gadgets & toys · Community reference (L3)"
+        ],
+        [
+         "Guitar Legend",
+         "Guitar Hero-style guitar controller",
+         "Controllers · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
+        ],
+        [
+         "Mapple Mypod",
+         "iPod Classic-style music player",
+         "Music & media · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
+        ],
+        [
+         "IDM ThinkerDad",
+         "ThinkPad 365XD-style laptop",
+         "Laptops · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"
         ]
        ]
       },
@@ -6570,7 +7050,7 @@
        "items": [
         [
          "How many devices are in ReStory?",
-         "We have confirmed 15 entries in the device list (source: allthings.how). The exact total is being verified."
+         "Community sources consistently list 29 devices: restory.wiki's Devices category, a Steam community device list and the Steam guide 'Legend of Akiba' all match (L3 — community sources, not officially confirmed). The exact in-game total is still being verified. Two entries on this page — walkie-talkie and robodog — are pending name verification."
         ],
         [
          "Are the Atari devices real?",
@@ -6682,16 +7162,36 @@
       }
      ],
      "sources": [
-      "allthings",
-      "steam"
+      "restory-wiki-devices",
+      "steam-discussion-devices",
+      "steam-guide-akiba",
+      "steam-patch-009r",
+      "steam-patch-010r",
+      "steam",
+      "wiki-brick-game",
+      "wiki-game-duck",
+      "wiki-breadbox-joystick",
+      "wiki-xi-box",
+      "wiki-xi-box-controller",
+      "wiki-simsons-m65",
+      "wiki-blueberry-curl",
+      "wiki-wertu-signature",
+      "wiki-unicorp-kettle",
+      "wiki-autorolla-wt2000",
+      "wiki-unicorp-vision",
+      "wiki-robby",
+      "wiki-nerdio-w91f",
+      "wiki-guitar-legend",
+      "wiki-mapple-mypod",
+      "wiki-idm-thinkerdad"
      ],
      "icon": "all-devices"
     },
     "zh-CN": {
      "title": "维修物语可修复设备全清单",
      "metaTitle": "维修物语可修复设备全清单（完整列表）",
-     "metaDescription": "维修物语全部可修复设备：Atari 2600、Eggotchi、Pokia 3310、Nony PlayMachine…",
-     "intro": "维修物语塞满了怀旧 Y2K 设备，包括官方授权的 Atari 硬件。以下是我们已确认的完整设备清单、每台的现实原型，以及解锁机制。每台设备都走同一套五步循环；变的是它藏着哪些零件、你需要哪些工具。早点知道完整清单，能帮你规划要追的许可和工具。把这一页收藏——每当有新设备上工作台，它就是你要查的地图。",
+     "metaDescription": "维修物语全部可修复设备：社区来源一致确认的 29 台，从 Atari 2600 到 Brick Game、Robby——以及解锁方式。",
+     "intro": "维修物语塞满了怀旧 Y2K 设备，包括官方授权的 Atari 硬件。社区来源一致列出 29 台可修复设备——以下是完整清单、每台的现实原型与解锁机制。来自社区来源的条目均标注 L3，未经官方核实。每台设备都走同一套五步循环；变的是它藏着哪些零件、你需要哪些工具。早点知道完整清单，能帮你规划要追的许可和工具。把这一页收藏——每当有新设备上工作台，它就是你要查的地图。",
      "sections": [
       {
        "type": "table",
@@ -6765,7 +7265,7 @@
         [
          "Walkie-talkie",
          "对讲机",
-         "—"
+         "名称待 L0 实测核实——社区来源提示可能为 Autorolla WT2000"
         ],
         [
          "Unicorp 99L",
@@ -6775,7 +7275,87 @@
         [
          "Robodog",
          "Aibo 式电子狗",
-         "恶搞设备"
+         "名称待 L0 实测核实——社区来源提示可能为 Robby"
+        ],
+        [
+         "Brick Game",
+         "90 年代 Brick Game 掌机",
+         "家用主机 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"
+        ],
+        [
+         "Game Duck",
+         "Game Boy 式掌机",
+         "掌机 · 社区资料（L3）"
+        ],
+        [
+         "BreadBox Joystick",
+         "Commodore 64 T-1341 摇杆",
+         "手柄 · 社区资料（L3）"
+        ],
+        [
+         "XI-box",
+         "Xbox 式主机",
+         "家用主机 · 社区资料（L3）"
+        ],
+        [
+         "XI-box Controller",
+         "Xbox「Duke」手柄",
+         "手柄 · 社区资料（L3）"
+        ],
+        [
+         "Simsons M65",
+         "西门子 M65 手机",
+         "手机 · 社区资料（L3）"
+        ],
+        [
+         "Blueberry Curl",
+         "黑莓 Curve 手机",
+         "手机 · 社区资料（L3）"
+        ],
+        [
+         "Wertu Signature",
+         "社区来源未标明",
+         "手机 · 社区资料（L3）"
+        ],
+        [
+         "Unicorp Kettle",
+         "致敬 I Am Future（开发商前作）",
+         "家电 · 社区资料（L3）"
+        ],
+        [
+         "Autorolla WT2000",
+         "摩托罗拉 GP328 对讲机",
+         "家电 · 社区资料（L3）"
+        ],
+        [
+         "Unicorp Vision",
+         "致敬 I Am Future（开发商前作）",
+         "家电 · 社区资料（L3）"
+        ],
+        [
+         "Robby",
+         "Tekno 式电子狗",
+         "小玩意与玩具 · 官方 Steam 更新 #2（v1.0.010r）点名 · 社区资料（L3）"
+        ],
+        [
+         "Nerdio W-91F",
+         "卡西欧 F-91W 手表",
+         "小玩意与玩具 · 社区资料（L3）"
+        ],
+        [
+         "Guitar Legend",
+         "Guitar Hero 式吉他手柄",
+         "手柄 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"
+        ],
+        [
+         "Mapple Mypod",
+         "iPod Classic 式音乐播放器",
+         "音乐与媒体 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"
+        ],
+        [
+         "IDM ThinkerDad",
+         "ThinkPad 365XD 式笔记本",
+         "笔记本 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"
         ]
        ]
       },
@@ -6812,7 +7392,7 @@
        "items": [
         [
          "维修物语有多少台设备？",
-         "我们已确认设备清单 15 条（来源：allthings.how）。确切总数仍在核实。"
+         "社区来源一致列出 29 台设备：restory.wiki 的设备分类页、Steam 社区设备清单与 Steam 指南《Legend of Akiba》三源一致（L3——社区来源，未经官方核实）。游戏内确切总数仍在核实。本页的 walkie-talkie 与 robodog 两条目名称待 L0 核实。"
         ],
         [
          "Atari 设备是真的吗？",
@@ -6932,8 +7512,8 @@
     "ja": {
      "title": "ReStory で修理できるすべてのデバイス",
      "metaTitle": "ReStory で修理できる全デバイス一覧",
-     "metaDescription": "ReStory で修理できる全デバイス：Atari 2600、Eggotchi、Pokia 3310、Nony Pla…",
-     "intro": "ReStory には、公式ライセンスの Atari ハードを含む、懐かしい Y2K デバイスが満載。ここでは確認済みの全デバイス一覧、それぞれの正体、アンロックの仕組みを紹介します。 すべてのデバイスは同じ 5 ステップのループで進みます。変わるのは、どのパーツを内蔵しているか、どの工具が必要かだけです。全ラインナップを早めに把握しておくと、どのライセンスと工具を目指すか計画しやすくなります。このページをブックマークしましょう——新しいデバイスが作業台に現れるたびに参照する地図です。",
+     "metaDescription": "ReStory で修理できる全デバイス：コミュニティ情報源が一致する29台——Atari 26…",
+     "intro": "ReStory には、公式ライセンスの Atari ハードを含む、懐かしい Y2K デバイスが満載。コミュニティ情報源は修理可能な29台で一致しており、以下に全リスト、各デバイスの実在モデル、アンロックの仕組みを示します。コミュニティ情報に基づく項目はL3と明記され、公式確認はされていません。 すべてのデバイスは同じ 5 ステップのループで進みます。変わるのは、どのパーツを内蔵しているか、どの工具が必要かだけです。全ラインナップを早めに把握しておくと、どのライセンスと工具を目指すか計画しやすくなります。このページをブックマークしましょう——新しいデバイスが作業台に現れるたびに参照する地図です。",
      "sections": [
       {
        "type": "table",
@@ -7007,7 +7587,7 @@
         [
          "Walkie-talkie",
          "トランシーバー",
-         "—"
+         "名称はL0検証待ち——コミュニティ情報では Autorolla WT2000 の可能性を指摘"
         ],
         [
          "Unicorp 99L",
@@ -7017,7 +7597,87 @@
         [
          "Robodog",
          "AIBO 風のロボット犬",
-         "パロディ機"
+         "名称はL0検証待ち——コミュニティ情報では Robby の可能性を指摘"
+        ],
+        [
+         "Brick Game",
+         "90年代のBrick Game携帯機",
+         "ゲーム機 · Steam公式アップデート#1（v1.0.009r）で言及 · コミュニティ情報（L3）"
+        ],
+        [
+         "Game Duck",
+         "Game Boy 風の携帯ゲーム機",
+         "携帯ゲーム機 · コミュニティ情報（L3）"
+        ],
+        [
+         "BreadBox Joystick",
+         "Commodore 64 T-1341 ジョイスティック",
+         "コントローラー · コミュニティ情報（L3）"
+        ],
+        [
+         "XI-box",
+         "Xbox 風のゲーム機",
+         "ゲーム機 · コミュニティ情報（L3）"
+        ],
+        [
+         "XI-box Controller",
+         "Xbox「Duke」コントローラー",
+         "コントローラー · コミュニティ情報（L3）"
+        ],
+        [
+         "Simsons M65",
+         "Siemens M65 携帯電話",
+         "携帯電話 · コミュニティ情報（L3）"
+        ],
+        [
+         "Blueberry Curl",
+         "BlackBerry Curve 携帯電話",
+         "携帯電話 · コミュニティ情報（L3）"
+        ],
+        [
+         "Wertu Signature",
+         "コミュニティ情報に明記なし",
+         "携帯電話 · コミュニティ情報（L3）"
+        ],
+        [
+         "Unicorp Kettle",
+         "I Am Future（開発元の前作）へのオマージュ",
+         "家電 · コミュニティ情報（L3）"
+        ],
+        [
+         "Autorolla WT2000",
+         "Motorola GP328 トランシーバー",
+         "家電 · コミュニティ情報（L3）"
+        ],
+        [
+         "Unicorp Vision",
+         "I Am Future（開発元の前作）へのオマージュ",
+         "家電 · コミュニティ情報（L3）"
+        ],
+        [
+         "Robby",
+         "Tekno 風のロボット子犬",
+         "ガジェット・おもちゃ · Steam公式アップデート#2（v1.0.010r）で言及 · コミュニティ情報（L3）"
+        ],
+        [
+         "Nerdio W-91F",
+         "Casio F-91W 腕時計",
+         "ガジェット・おもちゃ · コミュニティ情報（L3）"
+        ],
+        [
+         "Guitar Legend",
+         "Guitar Hero 風のギターコントローラー",
+         "コントローラー · Steam公式アップデート#1（v1.0.009r）で言及 · コミュニティ情報（L3）"
+        ],
+        [
+         "Mapple Mypod",
+         "iPod Classic 風の音楽プレーヤー",
+         "音楽・メディア · Steam公式アップデート#1（v1.0.009r）で言及 · コミュニティ情報（L3）"
+        ],
+        [
+         "IDM ThinkerDad",
+         "ThinkPad 365XD 風のノートPC",
+         "ノートPC · Steam公式アップデート#1（v1.0.009r）で言及 · コミュニティ情報（L3）"
         ]
        ]
       },
@@ -7054,7 +7714,7 @@
        "items": [
         [
          "ReStory のデバイスは何台？",
-         "デバイス一覧で 15 件を確認済みです（出典：allthings.how）。正確な総数は検証中です。"
+         "コミュニティ情報源は29台で一致しています：restory.wiki のデバイスカテゴリ、Steam コミュニティのデバイス一覧、Steam ガイド『Legend of Akiba』の3つが一致（L3——コミュニティ情報・公式確認なし）。ゲーム内の正確な総数は引き続き検証中です。このページの walkie-talkie と robodog の2項目は名称を検証中です。"
         ],
         [
          "Atari デバイスは本物？",
@@ -7174,8 +7834,8 @@
     "ko": {
      "title": "ReStory에서 수리할 수 있는 모든 기기",
      "metaTitle": "ReStory에서 수리 가능한 모든 기기 (전체 목록)",
-     "metaDescription": "ReStory의 수리 가능한 기기 전체 목록: Atari 2600, Eggotchi, Pokia 3310, No…",
-     "intro": "ReStory에는 정식 라이선스를 받은 Atari 하드웨어를 포함해 향수 어린 Y2K 기기들이 가득합니다. 확인된 전체 기기 목록, 각 기기가 무엇인지, 해금 방식은 다음과 같습니다.모든 기기는 같은 5단계 루프를 거칩니다; 달라지는 것은 숨겨진 부품과 필요한 도구뿐입니다. 전체 목록을 일찍 알면 어떤 라이선스와 도구를 추구할지 계획하는 데 도움이 됩니다. 이 페이지를 북마크하세요 — 작업대에 새 기기가 나타날 때마다 참고하게 될 지도입니다.",
+     "metaDescription": "ReStory의 수리 가능한 기기 전체 목록: 커뮤니티 소스가 일치하는 29개 — Atar…",
+     "intro": "ReStory에는 정식 라이선스를 받은 Atari 하드웨어를 포함해 향수 어린 Y2K 기기들이 가득합니다. 커뮤니티 소스가 일관되게 29개의 수리 가능 기기를 나열합니다 — 아래는 전체 목록, 각 기기의 실제 모델, 잠금 해제 방식입니다. 커뮤니티 소스 기반 항목은 L3로 표시되며 공식적으로 확인되지 않았습니다.모든 기기는 같은 5단계 루프를 거칩니다; 달라지는 것은 숨겨진 부품과 필요한 도구뿐입니다. 전체 목록을 일찍 알면 어떤 라이선스와 도구를 추구할지 계획하는 데 도움이 됩니다. 이 페이지를 북마크하세요 — 작업대에 새 기기가 나타날 때마다 참고하게 될 지도입니다.",
      "sections": [
       {
        "type": "table",
@@ -7249,7 +7909,7 @@
         [
          "Walkie-talkie",
          "양방향 무전기",
-         "—"
+         "이름 L0 확인 대기——커뮤니티 소스는 Autorolla WT2000일 가능성을 시사"
         ],
         [
          "Unicorp 99L",
@@ -7259,7 +7919,87 @@
         [
          "Robodog",
          "아이보형 로봇 강아지",
-         "패러디 기기"
+         "이름 L0 확인 대기——커뮤니티 소스는 Robby일 가능성을 시사"
+        ],
+        [
+         "Brick Game",
+         "90년대 Brick Game 핸드헬드",
+         "콘솔 · 공식 Steam 업데이트 #1(v1.0.009r)에서 언급 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Game Duck",
+         "Game Boy 스타일 핸드헬드",
+         "핸드헬드 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "BreadBox Joystick",
+         "Commodore 64 T-1341 조이스틱",
+         "컨트롤러 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "XI-box",
+         "Xbox 스타일 콘솔",
+         "콘솔 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "XI-box Controller",
+         "Xbox 'Duke' 컨트롤러",
+         "컨트롤러 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Simsons M65",
+         "Siemens M65 휴대폰",
+         "휴대폰 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Blueberry Curl",
+         "BlackBerry Curve 휴대폰",
+         "휴대폰 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Wertu Signature",
+         "커뮤니티 소스에 명시되지 않음",
+         "휴대폰 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Unicorp Kettle",
+         "I Am Future(개발사 전작) 오마주",
+         "가전 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Autorolla WT2000",
+         "Motorola GP328 무전기",
+         "가전 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Unicorp Vision",
+         "I Am Future(개발사 전작) 오마주",
+         "가전 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Robby",
+         "Tekno 스타일 로봇 강아지",
+         "가젯 및 장난감 · 공식 Steam 업데이트 #2(v1.0.010r)에서 언급 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Nerdio W-91F",
+         "Casio F-91W 시계",
+         "가젯 및 장난감 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Guitar Legend",
+         "Guitar Hero 스타일 기타 컨트롤러",
+         "컨트롤러 · 공식 Steam 업데이트 #1(v1.0.009r)에서 언급 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "Mapple Mypod",
+         "iPod Classic 스타일 음악 플레이어",
+         "음악·미디어 · 공식 Steam 업데이트 #1(v1.0.009r)에서 언급 · 커뮤니티 참고 자료(L3)"
+        ],
+        [
+         "IDM ThinkerDad",
+         "ThinkPad 365XD 스타일 노트북",
+         "노트북 · 공식 Steam 업데이트 #1(v1.0.009r)에서 언급 · 커뮤니티 참고 자료(L3)"
         ]
        ]
       },
@@ -7296,7 +8036,7 @@
        "items": [
         [
          "ReStory에는 기기가 몇 개인가요?",
-         "기기 목록에서 15개 항목을 확인했습니다(출처: allthings.how). 정확한 총수는 확인 중입니다."
+         "커뮤니티 소스가 일관되게 29개 기기를 나열합니다: restory.wiki의 기기 분류 페이지, Steam 커뮤니티 기기 목록, Steam 가이드 'Legend of Akiba'가 모두 일치합니다(L3 — 커뮤니티 소스, 공식 확인 안 됨). 게임 내 정확한 총수는 아직 확인 중입니다. 이 페이지의 walkie-talkie와 robodog 두 항목은 이름 확인이 필요합니다."
         ],
         [
          "Atari 기기는 실제 제품인가요?",
@@ -7416,8 +8156,8 @@
     "fr": {
      "title": "Tous les appareils réparables dans ReStory",
      "metaTitle": "Tous les appareils réparables dans ReStory (liste complèt…",
-     "metaDescription": "La liste des appareils réparables dans ReStory : Atari 2600, Eggotchi, Pokia 3310, Nony PlayMachine, Palaloid et plus — comment les débloquer.",
-     "intro": "ReStory regorge d'appareils nostalgiques de l'an 2000 (Y2K), dont du matériel Atari sous licence officielle. Voici la liste complète des appareils que nous avons confirmés, ce que chacun est, et comment fonctionne le déblocage. Chaque appareil passe par la même boucle en cinq étapes ; ce qui change, ce sont les pièces qu'il cache et les outils dont vous avez besoin. Connaître tôt la liste complète vous aide à planifier les licences et les outils à poursuivre. Mettez cette page en favori — c'est la carte que vous consulterez à chaque fois qu'un nouvel appareil arrivera sur l'établi.",
+     "metaDescription": "La liste des appareils réparables dans ReStory : 29 appareils, d'Atari 2600 à Brick Game et Robby — comment les débloquer.",
+     "intro": "ReStory regorge d'appareils nostalgiques de l'an 2000 (Y2K), dont du matériel Atari sous licence officielle. Les sources communautaires listent de façon cohérente 29 appareils réparables : voici la liste complète, ce que chaque appareil est et comment fonctionne le déblocage. Les entrées issues de sources communautaires sont marquées L3 et non confirmées officiellement. Chaque appareil passe par la même boucle en cinq étapes ; ce qui change, ce sont les pièces qu'il cache et les outils dont vous avez besoin. Connaître tôt la liste complète vous aide à planifier les licences et les outils à poursuivre. Mettez cette page en favori — c'est la carte que vous consulterez à chaque fois qu'un nouvel appareil arrivera sur l'établi.",
      "sections": [
       {
        "type": "table",
@@ -7491,7 +8231,7 @@
         [
          "Walkie-talkie",
          "Radio bidirectionnelle",
-         "—"
+         "Nom en attente de vérification L0 — les sources communautaires suggèrent qu'il s'agit peut-être de l'Autorolla WT2000"
         ],
         [
          "Unicorp 99L",
@@ -7501,7 +8241,87 @@
         [
          "Robodog",
          "Chien robot style Aibo",
-         "Appareil parodique"
+         "Nom en attente de vérification L0 — les sources communautaires suggèrent qu'il s'agit peut-être de Robby"
+        ],
+        [
+         "Brick Game",
+         "Console portable Brick Game des années 90",
+         "Consoles · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r) · référence communautaire (L3)"
+        ],
+        [
+         "Game Duck",
+         "Console portable façon Game Boy",
+         "Consoles portables · référence communautaire (L3)"
+        ],
+        [
+         "BreadBox Joystick",
+         "Manette Commodore 64 T-1341",
+         "Manettes · référence communautaire (L3)"
+        ],
+        [
+         "XI-box",
+         "Console façon Xbox",
+         "Consoles · référence communautaire (L3)"
+        ],
+        [
+         "XI-box Controller",
+         "Manette « Duke » de Xbox",
+         "Manettes · référence communautaire (L3)"
+        ],
+        [
+         "Simsons M65",
+         "Téléphone Siemens M65",
+         "Téléphones · référence communautaire (L3)"
+        ],
+        [
+         "Blueberry Curl",
+         "Téléphone BlackBerry Curve",
+         "Téléphones · référence communautaire (L3)"
+        ],
+        [
+         "Wertu Signature",
+         "Non précisé dans les sources communautaires",
+         "Téléphones · référence communautaire (L3)"
+        ],
+        [
+         "Unicorp Kettle",
+         "Clin d'œil à I Am Future (jeu précédent du studio)",
+         "Électroménager · référence communautaire (L3)"
+        ],
+        [
+         "Autorolla WT2000",
+         "Radio Motorola GP328",
+         "Électroménager · référence communautaire (L3)"
+        ],
+        [
+         "Unicorp Vision",
+         "Clin d'œil à I Am Future (jeu précédent du studio)",
+         "Électroménager · référence communautaire (L3)"
+        ],
+        [
+         "Robby",
+         "Robot-chiot façon Tekno",
+         "Gadgets et jouets · cité dans la mise à jour officielle n° 2 de Steam (v1.0.010r) · référence communautaire (L3)"
+        ],
+        [
+         "Nerdio W-91F",
+         "Montre Casio F-91W",
+         "Gadgets et jouets · référence communautaire (L3)"
+        ],
+        [
+         "Guitar Legend",
+         "Manette guitare façon Guitar Hero",
+         "Manettes · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r) · référence communautaire (L3)"
+        ],
+        [
+         "Mapple Mypod",
+         "Baladeur façon iPod Classic",
+         "Musique et médias · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r) · référence communautaire (L3)"
+        ],
+        [
+         "IDM ThinkerDad",
+         "Ordinateur portable façon ThinkPad 365XD",
+         "Ordinateurs portables · cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r) · référence communautaire (L3)"
         ]
        ]
       },
@@ -7538,7 +8358,7 @@
        "items": [
         [
          "Combien d'appareils y a-t-il dans ReStory ?",
-         "Nous avons confirmé 15 entrées dans la liste des appareils (source : allthings.how). Le total exact est en cours de vérification."
+         "Les sources communautaires listent de façon cohérente 29 appareils : la catégorie Appareils de restory.wiki, une liste communautaire Steam et le guide Steam « Legend of Akiba » concordent (L3 — sources communautaires, non confirmées officiellement). Le total exact en jeu est encore en cours de vérification. Deux entrées de cette page — walkie-talkie et robodog — sont en attente de vérification de leur nom."
         ],
         [
          "Les appareils Atari sont-ils réels ?",
@@ -7658,8 +8478,8 @@
     "de": {
      "title": "Jedes Gerät, das du in ReStory reparieren kannst",
      "metaTitle": "Alle reparierbaren Geräte in ReStory (vollständige Liste)",
-     "metaDescription": "Die vollständige Geräteliste in ReStory: Atari 2600, Eggotchi, Pokia 3310, Nony PlayMachine, Palaloid & mehr — mit Freischalt-Hinweisen.",
-     "intro": "ReStory steckt voller nostalgischer Y2K-Geräte, darunter offiziell lizenzierte Atari-Hardware. Hier ist die vollständige Geräteliste, die wir bestätigt haben, was jedes Gerät ist und wie das Freischalten funktioniert. Jedes Gerät durchläuft denselben Fünf-Schritte-Ablauf; was sich ändert, sind die Teile, die es verbirgt, und die Werkzeuge, die du brauchst. Die volle Liste früh zu kennen hilft dir zu planen, welche Lizenzen und Werkzeuge du anstrebst. Setze ein Lesezeichen auf diese Seite — sie ist die Karte, die du jedes Mal zur Hand nimmst, wenn ein neues Gerät auf der Werkbank auftaucht.",
+     "metaDescription": "Die vollständige Geräteliste in ReStory: 29 Geräte aus Community-Quellen, von Atari 2600 bis Brick Game und Robby — mit Freischalt-Hinweisen.",
+     "intro": "ReStory steckt voller nostalgischer Y2K-Geräte, darunter offiziell lizenzierte Atari-Hardware. Community-Quellen listen übereinstimmend 29 reparierbare Geräte – hier ist die vollständige Liste, was jedes Gerät ist und wie das Freischalten funktioniert. Einträge aus Community-Quellen sind als L3 markiert und nicht offiziell bestätigt. Jedes Gerät durchläuft denselben Fünf-Schritte-Ablauf; was sich ändert, sind die Teile, die es verbirgt, und die Werkzeuge, die du brauchst. Die volle Liste früh zu kennen hilft dir zu planen, welche Lizenzen und Werkzeuge du anstrebst. Setze ein Lesezeichen auf diese Seite — sie ist die Karte, die du jedes Mal zur Hand nimmst, wenn ein neues Gerät auf der Werkbank auftaucht.",
      "sections": [
       {
        "type": "table",
@@ -7733,7 +8553,7 @@
         [
          "Walkie-talkie",
          "Funkgerät",
-         "—"
+         "Name wartet auf L0-Verifizierung — Community-Quellen vermuten den Autorolla WT2000"
         ],
         [
          "Unicorp 99L",
@@ -7743,7 +8563,87 @@
         [
          "Robodog",
          "Aibo-artiger Roboterhund",
-         "Parodiegerät"
+         "Name wartet auf L0-Verifizierung — Community-Quellen vermuten Robby"
+        ],
+        [
+         "Brick Game",
+         "90er-Jahre-Handheld Brick Game",
+         "Konsolen · in offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt · Community-Referenz (L3)"
+        ],
+        [
+         "Game Duck",
+         "Game-Boy-artiger Handheld",
+         "Handhelds · Community-Referenz (L3)"
+        ],
+        [
+         "BreadBox Joystick",
+         "Commodore-64-T-1341-Joystick",
+         "Controller · Community-Referenz (L3)"
+        ],
+        [
+         "XI-box",
+         "Xbox-artige Konsole",
+         "Konsolen · Community-Referenz (L3)"
+        ],
+        [
+         "XI-box Controller",
+         "Xbox-„Duke“-Controller",
+         "Controller · Community-Referenz (L3)"
+        ],
+        [
+         "Simsons M65",
+         "Siemens-M65-Handy",
+         "Handys · Community-Referenz (L3)"
+        ],
+        [
+         "Blueberry Curl",
+         "BlackBerry-Curve-Handy",
+         "Handys · Community-Referenz (L3)"
+        ],
+        [
+         "Wertu Signature",
+         "In Community-Quellen nicht angegeben",
+         "Handys · Community-Referenz (L3)"
+        ],
+        [
+         "Unicorp Kettle",
+         "Anspielung auf I Am Future (Vorgängerspiel des Studios)",
+         "Haushaltsgeräte · Community-Referenz (L3)"
+        ],
+        [
+         "Autorolla WT2000",
+         "Motorola-GP328-Funkgerät",
+         "Haushaltsgeräte · Community-Referenz (L3)"
+        ],
+        [
+         "Unicorp Vision",
+         "Anspielung auf I Am Future (Vorgängerspiel des Studios)",
+         "Haushaltsgeräte · Community-Referenz (L3)"
+        ],
+        [
+         "Robby",
+         "Tekno-artiger Roboterhund",
+         "Gadgets & Spielzeug · in offiziellem Steam-Update Nr. 2 (v1.0.010r) genannt · Community-Referenz (L3)"
+        ],
+        [
+         "Nerdio W-91F",
+         "Casio-F-91W-Uhr",
+         "Gadgets & Spielzeug · Community-Referenz (L3)"
+        ],
+        [
+         "Guitar Legend",
+         "Guitar-Hero-artiger Gitarrencontroller",
+         "Controller · in offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt · Community-Referenz (L3)"
+        ],
+        [
+         "Mapple Mypod",
+         "iPod-Classic-artiger Musikplayer",
+         "Musik & Medien · in offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt · Community-Referenz (L3)"
+        ],
+        [
+         "IDM ThinkerDad",
+         "ThinkPad-365XD-artiger Laptop",
+         "Laptops · in offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt · Community-Referenz (L3)"
         ]
        ]
       },
@@ -7780,7 +8680,7 @@
        "items": [
         [
          "Wie viele Geräte gibt es in ReStory?",
-         "Wir haben 15 Einträge in der Geräteliste bestätigt (Quelle: allthings.how). Die genaue Gesamtzahl wird noch geprüft."
+         "Community-Quellen listen übereinstimmend 29 Geräte: die Kategorie Geräte auf restory.wiki, eine Steam-Community-Liste und der Steam-Guide „Legend of Akiba“ stimmen überein (L3 – Community-Quellen, nicht offiziell bestätigt). Die genaue Zahl im Spiel wird noch verifiziert. Zwei Einträge auf dieser Seite – walkie-talkie und robodog – warten auf die Namensverifizierung."
         ],
         [
          "Sind die Atari-Geräte echt?",
@@ -7900,8 +8800,8 @@
     "es": {
      "title": "Todos los dispositivos que puedes reparar en ReStory",
      "metaTitle": "Todos los dispositivos reparables de ReStory",
-     "metaDescription": "La lista completa de dispositivos en ReStory: Atari 2600, Eggotchi, Pokia 3310, Nony PlayMachine, Palaloid y más, con cómo desbloquearlos.",
-     "intro": "ReStory está repleto de dispositivos Y2K nostálgicos, incluido hardware Atari con licencia oficial. Aquí tienes la lista completa que hemos confirmado, qué es cada uno y cómo funciona el desbloqueo.Todos los dispositivos pasan por el mismo bucle de cinco pasos; lo que cambia es qué piezas esconden y qué herramientas necesitas. Conocer la lista completa desde el principio te ayuda a planear qué licencias y herramientas perseguir. Marca esta página: es el mapa que consultarás cada vez que aparezca un dispositivo nuevo en el banco de trabajo.",
+     "metaDescription": "La lista completa de dispositivos en ReStory: 29 dispositivos de fuentes comunitarias, de Atari 2600 a Brick Game y Robby, con cómo desbloquearlos.",
+     "intro": "ReStory está repleto de dispositivos Y2K nostálgicos, incluido hardware Atari con licencia oficial. Las fuentes comunitarias coinciden en 29 dispositivos reparables: esta es la lista completa, qué es cada uno y cómo funciona el desbloqueo. Las entradas de fuentes comunitarias están marcadas como L3 y no están confirmadas oficialmente.Todos los dispositivos pasan por el mismo bucle de cinco pasos; lo que cambia es qué piezas esconden y qué herramientas necesitas. Conocer la lista completa desde el principio te ayuda a planear qué licencias y herramientas perseguir. Marca esta página: es el mapa que consultarás cada vez que aparezca un dispositivo nuevo en el banco de trabajo.",
      "sections": [
       {
        "type": "table",
@@ -7975,7 +8875,7 @@
         [
          "Walkie-talkie",
          "Radio de dos vías",
-         "—"
+         "Nombre pendiente de verificación L0 — las fuentes comunitarias sugieren que puede ser el Autorolla WT2000"
         ],
         [
          "Unicorp 99L",
@@ -7985,7 +8885,87 @@
         [
          "Robodog",
          "Perro robot tipo Aibo",
-         "Dispositivo parodia"
+         "Nombre pendiente de verificación L0 — las fuentes comunitarias sugieren que puede ser Robby"
+        ],
+        [
+         "Brick Game",
+         "Portátil Brick Game de los 90",
+         "Consolas · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r) · referencia de la comunidad (L3)"
+        ],
+        [
+         "Game Duck",
+         "Portátil estilo Game Boy",
+         "Portátiles · referencia de la comunidad (L3)"
+        ],
+        [
+         "BreadBox Joystick",
+         "Joystick Commodore 64 T-1341",
+         "Mandos · referencia de la comunidad (L3)"
+        ],
+        [
+         "XI-box",
+         "Consola estilo Xbox",
+         "Consolas · referencia de la comunidad (L3)"
+        ],
+        [
+         "XI-box Controller",
+         "Mando «Duke» de Xbox",
+         "Mandos · referencia de la comunidad (L3)"
+        ],
+        [
+         "Simsons M65",
+         "Teléfono Siemens M65",
+         "Teléfonos · referencia de la comunidad (L3)"
+        ],
+        [
+         "Blueberry Curl",
+         "Teléfono BlackBerry Curve",
+         "Teléfonos · referencia de la comunidad (L3)"
+        ],
+        [
+         "Wertu Signature",
+         "No especificado en las fuentes comunitarias",
+         "Teléfonos · referencia de la comunidad (L3)"
+        ],
+        [
+         "Unicorp Kettle",
+         "Guiño a I Am Future (juego anterior del estudio)",
+         "Electrodomésticos · referencia de la comunidad (L3)"
+        ],
+        [
+         "Autorolla WT2000",
+         "Radio Motorola GP328",
+         "Electrodomésticos · referencia de la comunidad (L3)"
+        ],
+        [
+         "Unicorp Vision",
+         "Guiño a I Am Future (juego anterior del estudio)",
+         "Electrodomésticos · referencia de la comunidad (L3)"
+        ],
+        [
+         "Robby",
+         "Perro robot estilo Tekno",
+         "Gadgets y juguetes · mencionado en la actualización oficial n.º 2 de Steam (v1.0.010r) · referencia de la comunidad (L3)"
+        ],
+        [
+         "Nerdio W-91F",
+         "Reloj Casio F-91W",
+         "Gadgets y juguetes · referencia de la comunidad (L3)"
+        ],
+        [
+         "Guitar Legend",
+         "Controlador de guitarra estilo Guitar Hero",
+         "Mandos · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r) · referencia de la comunidad (L3)"
+        ],
+        [
+         "Mapple Mypod",
+         "Reproductor estilo iPod Classic",
+         "Música y medios · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r) · referencia de la comunidad (L3)"
+        ],
+        [
+         "IDM ThinkerDad",
+         "Portátil estilo ThinkPad 365XD",
+         "Portátiles · mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r) · referencia de la comunidad (L3)"
         ]
        ]
       },
@@ -8022,7 +9002,7 @@
        "items": [
         [
          "¿Cuántos dispositivos hay en ReStory?",
-         "Hemos confirmado 15 entradas en la lista de dispositivos (fuente: allthings.how). El total exacto está en verificación."
+         "Las fuentes comunitarias coinciden en 29 dispositivos: la categoría Dispositivos de restory.wiki, una lista de la comunidad de Steam y la guía de Steam «Legend of Akiba» coinciden (L3 — fuentes comunitarias, no confirmadas oficialmente). El total exacto en el juego aún se está verificando. Dos entradas de esta página — walkie-talkie y robodog — están pendientes de verificación del nombre."
         ],
         [
          "¿Los dispositivos Atari son reales?",
@@ -8142,8 +9122,8 @@
     "pt-BR": {
      "title": "Todos os Aparelhos que Você Pode Consertar em ReStory",
      "metaTitle": "Todos os Aparelhos Consertáveis em ReStory (Lista Complet…",
-     "metaDescription": "A lista completa de aparelhos consertáveis em ReStory: Atari 2600, Eggotchi, Pokia 3310, Nony PlayMachine, Palaloid e mais — e como desbloqueá-los.",
-     "intro": "ReStory está repleto de aparelhos Y2K nostálgicos, incluindo hardware Atari com licença oficial. Aqui está a lista completa de aparelhos que confirmamos, o que cada um é e como funciona o desbloqueio.Todo aparelho passa pelo mesmo ciclo de cinco etapas; o que muda é quais peças ele esconde e quais ferramentas você precisa. Conhecer a lista completa cedo ajuda a planejar quais licenças e ferramentas buscar. Marque esta página — é o mapa que você vai consultar sempre que um aparelho novo aparecer na bancada.",
+     "metaDescription": "A lista completa de aparelhos consertáveis em ReStory: 29 aparelhos de fontes comunitárias, de Atari 2600 a Brick Game e Robby — e como desbloqueá-lo…",
+     "intro": "ReStory está repleto de aparelhos Y2K nostálgicos, incluindo hardware Atari com licença oficial. Fontes da comunidade listam consistentemente 29 aparelhos reparáveis — esta é a lista completa, o que cada aparelho é e como funciona o desbloqueio. Entradas de fontes comunitárias são marcadas como L3 e não confirmadas oficialmente.Todo aparelho passa pelo mesmo ciclo de cinco etapas; o que muda é quais peças ele esconde e quais ferramentas você precisa. Conhecer a lista completa cedo ajuda a planejar quais licenças e ferramentas buscar. Marque esta página — é o mapa que você vai consultar sempre que um aparelho novo aparecer na bancada.",
      "sections": [
       {
        "type": "table",
@@ -8217,7 +9197,7 @@
         [
          "Walkie-talkie",
          "Rádio bidirecional",
-         "—"
+         "Nome aguardando verificação L0 — fontes da comunidade sugerem que pode ser o Autorolla WT2000"
         ],
         [
          "Unicorp 99L",
@@ -8227,7 +9207,87 @@
         [
          "Robodog",
          "Cachorro robô estilo Aibo",
-         "Aparelho de paródia"
+         "Nome aguardando verificação L0 — fontes da comunidade sugerem que pode ser o Robby"
+        ],
+        [
+         "Brick Game",
+         "Portátil Brick Game dos anos 90",
+         "Consoles · citado na atualização oficial nº 1 da Steam (v1.0.009r) · referência da comunidade (L3)"
+        ],
+        [
+         "Game Duck",
+         "Portátil estilo Game Boy",
+         "Portáteis · referência da comunidade (L3)"
+        ],
+        [
+         "BreadBox Joystick",
+         "Joystick Commodore 64 T-1341",
+         "Controles · referência da comunidade (L3)"
+        ],
+        [
+         "XI-box",
+         "Console estilo Xbox",
+         "Consoles · referência da comunidade (L3)"
+        ],
+        [
+         "XI-box Controller",
+         "Controle «Duke» do Xbox",
+         "Controles · referência da comunidade (L3)"
+        ],
+        [
+         "Simsons M65",
+         "Celular Siemens M65",
+         "Celulares · referência da comunidade (L3)"
+        ],
+        [
+         "Blueberry Curl",
+         "Celular BlackBerry Curve",
+         "Celulares · referência da comunidade (L3)"
+        ],
+        [
+         "Wertu Signature",
+         "Não especificado nas fontes da comunidade",
+         "Celulares · referência da comunidade (L3)"
+        ],
+        [
+         "Unicorp Kettle",
+         "Referência a I Am Future (jogo anterior do estúdio)",
+         "Eletrodomésticos · referência da comunidade (L3)"
+        ],
+        [
+         "Autorolla WT2000",
+         "Rádio Motorola GP328",
+         "Eletrodomésticos · referência da comunidade (L3)"
+        ],
+        [
+         "Unicorp Vision",
+         "Referência a I Am Future (jogo anterior do estúdio)",
+         "Eletrodomésticos · referência da comunidade (L3)"
+        ],
+        [
+         "Robby",
+         "Cachorro robô estilo Tekno",
+         "Gadgets e brinquedos · citado na atualização oficial nº 2 da Steam (v1.0.010r) · referência da comunidade (L3)"
+        ],
+        [
+         "Nerdio W-91F",
+         "Relógio Casio F-91W",
+         "Gadgets e brinquedos · referência da comunidade (L3)"
+        ],
+        [
+         "Guitar Legend",
+         "Controlador de guitarra estilo Guitar Hero",
+         "Controles · citado na atualização oficial nº 1 da Steam (v1.0.009r) · referência da comunidade (L3)"
+        ],
+        [
+         "Mapple Mypod",
+         "Tocador estilo iPod Classic",
+         "Música e mídia · citado na atualização oficial nº 1 da Steam (v1.0.009r) · referência da comunidade (L3)"
+        ],
+        [
+         "IDM ThinkerDad",
+         "Notebook estilo ThinkPad 365XD",
+         "Notebooks · citado na atualização oficial nº 1 da Steam (v1.0.009r) · referência da comunidade (L3)"
         ]
        ]
       },
@@ -8264,7 +9324,7 @@
        "items": [
         [
          "Quantos aparelhos existem em ReStory?",
-         "Confirmamos 15 itens na lista de aparelhos (fonte: allthings.how). O total exato está sendo verificado."
+         "Fontes da comunidade listam consistentemente 29 aparelhos: a categoria Aparelhos do restory.wiki, uma lista da comunidade Steam e o guia da Steam 'Legend of Akiba' coincidem (L3 — fontes comunitárias, não confirmadas oficialmente). O total exato no jogo ainda está sendo verificado. Duas entradas desta página — walkie-talkie e robodog — aguardam verificação do nome."
         ],
         [
          "Os aparelhos da Atari são reais?",
@@ -8384,8 +9444,8 @@
     "ru": {
      "title": "Все устройства, которые можно чинить в ReStory",
      "metaTitle": "Все устройства в ReStory: полный список ремонта",
-     "metaDescription": "Полный список ремонтируемых устройств в ReStory: Atari 2600, Eggotchi, Pokia 3310, Nony PlayMachine, Palaloid и другие — и как их открыть.",
-     "intro": "ReStory наполнена ностальгическими Y2K-устройствами, включая официально лицензированные консоли Atari. Вот полный подтверждённый список устройств, что это за устройства и как работает открытие.Каждое устройство проходит один и тот же цикл из пяти шагов; меняются лишь детали, которые оно скрывает, и инструменты, которые вам нужны. Зная полный список заранее, проще планировать, какие лицензии и инструменты осваивать. Сохраните эту страницу в закладки — это карта, к которой вы будете обращаться каждый раз, когда на столе появляется новое устройство.",
+     "metaDescription": "Полный список ремонтируемых устройств в ReStory: 29 устройств из источников сообщества, от Atari 2600 до Brick Game и Robby — и как их открыть.",
+     "intro": "ReStory наполнена ностальгическими Y2K-устройствами, включая официально лицензированные консоли Atari. Сообщества стабильно перечисляют 29 ремонтируемых устройств — вот полный список, что это за устройства и как работает разблокировка. Записи из источников сообщества помечены как L3 и официально не подтверждены.Каждое устройство проходит один и тот же цикл из пяти шагов; меняются лишь детали, которые оно скрывает, и инструменты, которые вам нужны. Зная полный список заранее, проще планировать, какие лицензии и инструменты осваивать. Сохраните эту страницу в закладки — это карта, к которой вы будете обращаться каждый раз, когда на столе появляется новое устройство.",
      "sections": [
       {
        "type": "table",
@@ -8459,7 +9519,7 @@
         [
          "Walkie-talkie",
          "Рация",
-         "—"
+         "Название ожидает проверки L0 — источники сообщества предполагают, что это может быть Autorolla WT2000"
         ],
         [
          "Unicorp 99L",
@@ -8469,7 +9529,87 @@
         [
          "Robodog",
          "Робопёс в стиле Aibo",
-         "Пародийное устройство"
+         "Название ожидает проверки L0 — источники сообщества предполагают, что это может быть Robby"
+        ],
+        [
+         "Brick Game",
+         "Карманная игра Brick Game 90-х",
+         "Консоли · упомянуто в официальном обновлении Steam №1 (v1.0.009r) · данные сообщества (L3)"
+        ],
+        [
+         "Game Duck",
+         "Портативная в стиле Game Boy",
+         "Портативные · данные сообщества (L3)"
+        ],
+        [
+         "BreadBox Joystick",
+         "Джойстик Commodore 64 T-1341",
+         "Контроллеры · данные сообщества (L3)"
+        ],
+        [
+         "XI-box",
+         "Консоль в стиле Xbox",
+         "Консоли · данные сообщества (L3)"
+        ],
+        [
+         "XI-box Controller",
+         "Контроллер Xbox «Duke»",
+         "Контроллеры · данные сообщества (L3)"
+        ],
+        [
+         "Simsons M65",
+         "Телефон Siemens M65",
+         "Телефоны · данные сообщества (L3)"
+        ],
+        [
+         "Blueberry Curl",
+         "Телефон BlackBerry Curve",
+         "Телефоны · данные сообщества (L3)"
+        ],
+        [
+         "Wertu Signature",
+         "Не указано в источниках сообщества",
+         "Телефоны · данные сообщества (L3)"
+        ],
+        [
+         "Unicorp Kettle",
+         "Отсылка к I Am Future (предыдущая игра студии)",
+         "Бытовая техника · данные сообщества (L3)"
+        ],
+        [
+         "Autorolla WT2000",
+         "Радиостанция Motorola GP328",
+         "Бытовая техника · данные сообщества (L3)"
+        ],
+        [
+         "Unicorp Vision",
+         "Отсылка к I Am Future (предыдущая игра студии)",
+         "Бытовая техника · данные сообщества (L3)"
+        ],
+        [
+         "Robby",
+         "Робот-щенок в стиле Tekno",
+         "Гаджеты и игрушки · упомянуто в официальном обновлении Steam №2 (v1.0.010r) · данные сообщества (L3)"
+        ],
+        [
+         "Nerdio W-91F",
+         "Часы Casio F-91W",
+         "Гаджеты и игрушки · данные сообщества (L3)"
+        ],
+        [
+         "Guitar Legend",
+         "Гитарный контроллер в стиле Guitar Hero",
+         "Контроллеры · упомянуто в официальном обновлении Steam №1 (v1.0.009r) · данные сообщества (L3)"
+        ],
+        [
+         "Mapple Mypod",
+         "Музыкальный плеер в стиле iPod Classic",
+         "Музыка и медиа · упомянуто в официальном обновлении Steam №1 (v1.0.009r) · данные сообщества (L3)"
+        ],
+        [
+         "IDM ThinkerDad",
+         "Ноутбук в стиле ThinkPad 365XD",
+         "Ноутбуки · упомянуто в официальном обновлении Steam №1 (v1.0.009r) · данные сообщества (L3)"
         ]
        ]
       },
@@ -8506,7 +9646,7 @@
        "items": [
         [
          "Сколько устройств в ReStory?",
-         "Мы подтвердили 15 позиций в списке устройств (источник: allthings.how). Точное число проверяется."
+         "Сообщества стабильно перечисляют 29 устройств: категория «Устройства» на restory.wiki, список сообщества Steam и гайд Steam «Legend of Akiba» совпадают (L3 — источники сообщества, официально не подтверждено). Точное число в игре ещё проверяется. Две записи на этой странице — walkie-talkie и robodog — ожидают проверки названия."
         ],
         [
          "Atari-устройства настоящие?",
@@ -8626,8 +9766,8 @@
     "zh-TW": {
      "title": "維修物語可修復設備全清單",
      "metaTitle": "維修物語可修復設備全清單（完整列表）",
-     "metaDescription": "維修物語全部可修復設備：Atari 2600、Eggotchi、Pokia 3310、Nony PlayMachine…",
-     "intro": "維修物語塞滿了懷舊 Y2K 設備，包括官方授權的 Atari 硬件。以下是我們已確認的完整設備清單、每臺的現實原型，以及解鎖機制。每臺設備都走同一套五步循環；變的是它藏著哪些零件、你需要哪些工具。早點知道完整清單，能幫你規劃要追的許可和工具。把這一頁收藏——每當有新設備上工作臺，它就是你要查的地圖。",
+     "metaDescription": "維修物語全部可修復設備：社區來源一致確認的 29 臺，從 Atari 2600 到 Brick Game、Robby——以及解鎖方式。",
+     "intro": "維修物語塞滿了懷舊 Y2K 設備，包括官方授權的 Atari 硬件。社區來源一致列出 29 臺可修復設備——以下是完整清單、每臺的現實原型與解鎖機制。來自社區來源的條目均標註 L3，未經官方核實。每臺設備都走同一套五步循環；變的是它藏著哪些零件、你需要哪些工具。早點知道完整清單，能幫你規劃要追的許可和工具。把這一頁收藏——每當有新設備上工作臺，它就是你要查的地圖。",
      "sections": [
       {
        "type": "table",
@@ -8701,7 +9841,7 @@
         [
          "Walkie-talkie",
          "對講機",
-         "—"
+         "名稱待 L0 實測核實——社區來源提示可能為 Autorolla WT2000"
         ],
         [
          "Unicorp 99L",
@@ -8711,7 +9851,87 @@
         [
          "Robodog",
          "Aibo 式電子狗",
-         "惡搞設備"
+         "名稱待 L0 實測核實——社區來源提示可能為 Robby"
+        ],
+        [
+         "Brick Game",
+         "90 年代 Brick Game 掌機",
+         "家用主機 · 官方 Steam 更新 #1（v1.0.009r）點名 · 社區資料（L3）"
+        ],
+        [
+         "Game Duck",
+         "Game Boy 式掌機",
+         "掌機 · 社區資料（L3）"
+        ],
+        [
+         "BreadBox Joystick",
+         "Commodore 64 T-1341 搖桿",
+         "手柄 · 社區資料（L3）"
+        ],
+        [
+         "XI-box",
+         "Xbox 式主機",
+         "家用主機 · 社區資料（L3）"
+        ],
+        [
+         "XI-box Controller",
+         "Xbox「Duke」手柄",
+         "手柄 · 社區資料（L3）"
+        ],
+        [
+         "Simsons M65",
+         "西門子 M65 手機",
+         "手機 · 社區資料（L3）"
+        ],
+        [
+         "Blueberry Curl",
+         "黑莓 Curve 手機",
+         "手機 · 社區資料（L3）"
+        ],
+        [
+         "Wertu Signature",
+         "社區來源未標明",
+         "手機 · 社區資料（L3）"
+        ],
+        [
+         "Unicorp Kettle",
+         "致敬 I Am Future（開發商前作）",
+         "家電 · 社區資料（L3）"
+        ],
+        [
+         "Autorolla WT2000",
+         "摩托羅拉 GP328 對講機",
+         "家電 · 社區資料（L3）"
+        ],
+        [
+         "Unicorp Vision",
+         "致敬 I Am Future（開發商前作）",
+         "家電 · 社區資料（L3）"
+        ],
+        [
+         "Robby",
+         "Tekno 式電子狗",
+         "小玩意與玩具 · 官方 Steam 更新 #2（v1.0.010r）點名 · 社區資料（L3）"
+        ],
+        [
+         "Nerdio W-91F",
+         "卡西歐 F-91W 手錶",
+         "小玩意與玩具 · 社區資料（L3）"
+        ],
+        [
+         "Guitar Legend",
+         "Guitar Hero 式吉他手柄",
+         "手柄 · 官方 Steam 更新 #1（v1.0.009r）點名 · 社區資料（L3）"
+        ],
+        [
+         "Mapple Mypod",
+         "iPod Classic 式音樂播放器",
+         "音樂與媒體 · 官方 Steam 更新 #1（v1.0.009r）點名 · 社區資料（L3）"
+        ],
+        [
+         "IDM ThinkerDad",
+         "ThinkPad 365XD 式筆記本",
+         "筆記本 · 官方 Steam 更新 #1（v1.0.009r）點名 · 社區資料（L3）"
         ]
        ]
       },
@@ -8748,7 +9968,7 @@
        "items": [
         [
          "維修物語有多少臺設備？",
-         "我們已確認設備清單 15 條（來源：allthings.how）。確切總數仍在核實。"
+         "社區來源一致列出 29 臺設備：restory.wiki 的設備分類頁、Steam 社區設備清單與 Steam 指南《Legend of Akiba》三源一致（L3——社區來源，未經官方核實）。遊戲內確切總數仍在核實。本頁的 walkie-talkie 與 robodog 兩條目名稱待 L0 核實。"
         ],
         [
          "Atari 設備是真的嗎？",
@@ -41433,8 +42653,8 @@
    "slug": "devices/walkie-talkie",
    "title": "Walkie-talkie — Device Profile",
    "metaTitle": "Walkie-talkie — ReStory Device Reference",
-   "metaDescription": "Device profile and reference for Walkie-talkie in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
-   "intro": "Device profile and reference for Walkie-talkie in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "metaDescription": "Device profile for Walkie-talkie in ReStory. The name is pending L0 verification — community sources suggest it may be the Autorolla WT2000; procedure unknown.",
+   "intro": "Device profile and reference for Walkie-talkie in ReStory. The name of this device is pending L0 verification: community sources (restory.wiki) suggest it may be the Autorolla WT2000, a two-way-radio-style appliance. We keep the current name until it is verified in-game. The device-specific procedure is still unknown.",
    "sections": [
     {
      "type": "table",
@@ -41457,7 +42677,7 @@
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
+     "body": "The name \"Walkie-talkie\" is pending L0 verification. Community sources (restory.wiki) describe an Autorolla WT2000 appliance inspired by a portable radio; we keep the current name until verified in-game. The exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -41511,8 +42731,8 @@
     "en": {
      "title": "Walkie-talkie — Device Profile",
      "metaTitle": "Walkie-talkie — ReStory Device Reference",
-     "metaDescription": "Device profile and reference for Walkie-talkie in ReStory. Includes its source-supported family and verification status; the device-specific procedur…",
-     "intro": "Device profile and reference for Walkie-talkie in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+     "metaDescription": "Device profile for Walkie-talkie in ReStory. The name is pending L0 verification — community sources suggest it may be the Autorolla WT2000; procedur…",
+     "intro": "Device profile and reference for Walkie-talkie in ReStory. The name of this device is pending L0 verification: community sources (restory.wiki) suggest it may be the Autorolla WT2000, a two-way-radio-style appliance. We keep the current name until it is verified in-game. The device-specific procedure is still unknown.",
      "sections": [
       {
        "type": "table",
@@ -41535,7 +42755,7 @@
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
+       "body": "The name \"Walkie-talkie\" is pending L0 verification. Community sources (restory.wiki) describe an Autorolla WT2000 appliance inspired by a portable radio; we keep the current name until verified in-game. The exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -41557,8 +42777,8 @@
     "zh-CN": {
      "title": "Walkie-talkie — 设备资料",
      "metaTitle": "Walkie-talkie — ReStory 设备参考",
-     "metaDescription": "Walkie-talkie 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
-     "intro": "Walkie-talkie 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "metaDescription": "Walkie-talkie 的 ReStory 设备资料。名称待 L0 核实——社区来源提示可能为 Autorolla WT2000；流程未知。",
+     "intro": "Walkie-talkie 的 ReStory 设备资料与参考：本设备名称待 L0 实测核实——社区来源（restory.wiki）提示可能为 Autorolla WT2000（对讲机式家电）。在游戏内核实前保留现名；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -41581,7 +42801,7 @@
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
+       "body": "「Walkie-talkie」名称待 L0 核实。社区来源（restory.wiki）描述了一台受便携对讲机启发的 Autorolla WT2000 家电；核实前保留现名。准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -41603,8 +42823,8 @@
     "ja": {
      "title": "Walkie-talkie — デバイス情報",
      "metaTitle": "Walkie-talkie — ReStory デバイス資料",
-     "metaDescription": "ReStory の Walkie-talkie デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
-     "intro": "ReStory の Walkie-talkie デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "metaDescription": "ReStory の Walkie-talkie デバイス情報。名称はL0検証待ち——コミュニティ情報…",
+     "intro": "ReStory の Walkie-talkie デバイス情報。本デバイスの名称はL0検証待ちです：コミュニティ情報（restory.wiki）では Autorolla WT2000（トランシーバー型の家電）の可能性が示唆されています。ゲーム内で確認できるまで現名称を維持します。固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -41627,7 +42847,7 @@
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
+       "body": "「Walkie-talkie」の名称はL0検証待ちです。コミュニティ情報（restory.wiki）は、携帯型ラジオに着想を得た Autorolla WT2000 という家電を記述しており、確認できるまで現名称を維持します。正確なゲーム内手順はまだ検証中です。"
       },
       {
        "type": "faq",
@@ -41649,8 +42869,8 @@
     "ko": {
      "title": "Walkie-talkie — 기기 정보",
      "metaTitle": "Walkie-talkie — ReStory 기기 자료",
-     "metaDescription": "ReStory의 Walkie-talkie 기기 정보입니다. 출처로 확인된 분류와 검증 상태를…",
-     "intro": "ReStory의 Walkie-talkie 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "metaDescription": "ReStory의 Walkie-talkie 기기 정보입니다. 이름은 L0 확인 대기 중 — 커뮤니티…",
+     "intro": "ReStory의 Walkie-talkie 기기 정보입니다. 이 기기의 이름은 L0 확인이 필요합니다: 커뮤니티 소스(restory.wiki)는 무전기형 가전인 Autorolla WT2000일 가능성을 시사합니다. 게임 내에서 확인될 때까지 현재 이름을 유지합니다. 기기별 절차는 아직 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -41673,7 +42893,7 @@
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
+       "body": "\"Walkie-talkie\"라는 이름은 L0 확인이 필요합니다. 커뮤니티 소스(restory.wiki)는 휴대용 라디오에서 영감을 받은 Autorolla WT2000 가전을 설명하며, 확인될 때까지 현재 이름을 유지합니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -41695,8 +42915,8 @@
     "fr": {
      "title": "Walkie-talkie — Fiche appareil",
      "metaTitle": "Walkie-talkie — Référence appareil ReStory",
-     "metaDescription": "Fiche de Walkie-talkie dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
-     "intro": "Fiche de Walkie-talkie dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "metaDescription": "Fiche de Walkie-talkie dans ReStory. Le nom est en attente de vérification L0 — les sources communautaires suggèrent l'Autorolla WT2000 ; la procédur…",
+     "intro": "Fiche de Walkie-talkie dans ReStory. Le nom de cet appareil est en attente de vérification L0 : les sources communautaires (restory.wiki) suggèrent qu'il s'agit peut-être de l'Autorolla WT2000, un appareil électroménager façon radio portable. Nous conservons le nom actuel tant qu'il n'est pas vérifié en jeu. La procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -41719,7 +42939,7 @@
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
+       "body": "Le nom « Walkie-talkie » est en attente de vérification L0. Les sources communautaires (restory.wiki) décrivent un appareil Autorolla WT2000 inspiré d'une radio portable ; nous conservons le nom actuel jusqu'à vérification en jeu. La procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -41741,8 +42961,8 @@
     "de": {
      "title": "Walkie-talkie — Geräteprofil",
      "metaTitle": "Walkie-talkie — ReStory-Gerätereferenz",
-     "metaDescription": "Profil von Walkie-talkie in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
-     "intro": "Profil von Walkie-talkie in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "metaDescription": "Profil von Walkie-talkie in ReStory. Der Name wartet auf L0-Verifizierung – Community-Quellen vermuten den Autorolla WT2000; der Ablauf ist unbekannt.",
+     "intro": "Profil von Walkie-talkie in ReStory. Der Name dieses Geräts wartet auf L0-Verifizierung: Community-Quellen (restory.wiki) vermuten den Autorolla WT2000, ein Haushaltsgerät im Stil eines tragbaren Radios. Wir behalten den aktuellen Namen, bis er im Spiel verifiziert ist. Der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -41765,7 +42985,7 @@
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
+       "body": "Der Name „Walkie-talkie“ wartet auf L0-Verifizierung. Community-Quellen (restory.wiki) beschreiben ein Autorolla-WT2000-Gerät, das von einem tragbaren Radio inspiriert ist; wir behalten den Namen bis zur Verifizierung im Spiel. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -41787,8 +43007,8 @@
     "es": {
      "title": "Walkie-talkie — Ficha del dispositivo",
      "metaTitle": "Walkie-talkie — Referencia de dispositivo de ReStory",
-     "metaDescription": "Ficha de Walkie-talkie en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
-     "intro": "Ficha de Walkie-talkie en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "metaDescription": "Ficha de Walkie-talkie en ReStory. El nombre está pendiente de verificación L0 — las fuentes comunitarias sugieren el Autorolla WT2000; se desconoce…",
+     "intro": "Ficha de Walkie-talkie en ReStory. El nombre de este dispositivo está pendiente de verificación L0: las fuentes comunitarias (restory.wiki) sugieren que puede ser el Autorolla WT2000, un electrodoméstico estilo radio portátil. Mantenemos el nombre actual hasta que se verifique en el juego. Se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -41811,7 +43031,7 @@
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
+       "body": "El nombre «Walkie-talkie» está pendiente de verificación L0. Las fuentes comunitarias (restory.wiki) describen un electrodoméstico Autorolla WT2000 inspirado en una radio portátil; mantenemos el nombre actual hasta verificarlo en el juego. Su procedimiento exacto sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -41833,8 +43053,8 @@
     "pt-BR": {
      "title": "Walkie-talkie — Perfil do aparelho",
      "metaTitle": "Walkie-talkie — Referência de aparelho de ReStory",
-     "metaDescription": "Perfil de Walkie-talkie em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
-     "intro": "Perfil de Walkie-talkie em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "metaDescription": "Perfil de Walkie-talkie em ReStory. O nome aguarda verificação L0 — fontes da comunidade sugerem o Autorolla WT2000; o procedimento é desconhecido.",
+     "intro": "Perfil de Walkie-talkie em ReStory. O nome deste aparelho aguarda verificação L0: fontes da comunidade (restory.wiki) sugerem que pode ser o Autorolla WT2000, um eletrodoméstico estilo rádio portátil. Mantemos o nome atual até ser verificado no jogo. O procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -41857,7 +43077,7 @@
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
+       "body": "O nome «Walkie-talkie» aguarda verificação L0. Fontes da comunidade (restory.wiki) descrevem um eletrodoméstico Autorolla WT2000 inspirado em um rádio portátil; mantemos o nome atual até verificação no jogo. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -41879,8 +43099,8 @@
     "ru": {
      "title": "Walkie-talkie — Профиль устройства",
      "metaTitle": "Walkie-talkie — Справка об устройстве ReStory",
-     "metaDescription": "Профиль Walkie-talkie в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
-     "intro": "Профиль Walkie-talkie в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "metaDescription": "Профиль Walkie-talkie в ReStory. Название ожидает проверки L0 — источники сообщества предполагают Autorolla WT2000; процедура неизвестна.",
+     "intro": "Профиль Walkie-talkie в ReStory. Название этого устройства ожидает проверки L0: источники сообщества (restory.wiki) предполагают, что это может быть Autorolla WT2000, бытовой прибор в стиле портативной рации. Мы сохраняем текущее название, пока оно не проверено в игре. Процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -41903,7 +43123,7 @@
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
+       "body": "Название «Walkie-talkie» ожидает проверки L0. Источники сообщества (restory.wiki) описывают бытовой прибор Autorolla WT2000, вдохновлённый портативной рацией; мы сохраняем текущее название до проверки в игре. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -41925,8 +43145,8 @@
     "zh-TW": {
      "title": "Walkie-talkie — 設備資料",
      "metaTitle": "Walkie-talkie — ReStory 設備參考",
-     "metaDescription": "Walkie-talkie 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
-     "intro": "Walkie-talkie 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "metaDescription": "Walkie-talkie 的 ReStory 設備資料。名稱待 L0 核實——社區來源提示可能為 Autorolla WT2000；流程未知。",
+     "intro": "Walkie-talkie 的 ReStory 設備資料與參考：本設備名稱待 L0 實測核實——社區來源（restory.wiki）提示可能為 Autorolla WT2000（對講機式家電）。在遊戲內核實前保留現名；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -41949,7 +43169,7 @@
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
+       "body": "「Walkie-talkie」名稱待 L0 核實。社區來源（restory.wiki）描述了一臺受便攜對講機啟發的 Autorolla WT2000 家電；核實前保留現名。準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",
@@ -42515,8 +43735,8 @@
    "slug": "devices/robodog",
    "title": "Robodog — Device Profile",
    "metaTitle": "Robodog — ReStory Device Reference",
-   "metaDescription": "Device profile and reference for Robodog in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
-   "intro": "Device profile and reference for Robodog in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "metaDescription": "Device profile for Robodog in ReStory. The name is pending L0 verification — community sources suggest it may be Robby; procedure unknown.",
+   "intro": "Device profile and reference for Robodog in ReStory. The name of this device is pending L0 verification: community sources (restory.wiki) suggest it may be Robby, a robot-puppy-style companion. We keep the current name until it is verified in-game. The device-specific procedure is still unknown.",
    "sections": [
     {
      "type": "table",
@@ -42539,7 +43759,7 @@
     {
      "type": "note",
      "heading": "What is verified",
-     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
+     "body": "The name \"Robodog\" is pending L0 verification. Community sources (restory.wiki) describe a Robby robot puppy inspired by the Tekno robotic toy; we keep the current name until verified in-game. The exact in-game procedure is still being verified."
     },
     {
      "type": "faq",
@@ -42593,8 +43813,8 @@
     "en": {
      "title": "Robodog — Device Profile",
      "metaTitle": "Robodog — ReStory Device Reference",
-     "metaDescription": "Device profile and reference for Robodog in ReStory. Includes its source-supported family and verification status; the device-specific procedure is u…",
-     "intro": "Device profile and reference for Robodog in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+     "metaDescription": "Device profile for Robodog in ReStory. The name is pending L0 verification — community sources suggest it may be Robby; procedure unknown.",
+     "intro": "Device profile and reference for Robodog in ReStory. The name of this device is pending L0 verification: community sources (restory.wiki) suggest it may be Robby, a robot-puppy-style companion. We keep the current name until it is verified in-game. The device-specific procedure is still unknown.",
      "sections": [
       {
        "type": "table",
@@ -42617,7 +43837,7 @@
       {
        "type": "note",
        "heading": "What is verified",
-       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified."
+       "body": "The name \"Robodog\" is pending L0 verification. Community sources (restory.wiki) describe a Robby robot puppy inspired by the Tekno robotic toy; we keep the current name until verified in-game. The exact in-game procedure is still being verified."
       },
       {
        "type": "faq",
@@ -42639,8 +43859,8 @@
     "zh-CN": {
      "title": "Robodog — 设备资料",
      "metaTitle": "Robodog — ReStory 设备参考",
-     "metaDescription": "Robodog 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
-     "intro": "Robodog 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "metaDescription": "Robodog 的 ReStory 设备资料。名称待 L0 核实——社区来源提示可能为 Robby；流程未知。",
+     "intro": "Robodog 的 ReStory 设备资料与参考：本设备名称待 L0 实测核实——社区来源（restory.wiki）提示可能为 Robby（电子狗式同伴）。在游戏内核实前保留现名；设备专属流程未知。",
      "sections": [
       {
        "type": "table",
@@ -42663,7 +43883,7 @@
       {
        "type": "note",
        "heading": "已核实范围",
-       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。"
+       "body": "「Robodog」名称待 L0 核实。社区来源（restory.wiki）描述了一台受 Tekno 电子玩具启发的 Robby 电子狗；核实前保留现名。准确的游戏内流程仍待核实。"
       },
       {
        "type": "faq",
@@ -42685,8 +43905,8 @@
     "ja": {
      "title": "Robodog — デバイス情報",
      "metaTitle": "Robodog — ReStory デバイス資料",
-     "metaDescription": "ReStory の Robodog デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
-     "intro": "ReStory の Robodog デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "metaDescription": "ReStory の Robodog デバイス情報。名称はL0検証待ち——コミュニティ情報では Robby の可能性を指摘。固有手順は不明。",
+     "intro": "ReStory の Robodog デバイス情報。本デバイスの名称はL0検証待ちです：コミュニティ情報（restory.wiki）では Robby（ロボット子犬型の仲間）の可能性が示唆されています。ゲーム内で確認できるまで現名称を維持します。固有手順は不明です。",
      "sections": [
       {
        "type": "table",
@@ -42709,7 +43929,7 @@
       {
        "type": "note",
        "heading": "確認済みの範囲",
-       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中です。"
+       "body": "「Robodog」の名称はL0検証待ちです。コミュニティ情報（restory.wiki）は、Tekno のロボット玩具に着想を得た Robby ロボット犬を記述しており、確認できるまで現名称を維持します。正確なゲーム内手順はまだ検証中です。"
       },
       {
        "type": "faq",
@@ -42731,8 +43951,8 @@
     "ko": {
      "title": "Robodog — 기기 정보",
      "metaTitle": "Robodog — ReStory 기기 자료",
-     "metaDescription": "ReStory의 Robodog 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
-     "intro": "ReStory의 Robodog 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "metaDescription": "ReStory의 Robodog 기기 정보입니다. 이름은 L0 확인 대기 중 — 커뮤니티 소스…",
+     "intro": "ReStory의 Robodog 기기 정보입니다. 이 기기의 이름은 L0 확인이 필요합니다: 커뮤니티 소스(restory.wiki)는 로봇 강아지형 동료인 Robby일 가능성을 시사합니다. 게임 내에서 확인될 때까지 현재 이름을 유지합니다. 기기별 절차는 아직 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -42755,7 +43975,7 @@
       {
        "type": "note",
        "heading": "확인된 범위",
-       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중입니다."
+       "body": "\"Robodog\"라는 이름은 L0 확인이 필요합니다. 커뮤니티 소스(restory.wiki)는 Tekno 로봇 장난감에서 영감을 받은 Robby 로봇 강아지를 설명하며, 확인될 때까지 현재 이름을 유지합니다. 정확한 게임 내 절차는 아직 확인 중입니다."
       },
       {
        "type": "faq",
@@ -42777,8 +43997,8 @@
     "fr": {
      "title": "Robodog — Fiche appareil",
      "metaTitle": "Robodog — Référence appareil ReStory",
-     "metaDescription": "Fiche de Robodog dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
-     "intro": "Fiche de Robodog dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "metaDescription": "Fiche de Robodog dans ReStory. Le nom est en attente de vérification L0 — les sources communautaires suggèrent Robby ; la procédure est inconnue.",
+     "intro": "Fiche de Robodog dans ReStory. Le nom de cet appareil est en attente de vérification L0 : les sources communautaires (restory.wiki) suggèrent qu'il s'agit peut-être de Robby, un compagnon robot-chiot. Nous conservons le nom actuel tant qu'il n'est pas vérifié en jeu. La procédure propre à cet appareil est inconnue.",
      "sections": [
       {
        "type": "table",
@@ -42801,7 +44021,7 @@
       {
        "type": "note",
        "heading": "Ce qui est vérifié",
-       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier."
+       "body": "Le nom « Robodog » est en attente de vérification L0. Les sources communautaires (restory.wiki) décrivent un robot-chien Robby inspiré du jouet robotique Tekno ; nous conservons le nom actuel jusqu'à vérification en jeu. La procédure exacte en jeu reste à vérifier."
       },
       {
        "type": "faq",
@@ -42823,8 +44043,8 @@
     "de": {
      "title": "Robodog — Geräteprofil",
      "metaTitle": "Robodog — ReStory-Gerätereferenz",
-     "metaDescription": "Profil von Robodog in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
-     "intro": "Profil von Robodog in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "metaDescription": "Profil von Robodog in ReStory. Der Name wartet auf L0-Verifizierung – Community-Quellen vermuten Robby; der Ablauf ist unbekannt.",
+     "intro": "Profil von Robodog in ReStory. Der Name dieses Geräts wartet auf L0-Verifizierung: Community-Quellen (restory.wiki) vermuten Robby, einen Roboterhund-Begleiter. Wir behalten den aktuellen Namen, bis er im Spiel verifiziert ist. Der gerätespezifische Ablauf ist unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -42847,7 +44067,7 @@
       {
        "type": "note",
        "heading": "Verifizierter Umfang",
-       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
+       "body": "Der Name „Robodog“ wartet auf L0-Verifizierung. Community-Quellen (restory.wiki) beschreiben einen Robby-Roboterhund, inspiriert vom Tekno-Roboterspielzeug; wir behalten den Namen bis zur Verifizierung im Spiel. Der genaue Ablauf im Spiel ist noch nicht verifiziert."
       },
       {
        "type": "faq",
@@ -42869,8 +44089,8 @@
     "es": {
      "title": "Robodog — Ficha del dispositivo",
      "metaTitle": "Robodog — Referencia de dispositivo de ReStory",
-     "metaDescription": "Ficha de Robodog en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
-     "intro": "Ficha de Robodog en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "metaDescription": "Ficha de Robodog en ReStory. El nombre está pendiente de verificación L0 — las fuentes comunitarias sugieren Robby; se desconoce el procedimiento.",
+     "intro": "Ficha de Robodog en ReStory. El nombre de este dispositivo está pendiente de verificación L0: las fuentes comunitarias (restory.wiki) sugieren que puede ser Robby, un compañero perro robot. Mantenemos el nombre actual hasta que se verifique en el juego. Se desconoce el procedimiento específico.",
      "sections": [
       {
        "type": "table",
@@ -42893,7 +44113,7 @@
       {
        "type": "note",
        "heading": "Alcance verificado",
-       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación."
+       "body": "El nombre «Robodog» está pendiente de verificación L0. Las fuentes comunitarias (restory.wiki) describen un perro robot Robby inspirado en el juguete robótico Tekno; mantenemos el nombre actual hasta verificarlo en el juego. Su procedimiento exacto sigue pendiente de verificación."
       },
       {
        "type": "faq",
@@ -42915,8 +44135,8 @@
     "pt-BR": {
      "title": "Robodog — Perfil do aparelho",
      "metaTitle": "Robodog — Referência de aparelho de ReStory",
-     "metaDescription": "Perfil de Robodog em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
-     "intro": "Perfil de Robodog em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "metaDescription": "Perfil de Robodog em ReStory. O nome aguarda verificação L0 — fontes da comunidade sugerem Robby; o procedimento é desconhecido.",
+     "intro": "Perfil de Robodog em ReStory. O nome deste aparelho aguarda verificação L0: fontes da comunidade (restory.wiki) sugerem que pode ser Robby, um companheiro cachorro robô. Mantemos o nome atual até ser verificado no jogo. O procedimento específico é desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -42939,7 +44159,7 @@
       {
        "type": "note",
        "heading": "Escopo verificado",
-       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação."
+       "body": "O nome «Robodog» aguarda verificação L0. Fontes da comunidade (restory.wiki) descrevem um cachorro robô Robby inspirado no brinquedo robótico Tekno; mantemos o nome atual até verificação no jogo. O procedimento exato no jogo ainda está em verificação."
       },
       {
        "type": "faq",
@@ -42961,8 +44181,8 @@
     "ru": {
      "title": "Robodog — Профиль устройства",
      "metaTitle": "Robodog — Справка об устройстве ReStory",
-     "metaDescription": "Профиль Robodog в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
-     "intro": "Профиль Robodog в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "metaDescription": "Профиль Robodog в ReStory. Название ожидает проверки L0 — источники сообщества предполагают Robby; процедура неизвестна.",
+     "intro": "Профиль Robodog в ReStory. Название этого устройства ожидает проверки L0: источники сообщества (restory.wiki) предполагают, что это может быть Robby, робот-пёс-компаньон. Мы сохраняем текущее название, пока оно не проверено в игре. Процедура для устройства неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -42985,7 +44205,7 @@
       {
        "type": "note",
        "heading": "Что подтверждено",
-       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется."
+       "body": "Название «Robodog» ожидает проверки L0. Источники сообщества (restory.wiki) описывают робота-пса Robby, вдохновлённого роботизированной игрушкой Tekno; мы сохраняем текущее название до проверки в игре. Точная игровая процедура ещё проверяется."
       },
       {
        "type": "faq",
@@ -43007,8 +44227,8 @@
     "zh-TW": {
      "title": "Robodog — 設備資料",
      "metaTitle": "Robodog — ReStory 設備參考",
-     "metaDescription": "Robodog 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
-     "intro": "Robodog 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "metaDescription": "Robodog 的 ReStory 設備資料。名稱待 L0 核實——社區來源提示可能為 Robby；流程未知。",
+     "intro": "Robodog 的 ReStory 設備資料與參考：本設備名稱待 L0 實測核實——社區來源（restory.wiki）提示可能為 Robby（電子狗式同伴）。在遊戲內核實前保留現名；設備專屬流程未知。",
      "sections": [
       {
        "type": "table",
@@ -43031,7 +44251,7 @@
       {
        "type": "note",
        "heading": "已核實範圍",
-       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實。"
+       "body": "「Robodog」名稱待 L0 核實。社區來源（restory.wiki）描述了一臺受 Tekno 電子玩具啟發的 Robby 電子狗；核實前保留現名。準確的遊戲內流程仍待核實。"
       },
       {
        "type": "faq",

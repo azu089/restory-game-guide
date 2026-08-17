@@ -451,8 +451,73 @@ SRC_STEAM_DISC_INVISIBLE = _src("Steam discussion: invisible part on table", "ht
     "es": "Debate de Steam: pieza invisible sobre la mesa", "pt-BR": "Tópico da Steam: peça invisível na mesa",
     "ru": "Обсуждение Steam: невидимая деталь на столе",
 })
+# ---- L3 社区来源：29 台设备三源一致（restory.wiki 分类页 + Steam 讨论区名单帖 + Legend of Akiba 指南）----
+SRC_RESTORY_WIKI_DEVICES = _src("restory.wiki — Devices category (community wiki)", "https://restory.wiki/w/Devices", {
+    "en": "restory.wiki — Devices category (community wiki)", "zh-CN": "restory.wiki — 设备分类页（社区维基）",
+    "ja": "restory.wiki — デバイスカテゴリ（コミュニティWiki）", "ko": "restory.wiki — 기기 분류 페이지（커뮤니티 위키）",
+    "fr": "restory.wiki — catégorie Appareils (wiki communautaire)", "de": "restory.wiki — Kategorie Geräte (Community-Wiki)",
+    "es": "restory.wiki — categoría Dispositivos (wiki de la comunidad)", "pt-BR": "restory.wiki — categoria Aparelhos (wiki da comunidade)",
+    "ru": "restory.wiki — категория «Устройства» (вики сообщества)",
+})
+SRC_STEAM_DISC_DEVICES = _src("Steam discussion: ReStory device list (29 devices)", "https://steamcommunity.com/app/3812600/discussions/0/588434434320138300/", {
+    "en": "Steam discussion: ReStory device list (29 devices)", "zh-CN": "Steam 讨论：ReStory 设备清单（29 台）",
+    "ja": "Steam ディスカッション：ReStory デバイス一覧（29台）", "ko": "Steam 토론: ReStory 기기 목록(29개)",
+    "fr": "Discussion Steam : liste des appareils ReStory (29 appareils)", "de": "Steam-Diskussion: ReStory Geräteliste (29 Geräte)",
+    "es": "Debate de Steam: lista de dispositivos de ReStory (29 dispositivos)", "pt-BR": "Tópico da Steam: lista de aparelhos de ReStory (29 aparelhos)",
+    "ru": "Обсуждение Steam: список устройств ReStory (29 устройств)",
+})
+# ---- L0 官方补丁公告（5 台设备在官方 Steam 补丁中被点名）----
+SRC_STEAM_PATCH_009R = _src("Official Steam announcement — Update #1 (v1.0.009r)", "https://steamcommunity.com/app/3812600/allnews/", {
+    "en": "Official Steam announcement — Update #1 (v1.0.009r)", "zh-CN": "Steam 官方公告——更新 #1（v1.0.009r）",
+    "ja": "Steam公式アナウンス — アップデート#1（v1.0.009r）", "ko": "Steam 공식 공지 — 업데이트 #1(v1.0.009r)",
+    "fr": "Annonce Steam officielle — Mise à jour n°1 (v1.0.009r)", "de": "Offizielle Steam-Ankündigung — Update Nr. 1 (v1.0.009r)",
+    "es": "Anuncio oficial de Steam — Actualización n.º 1 (v1.0.009r)", "pt-BR": "Anúncio oficial da Steam — Atualização nº 1 (v1.0.009r)",
+    "ru": "Официальное объявление Steam — Обновление №1 (v1.0.009r)",
+})
+SRC_STEAM_PATCH_010R = _src("Official Steam announcement — Update #2 (v1.0.010r)", "https://steamcommunity.com/app/3812600/allnews/", {
+    "en": "Official Steam announcement — Update #2 (v1.0.010r)", "zh-CN": "Steam 官方公告——更新 #2（v1.0.010r）",
+    "ja": "Steam公式アナウンス — アップデート#2（v1.0.010r）", "ko": "Steam 공식 공지 — 업데이트 #2(v1.0.010r)",
+    "fr": "Annonce Steam officielle — Mise à jour n°2 (v1.0.010r)", "de": "Offizielle Steam-Ankündigung — Update Nr. 2 (v1.0.010r)",
+    "es": "Anuncio oficial de Steam — Actualización n.º 2 (v1.0.010r)", "pt-BR": "Anúncio oficial da Steam — Atualização nº 2 (v1.0.010r)",
+    "ru": "Официальное объявление Steam — Обновление №2 (v1.0.010r)",
+})
+# ---- 16 台新设备各自的 restory.wiki 页面（L3）----
+_WIKI_LABELS = {
+    "en": "restory.wiki — {d} (community wiki)", "zh-CN": "restory.wiki — {d}（社区维基）",
+    "ja": "restory.wiki — {d}（コミュニティWiki）", "ko": "restory.wiki — {d}（커뮤니티 위키）",
+    "fr": "restory.wiki — {d} (wiki communautaire)", "de": "restory.wiki — {d} (Community-Wiki)",
+    "es": "restory.wiki — {d} (wiki de la comunidad)", "pt-BR": "restory.wiki — {d} (wiki da comunidade)",
+    "ru": "restory.wiki — {d} (вики сообщества)",
+}
+def _wiki_src(device, slug):
+    labels = {lg: tpl.format(d=device) for lg, tpl in _WIKI_LABELS.items()}
+    return _src(f"restory.wiki — {device} (community wiki)", f"https://restory.wiki/w/{slug}", labels)
+
+SRC_WIKI_BRICK_GAME = _wiki_src("Brick Game", "Brick_Game")
+SRC_WIKI_GAME_DUCK = _wiki_src("Game Duck", "Game_Duck")
+SRC_WIKI_BREADBOX_JOYSTICK = _wiki_src("BreadBox Joystick", "BreadBox_Joystick")
+SRC_WIKI_XI_BOX = _wiki_src("XI-box", "XI-box")
+SRC_WIKI_XI_BOX_CONTROLLER = _wiki_src("XI-box Controller", "XI-box_Controller")
+SRC_WIKI_SIMSONS_M65 = _wiki_src("Simsons M65", "Simsons_M65")
+SRC_WIKI_BLUEBERRY_CURL = _wiki_src("Blueberry Curl", "Blueberry_Curl")
+SRC_WIKI_WERTU_SIGNATURE = _wiki_src("Wertu Signature", "Wertu_Signature")
+SRC_WIKI_UNICORP_KETTLE = _wiki_src("Unicorp Kettle", "Unicorp_Kettle")
+SRC_WIKI_AUTOROLLA_WT2000 = _wiki_src("Autorolla WT2000", "Autorolla_WT2000")
+SRC_WIKI_UNICORP_VISION = _wiki_src("Unicorp Vision", "Unicorp_Vision")
+SRC_WIKI_ROBBY = _wiki_src("Robby", "Robby")
+SRC_WIKI_NERDIO_W91F = _wiki_src("Nerdio W-91F", "Nerdio_W-91F")
+SRC_WIKI_GUITAR_LEGEND = _wiki_src("Guitar Legend", "Guitar_Legend")
+SRC_WIKI_MAPPLE_MYPOD = _wiki_src("Mapple Mypod", "Mapple_Mypod")
+SRC_WIKI_IDM_THINKERDAD = _wiki_src("IDM ThinkerDad", "IDM_ThinkerDad")
 SRC_MAP = {"steam": SRC_STEAM, "steam-achievements": SRC_STEAM_ACHIEVEMENTS, "steam-news": SRC_STEAM_NEWS, "allthings": SRC_ALLTHINGS, "intoindie": SRC_INTOINDIE, "powerpyx": SRC_POWERPYX,
-           "restory-wiki": SRC_RESTORY_WIKI, "steam-guide-akiba": SRC_STEAM_GUIDE_AKIBA, "steam-guide-prices": SRC_STEAM_GUIDE_PRICES, "steam-discussion-paint": SRC_STEAM_DISC_PAINT, "steam-discussion-invisible": SRC_STEAM_DISC_INVISIBLE}
+           "restory-wiki": SRC_RESTORY_WIKI, "steam-guide-akiba": SRC_STEAM_GUIDE_AKIBA, "steam-guide-prices": SRC_STEAM_GUIDE_PRICES, "steam-discussion-paint": SRC_STEAM_DISC_PAINT, "steam-discussion-invisible": SRC_STEAM_DISC_INVISIBLE,
+           "restory-wiki-devices": SRC_RESTORY_WIKI_DEVICES, "steam-discussion-devices": SRC_STEAM_DISC_DEVICES, "steam-patch-009r": SRC_STEAM_PATCH_009R, "steam-patch-010r": SRC_STEAM_PATCH_010R,
+           "wiki-brick-game": SRC_WIKI_BRICK_GAME, "wiki-game-duck": SRC_WIKI_GAME_DUCK, "wiki-breadbox-joystick": SRC_WIKI_BREADBOX_JOYSTICK,
+           "wiki-xi-box": SRC_WIKI_XI_BOX, "wiki-xi-box-controller": SRC_WIKI_XI_BOX_CONTROLLER, "wiki-simsons-m65": SRC_WIKI_SIMSONS_M65,
+           "wiki-blueberry-curl": SRC_WIKI_BLUEBERRY_CURL, "wiki-wertu-signature": SRC_WIKI_WERTU_SIGNATURE, "wiki-unicorp-kettle": SRC_WIKI_UNICORP_KETTLE,
+           "wiki-autorolla-wt2000": SRC_WIKI_AUTOROLLA_WT2000, "wiki-unicorp-vision": SRC_WIKI_UNICORP_VISION, "wiki-robby": SRC_WIKI_ROBBY,
+           "wiki-nerdio-w91f": SRC_WIKI_NERDIO_W91F, "wiki-guitar-legend": SRC_WIKI_GUITAR_LEGEND, "wiki-mapple-mypod": SRC_WIKI_MAPPLE_MYPOD,
+           "wiki-idm-thinkerdad": SRC_WIKI_IDM_THINKERDAD}
 
 # =====================================================================
 # 页面组装
@@ -800,4 +865,4 @@ print(f"✓ {len(LANGS)} locales（zh-TW=OpenCC 自动）｜{len(PAGES)} 页")
 print(f"✓ 翻译齐全: {'NONE' if not missing_tr else missing_tr}")
 print(f"✓ section-count mismatch: NONE（已在上方告警）")
 print(f"✓ 使用语言: {LANGS}")
-print(f"✓ 来源映射: steam/allthings/intoindie/powerpyx/restory-wiki/steam-guide-*/steam-discussion-* 各语言 label 齐备")
+print(f"✓ 来源映射: steam/allthings/intoindie/powerpyx/restory-wiki/steam-guide-*/steam-discussion-*/steam-patch-*/wiki-* 各语言 label 齐备")

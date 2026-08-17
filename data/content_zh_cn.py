@@ -98,7 +98,7 @@ PAGES_ZH_CN = {
         ["交付一次糟糕的维修会怎样？", "顾客不满，声誉下降。认真修永远更省钱。"],
      ]},
     {"type": "note", "heading": "逐设备步骤核实中",
-     "body": "每台设备的修复步骤（14+ 台各自的零件与顺序）在待补清单上。我们会随实测逐台发布步骤页。"},
+     "body": "每台设备的修复步骤（29 台各自的零件与顺序）在待补清单上。我们会随实测逐台发布步骤页。"},
   ],
   "sources": ["steam", "intoindie"],
   "icon": "repair-guide",
@@ -107,8 +107,8 @@ PAGES_ZH_CN = {
 "all-devices": {
   "title": "维修物语可修复设备全清单",
   "metaTitle": "维修物语可修复设备全清单（完整列表）",
-  "metaDescription": "维修物语全部可修复设备：Atari 2600、Eggotchi、Pokia 3310、Nony PlayMachine、Palaloid 等——以及解锁方式。",
-  "intro": "维修物语塞满了怀旧 Y2K 设备，包括官方授权的 Atari 硬件。以下是我们已确认的完整设备清单、每台的现实原型，以及解锁机制。",
+  "metaDescription": "维修物语全部可修复设备：社区来源一致确认的 29 台，从 Atari 2600 到 Brick Game、Robby——以及解锁方式。",
+  "intro": "维修物语塞满了怀旧 Y2K 设备，包括官方授权的 Atari 硬件。社区来源一致列出 29 台可修复设备——以下是完整清单、每台的现实原型与解锁机制。来自社区来源的条目均标注 L3，未经官方核实。",
   "sections": [
     {"type": "table", "heading": "完整设备清单",
      "columns": ["设备", "现实原型", "备注"],
@@ -125,9 +125,25 @@ PAGES_ZH_CN = {
         ["Eggotchi", "拓麻歌子电子宠物", "恶搞设备"],
         ["Nony Goman", "Walkman 式磁带机", "恶搞设备"],
         ["Palaloid", "宝丽来拍立得", "恶搞设备"],
-        ["Walkie-talkie", "对讲机", "—"],
+        ["Walkie-talkie", "对讲机", "名称待 L0 实测核实——社区来源提示可能为 Autorolla WT2000"],
         ["Unicorp 99L", "Maglite 式手电", "恶搞设备"],
-        ["Robodog", "Aibo 式电子狗", "恶搞设备"],
+        ["Robodog", "Aibo 式电子狗", "名称待 L0 实测核实——社区来源提示可能为 Robby"],
+        ["Brick Game", "90 年代 Brick Game 掌机", "家用主机 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"],
+        ["Game Duck", "Game Boy 式掌机", "掌机 · 社区资料（L3）"],
+        ["BreadBox Joystick", "Commodore 64 T-1341 摇杆", "手柄 · 社区资料（L3）"],
+        ["XI-box", "Xbox 式主机", "家用主机 · 社区资料（L3）"],
+        ["XI-box Controller", "Xbox「Duke」手柄", "手柄 · 社区资料（L3）"],
+        ["Simsons M65", "西门子 M65 手机", "手机 · 社区资料（L3）"],
+        ["Blueberry Curl", "黑莓 Curve 手机", "手机 · 社区资料（L3）"],
+        ["Wertu Signature", "社区来源未标明", "手机 · 社区资料（L3）"],
+        ["Unicorp Kettle", "致敬 I Am Future（开发商前作）", "家电 · 社区资料（L3）"],
+        ["Autorolla WT2000", "摩托罗拉 GP328 对讲机", "家电 · 社区资料（L3）"],
+        ["Unicorp Vision", "致敬 I Am Future（开发商前作）", "家电 · 社区资料（L3）"],
+        ["Robby", "Tekno 式电子狗", "小玩意与玩具 · 官方 Steam 更新 #2（v1.0.010r）点名 · 社区资料（L3）"],
+        ["Nerdio W-91F", "卡西欧 F-91W 手表", "小玩意与玩具 · 社区资料（L3）"],
+        ["Guitar Legend", "Guitar Hero 式吉他手柄", "手柄 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"],
+        ["Mapple Mypod", "iPod Classic 式音乐播放器", "音乐与媒体 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"],
+        ["IDM ThinkerDad", "ThinkPad 365XD 式笔记本", "笔记本 · 官方 Steam 更新 #1（v1.0.009r）点名 · 社区资料（L3）"],
      ]},
     {"type": "steps", "heading": "设备解锁机制",
      "items": [
@@ -143,7 +159,7 @@ PAGES_ZH_CN = {
      ]},
     {"type": "faq", "heading": "设备 FAQ",
      "items": [
-        ["维修物语有多少台设备？", "我们已确认设备清单 15 条（来源：allthings.how）。确切总数仍在核实。"],
+        ["维修物语有多少台设备？", "社区来源一致列出 29 台设备：restory.wiki 的设备分类页、Steam 社区设备清单与 Steam 指南《Legend of Akiba》三源一致（L3——社区来源，未经官方核实）。游戏内确切总数仍在核实。本页的 walkie-talkie 与 robodog 两条目名称待 L0 核实。"],
         ["Atari 设备是真的吗？", "真的——Steam 页面确认 Atari 在维修物语中获得官方授权。"],
         ["先修哪台设备？", "先修简单的到店设备；更难的设备需要更好的工具与许可。"],
         ["设备会推进剧情吗？", "会——许可与顾客故事驱动进度，修对设备能推进分支故事。"],
@@ -795,9 +811,9 @@ PAGES_ZH_CN = {
         ['零件清单与价格来自哪里？', '来自社区来源（L3）：restory.wiki 与 Steam 指南「Device Sale Prices」，均列于下方「来源」。这些数字均未经官方核实。']]}
      ], 'sources': ['allthings', 'steam', 'restory-wiki', 'steam-guide-akiba', 'steam-guide-prices', 'steam-discussion-paint', 'steam-discussion-invisible'], 'icon': 'camera'},
 
-"devices/walkie-talkie": {'title': 'Walkie-talkie — 设备资料', 'metaTitle': 'Walkie-talkie — ReStory 设备参考', 'metaDescription': 'Walkie-talkie 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'intro': 'Walkie-talkie 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'sections': [{'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [['设备', 'Walkie-talkie'], ['家族', '小玩意与玩具']]}, {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。']]}], 'sources': ['allthings', 'steam'], 'icon': 'radio'},
+"devices/walkie-talkie": {'title': 'Walkie-talkie — 设备资料', 'metaTitle': 'Walkie-talkie — ReStory 设备参考', 'metaDescription': 'Walkie-talkie 的 ReStory 设备资料。名称待 L0 核实——社区来源提示可能为 Autorolla WT2000；流程未知。', 'intro': 'Walkie-talkie 的 ReStory 设备资料与参考：本设备名称待 L0 实测核实——社区来源（restory.wiki）提示可能为 Autorolla WT2000（对讲机式家电）。在游戏内核实前保留现名；设备专属流程未知。', 'sections': [{'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [['设备', 'Walkie-talkie'], ['家族', '小玩意与玩具']]}, {'type': 'note', 'heading': '已核实范围', 'body': '「Walkie-talkie」名称待 L0 核实。社区来源（restory.wiki）描述了一台受便携对讲机启发的 Autorolla WT2000 家电；核实前保留现名。准确的游戏内流程仍待核实。'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。']]}], 'sources': ['allthings', 'steam'], 'icon': 'radio'},
 
 "devices/unicorp-99l": {'title': 'Unicorp 99L — 设备资料', 'metaTitle': 'Unicorp 99L — ReStory 设备参考', 'metaDescription': 'Unicorp 99L 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'intro': 'Unicorp 99L 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'sections': [{'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [['设备', 'Unicorp 99L'], ['家族', '杂项']]}, {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。']]}], 'sources': ['allthings', 'steam'], 'icon': 'flash'},
 
-"devices/robodog": {'title': 'Robodog — 设备资料', 'metaTitle': 'Robodog — ReStory 设备参考', 'metaDescription': 'Robodog 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'intro': 'Robodog 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'sections': [{'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [['设备', 'Robodog'], ['家族', '小玩意与玩具']]}, {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。']]}], 'sources': ['allthings', 'steam'], 'icon': 'dog'},
+"devices/robodog": {'title': 'Robodog — 设备资料', 'metaTitle': 'Robodog — ReStory 设备参考', 'metaDescription': 'Robodog 的 ReStory 设备资料。名称待 L0 核实——社区来源提示可能为 Robby；流程未知。', 'intro': 'Robodog 的 ReStory 设备资料与参考：本设备名称待 L0 实测核实——社区来源（restory.wiki）提示可能为 Robby（电子狗式同伴）。在游戏内核实前保留现名；设备专属流程未知。', 'sections': [{'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [['设备', 'Robodog'], ['家族', '小玩意与玩具']]}, {'type': 'note', 'heading': '已核实范围', 'body': '「Robodog」名称待 L0 核实。社区来源（restory.wiki）描述了一台受 Tekno 电子玩具启发的 Robby 电子狗；核实前保留现名。准确的游戏内流程仍待核实。'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。']]}], 'sources': ['allthings', 'steam'], 'icon': 'dog'},
 }

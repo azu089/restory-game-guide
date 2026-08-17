@@ -123,7 +123,7 @@ PAGES_EN = {
         ["What happens if I deliver a bad repair?", "The customer is unhappy and your reputation drops. Repairing carefully is always cheaper."],
      ]},
     {"type": "note", "heading": "Per-device steps are being verified",
-     "body": "Device-by-device repair steps (exact parts and order for each of the 14+ devices) are on our unverified list. We will publish per-device step pages as we verify them."},
+     "body": "Device-by-device repair steps (exact parts and order for each of the 29 devices) are on our unverified list. We will publish per-device step pages as we verify them."},
   ],
   "sources": ["steam", "intoindie"],
   "icon": "repair-guide",
@@ -132,8 +132,8 @@ PAGES_EN = {
 "all-devices": {
   "title": "Every Device You Can Repair in ReStory",
   "metaTitle": "Every Device You Can Repair in ReStory (Full List)",
-  "metaDescription": "The full list of repairable devices in ReStory: Atari 2600, Eggotchi, Pokia 3310, Nony PlayMachine, Palaloid and more — with how to unlock them.",
-  "intro": "ReStory is packed with nostalgic Y2K devices, including officially licensed Atari hardware. Here is the full device list we have confirmed, what each one is, and how unlocking works.",
+  "metaDescription": "The full list of repairable devices in ReStory: 29 devices from community sources, from Atari 2600 to Brick Game and Robby — with how to unlock them.",
+  "intro": "ReStory is packed with nostalgic Y2K devices, including officially licensed Atari hardware. Community sources consistently list 29 repairable devices — here is the full list, what each one is, and how unlocking works. Entries based on community sources are labeled L3 and are not officially confirmed.",
   "sections": [
     {"type": "table", "heading": "Full device list",
      "columns": ["Device", "Real-world inspiration", "Notes"],
@@ -150,9 +150,25 @@ PAGES_EN = {
         ["Eggotchi", "Tamagotchi virtual pet", "Parody device"],
         ["Nony Goman", "Walkman-style tape player", "Parody device"],
         ["Palaloid", "Polaroid instant camera", "Parody device"],
-        ["Walkie-talkie", "Two-way radio", "—"],
+        ["Walkie-talkie", "Two-way radio", "Name pending L0 verification — community sources suggest this is the Autorolla WT2000"],
         ["Unicorp 99L", "Maglite-style flashlight", "Parody device"],
-        ["Robodog", "Aibo-style robot dog", "Parody device"],
+        ["Robodog", "Aibo-style robot dog", "Name pending L0 verification — community sources suggest this is Robby"],
+        ["Brick Game", "90s Brick Game handheld", "Consoles · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"],
+        ["Game Duck", "Game Boy-style handheld", "Handhelds · Community reference (L3)"],
+        ["BreadBox Joystick", "Commodore 64 T-1341 joystick", "Controllers · Community reference (L3)"],
+        ["XI-box", "Xbox-style console", "Consoles · Community reference (L3)"],
+        ["XI-box Controller", "Xbox 'Duke' controller", "Controllers · Community reference (L3)"],
+        ["Simsons M65", "Siemens M65 phone", "Phones · Community reference (L3)"],
+        ["Blueberry Curl", "BlackBerry Curve phone", "Phones · Community reference (L3)"],
+        ["Wertu Signature", "Not specified in community sources", "Phones · Community reference (L3)"],
+        ["Unicorp Kettle", "Callback to I Am Future (developer's previous game)", "Appliances · Community reference (L3)"],
+        ["Autorolla WT2000", "Motorola GP328 two-way radio", "Appliances · Community reference (L3)"],
+        ["Unicorp Vision", "Callback to I Am Future (developer's previous game)", "Appliances · Community reference (L3)"],
+        ["Robby", "Tekno-style robot puppy", "Gadgets & toys · Named in official Steam Update #2 (v1.0.010r) · Community reference (L3)"],
+        ["Nerdio W-91F", "Casio F-91W watch", "Gadgets & toys · Community reference (L3)"],
+        ["Guitar Legend", "Guitar Hero-style guitar controller", "Controllers · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"],
+        ["Mapple Mypod", "iPod Classic-style music player", "Music & media · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"],
+        ["IDM ThinkerDad", "ThinkPad 365XD-style laptop", "Laptops · Named in official Steam Update #1 (v1.0.009r) · Community reference (L3)"],
      ]},
     {"type": "steps", "heading": "How device unlocking works",
      "items": [
@@ -168,7 +184,7 @@ PAGES_EN = {
      ]},
     {"type": "faq", "heading": "Device FAQ",
      "items": [
-        ["How many devices are in ReStory?", "We have confirmed 15 entries in the device list (source: allthings.how). The exact total is being verified."],
+        ["How many devices are in ReStory?", "Community sources consistently list 29 devices: restory.wiki's Devices category, a Steam community device list and the Steam guide 'Legend of Akiba' all match (L3 — community sources, not officially confirmed). The exact in-game total is still being verified. Two entries on this page — walkie-talkie and robodog — are pending name verification."],
         ["Are the Atari devices real?", "Yes — Atari is officially licensed in ReStory (confirmed on the Steam page)."],
         ["Which device should I repair first?", "Start with simple walk-in devices; harder devices need better tools and licenses."],
         ["Do devices unlock the story?", "Licenses and customer stories drive progression — repairing the right devices advances the branching story."],
@@ -176,7 +192,10 @@ PAGES_EN = {
     {"type": "note", "heading": "Per-device step pages coming",
      "body": "Each device's exact repair steps (parts, order, common traps) are on our unverified list. We will publish dedicated step pages for every device as we verify them."},
   ],
-  "sources": ["allthings", "steam"],
+  "sources": ["restory-wiki-devices", "steam-discussion-devices", "steam-guide-akiba", "steam-patch-009r", "steam-patch-010r", "steam",
+              "wiki-brick-game", "wiki-game-duck", "wiki-breadbox-joystick", "wiki-xi-box", "wiki-xi-box-controller",
+              "wiki-simsons-m65", "wiki-blueberry-curl", "wiki-wertu-signature", "wiki-unicorp-kettle", "wiki-autorolla-wt2000",
+              "wiki-unicorp-vision", "wiki-robby", "wiki-nerdio-w91f", "wiki-guitar-legend", "wiki-mapple-mypod", "wiki-idm-thinkerdad"],
   "icon": "all-devices",
 },
 
@@ -807,7 +826,7 @@ PAGES_EN = {
         ['Can I use this as a step-by-step repair guide?', 'No. Community reference data exists (above) but has not been officially verified; a device-specific step-by-step procedure will still be added only after it is verified against traceable game evidence.'],
         ['Where do the part list and prices come from?', 'They are community-sourced (L3): restory.wiki and the Steam guide "Device Sale Prices", linked in Sources below. None of these figures is officially verified.']]}
      ], 'sources': ['allthings', 'steam', 'restory-wiki', 'steam-guide-akiba', 'steam-guide-prices', 'steam-discussion-paint', 'steam-discussion-invisible'], 'icon': 'camera'},
-    "devices/walkie-talkie": {'title': 'Walkie-talkie — Device Profile', 'metaTitle': 'Walkie-talkie — ReStory Device Reference', 'metaDescription': 'Device profile and reference for Walkie-talkie in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.', 'intro': 'Device profile and reference for Walkie-talkie in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.', 'sections': [{'type': 'table', 'heading': 'Device Profile', 'columns': ['Field', 'Value'], 'rows': [['Device', 'Walkie-talkie'], ['Family', 'Gadgets & toys']]}, {'type': 'note', 'heading': 'What is verified', 'body': 'This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['Can I use this as a step-by-step repair guide?', 'No. A device-specific procedure will be added only after it is verified against traceable game evidence.']]}], 'sources': ['allthings', 'steam'], 'icon': 'radio'},
+    "devices/walkie-talkie": {'title': 'Walkie-talkie — Device Profile', 'metaTitle': 'Walkie-talkie — ReStory Device Reference', 'metaDescription': 'Device profile for Walkie-talkie in ReStory. The name is pending L0 verification — community sources suggest it may be the Autorolla WT2000; procedure unknown.', 'intro': 'Device profile and reference for Walkie-talkie in ReStory. The name of this device is pending L0 verification: community sources (restory.wiki) suggest it may be the Autorolla WT2000, a two-way-radio-style appliance. We keep the current name until it is verified in-game. The device-specific procedure is still unknown.', 'sections': [{'type': 'table', 'heading': 'Device Profile', 'columns': ['Field', 'Value'], 'rows': [['Device', 'Walkie-talkie'], ['Family', 'Gadgets & toys']]}, {'type': 'note', 'heading': 'What is verified', 'body': 'The name "Walkie-talkie" is pending L0 verification. Community sources (restory.wiki) describe an Autorolla WT2000 appliance inspired by a portable radio; we keep the current name until verified in-game. The exact in-game procedure is still being verified.'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['Can I use this as a step-by-step repair guide?', 'No. A device-specific procedure will be added only after it is verified against traceable game evidence.']]}], 'sources': ['allthings', 'steam'], 'icon': 'radio'},
     "devices/unicorp-99l": {'title': 'Unicorp 99L — Device Profile', 'metaTitle': 'Unicorp 99L — ReStory Device Reference', 'metaDescription': 'Device profile and reference for Unicorp 99L in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.', 'intro': 'Device profile and reference for Unicorp 99L in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.', 'sections': [{'type': 'table', 'heading': 'Device Profile', 'columns': ['Field', 'Value'], 'rows': [['Device', 'Unicorp 99L'], ['Family', 'Extras']]}, {'type': 'note', 'heading': 'What is verified', 'body': 'This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['Can I use this as a step-by-step repair guide?', 'No. A device-specific procedure will be added only after it is verified against traceable game evidence.']]}], 'sources': ['allthings', 'steam'], 'icon': 'flash'},
-    "devices/robodog": {'title': 'Robodog — Device Profile', 'metaTitle': 'Robodog — ReStory Device Reference', 'metaDescription': 'Device profile and reference for Robodog in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.', 'intro': 'Device profile and reference for Robodog in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.', 'sections': [{'type': 'table', 'heading': 'Device Profile', 'columns': ['Field', 'Value'], 'rows': [['Device', 'Robodog'], ['Family', 'Gadgets & toys']]}, {'type': 'note', 'heading': 'What is verified', 'body': 'This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified.'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['Can I use this as a step-by-step repair guide?', 'No. A device-specific procedure will be added only after it is verified against traceable game evidence.']]}], 'sources': ['allthings', 'steam'], 'icon': 'dog'}
+    "devices/robodog": {'title': 'Robodog — Device Profile', 'metaTitle': 'Robodog — ReStory Device Reference', 'metaDescription': 'Device profile for Robodog in ReStory. The name is pending L0 verification — community sources suggest it may be Robby; procedure unknown.', 'intro': 'Device profile and reference for Robodog in ReStory. The name of this device is pending L0 verification: community sources (restory.wiki) suggest it may be Robby, a robot-puppy-style companion. We keep the current name until it is verified in-game. The device-specific procedure is still unknown.', 'sections': [{'type': 'table', 'heading': 'Device Profile', 'columns': ['Field', 'Value'], 'rows': [['Device', 'Robodog'], ['Family', 'Gadgets & toys']]}, {'type': 'note', 'heading': 'What is verified', 'body': 'The name "Robodog" is pending L0 verification. Community sources (restory.wiki) describe a Robby robot puppy inspired by the Tekno robotic toy; we keep the current name until verified in-game. The exact in-game procedure is still being verified.'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['Can I use this as a step-by-step repair guide?', 'No. A device-specific procedure will be added only after it is verified against traceable game evidence.']]}], 'sources': ['allthings', 'steam'], 'icon': 'dog'}
 }

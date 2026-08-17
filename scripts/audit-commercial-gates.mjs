@@ -7,7 +7,7 @@ const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),"..");
 const pub=path.join(root,"public");
 const walk=d=>fs.readdirSync(d,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(path.join(d,e.name)):[path.join(d,e.name)]);
 const rows=walk(pub).filter(f=>f.endsWith(".html")).map(f=>({file:path.relative(pub,f),html:fs.readFileSync(f,"utf8")}));
-assert.equal(rows.length,381);
+assert.equal(rows.length,441);
 for(const {file,html} of rows){
   assert(!/<script[^>]+src="https:\/\/www\.googletagmanager\.com\/gtag\/js/i.test(html),`eager GA4 ${file}`);
   assert(!/<script[^>]+src="https:\/\/pl30767301\.effectivecpmnetwork\.com/i.test(html),`eager Adsterra ${file}`);

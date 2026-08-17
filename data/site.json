@@ -42727,6 +42727,4866 @@
    }
   },
   {
+   "slug": "devices/brick-game",
+   "title": "Brick Game — Device Profile",
+   "metaTitle": "Brick Game — ReStory Device Reference",
+   "metaDescription": "Brick Game in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+   "intro": "Device profile and reference for Brick Game in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). Brick Game is also named in the official Steam Update #1 (v1.0.009r) announcement, which fixes a Brick Game bug. A device-specific step-by-step procedure is still unknown.",
+   "sections": [
+    {
+     "type": "table",
+     "heading": "Device Profile",
+     "columns": [
+      "Field",
+      "Value"
+     ],
+     "rows": [
+      [
+       "Device",
+       "Brick Game"
+      ],
+      [
+       "Family (L3)",
+       "Consoles"
+      ],
+      [
+       "Design inspiration (L3)",
+       "90s Brick Game handheld"
+      ],
+      [
+       "Difficulty (L3)",
+       "Easy"
+      ],
+      [
+       "License fee (L3)",
+       "¥23,000"
+      ],
+      [
+       "Official mention",
+       "Named in official Steam Update #1 (v1.0.009r)"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "heading": "Community reference data (L3 — not officially verified)",
+     "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available. The only officially confirmed fact is the patch mention described below."
+    },
+    {
+     "type": "note",
+     "heading": "What is verified",
+     "body": "This page identifies a repairable ReStory device. Brick Game is named in the official Steam Update #1 (v1.0.009r) announcement (linked in Sources), which fixes a Brick Game bug — this confirms the device exists in-game. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3)."
+    },
+    {
+     "type": "faq",
+     "heading": "FAQ",
+     "items": [
+      [
+       "Can I use this as a step-by-step repair guide?",
+       "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+      ],
+      [
+       "Where do the profile details come from?",
+       "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+      ],
+      [
+       "Is Brick Game officially confirmed?",
+       "Yes — the device is named in the official Steam Update #1 (v1.0.009r) announcement (linked in Sources), which fixes a Brick Game bug. The announcement confirms the device exists; the details on this page are still community-reported (L3)."
+      ]
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "label": "restory.wiki — Brick Game (community wiki)",
+     "url": "https://restory.wiki/w/Brick_Game",
+     "labels": {
+      "en": "restory.wiki — Brick Game (community wiki)",
+      "zh-CN": "restory.wiki — Brick Game（社区维基）",
+      "ja": "restory.wiki — Brick Game（コミュニティWiki）",
+      "ko": "restory.wiki — Brick Game（커뮤니티 위키）",
+      "fr": "restory.wiki — Brick Game (wiki communautaire)",
+      "de": "restory.wiki — Brick Game (Community-Wiki)",
+      "es": "restory.wiki — Brick Game (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Brick Game (wiki da comunidade)",
+      "ru": "restory.wiki — Brick Game (вики сообщества)",
+      "zh-TW": "restory.wiki — Brick Game（社區維基）"
+     }
+    },
+    {
+     "label": "Steam discussion: ReStory device list (29 devices)",
+     "url": "https://steamcommunity.com/app/3812600/discussions/0/588434434320138300/",
+     "labels": {
+      "en": "Steam discussion: ReStory device list (29 devices)",
+      "zh-CN": "Steam 讨论：ReStory 设备清单（29 台）",
+      "ja": "Steam ディスカッション：ReStory デバイス一覧（29台）",
+      "ko": "Steam 토론: ReStory 기기 목록(29개)",
+      "fr": "Discussion Steam : liste des appareils ReStory (29 appareils)",
+      "de": "Steam-Diskussion: ReStory Geräteliste (29 Geräte)",
+      "es": "Debate de Steam: lista de dispositivos de ReStory (29 dispositivos)",
+      "pt-BR": "Tópico da Steam: lista de aparelhos de ReStory (29 aparelhos)",
+      "ru": "Обсуждение Steam: список устройств ReStory (29 устройств)",
+      "zh-TW": "Steam 討論：ReStory 設備清單（29 臺）"
+     }
+    },
+    {
+     "label": "Official Steam announcement — Update #1 (v1.0.009r)",
+     "url": "https://steamcommunity.com/games/3812600/announcements/detail/711157251640918758",
+     "labels": {
+      "en": "Official Steam announcement — Update #1 (v1.0.009r)",
+      "zh-CN": "Steam 官方公告——更新 #1（v1.0.009r）",
+      "ja": "Steam公式アナウンス — アップデート#1（v1.0.009r）",
+      "ko": "Steam 공식 공지 — 업데이트 #1(v1.0.009r)",
+      "fr": "Annonce Steam officielle — Mise à jour n°1 (v1.0.009r)",
+      "de": "Offizielle Steam-Ankündigung — Update Nr. 1 (v1.0.009r)",
+      "es": "Anuncio oficial de Steam — Actualización n.º 1 (v1.0.009r)",
+      "pt-BR": "Anúncio oficial da Steam — Atualização nº 1 (v1.0.009r)",
+      "ru": "Официальное объявление Steam — Обновление №1 (v1.0.009r)",
+      "zh-TW": "Steam 官方公告——更新 #1（v1.0.009r）"
+     }
+    }
+   ],
+   "meta": {
+    "icon": "console"
+   },
+   "i18n": {
+    "en": {
+     "title": "Brick Game — Device Profile",
+     "metaTitle": "Brick Game — ReStory Device Reference",
+     "metaDescription": "Brick Game in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+     "intro": "Device profile and reference for Brick Game in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). Brick Game is also named in the official Steam Update #1 (v1.0.009r) announcement, which fixes a Brick Game bug. A device-specific step-by-step procedure is still unknown.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Device Profile",
+       "columns": [
+        "Field",
+        "Value"
+       ],
+       "rows": [
+        [
+         "Device",
+         "Brick Game"
+        ],
+        [
+         "Family (L3)",
+         "Consoles"
+        ],
+        [
+         "Design inspiration (L3)",
+         "90s Brick Game handheld"
+        ],
+        [
+         "Difficulty (L3)",
+         "Easy"
+        ],
+        [
+         "License fee (L3)",
+         "¥23,000"
+        ],
+        [
+         "Official mention",
+         "Named in official Steam Update #1 (v1.0.009r)"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community reference data (L3 — not officially verified)",
+       "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available. The only officially confirmed fact is the patch mention described below."
+      },
+      {
+       "type": "note",
+       "heading": "What is verified",
+       "body": "This page identifies a repairable ReStory device. Brick Game is named in the official Steam Update #1 (v1.0.009r) announcement (linked in Sources), which fixes a Brick Game bug — this confirms the device exists in-game. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Can I use this as a step-by-step repair guide?",
+         "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+        ],
+        [
+         "Where do the profile details come from?",
+         "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+        ],
+        [
+         "Is Brick Game officially confirmed?",
+         "Yes — the device is named in the official Steam Update #1 (v1.0.009r) announcement (linked in Sources), which fixes a Brick Game bug. The announcement confirms the device exists; the details on this page are still community-reported (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-brick-game",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "zh-CN": {
+     "title": "Brick Game — 设备资料",
+     "metaTitle": "Brick Game — ReStory 设备参考",
+     "metaDescription": "Brick Game 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——类别、难度、许可费与现实灵感；步骤流程仍未核实。",
+     "intro": "Brick Game 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。Brick Game 也在 Steam 官方更新 #1（v1.0.009r）公告中被点名，该公告修复了 Brick Game 的 bug。A 设备专属的分步维修流程仍未核实。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "设备资料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "设备",
+         "Brick Game"
+        ],
+        [
+         "家族（L3）",
+         "家用主机"
+        ],
+        [
+         "灵感原型（L3）",
+         "90 年代 Brick Game 掌机"
+        ],
+        [
+         "难度（L3）",
+         "简单"
+        ],
+        [
+         "许可费（L3）",
+         "¥23,000"
+        ],
+        [
+         "官方提及",
+         "在 Steam 官方更新 #1（v1.0.009r）中被点名"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社区参考数据（L3——未经官方核实）",
+       "body": "本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。唯一经官方确认的事实是下方描述的补丁提及。"
+      },
+      {
+       "type": "note",
+       "heading": "已核实范围",
+       "body": "本页用于识别 ReStory 中可维修的设备。Brick Game 在 Steam 官方更新 #1（v1.0.009r）公告中被点名（见本页「来源」链接），公告修复了 Brick Game 的 bug——由此确认该设备存在于游戏中。准确的游戏内流程仍待核实，所有资料字段仍为社区报告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本页当作分步维修攻略吗？",
+         "不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。"
+        ],
+        [
+         "这些资料字段来自哪里？",
+         "来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。"
+        ],
+        [
+         "Brick Game 是否获得官方确认？",
+         "是——该设备在 Steam 官方更新 #1（v1.0.009r）公告中被点名（见「来源」链接），公告修复了 Brick Game 的 bug。公告确认该设备存在；本页资料字段仍为社区报告（L3）。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-brick-game",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "ja": {
+     "title": "Brick Game — デバイス情報",
+     "metaTitle": "Brick Game — ReStory デバイス資料",
+     "metaDescription": "Brick Game の ReStory デバイス情報：コミュニティ参考データ（L3、非公式・未…",
+     "intro": "Brick Game の ReStory デバイス情報。このページのプロフィール項目はすべてコミュニティ報告（L3——非公式・未検証と明記）：分類、難易度、ライセンス料、現実のインスピレーション。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）。Brick Game は Steam公式アップデート#1（v1.0.009r）の発表でも言及されており、Brick Game のバグ修正が記載されています。デバイス固有のステップバイステップ手順はまだ不明です。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "デバイス情報",
+       "columns": [
+        "項目",
+        "内容"
+       ],
+       "rows": [
+        [
+         "デバイス",
+         "Brick Game"
+        ],
+        [
+         "ファミリー（L3）",
+         "ゲーム機"
+        ],
+        [
+         "デザイン原型（L3）",
+         "90年代のBrick Game携帯機"
+        ],
+        [
+         "難易度（L3）",
+         "簡単"
+        ],
+        [
+         "ライセンス料（L3）",
+         "¥23,000"
+        ],
+        [
+         "公式言及",
+         "Steam公式アップデート#1（v1.0.009r）で言及"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "コミュニティ参考データ（L3——非公式・未検証）",
+       "body": "このページのプロフィール項目はすべてコミュニティ報告（L3）に基づいており、開発者や公式ソースによる検証はされていません。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）です。このデバイスのパーツ・ネジ・転売価格のデータは、相互確認済みの数字がないため掲載していません。公式に確認されている事実は、下記のパッチ言及のみです。"
+      },
+      {
+       "type": "note",
+       "heading": "確認済みの範囲",
+       "body": "ReStoryで修理可能なデバイスを確認するページです。Brick Game は Steam公式アップデート#1（v1.0.009r）の発表（「出典」にリンク）で言及されており、Brick Game のバグ修正が記載されています——これによりゲーム内に存在することが確認できます。正確な手順は検証中で、プロフィール項目はすべてコミュニティ報告（L3）のままです。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "手順ガイドとして使える？",
+         "いいえ。追跡可能なゲーム証拠で確認できた後にのみ、固有手順を追加します。"
+        ],
+        [
+         "プロフィール項目の出典は？",
+         "コミュニティソース（L3）です：restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（下の「出典」にリンク）。これらの数字は公式には検証されていません。"
+        ],
+        [
+         "Brick Game は公式に確認されていますか？",
+         "はい——Steam公式アップデート#1（v1.0.009r）の発表（「出典」にリンク）で言及されており、Brick Game のバグ修正が記載されています。発表はデバイスの存在を確認しますが、このページの詳細は依然としてコミュニティ報告（L3）です。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-brick-game",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "ko": {
+     "title": "Brick Game — 기기 정보",
+     "metaTitle": "Brick Game — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Brick Game 기기 정보: 커뮤니티 참고 데이터(L3, 비공식·미검증) —…",
+     "intro": "ReStory의 Brick Game 기기 정보입니다. 이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3——비공식·미검증으로 명시): 분류, 난이도, 라이선스 비용, 현실 영감. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. Brick Game은 Steam 공식 업데이트 #1(v1.0.009r) 공지에서도 언급되며 Brick Game 버그 수정이 기록되어 있습니다.기기별 단계별 수리 절차는 아직 알려지지 않았습니다.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "기기 정보",
+       "columns": [
+        "항목",
+        "값"
+       ],
+       "rows": [
+        [
+         "기기",
+         "Brick Game"
+        ],
+        [
+         "계열(L3)",
+         "콘솔"
+        ],
+        [
+         "디자인 영감(L3)",
+         "90년대 Brick Game 핸드헬드"
+        ],
+        [
+         "난이도(L3)",
+         "쉬움"
+        ],
+        [
+         "라이선스 비용(L3)",
+         "¥23,000"
+        ],
+        [
+         "공식 언급",
+         "Steam 공식 업데이트 #1(v1.0.009r)에서 언급됨"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "커뮤니티 참고 데이터(L3 — 비공식·미검증)",
+       "body": "이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3)이며 개발자나 공식 출처의 검증을 받지 않았습니다. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. 이 기기의 부품·나사·재판매 가격 데이터는 교차 확인된 수치가 없어 게시하지 않습니다. 공식적으로 확인된 유일한 사실은 아래 설명된 패치 언급입니다."
+      },
+      {
+       "type": "note",
+       "heading": "확인된 범위",
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. Brick Game은 Steam 공식 업데이트 #1(v1.0.009r) 공지(\"출처\"에 링크)에서 언급되며 Brick Game 버그 수정이 기록되어 있습니다——이로써 게임 내 존재가 확인됩니다. 정확한 절차는 아직 확인 중이며 모든 프로필 항목은 커뮤니티 보고(L3)입니다."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "단계별 수리 가이드로 사용할 수 있나요?",
+         "아니요. 추적 가능한 게임 증거로 확인된 뒤에만 기기별 절차를 추가합니다."
+        ],
+        [
+         "프로필 항목은 어디서 왔나요?",
+         "커뮤니티 출처(L3)입니다: restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(아래 \"출처\"에 링크). 이 수치 중 어느 것도 공식 검증되지 않았습니다."
+        ],
+        [
+         "Brick Game은 공식적으로 확인되었나요?",
+         "네——Steam 공식 업데이트 #1(v1.0.009r) 공지(\"출처\"에 링크)에서 언급되며 Brick Game 버그 수정이 기록되어 있습니다. 공지는 기기 존재를 확인하지만 이 페이지의 세부 정보는 여전히 커뮤니티 보고(L3)입니다."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-brick-game",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "fr": {
+     "title": "Brick Game — Fiche appareil",
+     "metaTitle": "Brick Game — Référence appareil ReStory",
+     "metaDescription": "Fiche de Brick Game dans ReStory : données de référence communautaires (L3, non vérifiées) — famille, difficulté, frais de licence et inspiration. Pr…",
+     "intro": "Fiche de Brick Game dans ReStory. Tous les détails du profil ci-dessous proviennent de la communauté (clairement marqués L3 — non vérifiés officiellement) : famille, difficulté, frais de licence et inspiration réelle, issus de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). Brick Game est aussi cité dans l'annonce officielle de la mise à jour n° 1 (v1.0.009r) de Steam, qui corrige un bug de Brick Game. La procédure pas à pas propre à cet appareil reste inconnue.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Fiche appareil",
+       "columns": [
+        "Champ",
+        "Valeur"
+       ],
+       "rows": [
+        [
+         "Appareil",
+         "Brick Game"
+        ],
+        [
+         "Famille (L3)",
+         "Consoles"
+        ],
+        [
+         "Inspiration de design (L3)",
+         "Console portable Brick Game des années 90"
+        ],
+        [
+         "Difficulté (L3)",
+         "Facile"
+        ],
+        [
+         "Frais de licence (L3)",
+         "¥23,000"
+        ],
+        [
+         "Mention officielle",
+         "Cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r)"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Données de référence communautaires (L3 — non vérifiées officiellement)",
+       "body": "Tous les champs du profil ci-dessus proviennent de la communauté (L3) et n'ont pas été vérifiés par le développeur ni par une source officielle. Ils viennent de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). Nous ne publions pas encore de données de pièces, de vis ou de prix de revente pour cet appareil : aucun chiffre recoupé n'est disponible. Le seul fait officiellement confirmé est la mention du correctif décrite ci-dessous."
+      },
+      {
+       "type": "note",
+       "heading": "Ce qui est vérifié",
+       "body": "Cette page identifie un appareil réparable de ReStory. Brick Game est cité dans l'annonce officielle de la mise à jour n° 1 (v1.0.009r) de Steam (liée dans « Sources »), qui corrige un bug de Brick Game — cela confirme que l'appareil existe en jeu. Sa procédure exacte reste à vérifier et tous les détails du profil restent communautaires (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Puis-je suivre cette page pas à pas ?",
+         "Non. Une procédure propre à l'appareil ne sera ajoutée qu'après vérification par des preuves de jeu traçables."
+        ],
+        [
+         "D'où viennent les détails du profil ?",
+         "Ils proviennent de sources communautaires (L3) : la page d'appareil restory.wiki et la liste des appareils de la communauté Steam, liées dans « Sources » ci-dessous. Aucun de ces chiffres n'est officiellement vérifié."
+        ],
+        [
+         "Brick Game est-il officiellement confirmé ?",
+         "Oui — l'appareil est cité dans l'annonce officielle de la mise à jour n° 1 (v1.0.009r) de Steam (liée dans « Sources »), qui corrige un bug de Brick Game. L'annonce confirme l'existence de l'appareil ; les détails de cette page restent communautaires (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-brick-game",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "de": {
+     "title": "Brick Game — Geräteprofil",
+     "metaTitle": "Brick Game — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Brick Game in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. Ablauf u…",
+     "intro": "Profil von Brick Game in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Brick Game wird auch in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) genannt, die einen Brick Game-Fehler behebt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Geräteprofil",
+       "columns": [
+        "Feld",
+        "Wert"
+       ],
+       "rows": [
+        [
+         "Gerät",
+         "Brick Game"
+        ],
+        [
+         "Familie (L3)",
+         "Konsolen"
+        ],
+        [
+         "Design-Inspiration (L3)",
+         "90er-Jahre-Handheld Brick Game"
+        ],
+        [
+         "Schwierigkeit (L3)",
+         "Leicht"
+        ],
+        [
+         "Lizenzgebühr (L3)",
+         "¥23,000"
+        ],
+        [
+         "Offizielle Erwähnung",
+         "In offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community-Referenzdaten (L3 — nicht offiziell verifiziert)",
+       "body": "Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor. Die einzige offiziell bestätigte Tatsache ist die unten beschriebene Patch-Erwähnung."
+      },
+      {
+       "type": "note",
+       "heading": "Verifizierter Umfang",
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Brick Game wird in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) genannt (unter „Quellen\" verlinkt), die einen Brick Game-Fehler behebt — das bestätigt, dass das Gerät im Spiel existiert. Der genaue Ablauf ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Ist dies eine Schritt-für-Schritt-Anleitung?",
+         "Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt."
+        ],
+        [
+         "Woher stammen die Profildetails?",
+         "Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen\" verlinkt. Keine dieser Zahlen ist offiziell verifiziert."
+        ],
+        [
+         "Ist Brick Game offiziell bestätigt?",
+         "Ja — das Gerät wird in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) genannt (unter „Quellen\" verlinkt), die einen Brick Game-Fehler behebt. Die Ankündigung bestätigt die Existenz des Geräts; die Details dieser Seite bleiben Community-Angaben (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-brick-game",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "es": {
+     "title": "Brick Game — Ficha del dispositivo",
+     "metaTitle": "Brick Game — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Brick Game en ReStory: perfil más datos comunitarios (L3, no verificados) — familia, dificultad, tarifa de licencia e inspiración. Procedimi…",
+     "intro": "Ficha de Brick Game en ReStory. Todos los detalles del perfil provienen de la comunidad (marcados claramente como L3 — no verificados oficialmente): familia, dificultad, tarifa de licencia e inspiración real, procedentes de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). Brick Game también aparece en el anuncio oficial de la actualización n.º 1 (v1.0.009r) de Steam, que corrige un error de Brick Game. El procedimiento paso a paso específico sigue sin conocerse.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Ficha del dispositivo",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Dispositivo",
+         "Brick Game"
+        ],
+        [
+         "Familia (L3)",
+         "Consolas"
+        ],
+        [
+         "Inspiración de diseño (L3)",
+         "Portátil Brick Game de los 90"
+        ],
+        [
+         "Dificultad (L3)",
+         "Fácil"
+        ],
+        [
+         "Tarifa de licencia (L3)",
+         "¥23,000"
+        ],
+        [
+         "Mención oficial",
+         "Mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r)"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Datos de referencia de la comunidad (L3, no verificados oficialmente)",
+       "body": "Todos los campos del perfil provienen de la comunidad (L3) y no han sido verificados por el desarrollador ni por ninguna fuente oficial. Proceden de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). Todavía no publicamos datos de piezas, tornillos ni precios de reventa de este dispositivo: no hay cifras contrastadas disponibles. El único hecho confirmado oficialmente es la mención del parche descrita abajo."
+      },
+      {
+       "type": "note",
+       "heading": "Alcance verificado",
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Brick Game aparece en el anuncio oficial de la actualización n.º 1 (v1.0.009r) de Steam (enlazado en «Fuentes»), que corrige un error de Brick Game — esto confirma que el dispositivo existe en el juego. Su procedimiento exacto sigue pendiente de verificación y todos los detalles del perfil siguen siendo comunitarios (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "¿Es una guía paso a paso?",
+         "No. Solo se añadirá un procedimiento propio del dispositivo tras verificarlo con pruebas trazables del juego."
+        ],
+        [
+         "¿De dónde salen los detalles del perfil?",
+         "Provienen de fuentes comunitarias (L3): la página del dispositivo en restory.wiki y la lista de dispositivos de la comunidad de Steam, enlazadas en «Fuentes» abajo. Ninguna de estas cifras está verificada oficialmente."
+        ],
+        [
+         "¿Brick Game está confirmado oficialmente?",
+         "Sí: el dispositivo aparece en el anuncio oficial de la actualización n.º 1 (v1.0.009r) de Steam (enlazado en «Fuentes»), que corrige un error de Brick Game. El anuncio confirma que existe; los detalles de esta página siguen siendo comunitarios (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-brick-game",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "pt-BR": {
+     "title": "Brick Game — Perfil do aparelho",
+     "metaTitle": "Brick Game — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Brick Game em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração. Proced…",
+     "intro": "Perfil de Brick Game em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). Brick Game também é citado no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam, que corrige um bug do Brick Game. O procedimento passo a passo específico continua desconhecido.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Perfil do aparelho",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Aparelho",
+         "Brick Game"
+        ],
+        [
+         "Família (L3)",
+         "Consoles"
+        ],
+        [
+         "Inspiração de design (L3)",
+         "Portátil Brick Game dos anos 90"
+        ],
+        [
+         "Dificuldade (L3)",
+         "Fácil"
+        ],
+        [
+         "Taxa de licença (L3)",
+         "¥23,000"
+        ],
+        [
+         "Menção oficial",
+         "Citado na atualização oficial nº 1 da Steam (v1.0.009r)"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Dados de referência da comunidade (L3, não verificados oficialmente)",
+       "body": "Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis. O único fato confirmado oficialmente é a menção do patch descrita abaixo."
+      },
+      {
+       "type": "note",
+       "heading": "Escopo verificado",
+       "body": "Esta página identifica um aparelho reparável de ReStory. Brick Game é citado no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam (linkado em \"Fontes\"), que corrige um bug do Brick Game — isso confirma que o aparelho existe no jogo. O procedimento exato ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Posso usar como guia passo a passo?",
+         "Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo."
+        ],
+        [
+         "De onde vêm os detalhes do perfil?",
+         "Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em \"Fontes\" abaixo. Nenhum desses números é verificado oficialmente."
+        ],
+        [
+         "Brick Game está confirmado oficialmente?",
+         "Sim — o aparelho é citado no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam (linkado em \"Fontes\"), que corrige um bug do Brick Game. O anúncio confirma que o aparelho existe; os detalhes desta página continuam comunitários (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-brick-game",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "ru": {
+     "title": "Brick Game — Профиль устройства",
+     "metaTitle": "Brick Game — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Brick Game в ReStory: справочные данные сообщества (L3, не проверены) — семейство, сложность, стоимость лицензии и вдохновение. Процедура неи…",
+     "intro": "Профиль Brick Game в ReStory. Все детали профиля ниже основаны на данных сообщества (чётко помечены как L3 — не проверены официально): семейство, сложность, стоимость лицензии и реальный прототип, взятые со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Brick Game также упомянуто в официальном объявлении об обновлении №1 (v1.0.009r) Steam, которое исправляет ошибку Brick Game. Пошаговая процедура для устройства по-прежнему неизвестна.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Профиль устройства",
+       "columns": [
+        "Поле",
+        "Значение"
+       ],
+       "rows": [
+        [
+         "Устройство",
+         "Brick Game"
+        ],
+        [
+         "Семейство (L3)",
+         "Консоли"
+        ],
+        [
+         "Прототип дизайна (L3)",
+         "Карманная игра Brick Game 90-х"
+        ],
+        [
+         "Сложность (L3)",
+         "Легко"
+        ],
+        [
+         "Стоимость лицензии (L3)",
+         "¥23,000"
+        ],
+        [
+         "Официальное упоминание",
+         "Упомянуто в официальном обновлении Steam №1 (v1.0.009r)"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Справочные данные сообщества (L3 — не проверены официально)",
+       "body": "Все поля профиля выше основаны на данных сообщества (L3) и не проверены разработчиком или официальными источниками. Они взяты со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Мы пока не публикуем данные о деталях, винтах или ценах перепродажи этого устройства: сверенных цифр нет. Единственный официально подтверждённый факт — упоминание в обновлении, описанное ниже."
+      },
+      {
+       "type": "note",
+       "heading": "Что подтверждено",
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Brick Game упомянуто в официальном объявлении об обновлении №1 (v1.0.009r) Steam (ссылка в «Источниках»), которое исправляет ошибку Brick Game — это подтверждает, что устройство существует в игре. Точная процедура ещё проверяется, и все детали профиля остаются данными сообщества (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Это пошаговый гайд по ремонту?",
+         "Нет. Процедура появится только после проверки по отслеживаемым игровым доказательствам."
+        ],
+        [
+         "Откуда взяты детали профиля?",
+         "Из источников сообщества (L3): страница устройства на restory.wiki и список устройств сообщества Steam, ссылки ниже в «Источниках». Ни одна из этих цифр официально не проверена."
+        ],
+        [
+         "Brick Game официально подтверждено?",
+         "Да — устройство упомянуто в официальном объявлении об обновлении №1 (v1.0.009r) Steam (ссылка в «Источниках»), которое исправляет ошибку Brick Game. Объявление подтверждает существование устройства; детали этой страницы остаются данными сообщества (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-brick-game",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "zh-TW": {
+     "title": "Brick Game — 設備資料",
+     "metaTitle": "Brick Game — ReStory 設備參考",
+     "metaDescription": "Brick Game 的 ReStory 設備資料：含社區參考數據（L3，未經官方核實）——類別、難度、許可費與現實靈感；步驟流程仍未核實。",
+     "intro": "Brick Game 的 ReStory 設備資料與參考：本頁所有資料字段均來自社區報告（明確標註 L3——未經官方核實）：類別、難度、許可費與現實靈感，來源為 restory.wiki 設備頁與 Steam 社區設備清單（見本頁底部「來源」鏈接）。Brick Game 也在 Steam 官方更新 #1（v1.0.009r）公告中被點名，該公告修復了 Brick Game 的 bug。A 設備專屬的分步維修流程仍未核實。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "設備資料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "設備",
+         "Brick Game"
+        ],
+        [
+         "家族（L3）",
+         "家用主機"
+        ],
+        [
+         "靈感原型（L3）",
+         "90 年代 Brick Game 掌機"
+        ],
+        [
+         "難度（L3）",
+         "簡單"
+        ],
+        [
+         "許可費（L3）",
+         "¥23,000"
+        ],
+        [
+         "官方提及",
+         "在 Steam 官方更新 #1（v1.0.009r）中被點名"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社區參考數據（L3——未經官方核實）",
+       "body": "本頁上方的資料字段均來自社區報告（L3），未經開發者或任何官方來源核實。來源為 restory.wiki 設備頁與 Steam 社區設備清單（均在本頁底部「來源」中列出並可點擊）。本頁暫不發佈該設備的零件、螺絲或轉售價格數據：目前沒有交叉核實過的數字。唯一經官方確認的事實是下方描述的補丁提及。"
+      },
+      {
+       "type": "note",
+       "heading": "已核實範圍",
+       "body": "本頁用於識別 ReStory 中可維修的設備。Brick Game 在 Steam 官方更新 #1（v1.0.009r）公告中被點名（見本頁「來源」鏈接），公告修復了 Brick Game 的 bug——由此確認該設備存在於遊戲中。準確的遊戲內流程仍待核實，所有資料字段仍為社區報告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本頁當作分步維修攻略嗎？",
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
+        ],
+        [
+         "這些資料字段來自哪裡？",
+         "來自社區來源（L3）：restory.wiki 設備頁與 Steam 社區設備清單，見本頁下方「來源」。這些數字均未經官方核實。"
+        ],
+        [
+         "Brick Game 是否獲得官方確認？",
+         "是——該設備在 Steam 官方更新 #1（v1.0.009r）公告中被點名（見「來源」鏈接），公告修復了 Brick Game 的 bug。公告確認該設備存在；本頁資料字段仍為社區報告（L3）。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-brick-game",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    }
+   }
+  },
+  {
+   "slug": "devices/game-duck",
+   "title": "Game Duck — Device Profile",
+   "metaTitle": "Game Duck — ReStory Device Reference",
+   "metaDescription": "Game Duck in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+   "intro": "Device profile and reference for Game Duck in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). No official patch has named this device yet. A device-specific step-by-step procedure is still unknown.",
+   "sections": [
+    {
+     "type": "table",
+     "heading": "Device Profile",
+     "columns": [
+      "Field",
+      "Value"
+     ],
+     "rows": [
+      [
+       "Device",
+       "Game Duck"
+      ],
+      [
+       "Family (L3)",
+       "Handhelds"
+      ],
+      [
+       "Design inspiration (L3)",
+       "Game Boy-style handheld"
+      ],
+      [
+       "Difficulty (L3)",
+       "Hard"
+      ],
+      [
+       "License fee (L3)",
+       "¥191,000"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "heading": "Community reference data (L3 — not officially verified)",
+     "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available."
+    },
+    {
+     "type": "note",
+     "heading": "What is verified",
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3) until verified against traceable game evidence."
+    },
+    {
+     "type": "faq",
+     "heading": "FAQ",
+     "items": [
+      [
+       "Can I use this as a step-by-step repair guide?",
+       "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+      ],
+      [
+       "Where do the profile details come from?",
+       "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+      ]
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "label": "restory.wiki — Game Duck (community wiki)",
+     "url": "https://restory.wiki/w/Game_Duck",
+     "labels": {
+      "en": "restory.wiki — Game Duck (community wiki)",
+      "zh-CN": "restory.wiki — Game Duck（社区维基）",
+      "ja": "restory.wiki — Game Duck（コミュニティWiki）",
+      "ko": "restory.wiki — Game Duck（커뮤니티 위키）",
+      "fr": "restory.wiki — Game Duck (wiki communautaire)",
+      "de": "restory.wiki — Game Duck (Community-Wiki)",
+      "es": "restory.wiki — Game Duck (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Game Duck (wiki da comunidade)",
+      "ru": "restory.wiki — Game Duck (вики сообщества)",
+      "zh-TW": "restory.wiki — Game Duck（社區維基）"
+     }
+    },
+    {
+     "label": "Steam discussion: ReStory device list (29 devices)",
+     "url": "https://steamcommunity.com/app/3812600/discussions/0/588434434320138300/",
+     "labels": {
+      "en": "Steam discussion: ReStory device list (29 devices)",
+      "zh-CN": "Steam 讨论：ReStory 设备清单（29 台）",
+      "ja": "Steam ディスカッション：ReStory デバイス一覧（29台）",
+      "ko": "Steam 토론: ReStory 기기 목록(29개)",
+      "fr": "Discussion Steam : liste des appareils ReStory (29 appareils)",
+      "de": "Steam-Diskussion: ReStory Geräteliste (29 Geräte)",
+      "es": "Debate de Steam: lista de dispositivos de ReStory (29 dispositivos)",
+      "pt-BR": "Tópico da Steam: lista de aparelhos de ReStory (29 aparelhos)",
+      "ru": "Обсуждение Steam: список устройств ReStory (29 устройств)",
+      "zh-TW": "Steam 討論：ReStory 設備清單（29 臺）"
+     }
+    }
+   ],
+   "meta": {
+    "icon": "handheld"
+   },
+   "i18n": {
+    "en": {
+     "title": "Game Duck — Device Profile",
+     "metaTitle": "Game Duck — ReStory Device Reference",
+     "metaDescription": "Game Duck in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+     "intro": "Device profile and reference for Game Duck in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). No official patch has named this device yet. A device-specific step-by-step procedure is still unknown.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Device Profile",
+       "columns": [
+        "Field",
+        "Value"
+       ],
+       "rows": [
+        [
+         "Device",
+         "Game Duck"
+        ],
+        [
+         "Family (L3)",
+         "Handhelds"
+        ],
+        [
+         "Design inspiration (L3)",
+         "Game Boy-style handheld"
+        ],
+        [
+         "Difficulty (L3)",
+         "Hard"
+        ],
+        [
+         "License fee (L3)",
+         "¥191,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community reference data (L3 — not officially verified)",
+       "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available."
+      },
+      {
+       "type": "note",
+       "heading": "What is verified",
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3) until verified against traceable game evidence."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Can I use this as a step-by-step repair guide?",
+         "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+        ],
+        [
+         "Where do the profile details come from?",
+         "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-game-duck",
+      "steam-discussion-devices"
+     ],
+     "icon": "handheld"
+    },
+    "zh-CN": {
+     "title": "Game Duck — 设备资料",
+     "metaTitle": "Game Duck — ReStory 设备参考",
+     "metaDescription": "Game Duck 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——类别、难度、许可费与现实灵感；步骤流程仍未核实。",
+     "intro": "Game Duck 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。A 设备专属的分步维修流程仍未核实。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "设备资料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "设备",
+         "Game Duck"
+        ],
+        [
+         "家族（L3）",
+         "掌机"
+        ],
+        [
+         "灵感原型（L3）",
+         "Game Boy 式掌机"
+        ],
+        [
+         "难度（L3）",
+         "困难"
+        ],
+        [
+         "许可费（L3）",
+         "¥191,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社区参考数据（L3——未经官方核实）",
+       "body": "本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。"
+      },
+      {
+       "type": "note",
+       "heading": "已核实范围",
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本页当作分步维修攻略吗？",
+         "不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。"
+        ],
+        [
+         "这些资料字段来自哪里？",
+         "来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-game-duck",
+      "steam-discussion-devices"
+     ],
+     "icon": "handheld"
+    },
+    "ja": {
+     "title": "Game Duck — デバイス情報",
+     "metaTitle": "Game Duck — ReStory デバイス資料",
+     "metaDescription": "Game Duck の ReStory デバイス情報：コミュニティ参考データ（L3、非公式・未…",
+     "intro": "Game Duck の ReStory デバイス情報。このページのプロフィール項目はすべてコミュニティ報告（L3——非公式・未検証と明記）：分類、難易度、ライセンス料、現実のインスピレーション。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）。デバイス固有のステップバイステップ手順はまだ不明です。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "デバイス情報",
+       "columns": [
+        "項目",
+        "内容"
+       ],
+       "rows": [
+        [
+         "デバイス",
+         "Game Duck"
+        ],
+        [
+         "ファミリー（L3）",
+         "携帯ゲーム機"
+        ],
+        [
+         "デザイン原型（L3）",
+         "Game Boy 風の携帯ゲーム機"
+        ],
+        [
+         "難易度（L3）",
+         "難しい"
+        ],
+        [
+         "ライセンス料（L3）",
+         "¥191,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "コミュニティ参考データ（L3——非公式・未検証）",
+       "body": "このページのプロフィール項目はすべてコミュニティ報告（L3）に基づいており、開発者や公式ソースによる検証はされていません。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）です。このデバイスのパーツ・ネジ・転売価格のデータは、相互確認済みの数字がないため掲載していません。"
+      },
+      {
+       "type": "note",
+       "heading": "確認済みの範囲",
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中で、プロフィール項目はすべて追跡可能なゲーム証拠で確認できるまでコミュニティ報告（L3）のままです。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "手順ガイドとして使える？",
+         "いいえ。追跡可能なゲーム証拠で確認できた後にのみ、固有手順を追加します。"
+        ],
+        [
+         "プロフィール項目の出典は？",
+         "コミュニティソース（L3）です：restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（下の「出典」にリンク）。これらの数字は公式には検証されていません。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-game-duck",
+      "steam-discussion-devices"
+     ],
+     "icon": "handheld"
+    },
+    "ko": {
+     "title": "Game Duck — 기기 정보",
+     "metaTitle": "Game Duck — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Game Duck 기기 정보: 커뮤니티 참고 데이터(L3, 비공식·미검증) —…",
+     "intro": "ReStory의 Game Duck 기기 정보입니다. 이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3——비공식·미검증으로 명시): 분류, 난이도, 라이선스 비용, 현실 영감. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. 기기별 단계별 수리 절차는 아직 알려지지 않았습니다.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "기기 정보",
+       "columns": [
+        "항목",
+        "값"
+       ],
+       "rows": [
+        [
+         "기기",
+         "Game Duck"
+        ],
+        [
+         "계열(L3)",
+         "핸드헬드"
+        ],
+        [
+         "디자인 영감(L3)",
+         "Game Boy 스타일 핸드헬드"
+        ],
+        [
+         "난이도(L3)",
+         "어려움"
+        ],
+        [
+         "라이선스 비용(L3)",
+         "¥191,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "커뮤니티 참고 데이터(L3 — 비공식·미검증)",
+       "body": "이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3)이며 개발자나 공식 출처의 검증을 받지 않았습니다. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. 이 기기의 부품·나사·재판매 가격 데이터는 교차 확인된 수치가 없어 게시하지 않습니다. "
+      },
+      {
+       "type": "note",
+       "heading": "확인된 범위",
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중이며 모든 프로필 항목은 추적 가능한 게임 증거로 확인될 때까지 커뮤니티 보고(L3)입니다."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "단계별 수리 가이드로 사용할 수 있나요?",
+         "아니요. 추적 가능한 게임 증거로 확인된 뒤에만 기기별 절차를 추가합니다."
+        ],
+        [
+         "프로필 항목은 어디서 왔나요?",
+         "커뮤니티 출처(L3)입니다: restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(아래 \"출처\"에 링크). 이 수치 중 어느 것도 공식 검증되지 않았습니다."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-game-duck",
+      "steam-discussion-devices"
+     ],
+     "icon": "handheld"
+    },
+    "fr": {
+     "title": "Game Duck — Fiche appareil",
+     "metaTitle": "Game Duck — Référence appareil ReStory",
+     "metaDescription": "Fiche de Game Duck dans ReStory : données de référence communautaires (L3, non vérifiées) — famille, difficulté, frais de licence et inspiration. Pro…",
+     "intro": "Fiche de Game Duck dans ReStory. Tous les détails du profil ci-dessous proviennent de la communauté (clairement marqués L3 — non vérifiés officiellement) : famille, difficulté, frais de licence et inspiration réelle, issus de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). La procédure pas à pas propre à cet appareil reste inconnue.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Fiche appareil",
+       "columns": [
+        "Champ",
+        "Valeur"
+       ],
+       "rows": [
+        [
+         "Appareil",
+         "Game Duck"
+        ],
+        [
+         "Famille (L3)",
+         "Consoles portables"
+        ],
+        [
+         "Inspiration de design (L3)",
+         "Console portable façon Game Boy"
+        ],
+        [
+         "Difficulté (L3)",
+         "Difficile"
+        ],
+        [
+         "Frais de licence (L3)",
+         "¥191,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Données de référence communautaires (L3 — non vérifiées officiellement)",
+       "body": "Tous les champs du profil ci-dessus proviennent de la communauté (L3) et n'ont pas été vérifiés par le développeur ni par une source officielle. Ils viennent de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). Nous ne publions pas encore de données de pièces, de vis ou de prix de revente pour cet appareil : aucun chiffre recoupé n'est disponible. "
+      },
+      {
+       "type": "note",
+       "heading": "Ce qui est vérifié",
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier, et tous les détails du profil restent communautaires (L3) jusqu'à vérification par des preuves de jeu traçables."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Puis-je suivre cette page pas à pas ?",
+         "Non. Une procédure propre à l'appareil ne sera ajoutée qu'après vérification par des preuves de jeu traçables."
+        ],
+        [
+         "D'où viennent les détails du profil ?",
+         "Ils proviennent de sources communautaires (L3) : la page d'appareil restory.wiki et la liste des appareils de la communauté Steam, liées dans « Sources » ci-dessous. Aucun de ces chiffres n'est officiellement vérifié."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-game-duck",
+      "steam-discussion-devices"
+     ],
+     "icon": "handheld"
+    },
+    "de": {
+     "title": "Game Duck — Geräteprofil",
+     "metaTitle": "Game Duck — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Game Duck in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. Ablauf un…",
+     "intro": "Profil von Game Duck in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Geräteprofil",
+       "columns": [
+        "Feld",
+        "Wert"
+       ],
+       "rows": [
+        [
+         "Gerät",
+         "Game Duck"
+        ],
+        [
+         "Familie (L3)",
+         "Handhelds"
+        ],
+        [
+         "Design-Inspiration (L3)",
+         "Game-Boy-artiger Handheld"
+        ],
+        [
+         "Schwierigkeit (L3)",
+         "Schwer"
+        ],
+        [
+         "Lizenzgebühr (L3)",
+         "¥191,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community-Referenzdaten (L3 — nicht offiziell verifiziert)",
+       "body": "Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor. "
+      },
+      {
+       "type": "note",
+       "heading": "Verifizierter Umfang",
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Ist dies eine Schritt-für-Schritt-Anleitung?",
+         "Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt."
+        ],
+        [
+         "Woher stammen die Profildetails?",
+         "Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen\" verlinkt. Keine dieser Zahlen ist offiziell verifiziert."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-game-duck",
+      "steam-discussion-devices"
+     ],
+     "icon": "handheld"
+    },
+    "es": {
+     "title": "Game Duck — Ficha del dispositivo",
+     "metaTitle": "Game Duck — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Game Duck en ReStory: perfil más datos comunitarios (L3, no verificados) — familia, dificultad, tarifa de licencia e inspiración. Procedimie…",
+     "intro": "Ficha de Game Duck en ReStory. Todos los detalles del perfil provienen de la comunidad (marcados claramente como L3 — no verificados oficialmente): familia, dificultad, tarifa de licencia e inspiración real, procedentes de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). El procedimiento paso a paso específico sigue sin conocerse.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Ficha del dispositivo",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Dispositivo",
+         "Game Duck"
+        ],
+        [
+         "Familia (L3)",
+         "Portátiles"
+        ],
+        [
+         "Inspiración de diseño (L3)",
+         "Portátil estilo Game Boy"
+        ],
+        [
+         "Dificultad (L3)",
+         "Difícil"
+        ],
+        [
+         "Tarifa de licencia (L3)",
+         "¥191,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Datos de referencia de la comunidad (L3, no verificados oficialmente)",
+       "body": "Todos los campos del perfil provienen de la comunidad (L3) y no han sido verificados por el desarrollador ni por ninguna fuente oficial. Proceden de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). Todavía no publicamos datos de piezas, tornillos ni precios de reventa de este dispositivo: no hay cifras contrastadas disponibles. "
+      },
+      {
+       "type": "note",
+       "heading": "Alcance verificado",
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación y todos los detalles del perfil siguen siendo comunitarios (L3) hasta verificarse con pruebas trazables del juego."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "¿Es una guía paso a paso?",
+         "No. Solo se añadirá un procedimiento propio del dispositivo tras verificarlo con pruebas trazables del juego."
+        ],
+        [
+         "¿De dónde salen los detalles del perfil?",
+         "Provienen de fuentes comunitarias (L3): la página del dispositivo en restory.wiki y la lista de dispositivos de la comunidad de Steam, enlazadas en «Fuentes» abajo. Ninguna de estas cifras está verificada oficialmente."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-game-duck",
+      "steam-discussion-devices"
+     ],
+     "icon": "handheld"
+    },
+    "pt-BR": {
+     "title": "Game Duck — Perfil do aparelho",
+     "metaTitle": "Game Duck — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Game Duck em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração. Procedi…",
+     "intro": "Perfil de Game Duck em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). O procedimento passo a passo específico continua desconhecido.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Perfil do aparelho",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Aparelho",
+         "Game Duck"
+        ],
+        [
+         "Família (L3)",
+         "Portáteis"
+        ],
+        [
+         "Inspiração de design (L3)",
+         "Portátil estilo Game Boy"
+        ],
+        [
+         "Dificuldade (L3)",
+         "Difícil"
+        ],
+        [
+         "Taxa de licença (L3)",
+         "¥191,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Dados de referência da comunidade (L3, não verificados oficialmente)",
+       "body": "Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis. "
+      },
+      {
+       "type": "note",
+       "heading": "Escopo verificado",
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Posso usar como guia passo a passo?",
+         "Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo."
+        ],
+        [
+         "De onde vêm os detalhes do perfil?",
+         "Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em \"Fontes\" abaixo. Nenhum desses números é verificado oficialmente."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-game-duck",
+      "steam-discussion-devices"
+     ],
+     "icon": "handheld"
+    },
+    "ru": {
+     "title": "Game Duck — Профиль устройства",
+     "metaTitle": "Game Duck — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Game Duck в ReStory: справочные данные сообщества (L3, не проверены) — семейство, сложность, стоимость лицензии и вдохновение. Процедура неиз…",
+     "intro": "Профиль Game Duck в ReStory. Все детали профиля ниже основаны на данных сообщества (чётко помечены как L3 — не проверены официально): семейство, сложность, стоимость лицензии и реальный прототип, взятые со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Пошаговая процедура для устройства по-прежнему неизвестна.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Профиль устройства",
+       "columns": [
+        "Поле",
+        "Значение"
+       ],
+       "rows": [
+        [
+         "Устройство",
+         "Game Duck"
+        ],
+        [
+         "Семейство (L3)",
+         "Портативные"
+        ],
+        [
+         "Прототип дизайна (L3)",
+         "Портативная в стиле Game Boy"
+        ],
+        [
+         "Сложность (L3)",
+         "Сложно"
+        ],
+        [
+         "Стоимость лицензии (L3)",
+         "¥191,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Справочные данные сообщества (L3 — не проверены официально)",
+       "body": "Все поля профиля выше основаны на данных сообщества (L3) и не проверены разработчиком или официальными источниками. Они взяты со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Мы пока не публикуем данные о деталях, винтах или ценах перепродажи этого устройства: сверенных цифр нет. "
+      },
+      {
+       "type": "note",
+       "heading": "Что подтверждено",
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется, и все детали профиля остаются данными сообщества (L3), пока не будут подтверждены отслеживаемыми игровыми доказательствами."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Это пошаговый гайд по ремонту?",
+         "Нет. Процедура появится только после проверки по отслеживаемым игровым доказательствам."
+        ],
+        [
+         "Откуда взяты детали профиля?",
+         "Из источников сообщества (L3): страница устройства на restory.wiki и список устройств сообщества Steam, ссылки ниже в «Источниках». Ни одна из этих цифр официально не проверена."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-game-duck",
+      "steam-discussion-devices"
+     ],
+     "icon": "handheld"
+    },
+    "zh-TW": {
+     "title": "Game Duck — 設備資料",
+     "metaTitle": "Game Duck — ReStory 設備參考",
+     "metaDescription": "Game Duck 的 ReStory 設備資料：含社區參考數據（L3，未經官方核實）——類別、難度、許可費與現實靈感；步驟流程仍未核實。",
+     "intro": "Game Duck 的 ReStory 設備資料與參考：本頁所有資料字段均來自社區報告（明確標註 L3——未經官方核實）：類別、難度、許可費與現實靈感，來源為 restory.wiki 設備頁與 Steam 社區設備清單（見本頁底部「來源」鏈接）。A 設備專屬的分步維修流程仍未核實。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "設備資料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "設備",
+         "Game Duck"
+        ],
+        [
+         "家族（L3）",
+         "掌機"
+        ],
+        [
+         "靈感原型（L3）",
+         "Game Boy 式掌機"
+        ],
+        [
+         "難度（L3）",
+         "困難"
+        ],
+        [
+         "許可費（L3）",
+         "¥191,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社區參考數據（L3——未經官方核實）",
+       "body": "本頁上方的資料字段均來自社區報告（L3），未經開發者或任何官方來源核實。來源為 restory.wiki 設備頁與 Steam 社區設備清單（均在本頁底部「來源」中列出並可點擊）。本頁暫不發佈該設備的零件、螺絲或轉售價格數據：目前沒有交叉核實過的數字。"
+      },
+      {
+       "type": "note",
+       "heading": "已核實範圍",
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實，所有資料字段在經可追溯的遊戲證據核實前均保持為社區報告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本頁當作分步維修攻略嗎？",
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
+        ],
+        [
+         "這些資料字段來自哪裡？",
+         "來自社區來源（L3）：restory.wiki 設備頁與 Steam 社區設備清單，見本頁下方「來源」。這些數字均未經官方核實。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-game-duck",
+      "steam-discussion-devices"
+     ],
+     "icon": "handheld"
+    }
+   }
+  },
+  {
+   "slug": "devices/breadbox-joystick",
+   "title": "BreadBox Joystick — Device Profile",
+   "metaTitle": "BreadBox Joystick — ReStory Device Reference",
+   "metaDescription": "BreadBox Joystick in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+   "intro": "Device profile and reference for BreadBox Joystick in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). No official patch has named this device yet. A device-specific step-by-step procedure is still unknown.",
+   "sections": [
+    {
+     "type": "table",
+     "heading": "Device Profile",
+     "columns": [
+      "Field",
+      "Value"
+     ],
+     "rows": [
+      [
+       "Device",
+       "BreadBox Joystick"
+      ],
+      [
+       "Family (L3)",
+       "Controllers"
+      ],
+      [
+       "Design inspiration (L3)",
+       "Commodore 64 T-1341 joystick"
+      ],
+      [
+       "Difficulty (L3)",
+       "Easy"
+      ],
+      [
+       "License fee (L3)",
+       "¥30,000"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "heading": "Community reference data (L3 — not officially verified)",
+     "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available."
+    },
+    {
+     "type": "note",
+     "heading": "What is verified",
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3) until verified against traceable game evidence."
+    },
+    {
+     "type": "faq",
+     "heading": "FAQ",
+     "items": [
+      [
+       "Can I use this as a step-by-step repair guide?",
+       "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+      ],
+      [
+       "Where do the profile details come from?",
+       "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+      ]
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "label": "restory.wiki — BreadBox Joystick (community wiki)",
+     "url": "https://restory.wiki/w/BreadBox_Joystick",
+     "labels": {
+      "en": "restory.wiki — BreadBox Joystick (community wiki)",
+      "zh-CN": "restory.wiki — BreadBox Joystick（社区维基）",
+      "ja": "restory.wiki — BreadBox Joystick（コミュニティWiki）",
+      "ko": "restory.wiki — BreadBox Joystick（커뮤니티 위키）",
+      "fr": "restory.wiki — BreadBox Joystick (wiki communautaire)",
+      "de": "restory.wiki — BreadBox Joystick (Community-Wiki)",
+      "es": "restory.wiki — BreadBox Joystick (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — BreadBox Joystick (wiki da comunidade)",
+      "ru": "restory.wiki — BreadBox Joystick (вики сообщества)",
+      "zh-TW": "restory.wiki — BreadBox Joystick（社區維基）"
+     }
+    },
+    {
+     "label": "Steam discussion: ReStory device list (29 devices)",
+     "url": "https://steamcommunity.com/app/3812600/discussions/0/588434434320138300/",
+     "labels": {
+      "en": "Steam discussion: ReStory device list (29 devices)",
+      "zh-CN": "Steam 讨论：ReStory 设备清单（29 台）",
+      "ja": "Steam ディスカッション：ReStory デバイス一覧（29台）",
+      "ko": "Steam 토론: ReStory 기기 목록(29개)",
+      "fr": "Discussion Steam : liste des appareils ReStory (29 appareils)",
+      "de": "Steam-Diskussion: ReStory Geräteliste (29 Geräte)",
+      "es": "Debate de Steam: lista de dispositivos de ReStory (29 dispositivos)",
+      "pt-BR": "Tópico da Steam: lista de aparelhos de ReStory (29 aparelhos)",
+      "ru": "Обсуждение Steam: список устройств ReStory (29 устройств)",
+      "zh-TW": "Steam 討論：ReStory 設備清單（29 臺）"
+     }
+    }
+   ],
+   "meta": {
+    "icon": "console"
+   },
+   "i18n": {
+    "en": {
+     "title": "BreadBox Joystick — Device Profile",
+     "metaTitle": "BreadBox Joystick — ReStory Device Reference",
+     "metaDescription": "BreadBox Joystick in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+     "intro": "Device profile and reference for BreadBox Joystick in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). No official patch has named this device yet. A device-specific step-by-step procedure is still unknown.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Device Profile",
+       "columns": [
+        "Field",
+        "Value"
+       ],
+       "rows": [
+        [
+         "Device",
+         "BreadBox Joystick"
+        ],
+        [
+         "Family (L3)",
+         "Controllers"
+        ],
+        [
+         "Design inspiration (L3)",
+         "Commodore 64 T-1341 joystick"
+        ],
+        [
+         "Difficulty (L3)",
+         "Easy"
+        ],
+        [
+         "License fee (L3)",
+         "¥30,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community reference data (L3 — not officially verified)",
+       "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available."
+      },
+      {
+       "type": "note",
+       "heading": "What is verified",
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3) until verified against traceable game evidence."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Can I use this as a step-by-step repair guide?",
+         "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+        ],
+        [
+         "Where do the profile details come from?",
+         "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-breadbox-joystick",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "zh-CN": {
+     "title": "BreadBox Joystick — 设备资料",
+     "metaTitle": "BreadBox Joystick — ReStory 设…",
+     "metaDescription": "BreadBox Joystick 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）—…",
+     "intro": "BreadBox Joystick 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。A 设备专属的分步维修流程仍未核实。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "设备资料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "设备",
+         "BreadBox Joystick"
+        ],
+        [
+         "家族（L3）",
+         "手柄"
+        ],
+        [
+         "灵感原型（L3）",
+         "Commodore 64 T-1341 摇杆"
+        ],
+        [
+         "难度（L3）",
+         "简单"
+        ],
+        [
+         "许可费（L3）",
+         "¥30,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社区参考数据（L3——未经官方核实）",
+       "body": "本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。"
+      },
+      {
+       "type": "note",
+       "heading": "已核实范围",
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本页当作分步维修攻略吗？",
+         "不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。"
+        ],
+        [
+         "这些资料字段来自哪里？",
+         "来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-breadbox-joystick",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "ja": {
+     "title": "BreadBox Joystick — デバイス情報",
+     "metaTitle": "BreadBox Joystick — ReStory デ…",
+     "metaDescription": "BreadBox Joystick の ReStory デバイス情報：コミュニティ参考データ（L3、非…",
+     "intro": "BreadBox Joystick の ReStory デバイス情報。このページのプロフィール項目はすべてコミュニティ報告（L3——非公式・未検証と明記）：分類、難易度、ライセンス料、現実のインスピレーション。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）。デバイス固有のステップバイステップ手順はまだ不明です。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "デバイス情報",
+       "columns": [
+        "項目",
+        "内容"
+       ],
+       "rows": [
+        [
+         "デバイス",
+         "BreadBox Joystick"
+        ],
+        [
+         "ファミリー（L3）",
+         "コントローラー"
+        ],
+        [
+         "デザイン原型（L3）",
+         "Commodore 64 T-1341 ジョイスティック"
+        ],
+        [
+         "難易度（L3）",
+         "簡単"
+        ],
+        [
+         "ライセンス料（L3）",
+         "¥30,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "コミュニティ参考データ（L3——非公式・未検証）",
+       "body": "このページのプロフィール項目はすべてコミュニティ報告（L3）に基づいており、開発者や公式ソースによる検証はされていません。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）です。このデバイスのパーツ・ネジ・転売価格のデータは、相互確認済みの数字がないため掲載していません。"
+      },
+      {
+       "type": "note",
+       "heading": "確認済みの範囲",
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中で、プロフィール項目はすべて追跡可能なゲーム証拠で確認できるまでコミュニティ報告（L3）のままです。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "手順ガイドとして使える？",
+         "いいえ。追跡可能なゲーム証拠で確認できた後にのみ、固有手順を追加します。"
+        ],
+        [
+         "プロフィール項目の出典は？",
+         "コミュニティソース（L3）です：restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（下の「出典」にリンク）。これらの数字は公式には検証されていません。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-breadbox-joystick",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "ko": {
+     "title": "BreadBox Joystick — 기기 정보",
+     "metaTitle": "BreadBox Joystick — ReStory 기…",
+     "metaDescription": "ReStory의 BreadBox Joystick 기기 정보: 커뮤니티 참고 데이터(L3, 비공식·미…",
+     "intro": "ReStory의 BreadBox Joystick 기기 정보입니다. 이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3——비공식·미검증으로 명시): 분류, 난이도, 라이선스 비용, 현실 영감. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. 기기별 단계별 수리 절차는 아직 알려지지 않았습니다.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "기기 정보",
+       "columns": [
+        "항목",
+        "값"
+       ],
+       "rows": [
+        [
+         "기기",
+         "BreadBox Joystick"
+        ],
+        [
+         "계열(L3)",
+         "컨트롤러"
+        ],
+        [
+         "디자인 영감(L3)",
+         "Commodore 64 T-1341 조이스틱"
+        ],
+        [
+         "난이도(L3)",
+         "쉬움"
+        ],
+        [
+         "라이선스 비용(L3)",
+         "¥30,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "커뮤니티 참고 데이터(L3 — 비공식·미검증)",
+       "body": "이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3)이며 개발자나 공식 출처의 검증을 받지 않았습니다. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. 이 기기의 부품·나사·재판매 가격 데이터는 교차 확인된 수치가 없어 게시하지 않습니다. "
+      },
+      {
+       "type": "note",
+       "heading": "확인된 범위",
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중이며 모든 프로필 항목은 추적 가능한 게임 증거로 확인될 때까지 커뮤니티 보고(L3)입니다."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "단계별 수리 가이드로 사용할 수 있나요?",
+         "아니요. 추적 가능한 게임 증거로 확인된 뒤에만 기기별 절차를 추가합니다."
+        ],
+        [
+         "프로필 항목은 어디서 왔나요?",
+         "커뮤니티 출처(L3)입니다: restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(아래 \"출처\"에 링크). 이 수치 중 어느 것도 공식 검증되지 않았습니다."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-breadbox-joystick",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "fr": {
+     "title": "BreadBox Joystick — Fiche appareil",
+     "metaTitle": "BreadBox Joystick — Référence appareil ReStory",
+     "metaDescription": "Fiche de BreadBox Joystick dans ReStory : données de référence communautaires (L3, non vérifiées) — famille, difficulté, frais de licence et inspirat…",
+     "intro": "Fiche de BreadBox Joystick dans ReStory. Tous les détails du profil ci-dessous proviennent de la communauté (clairement marqués L3 — non vérifiés officiellement) : famille, difficulté, frais de licence et inspiration réelle, issus de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). La procédure pas à pas propre à cet appareil reste inconnue.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Fiche appareil",
+       "columns": [
+        "Champ",
+        "Valeur"
+       ],
+       "rows": [
+        [
+         "Appareil",
+         "BreadBox Joystick"
+        ],
+        [
+         "Famille (L3)",
+         "Manettes"
+        ],
+        [
+         "Inspiration de design (L3)",
+         "Manette Commodore 64 T-1341"
+        ],
+        [
+         "Difficulté (L3)",
+         "Facile"
+        ],
+        [
+         "Frais de licence (L3)",
+         "¥30,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Données de référence communautaires (L3 — non vérifiées officiellement)",
+       "body": "Tous les champs du profil ci-dessus proviennent de la communauté (L3) et n'ont pas été vérifiés par le développeur ni par une source officielle. Ils viennent de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). Nous ne publions pas encore de données de pièces, de vis ou de prix de revente pour cet appareil : aucun chiffre recoupé n'est disponible. "
+      },
+      {
+       "type": "note",
+       "heading": "Ce qui est vérifié",
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier, et tous les détails du profil restent communautaires (L3) jusqu'à vérification par des preuves de jeu traçables."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Puis-je suivre cette page pas à pas ?",
+         "Non. Une procédure propre à l'appareil ne sera ajoutée qu'après vérification par des preuves de jeu traçables."
+        ],
+        [
+         "D'où viennent les détails du profil ?",
+         "Ils proviennent de sources communautaires (L3) : la page d'appareil restory.wiki et la liste des appareils de la communauté Steam, liées dans « Sources » ci-dessous. Aucun de ces chiffres n'est officiellement vérifié."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-breadbox-joystick",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "de": {
+     "title": "BreadBox Joystick — Geräteprofil",
+     "metaTitle": "BreadBox Joystick — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von BreadBox Joystick in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. A…",
+     "intro": "Profil von BreadBox Joystick in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Geräteprofil",
+       "columns": [
+        "Feld",
+        "Wert"
+       ],
+       "rows": [
+        [
+         "Gerät",
+         "BreadBox Joystick"
+        ],
+        [
+         "Familie (L3)",
+         "Controller"
+        ],
+        [
+         "Design-Inspiration (L3)",
+         "Commodore-64-T-1341-Joystick"
+        ],
+        [
+         "Schwierigkeit (L3)",
+         "Leicht"
+        ],
+        [
+         "Lizenzgebühr (L3)",
+         "¥30,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community-Referenzdaten (L3 — nicht offiziell verifiziert)",
+       "body": "Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor. "
+      },
+      {
+       "type": "note",
+       "heading": "Verifizierter Umfang",
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Ist dies eine Schritt-für-Schritt-Anleitung?",
+         "Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt."
+        ],
+        [
+         "Woher stammen die Profildetails?",
+         "Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen\" verlinkt. Keine dieser Zahlen ist offiziell verifiziert."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-breadbox-joystick",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "es": {
+     "title": "BreadBox Joystick — Ficha del dispositivo",
+     "metaTitle": "BreadBox Joystick — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de BreadBox Joystick en ReStory: perfil más datos comunitarios (L3, no verificados) — familia, dificultad, tarifa de licencia e inspiración. Pr…",
+     "intro": "Ficha de BreadBox Joystick en ReStory. Todos los detalles del perfil provienen de la comunidad (marcados claramente como L3 — no verificados oficialmente): familia, dificultad, tarifa de licencia e inspiración real, procedentes de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). El procedimiento paso a paso específico sigue sin conocerse.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Ficha del dispositivo",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Dispositivo",
+         "BreadBox Joystick"
+        ],
+        [
+         "Familia (L3)",
+         "Mandos"
+        ],
+        [
+         "Inspiración de diseño (L3)",
+         "Joystick Commodore 64 T-1341"
+        ],
+        [
+         "Dificultad (L3)",
+         "Fácil"
+        ],
+        [
+         "Tarifa de licencia (L3)",
+         "¥30,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Datos de referencia de la comunidad (L3, no verificados oficialmente)",
+       "body": "Todos los campos del perfil provienen de la comunidad (L3) y no han sido verificados por el desarrollador ni por ninguna fuente oficial. Proceden de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). Todavía no publicamos datos de piezas, tornillos ni precios de reventa de este dispositivo: no hay cifras contrastadas disponibles. "
+      },
+      {
+       "type": "note",
+       "heading": "Alcance verificado",
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación y todos los detalles del perfil siguen siendo comunitarios (L3) hasta verificarse con pruebas trazables del juego."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "¿Es una guía paso a paso?",
+         "No. Solo se añadirá un procedimiento propio del dispositivo tras verificarlo con pruebas trazables del juego."
+        ],
+        [
+         "¿De dónde salen los detalles del perfil?",
+         "Provienen de fuentes comunitarias (L3): la página del dispositivo en restory.wiki y la lista de dispositivos de la comunidad de Steam, enlazadas en «Fuentes» abajo. Ninguna de estas cifras está verificada oficialmente."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-breadbox-joystick",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "pt-BR": {
+     "title": "BreadBox Joystick — Perfil do aparelho",
+     "metaTitle": "BreadBox Joystick — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de BreadBox Joystick em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração.…",
+     "intro": "Perfil de BreadBox Joystick em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). O procedimento passo a passo específico continua desconhecido.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Perfil do aparelho",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Aparelho",
+         "BreadBox Joystick"
+        ],
+        [
+         "Família (L3)",
+         "Controles"
+        ],
+        [
+         "Inspiração de design (L3)",
+         "Joystick Commodore 64 T-1341"
+        ],
+        [
+         "Dificuldade (L3)",
+         "Fácil"
+        ],
+        [
+         "Taxa de licença (L3)",
+         "¥30,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Dados de referência da comunidade (L3, não verificados oficialmente)",
+       "body": "Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis. "
+      },
+      {
+       "type": "note",
+       "heading": "Escopo verificado",
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Posso usar como guia passo a passo?",
+         "Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo."
+        ],
+        [
+         "De onde vêm os detalhes do perfil?",
+         "Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em \"Fontes\" abaixo. Nenhum desses números é verificado oficialmente."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-breadbox-joystick",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "ru": {
+     "title": "BreadBox Joystick — Профиль устройства",
+     "metaTitle": "BreadBox Joystick — Справка об устройстве ReStory",
+     "metaDescription": "Профиль BreadBox Joystick в ReStory: справочные данные сообщества (L3, не проверены) — семейство, сложность, стоимость лицензии и вдохновение. Процед…",
+     "intro": "Профиль BreadBox Joystick в ReStory. Все детали профиля ниже основаны на данных сообщества (чётко помечены как L3 — не проверены официально): семейство, сложность, стоимость лицензии и реальный прототип, взятые со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Пошаговая процедура для устройства по-прежнему неизвестна.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Профиль устройства",
+       "columns": [
+        "Поле",
+        "Значение"
+       ],
+       "rows": [
+        [
+         "Устройство",
+         "BreadBox Joystick"
+        ],
+        [
+         "Семейство (L3)",
+         "Контроллеры"
+        ],
+        [
+         "Прототип дизайна (L3)",
+         "Джойстик Commodore 64 T-1341"
+        ],
+        [
+         "Сложность (L3)",
+         "Легко"
+        ],
+        [
+         "Стоимость лицензии (L3)",
+         "¥30,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Справочные данные сообщества (L3 — не проверены официально)",
+       "body": "Все поля профиля выше основаны на данных сообщества (L3) и не проверены разработчиком или официальными источниками. Они взяты со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Мы пока не публикуем данные о деталях, винтах или ценах перепродажи этого устройства: сверенных цифр нет. "
+      },
+      {
+       "type": "note",
+       "heading": "Что подтверждено",
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется, и все детали профиля остаются данными сообщества (L3), пока не будут подтверждены отслеживаемыми игровыми доказательствами."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Это пошаговый гайд по ремонту?",
+         "Нет. Процедура появится только после проверки по отслеживаемым игровым доказательствам."
+        ],
+        [
+         "Откуда взяты детали профиля?",
+         "Из источников сообщества (L3): страница устройства на restory.wiki и список устройств сообщества Steam, ссылки ниже в «Источниках». Ни одна из этих цифр официально не проверена."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-breadbox-joystick",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "zh-TW": {
+     "title": "BreadBox Joystick — 設備資料",
+     "metaTitle": "BreadBox Joystick — ReStory 設…",
+     "metaDescription": "BreadBox Joystick 的 ReStory 設備資料：含社區參考數據（L3，未經官方核實）—…",
+     "intro": "BreadBox Joystick 的 ReStory 設備資料與參考：本頁所有資料字段均來自社區報告（明確標註 L3——未經官方核實）：類別、難度、許可費與現實靈感，來源為 restory.wiki 設備頁與 Steam 社區設備清單（見本頁底部「來源」鏈接）。A 設備專屬的分步維修流程仍未核實。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "設備資料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "設備",
+         "BreadBox Joystick"
+        ],
+        [
+         "家族（L3）",
+         "手柄"
+        ],
+        [
+         "靈感原型（L3）",
+         "Commodore 64 T-1341 搖桿"
+        ],
+        [
+         "難度（L3）",
+         "簡單"
+        ],
+        [
+         "許可費（L3）",
+         "¥30,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社區參考數據（L3——未經官方核實）",
+       "body": "本頁上方的資料字段均來自社區報告（L3），未經開發者或任何官方來源核實。來源為 restory.wiki 設備頁與 Steam 社區設備清單（均在本頁底部「來源」中列出並可點擊）。本頁暫不發佈該設備的零件、螺絲或轉售價格數據：目前沒有交叉核實過的數字。"
+      },
+      {
+       "type": "note",
+       "heading": "已核實範圍",
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實，所有資料字段在經可追溯的遊戲證據核實前均保持為社區報告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本頁當作分步維修攻略嗎？",
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
+        ],
+        [
+         "這些資料字段來自哪裡？",
+         "來自社區來源（L3）：restory.wiki 設備頁與 Steam 社區設備清單，見本頁下方「來源」。這些數字均未經官方核實。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-breadbox-joystick",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    }
+   }
+  },
+  {
+   "slug": "devices/xi-box",
+   "title": "XI-box — Device Profile",
+   "metaTitle": "XI-box — ReStory Device Reference",
+   "metaDescription": "XI-box in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+   "intro": "Device profile and reference for XI-box in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). No official patch has named this device yet. A device-specific step-by-step procedure is still unknown.",
+   "sections": [
+    {
+     "type": "table",
+     "heading": "Device Profile",
+     "columns": [
+      "Field",
+      "Value"
+     ],
+     "rows": [
+      [
+       "Device",
+       "XI-box"
+      ],
+      [
+       "Family (L3)",
+       "Consoles"
+      ],
+      [
+       "Design inspiration (L3)",
+       "Xbox-style console"
+      ],
+      [
+       "Difficulty (L3)",
+       "Hard"
+      ],
+      [
+       "License fee (L3)",
+       "¥110,000"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "heading": "Community reference data (L3 — not officially verified)",
+     "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available."
+    },
+    {
+     "type": "note",
+     "heading": "What is verified",
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3) until verified against traceable game evidence."
+    },
+    {
+     "type": "faq",
+     "heading": "FAQ",
+     "items": [
+      [
+       "Can I use this as a step-by-step repair guide?",
+       "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+      ],
+      [
+       "Where do the profile details come from?",
+       "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+      ]
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "label": "restory.wiki — XI-box (community wiki)",
+     "url": "https://restory.wiki/w/XI-box",
+     "labels": {
+      "en": "restory.wiki — XI-box (community wiki)",
+      "zh-CN": "restory.wiki — XI-box（社区维基）",
+      "ja": "restory.wiki — XI-box（コミュニティWiki）",
+      "ko": "restory.wiki — XI-box（커뮤니티 위키）",
+      "fr": "restory.wiki — XI-box (wiki communautaire)",
+      "de": "restory.wiki — XI-box (Community-Wiki)",
+      "es": "restory.wiki — XI-box (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — XI-box (wiki da comunidade)",
+      "ru": "restory.wiki — XI-box (вики сообщества)",
+      "zh-TW": "restory.wiki — XI-box（社區維基）"
+     }
+    },
+    {
+     "label": "Steam discussion: ReStory device list (29 devices)",
+     "url": "https://steamcommunity.com/app/3812600/discussions/0/588434434320138300/",
+     "labels": {
+      "en": "Steam discussion: ReStory device list (29 devices)",
+      "zh-CN": "Steam 讨论：ReStory 设备清单（29 台）",
+      "ja": "Steam ディスカッション：ReStory デバイス一覧（29台）",
+      "ko": "Steam 토론: ReStory 기기 목록(29개)",
+      "fr": "Discussion Steam : liste des appareils ReStory (29 appareils)",
+      "de": "Steam-Diskussion: ReStory Geräteliste (29 Geräte)",
+      "es": "Debate de Steam: lista de dispositivos de ReStory (29 dispositivos)",
+      "pt-BR": "Tópico da Steam: lista de aparelhos de ReStory (29 aparelhos)",
+      "ru": "Обсуждение Steam: список устройств ReStory (29 устройств)",
+      "zh-TW": "Steam 討論：ReStory 設備清單（29 臺）"
+     }
+    }
+   ],
+   "meta": {
+    "icon": "console"
+   },
+   "i18n": {
+    "en": {
+     "title": "XI-box — Device Profile",
+     "metaTitle": "XI-box — ReStory Device Reference",
+     "metaDescription": "XI-box in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+     "intro": "Device profile and reference for XI-box in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). No official patch has named this device yet. A device-specific step-by-step procedure is still unknown.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Device Profile",
+       "columns": [
+        "Field",
+        "Value"
+       ],
+       "rows": [
+        [
+         "Device",
+         "XI-box"
+        ],
+        [
+         "Family (L3)",
+         "Consoles"
+        ],
+        [
+         "Design inspiration (L3)",
+         "Xbox-style console"
+        ],
+        [
+         "Difficulty (L3)",
+         "Hard"
+        ],
+        [
+         "License fee (L3)",
+         "¥110,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community reference data (L3 — not officially verified)",
+       "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available."
+      },
+      {
+       "type": "note",
+       "heading": "What is verified",
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3) until verified against traceable game evidence."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Can I use this as a step-by-step repair guide?",
+         "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+        ],
+        [
+         "Where do the profile details come from?",
+         "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "zh-CN": {
+     "title": "XI-box — 设备资料",
+     "metaTitle": "XI-box — ReStory 设备参考",
+     "metaDescription": "XI-box 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——类别、难度、许可费与现实灵感；步骤流程仍未核实。",
+     "intro": "XI-box 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。A 设备专属的分步维修流程仍未核实。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "设备资料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "设备",
+         "XI-box"
+        ],
+        [
+         "家族（L3）",
+         "家用主机"
+        ],
+        [
+         "灵感原型（L3）",
+         "Xbox 式主机"
+        ],
+        [
+         "难度（L3）",
+         "困难"
+        ],
+        [
+         "许可费（L3）",
+         "¥110,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社区参考数据（L3——未经官方核实）",
+       "body": "本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。"
+      },
+      {
+       "type": "note",
+       "heading": "已核实范围",
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本页当作分步维修攻略吗？",
+         "不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。"
+        ],
+        [
+         "这些资料字段来自哪里？",
+         "来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "ja": {
+     "title": "XI-box — デバイス情報",
+     "metaTitle": "XI-box — ReStory デバイス資料",
+     "metaDescription": "XI-box の ReStory デバイス情報：コミュニティ参考データ（L3、非公式・未検証…",
+     "intro": "XI-box の ReStory デバイス情報。このページのプロフィール項目はすべてコミュニティ報告（L3——非公式・未検証と明記）：分類、難易度、ライセンス料、現実のインスピレーション。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）。デバイス固有のステップバイステップ手順はまだ不明です。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "デバイス情報",
+       "columns": [
+        "項目",
+        "内容"
+       ],
+       "rows": [
+        [
+         "デバイス",
+         "XI-box"
+        ],
+        [
+         "ファミリー（L3）",
+         "ゲーム機"
+        ],
+        [
+         "デザイン原型（L3）",
+         "Xbox 風のゲーム機"
+        ],
+        [
+         "難易度（L3）",
+         "難しい"
+        ],
+        [
+         "ライセンス料（L3）",
+         "¥110,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "コミュニティ参考データ（L3——非公式・未検証）",
+       "body": "このページのプロフィール項目はすべてコミュニティ報告（L3）に基づいており、開発者や公式ソースによる検証はされていません。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）です。このデバイスのパーツ・ネジ・転売価格のデータは、相互確認済みの数字がないため掲載していません。"
+      },
+      {
+       "type": "note",
+       "heading": "確認済みの範囲",
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中で、プロフィール項目はすべて追跡可能なゲーム証拠で確認できるまでコミュニティ報告（L3）のままです。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "手順ガイドとして使える？",
+         "いいえ。追跡可能なゲーム証拠で確認できた後にのみ、固有手順を追加します。"
+        ],
+        [
+         "プロフィール項目の出典は？",
+         "コミュニティソース（L3）です：restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（下の「出典」にリンク）。これらの数字は公式には検証されていません。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "ko": {
+     "title": "XI-box — 기기 정보",
+     "metaTitle": "XI-box — ReStory 기기 자료",
+     "metaDescription": "ReStory의 XI-box 기기 정보: 커뮤니티 참고 데이터(L3, 비공식·미검증) — 분류…",
+     "intro": "ReStory의 XI-box 기기 정보입니다. 이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3——비공식·미검증으로 명시): 분류, 난이도, 라이선스 비용, 현실 영감. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. 기기별 단계별 수리 절차는 아직 알려지지 않았습니다.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "기기 정보",
+       "columns": [
+        "항목",
+        "값"
+       ],
+       "rows": [
+        [
+         "기기",
+         "XI-box"
+        ],
+        [
+         "계열(L3)",
+         "콘솔"
+        ],
+        [
+         "디자인 영감(L3)",
+         "Xbox 스타일 콘솔"
+        ],
+        [
+         "난이도(L3)",
+         "어려움"
+        ],
+        [
+         "라이선스 비용(L3)",
+         "¥110,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "커뮤니티 참고 데이터(L3 — 비공식·미검증)",
+       "body": "이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3)이며 개발자나 공식 출처의 검증을 받지 않았습니다. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. 이 기기의 부품·나사·재판매 가격 데이터는 교차 확인된 수치가 없어 게시하지 않습니다. "
+      },
+      {
+       "type": "note",
+       "heading": "확인된 범위",
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중이며 모든 프로필 항목은 추적 가능한 게임 증거로 확인될 때까지 커뮤니티 보고(L3)입니다."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "단계별 수리 가이드로 사용할 수 있나요?",
+         "아니요. 추적 가능한 게임 증거로 확인된 뒤에만 기기별 절차를 추가합니다."
+        ],
+        [
+         "프로필 항목은 어디서 왔나요?",
+         "커뮤니티 출처(L3)입니다: restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(아래 \"출처\"에 링크). 이 수치 중 어느 것도 공식 검증되지 않았습니다."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "fr": {
+     "title": "XI-box — Fiche appareil",
+     "metaTitle": "XI-box — Référence appareil ReStory",
+     "metaDescription": "Fiche de XI-box dans ReStory : données de référence communautaires (L3, non vérifiées) — famille, difficulté, frais de licence et inspiration. Procéd…",
+     "intro": "Fiche de XI-box dans ReStory. Tous les détails du profil ci-dessous proviennent de la communauté (clairement marqués L3 — non vérifiés officiellement) : famille, difficulté, frais de licence et inspiration réelle, issus de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). La procédure pas à pas propre à cet appareil reste inconnue.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Fiche appareil",
+       "columns": [
+        "Champ",
+        "Valeur"
+       ],
+       "rows": [
+        [
+         "Appareil",
+         "XI-box"
+        ],
+        [
+         "Famille (L3)",
+         "Consoles"
+        ],
+        [
+         "Inspiration de design (L3)",
+         "Console façon Xbox"
+        ],
+        [
+         "Difficulté (L3)",
+         "Difficile"
+        ],
+        [
+         "Frais de licence (L3)",
+         "¥110,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Données de référence communautaires (L3 — non vérifiées officiellement)",
+       "body": "Tous les champs du profil ci-dessus proviennent de la communauté (L3) et n'ont pas été vérifiés par le développeur ni par une source officielle. Ils viennent de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). Nous ne publions pas encore de données de pièces, de vis ou de prix de revente pour cet appareil : aucun chiffre recoupé n'est disponible. "
+      },
+      {
+       "type": "note",
+       "heading": "Ce qui est vérifié",
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier, et tous les détails du profil restent communautaires (L3) jusqu'à vérification par des preuves de jeu traçables."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Puis-je suivre cette page pas à pas ?",
+         "Non. Une procédure propre à l'appareil ne sera ajoutée qu'après vérification par des preuves de jeu traçables."
+        ],
+        [
+         "D'où viennent les détails du profil ?",
+         "Ils proviennent de sources communautaires (L3) : la page d'appareil restory.wiki et la liste des appareils de la communauté Steam, liées dans « Sources » ci-dessous. Aucun de ces chiffres n'est officiellement vérifié."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "de": {
+     "title": "XI-box — Geräteprofil",
+     "metaTitle": "XI-box — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von XI-box in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. Ablauf unbek…",
+     "intro": "Profil von XI-box in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Geräteprofil",
+       "columns": [
+        "Feld",
+        "Wert"
+       ],
+       "rows": [
+        [
+         "Gerät",
+         "XI-box"
+        ],
+        [
+         "Familie (L3)",
+         "Konsolen"
+        ],
+        [
+         "Design-Inspiration (L3)",
+         "Xbox-artige Konsole"
+        ],
+        [
+         "Schwierigkeit (L3)",
+         "Schwer"
+        ],
+        [
+         "Lizenzgebühr (L3)",
+         "¥110,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community-Referenzdaten (L3 — nicht offiziell verifiziert)",
+       "body": "Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor. "
+      },
+      {
+       "type": "note",
+       "heading": "Verifizierter Umfang",
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Ist dies eine Schritt-für-Schritt-Anleitung?",
+         "Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt."
+        ],
+        [
+         "Woher stammen die Profildetails?",
+         "Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen\" verlinkt. Keine dieser Zahlen ist offiziell verifiziert."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "es": {
+     "title": "XI-box — Ficha del dispositivo",
+     "metaTitle": "XI-box — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de XI-box en ReStory: perfil más datos comunitarios (L3, no verificados) — familia, dificultad, tarifa de licencia e inspiración. Procedimiento…",
+     "intro": "Ficha de XI-box en ReStory. Todos los detalles del perfil provienen de la comunidad (marcados claramente como L3 — no verificados oficialmente): familia, dificultad, tarifa de licencia e inspiración real, procedentes de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). El procedimiento paso a paso específico sigue sin conocerse.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Ficha del dispositivo",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Dispositivo",
+         "XI-box"
+        ],
+        [
+         "Familia (L3)",
+         "Consolas"
+        ],
+        [
+         "Inspiración de diseño (L3)",
+         "Consola estilo Xbox"
+        ],
+        [
+         "Dificultad (L3)",
+         "Difícil"
+        ],
+        [
+         "Tarifa de licencia (L3)",
+         "¥110,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Datos de referencia de la comunidad (L3, no verificados oficialmente)",
+       "body": "Todos los campos del perfil provienen de la comunidad (L3) y no han sido verificados por el desarrollador ni por ninguna fuente oficial. Proceden de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). Todavía no publicamos datos de piezas, tornillos ni precios de reventa de este dispositivo: no hay cifras contrastadas disponibles. "
+      },
+      {
+       "type": "note",
+       "heading": "Alcance verificado",
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación y todos los detalles del perfil siguen siendo comunitarios (L3) hasta verificarse con pruebas trazables del juego."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "¿Es una guía paso a paso?",
+         "No. Solo se añadirá un procedimiento propio del dispositivo tras verificarlo con pruebas trazables del juego."
+        ],
+        [
+         "¿De dónde salen los detalles del perfil?",
+         "Provienen de fuentes comunitarias (L3): la página del dispositivo en restory.wiki y la lista de dispositivos de la comunidad de Steam, enlazadas en «Fuentes» abajo. Ninguna de estas cifras está verificada oficialmente."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "pt-BR": {
+     "title": "XI-box — Perfil do aparelho",
+     "metaTitle": "XI-box — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de XI-box em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração. Procedimen…",
+     "intro": "Perfil de XI-box em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). O procedimento passo a passo específico continua desconhecido.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Perfil do aparelho",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Aparelho",
+         "XI-box"
+        ],
+        [
+         "Família (L3)",
+         "Consoles"
+        ],
+        [
+         "Inspiração de design (L3)",
+         "Console estilo Xbox"
+        ],
+        [
+         "Dificuldade (L3)",
+         "Difícil"
+        ],
+        [
+         "Taxa de licença (L3)",
+         "¥110,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Dados de referência da comunidade (L3, não verificados oficialmente)",
+       "body": "Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis. "
+      },
+      {
+       "type": "note",
+       "heading": "Escopo verificado",
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Posso usar como guia passo a passo?",
+         "Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo."
+        ],
+        [
+         "De onde vêm os detalhes do perfil?",
+         "Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em \"Fontes\" abaixo. Nenhum desses números é verificado oficialmente."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "ru": {
+     "title": "XI-box — Профиль устройства",
+     "metaTitle": "XI-box — Справка об устройстве ReStory",
+     "metaDescription": "Профиль XI-box в ReStory: справочные данные сообщества (L3, не проверены) — семейство, сложность, стоимость лицензии и вдохновение. Процедура неизвес…",
+     "intro": "Профиль XI-box в ReStory. Все детали профиля ниже основаны на данных сообщества (чётко помечены как L3 — не проверены официально): семейство, сложность, стоимость лицензии и реальный прототип, взятые со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Пошаговая процедура для устройства по-прежнему неизвестна.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Профиль устройства",
+       "columns": [
+        "Поле",
+        "Значение"
+       ],
+       "rows": [
+        [
+         "Устройство",
+         "XI-box"
+        ],
+        [
+         "Семейство (L3)",
+         "Консоли"
+        ],
+        [
+         "Прототип дизайна (L3)",
+         "Консоль в стиле Xbox"
+        ],
+        [
+         "Сложность (L3)",
+         "Сложно"
+        ],
+        [
+         "Стоимость лицензии (L3)",
+         "¥110,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Справочные данные сообщества (L3 — не проверены официально)",
+       "body": "Все поля профиля выше основаны на данных сообщества (L3) и не проверены разработчиком или официальными источниками. Они взяты со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Мы пока не публикуем данные о деталях, винтах или ценах перепродажи этого устройства: сверенных цифр нет. "
+      },
+      {
+       "type": "note",
+       "heading": "Что подтверждено",
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется, и все детали профиля остаются данными сообщества (L3), пока не будут подтверждены отслеживаемыми игровыми доказательствами."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Это пошаговый гайд по ремонту?",
+         "Нет. Процедура появится только после проверки по отслеживаемым игровым доказательствам."
+        ],
+        [
+         "Откуда взяты детали профиля?",
+         "Из источников сообщества (L3): страница устройства на restory.wiki и список устройств сообщества Steam, ссылки ниже в «Источниках». Ни одна из этих цифр официально не проверена."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "zh-TW": {
+     "title": "XI-box — 設備資料",
+     "metaTitle": "XI-box — ReStory 設備參考",
+     "metaDescription": "XI-box 的 ReStory 設備資料：含社區參考數據（L3，未經官方核實）——類別、難度、許可費與現實靈感；步驟流程仍未核實。",
+     "intro": "XI-box 的 ReStory 設備資料與參考：本頁所有資料字段均來自社區報告（明確標註 L3——未經官方核實）：類別、難度、許可費與現實靈感，來源為 restory.wiki 設備頁與 Steam 社區設備清單（見本頁底部「來源」鏈接）。A 設備專屬的分步維修流程仍未核實。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "設備資料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "設備",
+         "XI-box"
+        ],
+        [
+         "家族（L3）",
+         "家用主機"
+        ],
+        [
+         "靈感原型（L3）",
+         "Xbox 式主機"
+        ],
+        [
+         "難度（L3）",
+         "困難"
+        ],
+        [
+         "許可費（L3）",
+         "¥110,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社區參考數據（L3——未經官方核實）",
+       "body": "本頁上方的資料字段均來自社區報告（L3），未經開發者或任何官方來源核實。來源為 restory.wiki 設備頁與 Steam 社區設備清單（均在本頁底部「來源」中列出並可點擊）。本頁暫不發佈該設備的零件、螺絲或轉售價格數據：目前沒有交叉核實過的數字。"
+      },
+      {
+       "type": "note",
+       "heading": "已核實範圍",
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實，所有資料字段在經可追溯的遊戲證據核實前均保持為社區報告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本頁當作分步維修攻略嗎？",
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
+        ],
+        [
+         "這些資料字段來自哪裡？",
+         "來自社區來源（L3）：restory.wiki 設備頁與 Steam 社區設備清單，見本頁下方「來源」。這些數字均未經官方核實。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    }
+   }
+  },
+  {
+   "slug": "devices/xi-box-controller",
+   "title": "XI-box Controller — Device Profile",
+   "metaTitle": "XI-box Controller — ReStory Device Reference",
+   "metaDescription": "XI-box Controller in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+   "intro": "Device profile and reference for the XI-box Controller in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). No official patch has named this device yet. A device-specific step-by-step procedure is still unknown.",
+   "sections": [
+    {
+     "type": "table",
+     "heading": "Device Profile",
+     "columns": [
+      "Field",
+      "Value"
+     ],
+     "rows": [
+      [
+       "Device",
+       "XI-box Controller"
+      ],
+      [
+       "Family (L3)",
+       "Controllers"
+      ],
+      [
+       "Design inspiration (L3)",
+       "Xbox 'Duke' controller"
+      ],
+      [
+       "Difficulty (L3)",
+       "Easy"
+      ],
+      [
+       "License fee (L3)",
+       "¥33,000"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "heading": "Community reference data (L3 — not officially verified)",
+     "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available."
+    },
+    {
+     "type": "note",
+     "heading": "What is verified",
+     "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3) until verified against traceable game evidence."
+    },
+    {
+     "type": "faq",
+     "heading": "FAQ",
+     "items": [
+      [
+       "Can I use this as a step-by-step repair guide?",
+       "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+      ],
+      [
+       "Where do the profile details come from?",
+       "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+      ]
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "label": "restory.wiki — XI-box Controller (community wiki)",
+     "url": "https://restory.wiki/w/XI-box_Controller",
+     "labels": {
+      "en": "restory.wiki — XI-box Controller (community wiki)",
+      "zh-CN": "restory.wiki — XI-box Controller（社区维基）",
+      "ja": "restory.wiki — XI-box Controller（コミュニティWiki）",
+      "ko": "restory.wiki — XI-box Controller（커뮤니티 위키）",
+      "fr": "restory.wiki — XI-box Controller (wiki communautaire)",
+      "de": "restory.wiki — XI-box Controller (Community-Wiki)",
+      "es": "restory.wiki — XI-box Controller (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — XI-box Controller (wiki da comunidade)",
+      "ru": "restory.wiki — XI-box Controller (вики сообщества)",
+      "zh-TW": "restory.wiki — XI-box Controller（社區維基）"
+     }
+    },
+    {
+     "label": "Steam discussion: ReStory device list (29 devices)",
+     "url": "https://steamcommunity.com/app/3812600/discussions/0/588434434320138300/",
+     "labels": {
+      "en": "Steam discussion: ReStory device list (29 devices)",
+      "zh-CN": "Steam 讨论：ReStory 设备清单（29 台）",
+      "ja": "Steam ディスカッション：ReStory デバイス一覧（29台）",
+      "ko": "Steam 토론: ReStory 기기 목록(29개)",
+      "fr": "Discussion Steam : liste des appareils ReStory (29 appareils)",
+      "de": "Steam-Diskussion: ReStory Geräteliste (29 Geräte)",
+      "es": "Debate de Steam: lista de dispositivos de ReStory (29 dispositivos)",
+      "pt-BR": "Tópico da Steam: lista de aparelhos de ReStory (29 aparelhos)",
+      "ru": "Обсуждение Steam: список устройств ReStory (29 устройств)",
+      "zh-TW": "Steam 討論：ReStory 設備清單（29 臺）"
+     }
+    }
+   ],
+   "meta": {
+    "icon": "console"
+   },
+   "i18n": {
+    "en": {
+     "title": "XI-box Controller — Device Profile",
+     "metaTitle": "XI-box Controller — ReStory Device Reference",
+     "metaDescription": "XI-box Controller in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+     "intro": "Device profile and reference for the XI-box Controller in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). No official patch has named this device yet. A device-specific step-by-step procedure is still unknown.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Device Profile",
+       "columns": [
+        "Field",
+        "Value"
+       ],
+       "rows": [
+        [
+         "Device",
+         "XI-box Controller"
+        ],
+        [
+         "Family (L3)",
+         "Controllers"
+        ],
+        [
+         "Design inspiration (L3)",
+         "Xbox 'Duke' controller"
+        ],
+        [
+         "Difficulty (L3)",
+         "Easy"
+        ],
+        [
+         "License fee (L3)",
+         "¥33,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community reference data (L3 — not officially verified)",
+       "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available."
+      },
+      {
+       "type": "note",
+       "heading": "What is verified",
+       "body": "This page identifies a repairable ReStory device. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3) until verified against traceable game evidence."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Can I use this as a step-by-step repair guide?",
+         "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+        ],
+        [
+         "Where do the profile details come from?",
+         "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box-controller",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "zh-CN": {
+     "title": "XI-box Controller — 设备资料",
+     "metaTitle": "XI-box Controller — ReStory 设…",
+     "metaDescription": "XI-box Controller 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）—…",
+     "intro": "XI-box Controller 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。A 设备专属的分步维修流程仍未核实。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "设备资料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "设备",
+         "XI-box Controller"
+        ],
+        [
+         "家族（L3）",
+         "手柄"
+        ],
+        [
+         "灵感原型（L3）",
+         "Xbox「Duke」手柄"
+        ],
+        [
+         "难度（L3）",
+         "简单"
+        ],
+        [
+         "许可费（L3）",
+         "¥33,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社区参考数据（L3——未经官方核实）",
+       "body": "本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。"
+      },
+      {
+       "type": "note",
+       "heading": "已核实范围",
+       "body": "本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本页当作分步维修攻略吗？",
+         "不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。"
+        ],
+        [
+         "这些资料字段来自哪里？",
+         "来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box-controller",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "ja": {
+     "title": "XI-box Controller — デバイス情報",
+     "metaTitle": "XI-box Controller — ReStory デ…",
+     "metaDescription": "XI-box Controller の ReStory デバイス情報：コミュニティ参考データ（L3、非…",
+     "intro": "XI-box Controller の ReStory デバイス情報。このページのプロフィール項目はすべてコミュニティ報告（L3——非公式・未検証と明記）：分類、難易度、ライセンス料、現実のインスピレーション。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）。デバイス固有のステップバイステップ手順はまだ不明です。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "デバイス情報",
+       "columns": [
+        "項目",
+        "内容"
+       ],
+       "rows": [
+        [
+         "デバイス",
+         "XI-box Controller"
+        ],
+        [
+         "ファミリー（L3）",
+         "コントローラー"
+        ],
+        [
+         "デザイン原型（L3）",
+         "Xbox「Duke」コントローラー"
+        ],
+        [
+         "難易度（L3）",
+         "簡単"
+        ],
+        [
+         "ライセンス料（L3）",
+         "¥33,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "コミュニティ参考データ（L3——非公式・未検証）",
+       "body": "このページのプロフィール項目はすべてコミュニティ報告（L3）に基づいており、開発者や公式ソースによる検証はされていません。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）です。このデバイスのパーツ・ネジ・転売価格のデータは、相互確認済みの数字がないため掲載していません。"
+      },
+      {
+       "type": "note",
+       "heading": "確認済みの範囲",
+       "body": "ReStoryで修理可能なデバイスを確認するページです。ゲーム内の正確な手順は検証中で、プロフィール項目はすべて追跡可能なゲーム証拠で確認できるまでコミュニティ報告（L3）のままです。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "手順ガイドとして使える？",
+         "いいえ。追跡可能なゲーム証拠で確認できた後にのみ、固有手順を追加します。"
+        ],
+        [
+         "プロフィール項目の出典は？",
+         "コミュニティソース（L3）です：restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（下の「出典」にリンク）。これらの数字は公式には検証されていません。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box-controller",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "ko": {
+     "title": "XI-box Controller — 기기 정보",
+     "metaTitle": "XI-box Controller — ReStory 기…",
+     "metaDescription": "ReStory의 XI-box Controller 기기 정보: 커뮤니티 참고 데이터(L3, 비공식·미…",
+     "intro": "ReStory의 XI-box Controller 기기 정보입니다. 이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3——비공식·미검증으로 명시): 분류, 난이도, 라이선스 비용, 현실 영감. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. 기기별 단계별 수리 절차는 아직 알려지지 않았습니다.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "기기 정보",
+       "columns": [
+        "항목",
+        "값"
+       ],
+       "rows": [
+        [
+         "기기",
+         "XI-box Controller"
+        ],
+        [
+         "계열(L3)",
+         "컨트롤러"
+        ],
+        [
+         "디자인 영감(L3)",
+         "Xbox 'Duke' 컨트롤러"
+        ],
+        [
+         "난이도(L3)",
+         "쉬움"
+        ],
+        [
+         "라이선스 비용(L3)",
+         "¥33,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "커뮤니티 참고 데이터(L3 — 비공식·미검증)",
+       "body": "이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3)이며 개발자나 공식 출처의 검증을 받지 않았습니다. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. 이 기기의 부품·나사·재판매 가격 데이터는 교차 확인된 수치가 없어 게시하지 않습니다. "
+      },
+      {
+       "type": "note",
+       "heading": "확인된 범위",
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. 정확한 게임 내 절차는 아직 확인 중이며 모든 프로필 항목은 추적 가능한 게임 증거로 확인될 때까지 커뮤니티 보고(L3)입니다."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "단계별 수리 가이드로 사용할 수 있나요?",
+         "아니요. 추적 가능한 게임 증거로 확인된 뒤에만 기기별 절차를 추가합니다."
+        ],
+        [
+         "프로필 항목은 어디서 왔나요?",
+         "커뮤니티 출처(L3)입니다: restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(아래 \"출처\"에 링크). 이 수치 중 어느 것도 공식 검증되지 않았습니다."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box-controller",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "fr": {
+     "title": "XI-box Controller — Fiche appareil",
+     "metaTitle": "XI-box Controller — Référence appareil ReStory",
+     "metaDescription": "Fiche de XI-box Controller dans ReStory : données de référence communautaires (L3, non vérifiées) — famille, difficulté, frais de licence et inspirat…",
+     "intro": "Fiche de XI-box Controller dans ReStory. Tous les détails du profil ci-dessous proviennent de la communauté (clairement marqués L3 — non vérifiés officiellement) : famille, difficulté, frais de licence et inspiration réelle, issus de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). La procédure pas à pas propre à cet appareil reste inconnue.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Fiche appareil",
+       "columns": [
+        "Champ",
+        "Valeur"
+       ],
+       "rows": [
+        [
+         "Appareil",
+         "XI-box Controller"
+        ],
+        [
+         "Famille (L3)",
+         "Manettes"
+        ],
+        [
+         "Inspiration de design (L3)",
+         "Manette « Duke » de Xbox"
+        ],
+        [
+         "Difficulté (L3)",
+         "Facile"
+        ],
+        [
+         "Frais de licence (L3)",
+         "¥33,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Données de référence communautaires (L3 — non vérifiées officiellement)",
+       "body": "Tous les champs du profil ci-dessus proviennent de la communauté (L3) et n'ont pas été vérifiés par le développeur ni par une source officielle. Ils viennent de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). Nous ne publions pas encore de données de pièces, de vis ou de prix de revente pour cet appareil : aucun chiffre recoupé n'est disponible. "
+      },
+      {
+       "type": "note",
+       "heading": "Ce qui est vérifié",
+       "body": "Cette page identifie un appareil réparable de ReStory. Sa procédure exacte en jeu reste à vérifier, et tous les détails du profil restent communautaires (L3) jusqu'à vérification par des preuves de jeu traçables."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Puis-je suivre cette page pas à pas ?",
+         "Non. Une procédure propre à l'appareil ne sera ajoutée qu'après vérification par des preuves de jeu traçables."
+        ],
+        [
+         "D'où viennent les détails du profil ?",
+         "Ils proviennent de sources communautaires (L3) : la page d'appareil restory.wiki et la liste des appareils de la communauté Steam, liées dans « Sources » ci-dessous. Aucun de ces chiffres n'est officiellement vérifié."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box-controller",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "de": {
+     "title": "XI-box Controller — Geräteprofil",
+     "metaTitle": "XI-box Controller — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von XI-box Controller in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. A…",
+     "intro": "Profil von XI-box Controller in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Geräteprofil",
+       "columns": [
+        "Feld",
+        "Wert"
+       ],
+       "rows": [
+        [
+         "Gerät",
+         "XI-box Controller"
+        ],
+        [
+         "Familie (L3)",
+         "Controller"
+        ],
+        [
+         "Design-Inspiration (L3)",
+         "Xbox-„Duke“-Controller"
+        ],
+        [
+         "Schwierigkeit (L3)",
+         "Leicht"
+        ],
+        [
+         "Lizenzgebühr (L3)",
+         "¥33,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community-Referenzdaten (L3 — nicht offiziell verifiziert)",
+       "body": "Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor. "
+      },
+      {
+       "type": "note",
+       "heading": "Verifizierter Umfang",
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Ist dies eine Schritt-für-Schritt-Anleitung?",
+         "Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt."
+        ],
+        [
+         "Woher stammen die Profildetails?",
+         "Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen\" verlinkt. Keine dieser Zahlen ist offiziell verifiziert."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box-controller",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "es": {
+     "title": "XI-box Controller — Ficha del dispositivo",
+     "metaTitle": "XI-box Controller — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de XI-box Controller en ReStory: perfil más datos comunitarios (L3, no verificados) — familia, dificultad, tarifa de licencia e inspiración. Pr…",
+     "intro": "Ficha de XI-box Controller en ReStory. Todos los detalles del perfil provienen de la comunidad (marcados claramente como L3 — no verificados oficialmente): familia, dificultad, tarifa de licencia e inspiración real, procedentes de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). El procedimiento paso a paso específico sigue sin conocerse.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Ficha del dispositivo",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Dispositivo",
+         "XI-box Controller"
+        ],
+        [
+         "Familia (L3)",
+         "Mandos"
+        ],
+        [
+         "Inspiración de diseño (L3)",
+         "Mando «Duke» de Xbox"
+        ],
+        [
+         "Dificultad (L3)",
+         "Fácil"
+        ],
+        [
+         "Tarifa de licencia (L3)",
+         "¥33,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Datos de referencia de la comunidad (L3, no verificados oficialmente)",
+       "body": "Todos los campos del perfil provienen de la comunidad (L3) y no han sido verificados por el desarrollador ni por ninguna fuente oficial. Proceden de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). Todavía no publicamos datos de piezas, tornillos ni precios de reventa de este dispositivo: no hay cifras contrastadas disponibles. "
+      },
+      {
+       "type": "note",
+       "heading": "Alcance verificado",
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Su procedimiento exacto en el juego sigue pendiente de verificación y todos los detalles del perfil siguen siendo comunitarios (L3) hasta verificarse con pruebas trazables del juego."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "¿Es una guía paso a paso?",
+         "No. Solo se añadirá un procedimiento propio del dispositivo tras verificarlo con pruebas trazables del juego."
+        ],
+        [
+         "¿De dónde salen los detalles del perfil?",
+         "Provienen de fuentes comunitarias (L3): la página del dispositivo en restory.wiki y la lista de dispositivos de la comunidad de Steam, enlazadas en «Fuentes» abajo. Ninguna de estas cifras está verificada oficialmente."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box-controller",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "pt-BR": {
+     "title": "XI-box Controller — Perfil do aparelho",
+     "metaTitle": "XI-box Controller — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de XI-box Controller em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração.…",
+     "intro": "Perfil de XI-box Controller em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). O procedimento passo a passo específico continua desconhecido.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Perfil do aparelho",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Aparelho",
+         "XI-box Controller"
+        ],
+        [
+         "Família (L3)",
+         "Controles"
+        ],
+        [
+         "Inspiração de design (L3)",
+         "Controle «Duke» do Xbox"
+        ],
+        [
+         "Dificuldade (L3)",
+         "Fácil"
+        ],
+        [
+         "Taxa de licença (L3)",
+         "¥33,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Dados de referência da comunidade (L3, não verificados oficialmente)",
+       "body": "Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis. "
+      },
+      {
+       "type": "note",
+       "heading": "Escopo verificado",
+       "body": "Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Posso usar como guia passo a passo?",
+         "Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo."
+        ],
+        [
+         "De onde vêm os detalhes do perfil?",
+         "Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em \"Fontes\" abaixo. Nenhum desses números é verificado oficialmente."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box-controller",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "ru": {
+     "title": "XI-box Controller — Профиль устройства",
+     "metaTitle": "XI-box Controller — Справка об устройстве ReStory",
+     "metaDescription": "Профиль XI-box Controller в ReStory: справочные данные сообщества (L3, не проверены) — семейство, сложность, стоимость лицензии и вдохновение. Процед…",
+     "intro": "Профиль XI-box Controller в ReStory. Все детали профиля ниже основаны на данных сообщества (чётко помечены как L3 — не проверены официально): семейство, сложность, стоимость лицензии и реальный прототип, взятые со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Пошаговая процедура для устройства по-прежнему неизвестна.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Профиль устройства",
+       "columns": [
+        "Поле",
+        "Значение"
+       ],
+       "rows": [
+        [
+         "Устройство",
+         "XI-box Controller"
+        ],
+        [
+         "Семейство (L3)",
+         "Контроллеры"
+        ],
+        [
+         "Прототип дизайна (L3)",
+         "Контроллер Xbox «Duke»"
+        ],
+        [
+         "Сложность (L3)",
+         "Легко"
+        ],
+        [
+         "Стоимость лицензии (L3)",
+         "¥33,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Справочные данные сообщества (L3 — не проверены официально)",
+       "body": "Все поля профиля выше основаны на данных сообщества (L3) и не проверены разработчиком или официальными источниками. Они взяты со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Мы пока не публикуем данные о деталях, винтах или ценах перепродажи этого устройства: сверенных цифр нет. "
+      },
+      {
+       "type": "note",
+       "heading": "Что подтверждено",
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Точная игровая процедура ещё проверяется, и все детали профиля остаются данными сообщества (L3), пока не будут подтверждены отслеживаемыми игровыми доказательствами."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Это пошаговый гайд по ремонту?",
+         "Нет. Процедура появится только после проверки по отслеживаемым игровым доказательствам."
+        ],
+        [
+         "Откуда взяты детали профиля?",
+         "Из источников сообщества (L3): страница устройства на restory.wiki и список устройств сообщества Steam, ссылки ниже в «Источниках». Ни одна из этих цифр официально не проверена."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box-controller",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    },
+    "zh-TW": {
+     "title": "XI-box Controller — 設備資料",
+     "metaTitle": "XI-box Controller — ReStory 設…",
+     "metaDescription": "XI-box Controller 的 ReStory 設備資料：含社區參考數據（L3，未經官方核實）—…",
+     "intro": "XI-box Controller 的 ReStory 設備資料與參考：本頁所有資料字段均來自社區報告（明確標註 L3——未經官方核實）：類別、難度、許可費與現實靈感，來源為 restory.wiki 設備頁與 Steam 社區設備清單（見本頁底部「來源」鏈接）。A 設備專屬的分步維修流程仍未核實。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "設備資料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "設備",
+         "XI-box Controller"
+        ],
+        [
+         "家族（L3）",
+         "手柄"
+        ],
+        [
+         "靈感原型（L3）",
+         "Xbox「Duke」手柄"
+        ],
+        [
+         "難度（L3）",
+         "簡單"
+        ],
+        [
+         "許可費（L3）",
+         "¥33,000"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社區參考數據（L3——未經官方核實）",
+       "body": "本頁上方的資料字段均來自社區報告（L3），未經開發者或任何官方來源核實。來源為 restory.wiki 設備頁與 Steam 社區設備清單（均在本頁底部「來源」中列出並可點擊）。本頁暫不發佈該設備的零件、螺絲或轉售價格數據：目前沒有交叉核實過的數字。"
+      },
+      {
+       "type": "note",
+       "heading": "已核實範圍",
+       "body": "本頁用於識別 ReStory 中可維修的設備；準確的遊戲內流程仍待核實，所有資料字段在經可追溯的遊戲證據核實前均保持為社區報告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本頁當作分步維修攻略嗎？",
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
+        ],
+        [
+         "這些資料字段來自哪裡？",
+         "來自社區來源（L3）：restory.wiki 設備頁與 Steam 社區設備清單，見本頁下方「來源」。這些數字均未經官方核實。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-xi-box-controller",
+      "steam-discussion-devices"
+     ],
+     "icon": "console"
+    }
+   }
+  },
+  {
+   "slug": "devices/guitar-legend",
+   "title": "Guitar Legend — Device Profile",
+   "metaTitle": "Guitar Legend — ReStory Device Reference",
+   "metaDescription": "Guitar Legend in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+   "intro": "Device profile and reference for Guitar Legend in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). Guitar Legend is also named in the official Steam Update #1 (v1.0.009r) announcement, which fixes a Guitar Legend firmware-update bug. A device-specific step-by-step procedure is still unknown.",
+   "sections": [
+    {
+     "type": "table",
+     "heading": "Device Profile",
+     "columns": [
+      "Field",
+      "Value"
+     ],
+     "rows": [
+      [
+       "Device",
+       "Guitar Legend"
+      ],
+      [
+       "Family (L3)",
+       "Controllers"
+      ],
+      [
+       "Design inspiration (L3)",
+       "Guitar Hero-style guitar controller"
+      ],
+      [
+       "Difficulty (L3)",
+       "Medium"
+      ],
+      [
+       "License fee (L3)",
+       "¥132,000"
+      ],
+      [
+       "Official mention",
+       "Named in official Steam Update #1 (v1.0.009r)"
+      ]
+     ]
+    },
+    {
+     "type": "note",
+     "heading": "Community reference data (L3 — not officially verified)",
+     "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available. The only officially confirmed fact is the patch mention described below."
+    },
+    {
+     "type": "note",
+     "heading": "What is verified",
+     "body": "This page identifies a repairable ReStory device. Guitar Legend is named in the official Steam Update #1 (v1.0.009r) announcement (linked in Sources), which fixes a Guitar Legend firmware-update bug — this confirms the device exists in-game. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3)."
+    },
+    {
+     "type": "faq",
+     "heading": "FAQ",
+     "items": [
+      [
+       "Can I use this as a step-by-step repair guide?",
+       "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+      ],
+      [
+       "Where do the profile details come from?",
+       "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+      ],
+      [
+       "Is Guitar Legend officially confirmed?",
+       "Yes — the device is named in the official Steam Update #1 (v1.0.009r) announcement (linked in Sources), which fixes a Guitar Legend firmware-update bug. The announcement confirms the device exists; the details on this page are still community-reported (L3)."
+      ]
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "label": "restory.wiki — Guitar Legend (community wiki)",
+     "url": "https://restory.wiki/w/Guitar_Legend",
+     "labels": {
+      "en": "restory.wiki — Guitar Legend (community wiki)",
+      "zh-CN": "restory.wiki — Guitar Legend（社区维基）",
+      "ja": "restory.wiki — Guitar Legend（コミュニティWiki）",
+      "ko": "restory.wiki — Guitar Legend（커뮤니티 위키）",
+      "fr": "restory.wiki — Guitar Legend (wiki communautaire)",
+      "de": "restory.wiki — Guitar Legend (Community-Wiki)",
+      "es": "restory.wiki — Guitar Legend (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Guitar Legend (wiki da comunidade)",
+      "ru": "restory.wiki — Guitar Legend (вики сообщества)",
+      "zh-TW": "restory.wiki — Guitar Legend（社區維基）"
+     }
+    },
+    {
+     "label": "Steam discussion: ReStory device list (29 devices)",
+     "url": "https://steamcommunity.com/app/3812600/discussions/0/588434434320138300/",
+     "labels": {
+      "en": "Steam discussion: ReStory device list (29 devices)",
+      "zh-CN": "Steam 讨论：ReStory 设备清单（29 台）",
+      "ja": "Steam ディスカッション：ReStory デバイス一覧（29台）",
+      "ko": "Steam 토론: ReStory 기기 목록(29개)",
+      "fr": "Discussion Steam : liste des appareils ReStory (29 appareils)",
+      "de": "Steam-Diskussion: ReStory Geräteliste (29 Geräte)",
+      "es": "Debate de Steam: lista de dispositivos de ReStory (29 dispositivos)",
+      "pt-BR": "Tópico da Steam: lista de aparelhos de ReStory (29 aparelhos)",
+      "ru": "Обсуждение Steam: список устройств ReStory (29 устройств)",
+      "zh-TW": "Steam 討論：ReStory 設備清單（29 臺）"
+     }
+    },
+    {
+     "label": "Official Steam announcement — Update #1 (v1.0.009r)",
+     "url": "https://steamcommunity.com/games/3812600/announcements/detail/711157251640918758",
+     "labels": {
+      "en": "Official Steam announcement — Update #1 (v1.0.009r)",
+      "zh-CN": "Steam 官方公告——更新 #1（v1.0.009r）",
+      "ja": "Steam公式アナウンス — アップデート#1（v1.0.009r）",
+      "ko": "Steam 공식 공지 — 업데이트 #1(v1.0.009r)",
+      "fr": "Annonce Steam officielle — Mise à jour n°1 (v1.0.009r)",
+      "de": "Offizielle Steam-Ankündigung — Update Nr. 1 (v1.0.009r)",
+      "es": "Anuncio oficial de Steam — Actualización n.º 1 (v1.0.009r)",
+      "pt-BR": "Anúncio oficial da Steam — Atualização nº 1 (v1.0.009r)",
+      "ru": "Официальное объявление Steam — Обновление №1 (v1.0.009r)",
+      "zh-TW": "Steam 官方公告——更新 #1（v1.0.009r）"
+     }
+    }
+   ],
+   "meta": {
+    "icon": "console"
+   },
+   "i18n": {
+    "en": {
+     "title": "Guitar Legend — Device Profile",
+     "metaTitle": "Guitar Legend — ReStory Device Reference",
+     "metaDescription": "Guitar Legend in ReStory: device profile; community data (L3, not verified): difficulty, license fee, inspiration. Procedure unknown.",
+     "intro": "Device profile and reference for Guitar Legend in ReStory. All profile details below are community-reported (L3 — not officially verified): family, difficulty, license fee and real-world inspiration, sourced from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). Guitar Legend is also named in the official Steam Update #1 (v1.0.009r) announcement, which fixes a Guitar Legend firmware-update bug. A device-specific step-by-step procedure is still unknown.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Device Profile",
+       "columns": [
+        "Field",
+        "Value"
+       ],
+       "rows": [
+        [
+         "Device",
+         "Guitar Legend"
+        ],
+        [
+         "Family (L3)",
+         "Controllers"
+        ],
+        [
+         "Design inspiration (L3)",
+         "Guitar Hero-style guitar controller"
+        ],
+        [
+         "Difficulty (L3)",
+         "Medium"
+        ],
+        [
+         "License fee (L3)",
+         "¥132,000"
+        ],
+        [
+         "Official mention",
+         "Named in official Steam Update #1 (v1.0.009r)"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community reference data (L3 — not officially verified)",
+       "body": "All profile fields above are community-reported (L3) and have not been verified by the developer or any official source. They come from the restory.wiki device page and the Steam community device list (linked in Sources at the bottom of this page). We do not publish parts, screw or resale-price data for this device yet, because no cross-checked figures are available. The only officially confirmed fact is the patch mention described below."
+      },
+      {
+       "type": "note",
+       "heading": "What is verified",
+       "body": "This page identifies a repairable ReStory device. Guitar Legend is named in the official Steam Update #1 (v1.0.009r) announcement (linked in Sources), which fixes a Guitar Legend firmware-update bug — this confirms the device exists in-game. Its exact in-game procedure is still being verified, and all profile details remain community-reported (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Can I use this as a step-by-step repair guide?",
+         "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+        ],
+        [
+         "Where do the profile details come from?",
+         "They are community-sourced (L3): the restory.wiki device page and the Steam community device list, linked in Sources below. None of these figures is officially verified."
+        ],
+        [
+         "Is Guitar Legend officially confirmed?",
+         "Yes — the device is named in the official Steam Update #1 (v1.0.009r) announcement (linked in Sources), which fixes a Guitar Legend firmware-update bug. The announcement confirms the device exists; the details on this page are still community-reported (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-guitar-legend",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "zh-CN": {
+     "title": "Guitar Legend — 设备资料",
+     "metaTitle": "Guitar Legend — ReStory 设备参考",
+     "metaDescription": "Guitar Legend 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——类别、难度、许可费与现实灵感；步骤流程仍未核实。",
+     "intro": "Guitar Legend 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。Guitar Legend 也在 Steam 官方更新 #1（v1.0.009r）公告中被点名，该公告修复了 Guitar Legend 的 bug。A 设备专属的分步维修流程仍未核实。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "设备资料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "设备",
+         "Guitar Legend"
+        ],
+        [
+         "家族（L3）",
+         "手柄"
+        ],
+        [
+         "灵感原型（L3）",
+         "Guitar Hero 式吉他手柄"
+        ],
+        [
+         "难度（L3）",
+         "中等"
+        ],
+        [
+         "许可费（L3）",
+         "¥132,000"
+        ],
+        [
+         "官方提及",
+         "在 Steam 官方更新 #1（v1.0.009r）中被点名"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社区参考数据（L3——未经官方核实）",
+       "body": "本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。唯一经官方确认的事实是下方描述的补丁提及。"
+      },
+      {
+       "type": "note",
+       "heading": "已核实范围",
+       "body": "本页用于识别 ReStory 中可维修的设备。Guitar Legend 在 Steam 官方更新 #1（v1.0.009r）公告中被点名（见本页「来源」链接），公告修复了 Guitar Legend 的 bug——由此确认该设备存在于游戏中。准确的游戏内流程仍待核实，所有资料字段仍为社区报告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本页当作分步维修攻略吗？",
+         "不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。"
+        ],
+        [
+         "这些资料字段来自哪里？",
+         "来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。"
+        ],
+        [
+         "Guitar Legend 是否获得官方确认？",
+         "是——该设备在 Steam 官方更新 #1（v1.0.009r）公告中被点名（见「来源」链接），公告修复了 Guitar Legend 的 bug。公告确认该设备存在；本页资料字段仍为社区报告（L3）。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-guitar-legend",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "ja": {
+     "title": "Guitar Legend — デバイス情報",
+     "metaTitle": "Guitar Legend — ReStory デバイス資料",
+     "metaDescription": "Guitar Legend の ReStory デバイス情報：コミュニティ参考データ（L3、非公式…",
+     "intro": "Guitar Legend の ReStory デバイス情報。このページのプロフィール項目はすべてコミュニティ報告（L3——非公式・未検証と明記）：分類、難易度、ライセンス料、現実のインスピレーション。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）。Guitar Legend は Steam公式アップデート#1（v1.0.009r）の発表でも言及されており、Guitar Legend のバグ修正が記載されています。デバイス固有のステップバイステップ手順はまだ不明です。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "デバイス情報",
+       "columns": [
+        "項目",
+        "内容"
+       ],
+       "rows": [
+        [
+         "デバイス",
+         "Guitar Legend"
+        ],
+        [
+         "ファミリー（L3）",
+         "コントローラー"
+        ],
+        [
+         "デザイン原型（L3）",
+         "Guitar Hero 風のギターコントローラー"
+        ],
+        [
+         "難易度（L3）",
+         "中程度"
+        ],
+        [
+         "ライセンス料（L3）",
+         "¥132,000"
+        ],
+        [
+         "公式言及",
+         "Steam公式アップデート#1（v1.0.009r）で言及"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "コミュニティ参考データ（L3——非公式・未検証）",
+       "body": "このページのプロフィール項目はすべてコミュニティ報告（L3）に基づいており、開発者や公式ソースによる検証はされていません。出典は restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（このページ下部の「出典」にリンク）です。このデバイスのパーツ・ネジ・転売価格のデータは、相互確認済みの数字がないため掲載していません。公式に確認されている事実は、下記のパッチ言及のみです。"
+      },
+      {
+       "type": "note",
+       "heading": "確認済みの範囲",
+       "body": "ReStoryで修理可能なデバイスを確認するページです。Guitar Legend は Steam公式アップデート#1（v1.0.009r）の発表（「出典」にリンク）で言及されており、Guitar Legend のバグ修正が記載されています——これによりゲーム内に存在することが確認できます。正確な手順は検証中で、プロフィール項目はすべてコミュニティ報告（L3）のままです。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "手順ガイドとして使える？",
+         "いいえ。追跡可能なゲーム証拠で確認できた後にのみ、固有手順を追加します。"
+        ],
+        [
+         "プロフィール項目の出典は？",
+         "コミュニティソース（L3）です：restory.wiki のデバイスページと Steam コミュニティのデバイス一覧（下の「出典」にリンク）。これらの数字は公式には検証されていません。"
+        ],
+        [
+         "Guitar Legend は公式に確認されていますか？",
+         "はい——Steam公式アップデート#1（v1.0.009r）の発表（「出典」にリンク）で言及されており、Guitar Legend のバグ修正が記載されています。発表はデバイスの存在を確認しますが、このページの詳細は依然としてコミュニティ報告（L3）です。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-guitar-legend",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "ko": {
+     "title": "Guitar Legend — 기기 정보",
+     "metaTitle": "Guitar Legend — ReStory 기기 자료",
+     "metaDescription": "ReStory의 Guitar Legend 기기 정보: 커뮤니티 참고 데이터(L3, 비공식·미검증)…",
+     "intro": "ReStory의 Guitar Legend 기기 정보입니다. 이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3——비공식·미검증으로 명시): 분류, 난이도, 라이선스 비용, 현실 영감. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. Guitar Legend은 Steam 공식 업데이트 #1(v1.0.009r) 공지에서도 언급되며 Guitar Legend 버그 수정이 기록되어 있습니다.기기별 단계별 수리 절차는 아직 알려지지 않았습니다.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "기기 정보",
+       "columns": [
+        "항목",
+        "값"
+       ],
+       "rows": [
+        [
+         "기기",
+         "Guitar Legend"
+        ],
+        [
+         "계열(L3)",
+         "컨트롤러"
+        ],
+        [
+         "디자인 영감(L3)",
+         "Guitar Hero 스타일 기타 컨트롤러"
+        ],
+        [
+         "난이도(L3)",
+         "보통"
+        ],
+        [
+         "라이선스 비용(L3)",
+         "¥132,000"
+        ],
+        [
+         "공식 언급",
+         "Steam 공식 업데이트 #1(v1.0.009r)에서 언급됨"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "커뮤니티 참고 데이터(L3 — 비공식·미검증)",
+       "body": "이 페이지의 모든 프로필 항목은 커뮤니티 보고(L3)이며 개발자나 공식 출처의 검증을 받지 않았습니다. 출처는 restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(이 페이지 하단의 \"출처\"에 링크)입니다. 이 기기의 부품·나사·재판매 가격 데이터는 교차 확인된 수치가 없어 게시하지 않습니다. 공식적으로 확인된 유일한 사실은 아래 설명된 패치 언급입니다."
+      },
+      {
+       "type": "note",
+       "heading": "확인된 범위",
+       "body": "ReStory에서 수리 가능한 기기를 식별하는 페이지입니다. Guitar Legend은 Steam 공식 업데이트 #1(v1.0.009r) 공지(\"출처\"에 링크)에서 언급되며 Guitar Legend 버그 수정이 기록되어 있습니다——이로써 게임 내 존재가 확인됩니다. 정확한 절차는 아직 확인 중이며 모든 프로필 항목은 커뮤니티 보고(L3)입니다."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "단계별 수리 가이드로 사용할 수 있나요?",
+         "아니요. 추적 가능한 게임 증거로 확인된 뒤에만 기기별 절차를 추가합니다."
+        ],
+        [
+         "프로필 항목은 어디서 왔나요?",
+         "커뮤니티 출처(L3)입니다: restory.wiki 기기 페이지와 Steam 커뮤니티 기기 목록(아래 \"출처\"에 링크). 이 수치 중 어느 것도 공식 검증되지 않았습니다."
+        ],
+        [
+         "Guitar Legend은 공식적으로 확인되었나요?",
+         "네——Steam 공식 업데이트 #1(v1.0.009r) 공지(\"출처\"에 링크)에서 언급되며 Guitar Legend 버그 수정이 기록되어 있습니다. 공지는 기기 존재를 확인하지만 이 페이지의 세부 정보는 여전히 커뮤니티 보고(L3)입니다."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-guitar-legend",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "fr": {
+     "title": "Guitar Legend — Fiche appareil",
+     "metaTitle": "Guitar Legend — Référence appareil ReStory",
+     "metaDescription": "Fiche de Guitar Legend dans ReStory : données de référence communautaires (L3, non vérifiées) — famille, difficulté, frais de licence et inspiration.…",
+     "intro": "Fiche de Guitar Legend dans ReStory. Tous les détails du profil ci-dessous proviennent de la communauté (clairement marqués L3 — non vérifiés officiellement) : famille, difficulté, frais de licence et inspiration réelle, issus de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). Guitar Legend est aussi cité dans l'annonce officielle de la mise à jour n° 1 (v1.0.009r) de Steam, qui corrige un bug de Guitar Legend. La procédure pas à pas propre à cet appareil reste inconnue.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Fiche appareil",
+       "columns": [
+        "Champ",
+        "Valeur"
+       ],
+       "rows": [
+        [
+         "Appareil",
+         "Guitar Legend"
+        ],
+        [
+         "Famille (L3)",
+         "Manettes"
+        ],
+        [
+         "Inspiration de design (L3)",
+         "Manette guitare façon Guitar Hero"
+        ],
+        [
+         "Difficulté (L3)",
+         "Moyen"
+        ],
+        [
+         "Frais de licence (L3)",
+         "¥132,000"
+        ],
+        [
+         "Mention officielle",
+         "Cité dans la mise à jour officielle n° 1 de Steam (v1.0.009r)"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Données de référence communautaires (L3 — non vérifiées officiellement)",
+       "body": "Tous les champs du profil ci-dessus proviennent de la communauté (L3) et n'ont pas été vérifiés par le développeur ni par une source officielle. Ils viennent de la page d'appareil restory.wiki et de la liste des appareils de la communauté Steam (liées dans « Sources » en bas de page). Nous ne publions pas encore de données de pièces, de vis ou de prix de revente pour cet appareil : aucun chiffre recoupé n'est disponible. Le seul fait officiellement confirmé est la mention du correctif décrite ci-dessous."
+      },
+      {
+       "type": "note",
+       "heading": "Ce qui est vérifié",
+       "body": "Cette page identifie un appareil réparable de ReStory. Guitar Legend est cité dans l'annonce officielle de la mise à jour n° 1 (v1.0.009r) de Steam (liée dans « Sources »), qui corrige un bug de Guitar Legend — cela confirme que l'appareil existe en jeu. Sa procédure exacte reste à vérifier et tous les détails du profil restent communautaires (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Puis-je suivre cette page pas à pas ?",
+         "Non. Une procédure propre à l'appareil ne sera ajoutée qu'après vérification par des preuves de jeu traçables."
+        ],
+        [
+         "D'où viennent les détails du profil ?",
+         "Ils proviennent de sources communautaires (L3) : la page d'appareil restory.wiki et la liste des appareils de la communauté Steam, liées dans « Sources » ci-dessous. Aucun de ces chiffres n'est officiellement vérifié."
+        ],
+        [
+         "Guitar Legend est-il officiellement confirmé ?",
+         "Oui — l'appareil est cité dans l'annonce officielle de la mise à jour n° 1 (v1.0.009r) de Steam (liée dans « Sources »), qui corrige un bug de Guitar Legend. L'annonce confirme l'existence de l'appareil ; les détails de cette page restent communautaires (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-guitar-legend",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "de": {
+     "title": "Guitar Legend — Geräteprofil",
+     "metaTitle": "Guitar Legend — ReStory-Gerätereferenz",
+     "metaDescription": "Profil von Guitar Legend in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. Ablau…",
+     "intro": "Profil von Guitar Legend in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Guitar Legend wird auch in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) genannt, die einen Guitar Legend-Fehler behebt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Geräteprofil",
+       "columns": [
+        "Feld",
+        "Wert"
+       ],
+       "rows": [
+        [
+         "Gerät",
+         "Guitar Legend"
+        ],
+        [
+         "Familie (L3)",
+         "Controller"
+        ],
+        [
+         "Design-Inspiration (L3)",
+         "Guitar-Hero-artiger Gitarrencontroller"
+        ],
+        [
+         "Schwierigkeit (L3)",
+         "Mittel"
+        ],
+        [
+         "Lizenzgebühr (L3)",
+         "¥132,000"
+        ],
+        [
+         "Offizielle Erwähnung",
+         "In offiziellem Steam-Update Nr. 1 (v1.0.009r) genannt"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community-Referenzdaten (L3 — nicht offiziell verifiziert)",
+       "body": "Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen\" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor. Die einzige offiziell bestätigte Tatsache ist die unten beschriebene Patch-Erwähnung."
+      },
+      {
+       "type": "note",
+       "heading": "Verifizierter Umfang",
+       "body": "Diese Seite identifiziert ein reparierbares Gerät in ReStory. Guitar Legend wird in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) genannt (unter „Quellen\" verlinkt), die einen Guitar Legend-Fehler behebt — das bestätigt, dass das Gerät im Spiel existiert. Der genaue Ablauf ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Ist dies eine Schritt-für-Schritt-Anleitung?",
+         "Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt."
+        ],
+        [
+         "Woher stammen die Profildetails?",
+         "Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen\" verlinkt. Keine dieser Zahlen ist offiziell verifiziert."
+        ],
+        [
+         "Ist Guitar Legend offiziell bestätigt?",
+         "Ja — das Gerät wird in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) genannt (unter „Quellen\" verlinkt), die einen Guitar Legend-Fehler behebt. Die Ankündigung bestätigt die Existenz des Geräts; die Details dieser Seite bleiben Community-Angaben (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-guitar-legend",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "es": {
+     "title": "Guitar Legend — Ficha del dispositivo",
+     "metaTitle": "Guitar Legend — Referencia de dispositivo de ReStory",
+     "metaDescription": "Ficha de Guitar Legend en ReStory: perfil más datos comunitarios (L3, no verificados) — familia, dificultad, tarifa de licencia e inspiración. Proced…",
+     "intro": "Ficha de Guitar Legend en ReStory. Todos los detalles del perfil provienen de la comunidad (marcados claramente como L3 — no verificados oficialmente): familia, dificultad, tarifa de licencia e inspiración real, procedentes de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). Guitar Legend también aparece en el anuncio oficial de la actualización n.º 1 (v1.0.009r) de Steam, que corrige un error de Guitar Legend. El procedimiento paso a paso específico sigue sin conocerse.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Ficha del dispositivo",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Dispositivo",
+         "Guitar Legend"
+        ],
+        [
+         "Familia (L3)",
+         "Mandos"
+        ],
+        [
+         "Inspiración de diseño (L3)",
+         "Controlador de guitarra estilo Guitar Hero"
+        ],
+        [
+         "Dificultad (L3)",
+         "Media"
+        ],
+        [
+         "Tarifa de licencia (L3)",
+         "¥132,000"
+        ],
+        [
+         "Mención oficial",
+         "Mencionado en la actualización oficial n.º 1 de Steam (v1.0.009r)"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Datos de referencia de la comunidad (L3, no verificados oficialmente)",
+       "body": "Todos los campos del perfil provienen de la comunidad (L3) y no han sido verificados por el desarrollador ni por ninguna fuente oficial. Proceden de la página del dispositivo en restory.wiki y de la lista de dispositivos de la comunidad de Steam (enlazadas en «Fuentes», al final de esta página). Todavía no publicamos datos de piezas, tornillos ni precios de reventa de este dispositivo: no hay cifras contrastadas disponibles. El único hecho confirmado oficialmente es la mención del parche descrita abajo."
+      },
+      {
+       "type": "note",
+       "heading": "Alcance verificado",
+       "body": "Esta página identifica un dispositivo reparable de ReStory. Guitar Legend aparece en el anuncio oficial de la actualización n.º 1 (v1.0.009r) de Steam (enlazado en «Fuentes»), que corrige un error de Guitar Legend — esto confirma que el dispositivo existe en el juego. Su procedimiento exacto sigue pendiente de verificación y todos los detalles del perfil siguen siendo comunitarios (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "¿Es una guía paso a paso?",
+         "No. Solo se añadirá un procedimiento propio del dispositivo tras verificarlo con pruebas trazables del juego."
+        ],
+        [
+         "¿De dónde salen los detalles del perfil?",
+         "Provienen de fuentes comunitarias (L3): la página del dispositivo en restory.wiki y la lista de dispositivos de la comunidad de Steam, enlazadas en «Fuentes» abajo. Ninguna de estas cifras está verificada oficialmente."
+        ],
+        [
+         "¿Guitar Legend está confirmado oficialmente?",
+         "Sí: el dispositivo aparece en el anuncio oficial de la actualización n.º 1 (v1.0.009r) de Steam (enlazado en «Fuentes»), que corrige un error de Guitar Legend. El anuncio confirma que existe; los detalles de esta página siguen siendo comunitarios (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-guitar-legend",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "pt-BR": {
+     "title": "Guitar Legend — Perfil do aparelho",
+     "metaTitle": "Guitar Legend — Referência de aparelho de ReStory",
+     "metaDescription": "Perfil de Guitar Legend em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração. Pro…",
+     "intro": "Perfil de Guitar Legend em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). Guitar Legend também é citado no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam, que corrige um bug do Guitar Legend. O procedimento passo a passo específico continua desconhecido.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Perfil do aparelho",
+       "columns": [
+        "Campo",
+        "Valor"
+       ],
+       "rows": [
+        [
+         "Aparelho",
+         "Guitar Legend"
+        ],
+        [
+         "Família (L3)",
+         "Controles"
+        ],
+        [
+         "Inspiração de design (L3)",
+         "Controlador de guitarra estilo Guitar Hero"
+        ],
+        [
+         "Dificuldade (L3)",
+         "Médio"
+        ],
+        [
+         "Taxa de licença (L3)",
+         "¥132,000"
+        ],
+        [
+         "Menção oficial",
+         "Citado na atualização oficial nº 1 da Steam (v1.0.009r)"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Dados de referência da comunidade (L3, não verificados oficialmente)",
+       "body": "Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em \"Fontes\", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis. O único fato confirmado oficialmente é a menção do patch descrita abaixo."
+      },
+      {
+       "type": "note",
+       "heading": "Escopo verificado",
+       "body": "Esta página identifica um aparelho reparável de ReStory. Guitar Legend é citado no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam (linkado em \"Fontes\"), que corrige um bug do Guitar Legend — isso confirma que o aparelho existe no jogo. O procedimento exato ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Posso usar como guia passo a passo?",
+         "Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo."
+        ],
+        [
+         "De onde vêm os detalhes do perfil?",
+         "Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em \"Fontes\" abaixo. Nenhum desses números é verificado oficialmente."
+        ],
+        [
+         "Guitar Legend está confirmado oficialmente?",
+         "Sim — o aparelho é citado no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam (linkado em \"Fontes\"), que corrige um bug do Guitar Legend. O anúncio confirma que o aparelho existe; os detalhes desta página continuam comunitários (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-guitar-legend",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "ru": {
+     "title": "Guitar Legend — Профиль устройства",
+     "metaTitle": "Guitar Legend — Справка об устройстве ReStory",
+     "metaDescription": "Профиль Guitar Legend в ReStory: справочные данные сообщества (L3, не проверены) — семейство, сложность, стоимость лицензии и вдохновение. Процедура…",
+     "intro": "Профиль Guitar Legend в ReStory. Все детали профиля ниже основаны на данных сообщества (чётко помечены как L3 — не проверены официально): семейство, сложность, стоимость лицензии и реальный прототип, взятые со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Guitar Legend также упомянуто в официальном объявлении об обновлении №1 (v1.0.009r) Steam, которое исправляет ошибку Guitar Legend. Пошаговая процедура для устройства по-прежнему неизвестна.",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "Профиль устройства",
+       "columns": [
+        "Поле",
+        "Значение"
+       ],
+       "rows": [
+        [
+         "Устройство",
+         "Guitar Legend"
+        ],
+        [
+         "Семейство (L3)",
+         "Контроллеры"
+        ],
+        [
+         "Прототип дизайна (L3)",
+         "Гитарный контроллер в стиле Guitar Hero"
+        ],
+        [
+         "Сложность (L3)",
+         "Средне"
+        ],
+        [
+         "Стоимость лицензии (L3)",
+         "¥132,000"
+        ],
+        [
+         "Официальное упоминание",
+         "Упомянуто в официальном обновлении Steam №1 (v1.0.009r)"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Справочные данные сообщества (L3 — не проверены официально)",
+       "body": "Все поля профиля выше основаны на данных сообщества (L3) и не проверены разработчиком или официальными источниками. Они взяты со страницы устройства на restory.wiki и из списка устройств сообщества Steam (ссылки — в разделе «Источники» внизу страницы). Мы пока не публикуем данные о деталях, винтах или ценах перепродажи этого устройства: сверенных цифр нет. Единственный официально подтверждённый факт — упоминание в обновлении, описанное ниже."
+      },
+      {
+       "type": "note",
+       "heading": "Что подтверждено",
+       "body": "Страница идентифицирует ремонтируемое устройство ReStory. Guitar Legend упомянуто в официальном объявлении об обновлении №1 (v1.0.009r) Steam (ссылка в «Источниках»), которое исправляет ошибку Guitar Legend — это подтверждает, что устройство существует в игре. Точная процедура ещё проверяется, и все детали профиля остаются данными сообщества (L3)."
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "Это пошаговый гайд по ремонту?",
+         "Нет. Процедура появится только после проверки по отслеживаемым игровым доказательствам."
+        ],
+        [
+         "Откуда взяты детали профиля?",
+         "Из источников сообщества (L3): страница устройства на restory.wiki и список устройств сообщества Steam, ссылки ниже в «Источниках». Ни одна из этих цифр официально не проверена."
+        ],
+        [
+         "Guitar Legend официально подтверждено?",
+         "Да — устройство упомянуто в официальном объявлении об обновлении №1 (v1.0.009r) Steam (ссылка в «Источниках»), которое исправляет ошибку Guitar Legend. Объявление подтверждает существование устройства; детали этой страницы остаются данными сообщества (L3)."
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-guitar-legend",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    },
+    "zh-TW": {
+     "title": "Guitar Legend — 設備資料",
+     "metaTitle": "Guitar Legend — ReStory 設備參考",
+     "metaDescription": "Guitar Legend 的 ReStory 設備資料：含社區參考數據（L3，未經官方核實）——類別、難度、許可費與現實靈感；步驟流程仍未核實。",
+     "intro": "Guitar Legend 的 ReStory 設備資料與參考：本頁所有資料字段均來自社區報告（明確標註 L3——未經官方核實）：類別、難度、許可費與現實靈感，來源為 restory.wiki 設備頁與 Steam 社區設備清單（見本頁底部「來源」鏈接）。Guitar Legend 也在 Steam 官方更新 #1（v1.0.009r）公告中被點名，該公告修復了 Guitar Legend 的 bug。A 設備專屬的分步維修流程仍未核實。",
+     "sections": [
+      {
+       "type": "table",
+       "heading": "設備資料",
+       "columns": [
+        "字段",
+        "值"
+       ],
+       "rows": [
+        [
+         "設備",
+         "Guitar Legend"
+        ],
+        [
+         "家族（L3）",
+         "手柄"
+        ],
+        [
+         "靈感原型（L3）",
+         "Guitar Hero 式吉他手柄"
+        ],
+        [
+         "難度（L3）",
+         "中等"
+        ],
+        [
+         "許可費（L3）",
+         "¥132,000"
+        ],
+        [
+         "官方提及",
+         "在 Steam 官方更新 #1（v1.0.009r）中被點名"
+        ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社區參考數據（L3——未經官方核實）",
+       "body": "本頁上方的資料字段均來自社區報告（L3），未經開發者或任何官方來源核實。來源為 restory.wiki 設備頁與 Steam 社區設備清單（均在本頁底部「來源」中列出並可點擊）。本頁暫不發佈該設備的零件、螺絲或轉售價格數據：目前沒有交叉核實過的數字。唯一經官方確認的事實是下方描述的補丁提及。"
+      },
+      {
+       "type": "note",
+       "heading": "已核實範圍",
+       "body": "本頁用於識別 ReStory 中可維修的設備。Guitar Legend 在 Steam 官方更新 #1（v1.0.009r）公告中被點名（見本頁「來源」鏈接），公告修復了 Guitar Legend 的 bug——由此確認該設備存在於遊戲中。準確的遊戲內流程仍待核實，所有資料字段仍為社區報告（L3）。"
+      },
+      {
+       "type": "faq",
+       "heading": "FAQ",
+       "items": [
+        [
+         "能把本頁當作分步維修攻略嗎？",
+         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
+        ],
+        [
+         "這些資料字段來自哪裡？",
+         "來自社區來源（L3）：restory.wiki 設備頁與 Steam 社區設備清單，見本頁下方「來源」。這些數字均未經官方核實。"
+        ],
+        [
+         "Guitar Legend 是否獲得官方確認？",
+         "是——該設備在 Steam 官方更新 #1（v1.0.009r）公告中被點名（見「來源」鏈接），公告修復了 Guitar Legend 的 bug。公告確認該設備存在；本頁資料字段仍為社區報告（L3）。"
+        ]
+       ]
+      }
+     ],
+     "sources": [
+      "wiki-guitar-legend",
+      "steam-discussion-devices",
+      "steam-patch-009r"
+     ],
+     "icon": "console"
+    }
+   }
+  },
+  {
    "slug": "devices/walkie-talkie",
    "title": "Walkie-talkie — Device Profile",
    "metaTitle": "Walkie-talkie — ReStory Device Reference",

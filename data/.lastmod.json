@@ -16,7 +16,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/all-devices": {
-    "hash": "8d9581014bbdfa6092445dae0da9e3d4",
+    "hash": "7e50247c4f52a2a4a6e6d8446cf9475e",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/beginners-guide": {
@@ -48,7 +48,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/de/all-devices": {
-    "hash": "b87832daaa4985d51b8260e641ec5643",
+    "hash": "044092fd84c4898f5f6507f46f80e6f6",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/de/beginners-guide": {
@@ -79,8 +79,24 @@
     "hash": "c833f2451eb1dc0061531181e842b8be",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/de/devices/breadbox-joystick": {
+    "hash": "7311eff9cd7894e70fe079db808bb4d9",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/brick-game": {
+    "hash": "724853635dc685854cafee2499dca24f",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/de/devices/eggotchi": {
     "hash": "a20b8d43a56d6b041389cb9a246f0f6d",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/game-duck": {
+    "hash": "b92f2aa6258dc9fae54193b20a547f04",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/guitar-legend": {
+    "hash": "1319e6b03ea14107488b3e17ff87d457",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/de/devices/nony-goman": {
@@ -121,6 +137,14 @@
   },
   "https://restorygameguides.com/de/devices/walkie-talkie": {
     "hash": "08af117b7ecaf141208cf3ea6668d1c2",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/xi-box": {
+    "hash": "c8a996e809be8f5a81fd2a8805f43557",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/xi-box-controller": {
+    "hash": "5b461fd4f6edf409bcf3230841d0e594",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/de/economy": {
@@ -199,8 +223,24 @@
     "hash": "ceaf7d21cbbb6f5ae34ff54172e4ac74",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/devices/breadbox-joystick": {
+    "hash": "5817827f47d74bf4c66423f5805704cc",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/brick-game": {
+    "hash": "baba579cbc1cd5e4e30cb368d5f20449",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/devices/eggotchi": {
     "hash": "6ddd134d634d2e60032911d41dec50d8",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/game-duck": {
+    "hash": "011007b0459c0dafbb98051f1213c9a2",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/guitar-legend": {
+    "hash": "7a6864f204ed455741432fe423226d56",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/devices/nony-goman": {
@@ -243,6 +283,14 @@
     "hash": "53f19a1a5639b62b7fc266e22bac5eab",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/devices/xi-box": {
+    "hash": "2a6779e065ca3688655d82f56d2166f1",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/xi-box-controller": {
+    "hash": "7b7f2a93025d6e4950e096666924c17f",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/economy": {
     "hash": "445bb59b47c0cb5c2f23394d7fb7b23a",
     "date": "2026-08-17"
@@ -268,7 +316,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/es/all-devices": {
-    "hash": "86247aaa4280e924b261e0120028d790",
+    "hash": "c0513919060f1320b3d4613c0ae77282",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/es/beginners-guide": {
@@ -299,8 +347,24 @@
     "hash": "51acc3f0a71627067ccb6b0389bf26c0",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/es/devices/breadbox-joystick": {
+    "hash": "402d5e4981d2ab50a5fe26cbfdb17307",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/brick-game": {
+    "hash": "b322cb95a49af159073e52072d7f9922",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/es/devices/eggotchi": {
     "hash": "3d8c2a5a2df3c72ff13bb78fbe387319",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/game-duck": {
+    "hash": "66f46d4b7fb1391094e5cc9c80967a3a",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/guitar-legend": {
+    "hash": "fba3b800dbc89e73f42c9c0154ccccb0",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/es/devices/nony-goman": {
@@ -341,6 +405,14 @@
   },
   "https://restorygameguides.com/es/devices/walkie-talkie": {
     "hash": "d9aba7e2a81c7b9b8323302216f01cc5",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/xi-box": {
+    "hash": "96131c67e7167083032eb5b8b978d339",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/xi-box-controller": {
+    "hash": "401dc9bcbcda06d13b39a98101b22fd7",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/es/economy": {
@@ -424,7 +496,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/fr/all-devices": {
-    "hash": "379566544654097cd2b407322275bf35",
+    "hash": "914baac374a6f87c7b4b41b448cd0239",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/fr/beginners-guide": {
@@ -455,8 +527,24 @@
     "hash": "f7881b8a2b93de1e40c908527f6ec657",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/fr/devices/breadbox-joystick": {
+    "hash": "c5771391ca5f15208894b2debb725759",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/brick-game": {
+    "hash": "d48bb09245488fe830f93a4dad41a47e",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/fr/devices/eggotchi": {
     "hash": "01df1e1400f00fae29158ecd197fbcba",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/game-duck": {
+    "hash": "ce565f48362d114366080da1a562f936",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/guitar-legend": {
+    "hash": "f5b3cf7cf2c8ec6cf8caa6b848e982f2",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/fr/devices/nony-goman": {
@@ -497,6 +585,14 @@
   },
   "https://restorygameguides.com/fr/devices/walkie-talkie": {
     "hash": "3f34ee2d8f99009d0812e7d436b0b987",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/xi-box": {
+    "hash": "f164675d1d43f93ed0a92eb13ab6612a",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/xi-box-controller": {
+    "hash": "7e448e89f3abbcd2ba4f322d58772070",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/fr/economy": {
@@ -584,7 +680,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ja/all-devices": {
-    "hash": "b40429affdc40b18a782bbb3880ba04c",
+    "hash": "c23beef9ac6382c42408a9561b820a82",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ja/beginners-guide": {
@@ -615,8 +711,24 @@
     "hash": "944f1215e03060e7db437c8fc5a7c55c",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ja/devices/breadbox-joystick": {
+    "hash": "72386c23aec463b901f21cc4a679f417",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/brick-game": {
+    "hash": "bfe961727bcc50cbf7716d5f42d77c37",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ja/devices/eggotchi": {
     "hash": "8fb7a1a47795a0311e27d337b6a61854",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/game-duck": {
+    "hash": "5e72e11cdf84afbbe2d95b4535b8ef8f",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/guitar-legend": {
+    "hash": "b4dc99264697cac6488534e796897f4e",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ja/devices/nony-goman": {
@@ -657,6 +769,14 @@
   },
   "https://restorygameguides.com/ja/devices/walkie-talkie": {
     "hash": "f0626978db9531bc09fc46cba5268ec6",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/xi-box": {
+    "hash": "7ba68cffcb333112777ad41df4ea2849",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/xi-box-controller": {
+    "hash": "79d0467f750242f94e6de70657dd9b4e",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ja/economy": {
@@ -736,7 +856,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ko/all-devices": {
-    "hash": "850d3baf28eaeee7bab17602b1575051",
+    "hash": "5a490f76c035f2dbc86f6caf80f9a283",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ko/beginners-guide": {
@@ -767,8 +887,24 @@
     "hash": "6e1891712442fd812007ca6f2a2a8e94",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ko/devices/breadbox-joystick": {
+    "hash": "015d519b254ecc5cc9eb84bed2094548",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/brick-game": {
+    "hash": "51797b85297c3889b5cd18e5d3b43ece",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ko/devices/eggotchi": {
     "hash": "bca2e0545705488e3ae67e88eee3d19c",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/game-duck": {
+    "hash": "8cd03c3224dc07be338ecc064d0f4e6d",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/guitar-legend": {
+    "hash": "9c4f2266891c5e0b70782b123cdb86ca",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ko/devices/nony-goman": {
@@ -809,6 +945,14 @@
   },
   "https://restorygameguides.com/ko/devices/walkie-talkie": {
     "hash": "b493f707373361738e7a2a9f64d1894a",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/xi-box": {
+    "hash": "b5676548f6950cc0b9adac74cc590a72",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/xi-box-controller": {
+    "hash": "05da607fa2dc6ba111d708fa59bde5ed",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ko/economy": {
@@ -908,7 +1052,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/pt-BR/all-devices": {
-    "hash": "eff9f1813cb195bbdae4d90e6697b674",
+    "hash": "41d75798bff079b173f57544a58e46ab",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/pt-BR/beginners-guide": {
@@ -939,8 +1083,24 @@
     "hash": "8dbe0f16764c28c2641071759b5ef346",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/pt-BR/devices/breadbox-joystick": {
+    "hash": "57097b072634117209189cc6000fccf6",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/brick-game": {
+    "hash": "ce6925e330249617f0f29f5e0d877d05",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/pt-BR/devices/eggotchi": {
     "hash": "850f124a07f6318bc337f3314486d64c",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/game-duck": {
+    "hash": "2e1110d79b77a5233bce3c755c1f84b5",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/guitar-legend": {
+    "hash": "98fc97149acfdd9a6090da10a99e38c8",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/pt-BR/devices/nony-goman": {
@@ -981,6 +1141,14 @@
   },
   "https://restorygameguides.com/pt-BR/devices/walkie-talkie": {
     "hash": "bfd0d091b491f0a1bed47e27585408ff",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/xi-box": {
+    "hash": "a6e0bf8b6ba56babfeb948b203f28660",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/xi-box-controller": {
+    "hash": "53b8ebcb4a85c58cac8f9e59202fe19a",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/pt-BR/economy": {
@@ -1064,7 +1232,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ru/all-devices": {
-    "hash": "ce82708f269fad06f01d6dacb4f05148",
+    "hash": "0bfc426e262a5118d6c16e0e4e5e6373",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ru/beginners-guide": {
@@ -1095,8 +1263,24 @@
     "hash": "c5eb025517bd5a1db327803091fb9b9a",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ru/devices/breadbox-joystick": {
+    "hash": "d394041b3f22a9953e58e00f47578967",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/brick-game": {
+    "hash": "00e9462ef5030c8775b5f765f28874b8",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ru/devices/eggotchi": {
     "hash": "6496d6a939cbe89ab023a8f3deca35e5",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/game-duck": {
+    "hash": "7aa75085c6f1803df079d09bfc32b90f",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/guitar-legend": {
+    "hash": "2719142b7257a4c9d0e785ec41e8ffb9",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ru/devices/nony-goman": {
@@ -1137,6 +1321,14 @@
   },
   "https://restorygameguides.com/ru/devices/walkie-talkie": {
     "hash": "1987d3f5a3aeb57c7e52649b0fc97b7d",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/xi-box": {
+    "hash": "2273d9558b59a3a6098efd3b84800bbb",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/xi-box-controller": {
+    "hash": "8c5e5acb5df4abc678d35b6c2637c78a",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ru/economy": {
@@ -1232,7 +1424,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-CN/all-devices": {
-    "hash": "722b590152b3150ded548a1e92ed4f4d",
+    "hash": "93b9abb0dd8a332ab4696e5aa163399a",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-CN/beginners-guide": {
@@ -1263,8 +1455,24 @@
     "hash": "b2de87fede660a7f923cbda27cfd34e3",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/zh-CN/devices/breadbox-joystick": {
+    "hash": "56ce78fa3d42ac09077b4ea4b84a035b",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/brick-game": {
+    "hash": "60f1a19d47f818e8d34661d65b873484",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/zh-CN/devices/eggotchi": {
     "hash": "1166a8d4bf8470c820a0ebf63d75320b",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/game-duck": {
+    "hash": "2cb79d06e97568f0b77c72e02ad10fba",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/guitar-legend": {
+    "hash": "1a838b0f3801ba231aff3b31e518f377",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-CN/devices/nony-goman": {
@@ -1305,6 +1513,14 @@
   },
   "https://restorygameguides.com/zh-CN/devices/walkie-talkie": {
     "hash": "a04ba212921365ed7ef80f0a6919546a",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/xi-box": {
+    "hash": "2f0bc26a223c134d9c2d807c8d8ec086",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/xi-box-controller": {
+    "hash": "4d6c957d43d4c173fb781c54a15ab62b",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-CN/economy": {
@@ -1384,7 +1600,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-TW/all-devices": {
-    "hash": "3cf5a024dc8b9dd01391fb9a7abe46ea",
+    "hash": "06954c6762dc1b075a0b62b594d9a495",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-TW/beginners-guide": {
@@ -1415,8 +1631,24 @@
     "hash": "ad8bf359f128e3b276ddc97565a1034a",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/zh-TW/devices/breadbox-joystick": {
+    "hash": "f55a645aad448a0a55d821dcb781084b",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/brick-game": {
+    "hash": "53919062f0f9bff75ffac90916412e71",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/zh-TW/devices/eggotchi": {
     "hash": "1595a4bfc0c2bf0e91b8a366f79386af",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/game-duck": {
+    "hash": "900e14125ae454e4b932c0d3cf20ecab",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/guitar-legend": {
+    "hash": "c6cdd6b83b49aab8ff636a0f00402d1d",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-TW/devices/nony-goman": {
@@ -1457,6 +1689,14 @@
   },
   "https://restorygameguides.com/zh-TW/devices/walkie-talkie": {
     "hash": "23ac2d0821448bc8472591fe5d5511b3",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/xi-box": {
+    "hash": "cfa3cdecfae31ec3ad18c487768fb3ff",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/xi-box-controller": {
+    "hash": "559b4e08209a9d6553b15b00f9ced2d7",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-TW/economy": {

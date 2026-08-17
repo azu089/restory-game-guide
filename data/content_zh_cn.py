@@ -822,4 +822,190 @@ PAGES_ZH_CN = {
 "devices/unicorp-99l": {'title': 'Unicorp 99L — 设备资料', 'metaTitle': 'Unicorp 99L — ReStory 设备参考', 'metaDescription': 'Unicorp 99L 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'intro': 'Unicorp 99L 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'sections': [{'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [['设备', 'Unicorp 99L'], ['家族', '杂项']]}, {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。']]}], 'sources': ['allthings', 'steam'], 'icon': 'flash'},
 
 "devices/robodog": {'title': 'Robodog — 设备资料', 'metaTitle': 'Robodog — ReStory 设备参考', 'metaDescription': 'Robodog 的 ReStory 设备资料。名称待 L0 核实——社区来源提示可能为 Robby；流程未知。', 'intro': 'Robodog 的 ReStory 设备资料与参考：本设备名称待 L0 实测核实——社区来源（restory.wiki）提示可能为 Robby（电子狗式同伴）。在游戏内核实前保留现名；设备专属流程未知。', 'sections': [{'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [['设备', 'Robodog'], ['家族', '小玩意与玩具']]}, {'type': 'note', 'heading': '已核实范围', 'body': '「Robodog」名称待 L0 核实。社区来源（restory.wiki）描述了一台受 Tekno 电子玩具启发的 Robby 电子狗；核实前保留现名。准确的游戏内流程仍待核实。'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。']]}], 'sources': ['allthings', 'steam'], 'icon': 'dog'},
+    'devices/simsons-m65': {
+  'title': 'Simsons M65 — 设备资料',
+  'metaTitle': 'Simsons M65 — ReStory 设备参考',
+  'metaDescription': 'Simsons M65 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——类别、难度、许可费与现实灵感；步骤流程仍未核实。',
+  'intro': 'Simsons M65 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。尚无官方补丁点名该设备。该设备专属的分步维修流程仍未核实。',
+  'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'Simsons M65'],
+        ['家族（L3）', '手机'],
+        ['灵感原型（L3）', '西门子 M65 手机'],
+        ['难度（L3）', '中等'],
+        ['许可费（L3）', '¥43,000']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。'},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。'],
+        ['这些资料字段来自哪里？', '来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。']]},
+     ], 'sources': ['wiki-simsons-m65', 'steam-discussion-devices'], 'icon': 'phone'},
+    'devices/blueberry-curl': {
+  'title': 'Blueberry Curl — 设备资料',
+  'metaTitle': 'Blueberry Curl — ReStory 设备参考',
+  'metaDescription': 'Blueberry Curl 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——类别、难度、许可费与现实灵感；步骤流程仍未核实。',
+  'intro': 'Blueberry Curl 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。尚无官方补丁点名该设备。该设备专属的分步维修流程仍未核实。',
+  'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'Blueberry Curl'],
+        ['家族（L3）', '手机'],
+        ['灵感原型（L3）', '黑莓 Curve 手机'],
+        ['难度（L3）', '中等'],
+        ['许可费（L3）', '¥230,000']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。'},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。'],
+        ['这些资料字段来自哪里？', '来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。']]},
+     ], 'sources': ['wiki-blueberry-curl', 'steam-discussion-devices'], 'icon': 'phone'},
+    'devices/wertu-signature': {
+  'title': 'Wertu Signature — 设备资料',
+  'metaTitle': 'Wertu Signature — ReStory 设备参考',
+  'metaDescription': 'Wertu Signature 的 ReStory 设备资料：社区参考数据（L3，未经官方核实）；步骤流程仍未核实。',
+  'intro': 'Wertu Signature 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度与许可费，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。社区来源未指明该设备的现实原型。尚无官方补丁点名该设备。该设备专属的分步维修流程仍未核实。',
+  'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'Wertu Signature'],
+        ['家族（L3）', '手机'],
+        ['灵感原型（L3）', '社区来源未指明'],
+        ['难度（L3）', '困难'],
+        ['许可费（L3）', '¥1,000,000']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。社区来源未指明该设备的现实原型。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。'},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。'],
+        ['这些资料字段来自哪里？', '来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。']]},
+     ], 'sources': ['wiki-wertu-signature', 'steam-discussion-devices'], 'icon': 'phone'},
+    'devices/unicorp-kettle': {
+  'title': 'Unicorp Kettle — 设备资料',
+  'metaTitle': 'Unicorp Kettle — ReStory 设备参考',
+  'metaDescription': 'Unicorp Kettle 的 ReStory 设备资料：社区参考数据（L3，未经官方核实）；步骤流程仍未核实。',
+  'intro': 'Unicorp Kettle 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度与灵感原型，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。社区来源将其描述为剧情解锁而非付费许可。尚无官方补丁点名该设备。该设备专属的分步维修流程仍未核实。',
+  'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'Unicorp Kettle'],
+        ['家族（L3）', '家电'],
+        ['灵感原型（L3）', '致敬 I Am Future（开发者前作）'],
+        ['难度（L3）', '简单'],
+        ['许可（L3）', '剧情解锁（据社区报告）']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。社区来源将该设备描述为剧情解锁而非付费许可，因此本页不列出许可费。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。'},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。'],
+        ['这些资料字段来自哪里？', '来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。']]},
+     ], 'sources': ['wiki-unicorp-kettle', 'steam-discussion-devices'], 'icon': 'bolt'},
+    'devices/autorolla-wt2000': {
+  'title': 'Autorolla WT2000 — 设备资料',
+  'metaTitle': 'Autorolla WT2000 — ReStory 设备参考',
+  'metaDescription': 'Autorolla WT2000 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——类别、难度、许可费与现实灵感；步骤流程仍未核实。',
+  'intro': 'Autorolla WT2000 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。尚无官方补丁点名该设备。该设备专属的分步维修流程仍未核实。',
+  'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'Autorolla WT2000'],
+        ['家族（L3）', '家电'],
+        ['灵感原型（L3）', '摩托罗拉 GP328 对讲机'],
+        ['难度（L3）', '简单'],
+        ['许可费（L3）', '¥40,000']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。'},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。'],
+        ['这些资料字段来自哪里？', '来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。']]},
+     ], 'sources': ['wiki-autorolla-wt2000', 'steam-discussion-devices'], 'icon': 'chip'},
+    'devices/unicorp-vision': {
+  'title': 'Unicorp Vision — 设备资料',
+  'metaTitle': 'Unicorp Vision — ReStory 设备参考',
+  'metaDescription': 'Unicorp Vision 的 ReStory 设备资料：社区参考数据（L3，未经官方核实）；步骤流程仍未核实。',
+  'intro': 'Unicorp Vision 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度与灵感原型，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。社区来源将其描述为剧情解锁而非付费许可。尚无官方补丁点名该设备。该设备专属的分步维修流程仍未核实。',
+  'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'Unicorp Vision'],
+        ['家族（L3）', '家电'],
+        ['灵感原型（L3）', '致敬 I Am Future（开发者前作）'],
+        ['难度（L3）', '简单'],
+        ['许可（L3）', '剧情解锁（据社区报告）']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。社区来源将该设备描述为剧情解锁而非付费许可，因此本页不列出许可费。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。'},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。'],
+        ['这些资料字段来自哪里？', '来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。']]},
+     ], 'sources': ['wiki-unicorp-vision', 'steam-discussion-devices'], 'icon': 'monitor'},
+    'devices/robby': {
+  'title': 'Robby — 设备资料',
+  'metaTitle': 'Robby — ReStory 设备参考',
+  'metaDescription': 'Robby 的 ReStory 设备资料：社区参考数据（L3，未经官方核实）；步骤流程仍未核实。',
+  'intro': 'Robby 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度与灵感原型，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。社区来源将其描述为组装赛解锁而非付费许可。Robby 也在 Steam 官方更新 #2（v1.0.010r）公告中被点名，该公告修复了 Robby 电线的小问题。该设备专属的分步维修流程仍未核实。',
+  'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'Robby'],
+        ['家族（L3）', '小玩意与玩具'],
+        ['灵感原型（L3）', 'Tekno 式电子宠物狗'],
+        ['难度（L3）', '困难'],
+        ['许可（L3）', '组装赛解锁（据社区报告）'],
+        ['官方提及', '在 Steam 官方更新 #2（v1.0.010r）中被点名']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。社区来源将该设备描述为组装赛解锁而非付费许可，因此本页不列出许可费。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。唯一经官方确认的事实是下方描述的补丁提及。'},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备。Robby 在 Steam 官方更新 #2（v1.0.010r）公告中被点名（见本页「来源」链接），公告修复了 Robby 电线的小问题——由此确认该设备存在于游戏中。准确的游戏内流程仍待核实，所有资料字段仍为社区报告（L3）。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。'],
+        ['这些资料字段来自哪里？', '来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。'],
+        ['Robby 是否获得官方确认？', '是——该设备在 Steam 官方更新 #2（v1.0.010r）公告中被点名（见「来源」链接），公告修复了 Robby 电线的小问题。公告确认该设备存在；本页资料字段仍为社区报告（L3）。']]},
+     ], 'sources': ['wiki-robby', 'steam-discussion-devices', 'steam-patch-010r'], 'icon': 'chip'},
+    'devices/nerdio-w91f': {
+  'title': 'Nerdio W-91F — 设备资料',
+  'metaTitle': 'Nerdio W-91F — ReStory 设备参考',
+  'metaDescription': 'Nerdio W-91F 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——类别、难度、许可费与现实灵感；步骤流程仍未核实。',
+  'intro': 'Nerdio W-91F 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。尚无官方补丁点名该设备。该设备专属的分步维修流程仍未核实。',
+  'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'Nerdio W-91F'],
+        ['家族（L3）', '小玩意与玩具'],
+        ['灵感原型（L3）', '卡西欧 F-91W 手表'],
+        ['难度（L3）', '中等'],
+        ['许可费（L3）', '¥35,000']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。'},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实，所有资料字段在经可追溯的游戏证据核实前均保持为社区报告（L3）。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。'],
+        ['这些资料字段来自哪里？', '来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。']]},
+     ], 'sources': ['wiki-nerdio-w91f', 'steam-discussion-devices'], 'icon': 'chip'},
+    'devices/mapple-mypod': {
+  'title': 'Mapple Mypod — 设备资料',
+  'metaTitle': 'Mapple Mypod — ReStory 设备参考',
+  'metaDescription': 'Mapple Mypod 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——类别、难度、许可费与现实灵感；步骤流程仍未核实。',
+  'intro': 'Mapple Mypod 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。Mapple Mypod 也在 Steam 官方更新 #1（v1.0.009r）公告中以「「MyPod」」点名，该公告修复了 MyPod 固件更新 bug。该设备专属的分步维修流程仍未核实。',
+  'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'Mapple Mypod'],
+        ['家族（L3）', '音乐与媒体'],
+        ['灵感原型（L3）', 'iPod Classic 式音乐播放器'],
+        ['难度（L3）', '简单'],
+        ['许可费（L3）', '¥43,000'],
+        ['官方提及', '在 Steam 官方更新 #1（v1.0.009r）中以「「MyPod」」点名']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。唯一经官方确认的事实是下方描述的补丁提及。'},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备。Mapple Mypod 在 Steam 官方更新 #1（v1.0.009r）公告中以「「MyPod」」点名（见本页「来源」链接），公告修复了 MyPod 固件更新 bug——由此确认该设备存在于游戏中。准确的游戏内流程仍待核实，所有资料字段仍为社区报告（L3）。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。'],
+        ['这些资料字段来自哪里？', '来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。'],
+        ['Mapple Mypod 是否获得官方确认？', '是——该设备在 Steam 官方更新 #1（v1.0.009r）公告中以「「MyPod」」点名（见「来源」链接），公告修复了 MyPod 固件更新 bug。公告确认该设备存在；本页资料字段仍为社区报告（L3）。']]},
+     ], 'sources': ['wiki-mapple-mypod', 'steam-discussion-devices', 'steam-patch-009r'], 'icon': 'tape'},
+    'devices/idm-thinkerdad': {
+  'title': 'IDM ThinkerDad — 设备资料',
+  'metaTitle': 'IDM ThinkerDad — ReStory 设备参考',
+  'metaDescription': 'IDM ThinkerDad 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——类别、难度、许可费与现实灵感；步骤流程仍未核实。',
+  'intro': 'IDM ThinkerDad 的 ReStory 设备资料与参考：本页所有资料字段均来自社区报告（明确标注 L3——未经官方核实）：类别、难度、许可费与现实灵感，来源为 restory.wiki 设备页与 Steam 社区设备清单（见本页底部「来源」链接）。IDM ThinkerDad 也在 Steam 官方更新 #1（v1.0.009r）公告中以「「IDM device」」点名，该公告修复了 IDM device 拆解问题。该设备专属的分步维修流程仍未核实。',
+  'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'IDM ThinkerDad'],
+        ['家族（L3）', '笔记本'],
+        ['灵感原型（L3）', 'ThinkPad 365XD 式笔记本'],
+        ['难度（L3）', '困难'],
+        ['许可费（L3）', '¥159,000'],
+        ['官方提及', '在 Steam 官方更新 #1（v1.0.009r）中以「「IDM device」」点名']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '本页上方的资料字段均来自社区报告（L3），未经开发者或任何官方来源核实。来源为 restory.wiki 设备页与 Steam 社区设备清单（均在本页底部「来源」中列出并可点击）。本页暂不发布该设备的零件、螺丝或转售价格数据：目前没有交叉核实过的数字。唯一经官方确认的事实是下方描述的补丁提及。'},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备。IDM ThinkerDad 在 Steam 官方更新 #1（v1.0.009r）公告中以「「IDM device」」点名（见本页「来源」链接），公告修复了 IDM device 拆解问题——由此确认该设备存在于游戏中。准确的游戏内流程仍待核实，所有资料字段仍为社区报告（L3）。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。'],
+        ['这些资料字段来自哪里？', '来自社区来源（L3）：restory.wiki 设备页与 Steam 社区设备清单，见本页下方「来源」。这些数字均未经官方核实。'],
+        ['IDM ThinkerDad 是否获得官方确认？', '是——该设备在 Steam 官方更新 #1（v1.0.009r）公告中以「「IDM device」」点名（见「来源」链接），公告修复了 IDM device 拆解问题。公告确认该设备存在；本页资料字段仍为社区报告（L3）。']]},
+     ], 'sources': ['wiki-idm-thinkerdad', 'steam-discussion-devices', 'steam-patch-009r'], 'icon': 'monitor'},
 }

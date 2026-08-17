@@ -833,4 +833,190 @@ PAGES_DE = {
 "devices/unicorp-99l": {'title': 'Unicorp 99L — Geräteprofil', 'metaTitle': 'Unicorp 99L — ReStory-Gerätereferenz', 'metaDescription': 'Profil von Unicorp 99L in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.', 'intro': 'Profil von Unicorp 99L in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.', 'sections': [{'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [['Gerät', 'Unicorp 99L'], ['Familie', 'Extras']]}, {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert.'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.']]}], 'sources': ['allthings', 'steam'], 'icon': 'flash'},
 
 "devices/robodog": {'title': 'Robodog — Geräteprofil', 'metaTitle': 'Robodog — ReStory-Gerätereferenz', 'metaDescription': 'Profil von Robodog in ReStory. Der Name wartet auf L0-Verifizierung – Community-Quellen vermuten Robby; der Ablauf ist unbekannt.', 'intro': 'Profil von Robodog in ReStory. Der Name dieses Geräts wartet auf L0-Verifizierung: Community-Quellen (restory.wiki) vermuten Robby, einen Roboterhund-Begleiter. Wir behalten den aktuellen Namen, bis er im Spiel verifiziert ist. Der gerätespezifische Ablauf ist unbekannt.', 'sections': [{'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [['Gerät', 'Robodog'], ['Familie', 'Gadgets & Spielzeug']]}, {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Der Name „Robodog“ wartet auf L0-Verifizierung. Community-Quellen (restory.wiki) beschreiben einen Robby-Roboterhund, inspiriert vom Tekno-Roboterspielzeug; wir behalten den Namen bis zur Verifizierung im Spiel. Der genaue Ablauf im Spiel ist noch nicht verifiziert.'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.']]}], 'sources': ['allthings', 'steam'], 'icon': 'dog'},
+    'devices/simsons-m65': {
+  'title': 'Simsons M65 — Geräteprofil',
+  'metaTitle': 'Simsons M65 — ReStory-Gerätereferenz',
+  'metaDescription': 'Profil von Simsons M65 in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. Ablauf unbekannt.',
+  'intro': 'Profil von Simsons M65 in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Kein offizielles Update hat dieses Gerät bisher genannt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.',
+  'sections': [
+      {'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [
+        ['Gerät', 'Simsons M65'],
+        ['Familie (L3)', 'Handys'],
+        ['Design-Inspiration (L3)', 'Siemens-M65-Handy'],
+        ['Schwierigkeit (L3)', 'Mittel'],
+        ['Lizenzgebühr (L3)', '¥43,000']]},
+      {'type': 'note', 'heading': 'Community-Referenzdaten (L3 — nicht offiziell verifiziert)', 'body': 'Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor.'},
+      {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.'],
+        ['Woher stammen die Profildetails?', 'Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen" verlinkt. Keine dieser Zahlen ist offiziell verifiziert.']]},
+     ], 'sources': ['wiki-simsons-m65', 'steam-discussion-devices'], 'icon': 'phone'},
+    'devices/blueberry-curl': {
+  'title': 'Blueberry Curl — Geräteprofil',
+  'metaTitle': 'Blueberry Curl — ReStory-Gerätereferenz',
+  'metaDescription': 'Profil von Blueberry Curl in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. Ablauf unbekannt.',
+  'intro': 'Profil von Blueberry Curl in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Kein offizielles Update hat dieses Gerät bisher genannt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.',
+  'sections': [
+      {'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [
+        ['Gerät', 'Blueberry Curl'],
+        ['Familie (L3)', 'Handys'],
+        ['Design-Inspiration (L3)', 'BlackBerry-Curve-Handy'],
+        ['Schwierigkeit (L3)', 'Mittel'],
+        ['Lizenzgebühr (L3)', '¥230,000']]},
+      {'type': 'note', 'heading': 'Community-Referenzdaten (L3 — nicht offiziell verifiziert)', 'body': 'Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor.'},
+      {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.'],
+        ['Woher stammen die Profildetails?', 'Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen" verlinkt. Keine dieser Zahlen ist offiziell verifiziert.']]},
+     ], 'sources': ['wiki-blueberry-curl', 'steam-discussion-devices'], 'icon': 'phone'},
+    'devices/wertu-signature': {
+  'title': 'Wertu Signature — Geräteprofil',
+  'metaTitle': 'Wertu Signature — ReStory-Gerätereferenz',
+  'metaDescription': 'Profil von Wertu Signature in ReStory plus Community-Referenzdaten (L3, nicht verifiziert); Schritt-für-Schritt-Ablauf unbekannt.',
+  'intro': 'Profil von Wertu Signature in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit und Lizenzgebühr, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Community-Quellen nennen keine reale Inspiration für dieses Gerät. Kein offizielles Update hat dieses Gerät bisher genannt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.',
+  'sections': [
+      {'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [
+        ['Gerät', 'Wertu Signature'],
+        ['Familie (L3)', 'Handys'],
+        ['Design-Inspiration (L3)', 'In Community-Quellen nicht angegeben'],
+        ['Schwierigkeit (L3)', 'Schwer'],
+        ['Lizenzgebühr (L3)', '¥1,000,000']]},
+      {'type': 'note', 'heading': 'Community-Referenzdaten (L3 — nicht offiziell verifiziert)', 'body': 'Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Community-Quellen nennen keine reale Inspiration für dieses Gerät. Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor.'},
+      {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.'],
+        ['Woher stammen die Profildetails?', 'Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen" verlinkt. Keine dieser Zahlen ist offiziell verifiziert.']]},
+     ], 'sources': ['wiki-wertu-signature', 'steam-discussion-devices'], 'icon': 'phone'},
+    'devices/unicorp-kettle': {
+  'title': 'Unicorp Kettle — Geräteprofil',
+  'metaTitle': 'Unicorp Kettle — ReStory-Gerätereferenz',
+  'metaDescription': 'Profil von Unicorp Kettle in ReStory plus Community-Referenzdaten (L3, nicht verifiziert); Schritt-für-Schritt-Ablauf unbekannt.',
+  'intro': 'Profil von Unicorp Kettle in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit und Design-Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Community-Quellen beschreiben eine Story-Freischaltung statt einer Lizenzgebühr. Kein offizielles Update hat dieses Gerät bisher genannt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.',
+  'sections': [
+      {'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [
+        ['Gerät', 'Unicorp Kettle'],
+        ['Familie (L3)', 'Haushaltsgeräte'],
+        ['Design-Inspiration (L3)', 'Anspielung auf I Am Future (früheres Spiel des Entwicklers)'],
+        ['Schwierigkeit (L3)', 'Leicht'],
+        ['Lizenz (L3)', 'Story-Freischaltung (laut Community)']]},
+      {'type': 'note', 'heading': 'Community-Referenzdaten (L3 — nicht offiziell verifiziert)', 'body': 'Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Community-Quellen beschreiben dieses Gerät als per Story freischaltbar statt kostenpflichtig; wir nennen daher keine Lizenzgebühr. Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor.'},
+      {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.'],
+        ['Woher stammen die Profildetails?', 'Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen" verlinkt. Keine dieser Zahlen ist offiziell verifiziert.']]},
+     ], 'sources': ['wiki-unicorp-kettle', 'steam-discussion-devices'], 'icon': 'bolt'},
+    'devices/autorolla-wt2000': {
+  'title': 'Autorolla WT2000 — Geräteprofil',
+  'metaTitle': 'Autorolla WT2000 — ReStory-Gerätereferenz',
+  'metaDescription': 'Profil von Autorolla WT2000 in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. Ablauf unbekannt.',
+  'intro': 'Profil von Autorolla WT2000 in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Kein offizielles Update hat dieses Gerät bisher genannt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.',
+  'sections': [
+      {'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [
+        ['Gerät', 'Autorolla WT2000'],
+        ['Familie (L3)', 'Haushaltsgeräte'],
+        ['Design-Inspiration (L3)', 'Motorola-GP328-Funkgerät'],
+        ['Schwierigkeit (L3)', 'Leicht'],
+        ['Lizenzgebühr (L3)', '¥40,000']]},
+      {'type': 'note', 'heading': 'Community-Referenzdaten (L3 — nicht offiziell verifiziert)', 'body': 'Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor.'},
+      {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.'],
+        ['Woher stammen die Profildetails?', 'Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen" verlinkt. Keine dieser Zahlen ist offiziell verifiziert.']]},
+     ], 'sources': ['wiki-autorolla-wt2000', 'steam-discussion-devices'], 'icon': 'chip'},
+    'devices/unicorp-vision': {
+  'title': 'Unicorp Vision — Geräteprofil',
+  'metaTitle': 'Unicorp Vision — ReStory-Gerätereferenz',
+  'metaDescription': 'Profil von Unicorp Vision in ReStory plus Community-Referenzdaten (L3, nicht verifiziert); Schritt-für-Schritt-Ablauf unbekannt.',
+  'intro': 'Profil von Unicorp Vision in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit und Design-Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Community-Quellen beschreiben eine Story-Freischaltung statt einer Lizenzgebühr. Kein offizielles Update hat dieses Gerät bisher genannt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.',
+  'sections': [
+      {'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [
+        ['Gerät', 'Unicorp Vision'],
+        ['Familie (L3)', 'Haushaltsgeräte'],
+        ['Design-Inspiration (L3)', 'Anspielung auf I Am Future (früheres Spiel des Entwicklers)'],
+        ['Schwierigkeit (L3)', 'Leicht'],
+        ['Lizenz (L3)', 'Story-Freischaltung (laut Community)']]},
+      {'type': 'note', 'heading': 'Community-Referenzdaten (L3 — nicht offiziell verifiziert)', 'body': 'Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Community-Quellen beschreiben dieses Gerät als per Story freischaltbar statt kostenpflichtig; wir nennen daher keine Lizenzgebühr. Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor.'},
+      {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.'],
+        ['Woher stammen die Profildetails?', 'Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen" verlinkt. Keine dieser Zahlen ist offiziell verifiziert.']]},
+     ], 'sources': ['wiki-unicorp-vision', 'steam-discussion-devices'], 'icon': 'monitor'},
+    'devices/robby': {
+  'title': 'Robby — Geräteprofil',
+  'metaTitle': 'Robby — ReStory-Gerätereferenz',
+  'metaDescription': 'Profil von Robby in ReStory plus Community-Referenzdaten (L3, nicht verifiziert); Schritt-für-Schritt-Ablauf unbekannt.',
+  'intro': 'Profil von Robby in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit und Design-Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Community-Quellen beschreiben eine Freischaltung über einen Montagewettbewerb statt einer Lizenzgebühr. Robby wird auch in der offiziellen Ankündigung von Steam-Update Nr. 2 (v1.0.010r) genannt, die ein kleines Problem mit Robbys Kabeln behebt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.',
+  'sections': [
+      {'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [
+        ['Gerät', 'Robby'],
+        ['Familie (L3)', 'Gadgets & Spielzeug'],
+        ['Design-Inspiration (L3)', 'Tekno-artiger Roboterhund'],
+        ['Schwierigkeit (L3)', 'Schwer'],
+        ['Lizenz (L3)', 'Montagewettbewerb (laut Community)'],
+        ['Offizielle Erwähnung', 'In offiziellem Steam-Update Nr. 2 (v1.0.010r) genannt']]},
+      {'type': 'note', 'heading': 'Community-Referenzdaten (L3 — nicht offiziell verifiziert)', 'body': 'Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Community-Quellen beschreiben dieses Gerät als per Montagewettbewerb freischaltbar statt kostenpflichtig; wir nennen daher keine Lizenzgebühr. Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor. Die einzige offiziell bestätigte Tatsache ist die unten beschriebene Patch-Erwähnung.'},
+      {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. Robby wird in der offiziellen Ankündigung von Steam-Update Nr. 2 (v1.0.010r) genannt (unter „Quellen" verlinkt), die ein kleines Problem mit Robbys Kabeln behebt — das bestätigt, dass das Gerät im Spiel existiert. Der genaue Ablauf ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3).'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.'],
+        ['Woher stammen die Profildetails?', 'Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen" verlinkt. Keine dieser Zahlen ist offiziell verifiziert.'],
+        ['Ist Robby offiziell bestätigt?', 'Ja — das Gerät wird in der offiziellen Ankündigung von Steam-Update Nr. 2 (v1.0.010r) genannt (unter „Quellen" verlinkt), die ein kleines Problem mit Robbys Kabeln behebt. Die Ankündigung bestätigt die Existenz des Geräts; die Details dieser Seite bleiben Community-Angaben (L3).']]},
+     ], 'sources': ['wiki-robby', 'steam-discussion-devices', 'steam-patch-010r'], 'icon': 'chip'},
+    'devices/nerdio-w91f': {
+  'title': 'Nerdio W-91F — Geräteprofil',
+  'metaTitle': 'Nerdio W-91F — ReStory-Gerätereferenz',
+  'metaDescription': 'Profil von Nerdio W-91F in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. Ablauf unbekannt.',
+  'intro': 'Profil von Nerdio W-91F in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Kein offizielles Update hat dieses Gerät bisher genannt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.',
+  'sections': [
+      {'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [
+        ['Gerät', 'Nerdio W-91F'],
+        ['Familie (L3)', 'Gadgets & Spielzeug'],
+        ['Design-Inspiration (L3)', 'Casio-F-91W-Uhr'],
+        ['Schwierigkeit (L3)', 'Mittel'],
+        ['Lizenzgebühr (L3)', '¥35,000']]},
+      {'type': 'note', 'heading': 'Community-Referenzdaten (L3 — nicht offiziell verifiziert)', 'body': 'Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor.'},
+      {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. Der genaue Ablauf im Spiel ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3), bis sie anhand nachvollziehbarer Spielbelege geprüft sind.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.'],
+        ['Woher stammen die Profildetails?', 'Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen" verlinkt. Keine dieser Zahlen ist offiziell verifiziert.']]},
+     ], 'sources': ['wiki-nerdio-w91f', 'steam-discussion-devices'], 'icon': 'chip'},
+    'devices/mapple-mypod': {
+  'title': 'Mapple Mypod — Geräteprofil',
+  'metaTitle': 'Mapple Mypod — ReStory-Gerätereferenz',
+  'metaDescription': 'Profil von Mapple Mypod in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. Ablauf unbekannt.',
+  'intro': 'Profil von Mapple Mypod in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Mapple Mypod wird auch in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) als „MyPod" genannt, die einen MyPod-Firmware-Update-Fehler behebt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.',
+  'sections': [
+      {'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [
+        ['Gerät', 'Mapple Mypod'],
+        ['Familie (L3)', 'Musik & Medien'],
+        ['Design-Inspiration (L3)', 'iPod-Classic-artiger Musikplayer'],
+        ['Schwierigkeit (L3)', 'Leicht'],
+        ['Lizenzgebühr (L3)', '¥43,000'],
+        ['Offizielle Erwähnung', 'In offiziellem Steam-Update Nr. 1 (v1.0.009r) als „MyPod" genannt']]},
+      {'type': 'note', 'heading': 'Community-Referenzdaten (L3 — nicht offiziell verifiziert)', 'body': 'Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor. Die einzige offiziell bestätigte Tatsache ist die unten beschriebene Patch-Erwähnung.'},
+      {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. Mapple Mypod wird in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) als „MyPod" genannt (unter „Quellen" verlinkt), die einen MyPod-Firmware-Update-Fehler behebt — das bestätigt, dass das Gerät im Spiel existiert. Der genaue Ablauf ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3).'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.'],
+        ['Woher stammen die Profildetails?', 'Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen" verlinkt. Keine dieser Zahlen ist offiziell verifiziert.'],
+        ['Ist Mapple Mypod offiziell bestätigt?', 'Ja — das Gerät wird in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) als „MyPod" genannt (unter „Quellen" verlinkt), die einen MyPod-Firmware-Update-Fehler behebt. Die Ankündigung bestätigt die Existenz des Geräts; die Details dieser Seite bleiben Community-Angaben (L3).']]},
+     ], 'sources': ['wiki-mapple-mypod', 'steam-discussion-devices', 'steam-patch-009r'], 'icon': 'tape'},
+    'devices/idm-thinkerdad': {
+  'title': 'IDM ThinkerDad — Geräteprofil',
+  'metaTitle': 'IDM ThinkerDad — ReStory-Gerätereferenz',
+  'metaDescription': 'Profil von IDM ThinkerDad in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): Familie, Schwierigkeit, Lizenzgebühr und Inspiration. Ablauf unbekannt.',
+  'intro': 'Profil von IDM ThinkerDad in ReStory. Alle Profildetails unten stammen aus der Community (klar als L3 gekennzeichnet — nicht offiziell verifiziert): Familie, Schwierigkeit, Lizenzgebühr und reale Inspiration, von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). IDM ThinkerDad wird auch in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) als „IDM device" genannt, die die Zerlegung des IDM-Geräts behebt. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.',
+  'sections': [
+      {'type': 'table', 'heading': 'Geräteprofil', 'columns': ['Feld', 'Wert'], 'rows': [
+        ['Gerät', 'IDM ThinkerDad'],
+        ['Familie (L3)', 'Laptops'],
+        ['Design-Inspiration (L3)', 'ThinkPad-365XD-artiger Laptop'],
+        ['Schwierigkeit (L3)', 'Schwer'],
+        ['Lizenzgebühr (L3)', '¥159,000'],
+        ['Offizielle Erwähnung', 'In offiziellem Steam-Update Nr. 1 (v1.0.009r) als „IDM device" genannt']]},
+      {'type': 'note', 'heading': 'Community-Referenzdaten (L3 — nicht offiziell verifiziert)', 'body': 'Alle Profilfelder oben stammen aus der Community (L3) und sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie kommen von der restory.wiki-Geräteseite und der Steam-Community-Geräteliste (unten unter „Quellen" verlinkt). Für dieses Gerät veröffentlichen wir noch keine Daten zu Teilen, Schrauben oder Wiederverkaufspreisen: Es liegen keine gegenprüfbaren Zahlen vor. Die einzige offiziell bestätigte Tatsache ist die unten beschriebene Patch-Erwähnung.'},
+      {'type': 'note', 'heading': 'Verifizierter Umfang', 'body': 'Diese Seite identifiziert ein reparierbares Gerät in ReStory. IDM ThinkerDad wird in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) als „IDM device" genannt (unter „Quellen" verlinkt), die die Zerlegung des IDM-Geräts behebt — das bestätigt, dass das Gerät im Spiel existiert. Der genaue Ablauf ist noch nicht verifiziert, und alle Profildetails bleiben Community-Angaben (L3).'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Ist dies eine Schritt-für-Schritt-Anleitung?', 'Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt.'],
+        ['Woher stammen die Profildetails?', 'Sie stammen aus Community-Quellen (L3): der restory.wiki-Geräteseite und der Steam-Community-Geräteliste, unten unter „Quellen" verlinkt. Keine dieser Zahlen ist offiziell verifiziert.'],
+        ['Ist IDM ThinkerDad offiziell bestätigt?', 'Ja — das Gerät wird in der offiziellen Ankündigung von Steam-Update Nr. 1 (v1.0.009r) als „IDM device" genannt (unter „Quellen" verlinkt), die die Zerlegung des IDM-Geräts behebt. Die Ankündigung bestätigt die Existenz des Geräts; die Details dieser Seite bleiben Community-Angaben (L3).']]},
+     ], 'sources': ['wiki-idm-thinkerdad', 'steam-discussion-devices', 'steam-patch-009r'], 'icon': 'monitor'},
 }

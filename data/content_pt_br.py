@@ -812,4 +812,190 @@ PAGES_PT_BR = {
 "devices/walkie-talkie": {'title': 'Walkie-talkie — Perfil do aparelho', 'metaTitle': 'Walkie-talkie — Referência de aparelho de ReStory', 'metaDescription': 'Perfil de Walkie-talkie em ReStory. O nome aguarda verificação L0 — fontes da comunidade sugerem o Autorolla WT2000; o procedimento é desconhecido.', 'intro': 'Perfil de Walkie-talkie em ReStory. O nome deste aparelho aguarda verificação L0: fontes da comunidade (restory.wiki) sugerem que pode ser o Autorolla WT2000, um eletrodoméstico estilo rádio portátil. Mantemos o nome atual até ser verificado no jogo. O procedimento específico é desconhecido.', 'sections': [{'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [['Aparelho', 'Walkie-talkie'], ['Família', 'Gadgets e brinquedos']]}, {'type': 'note', 'heading': 'Escopo verificado', 'body': 'O nome «Walkie-talkie» aguarda verificação L0. Fontes da comunidade (restory.wiki) descrevem um eletrodoméstico Autorolla WT2000 inspirado em um rádio portátil; mantemos o nome atual até verificação no jogo. O procedimento exato no jogo ainda está em verificação.'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.']]}], 'sources': ['allthings', 'steam'], 'icon': 'radio'},
 "devices/unicorp-99l": {'title': 'Unicorp 99L — Perfil do aparelho', 'metaTitle': 'Unicorp 99L — Referência de aparelho de ReStory', 'metaDescription': 'Perfil de Unicorp 99L em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.', 'intro': 'Perfil de Unicorp 99L em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.', 'sections': [{'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [['Aparelho', 'Unicorp 99L'], ['Família', 'Extras']]}, {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação.'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.']]}], 'sources': ['allthings', 'steam'], 'icon': 'flash'},
 "devices/robodog": {'title': 'Robodog — Perfil do aparelho', 'metaTitle': 'Robodog — Referência de aparelho de ReStory', 'metaDescription': 'Perfil de Robodog em ReStory. O nome aguarda verificação L0 — fontes da comunidade sugerem Robby; o procedimento é desconhecido.', 'intro': 'Perfil de Robodog em ReStory. O nome deste aparelho aguarda verificação L0: fontes da comunidade (restory.wiki) sugerem que pode ser Robby, um companheiro cachorro robô. Mantemos o nome atual até ser verificado no jogo. O procedimento específico é desconhecido.', 'sections': [{'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [['Aparelho', 'Robodog'], ['Família', 'Gadgets e brinquedos']]}, {'type': 'note', 'heading': 'Escopo verificado', 'body': 'O nome «Robodog» aguarda verificação L0. Fontes da comunidade (restory.wiki) descrevem um cachorro robô Robby inspirado no brinquedo robótico Tekno; mantemos o nome atual até verificação no jogo. O procedimento exato no jogo ainda está em verificação.'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.']]}], 'sources': ['allthings', 'steam'], 'icon': 'dog'},
+    'devices/simsons-m65': {
+  'title': 'Simsons M65 — Perfil do aparelho',
+  'metaTitle': 'Simsons M65 — Referência de aparelho de ReStory',
+  'metaDescription': 'Perfil de Simsons M65 em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração. Procedimento desconhecido.',
+  'intro': 'Perfil de Simsons M65 em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Nenhum patch oficial citou este aparelho ainda. O procedimento passo a passo específico continua desconhecido.',
+  'sections': [
+      {'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [
+        ['Aparelho', 'Simsons M65'],
+        ['Família (L3)', 'Celulares'],
+        ['Inspiração de design (L3)', 'Celular Siemens M65'],
+        ['Dificuldade (L3)', 'Médio'],
+        ['Taxa de licença (L3)', '¥43,000']]},
+      {'type': 'note', 'heading': 'Dados de referência da comunidade (L3, não verificados oficialmente)', 'body': 'Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis.'},
+      {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.'],
+        ['De onde vêm os detalhes do perfil?', 'Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em "Fontes" abaixo. Nenhum desses números é verificado oficialmente.']]},
+     ], 'sources': ['wiki-simsons-m65', 'steam-discussion-devices'], 'icon': 'phone'},
+    'devices/blueberry-curl': {
+  'title': 'Blueberry Curl — Perfil do aparelho',
+  'metaTitle': 'Blueberry Curl — Referência de aparelho de ReStory',
+  'metaDescription': 'Perfil de Blueberry Curl em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração. Procedimento desconhecido.',
+  'intro': 'Perfil de Blueberry Curl em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Nenhum patch oficial citou este aparelho ainda. O procedimento passo a passo específico continua desconhecido.',
+  'sections': [
+      {'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [
+        ['Aparelho', 'Blueberry Curl'],
+        ['Família (L3)', 'Celulares'],
+        ['Inspiração de design (L3)', 'Celular BlackBerry Curve'],
+        ['Dificuldade (L3)', 'Médio'],
+        ['Taxa de licença (L3)', '¥230,000']]},
+      {'type': 'note', 'heading': 'Dados de referência da comunidade (L3, não verificados oficialmente)', 'body': 'Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis.'},
+      {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.'],
+        ['De onde vêm os detalhes do perfil?', 'Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em "Fontes" abaixo. Nenhum desses números é verificado oficialmente.']]},
+     ], 'sources': ['wiki-blueberry-curl', 'steam-discussion-devices'], 'icon': 'phone'},
+    'devices/wertu-signature': {
+  'title': 'Wertu Signature — Perfil do aparelho',
+  'metaTitle': 'Wertu Signature — Referência de aparelho de ReStory',
+  'metaDescription': 'Perfil de Wertu Signature em ReStory: dados de referência da comunidade (L3, não verificados); procedimento passo a passo desconhecido.',
+  'intro': 'Perfil de Wertu Signature em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade e taxa de licença, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). As fontes da comunidade não especificam uma inspiração real para este aparelho. Nenhum patch oficial citou este aparelho ainda. O procedimento passo a passo específico continua desconhecido.',
+  'sections': [
+      {'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [
+        ['Aparelho', 'Wertu Signature'],
+        ['Família (L3)', 'Celulares'],
+        ['Inspiração de design (L3)', 'Não especificado nas fontes da comunidade'],
+        ['Dificuldade (L3)', 'Difícil'],
+        ['Taxa de licença (L3)', '¥1,000,000']]},
+      {'type': 'note', 'heading': 'Dados de referência da comunidade (L3, não verificados oficialmente)', 'body': 'Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). As fontes da comunidade não especificam uma inspiração real para este aparelho. Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis.'},
+      {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.'],
+        ['De onde vêm os detalhes do perfil?', 'Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em "Fontes" abaixo. Nenhum desses números é verificado oficialmente.']]},
+     ], 'sources': ['wiki-wertu-signature', 'steam-discussion-devices'], 'icon': 'phone'},
+    'devices/unicorp-kettle': {
+  'title': 'Unicorp Kettle — Perfil do aparelho',
+  'metaTitle': 'Unicorp Kettle — Referência de aparelho de ReStory',
+  'metaDescription': 'Perfil de Unicorp Kettle em ReStory: dados de referência da comunidade (L3, não verificados); procedimento passo a passo desconhecido.',
+  'intro': 'Perfil de Unicorp Kettle em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade e inspiração de design, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). As fontes da comunidade descrevem um desbloqueio pela história em vez de licença paga. Nenhum patch oficial citou este aparelho ainda. O procedimento passo a passo específico continua desconhecido.',
+  'sections': [
+      {'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [
+        ['Aparelho', 'Unicorp Kettle'],
+        ['Família (L3)', 'Eletrodomésticos'],
+        ['Inspiração de design (L3)', 'Referência a I Am Future (jogo anterior do desenvolvedor)'],
+        ['Dificuldade (L3)', 'Fácil'],
+        ['Licença (L3)', 'Desbloqueio pela história (segundo a comunidade)']]},
+      {'type': 'note', 'heading': 'Dados de referência da comunidade (L3, não verificados oficialmente)', 'body': 'Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). As fontes da comunidade descrevem este aparelho como desbloqueado pela história em vez de licença paga, então não indicamos taxa de licença. Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis.'},
+      {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.'],
+        ['De onde vêm os detalhes do perfil?', 'Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em "Fontes" abaixo. Nenhum desses números é verificado oficialmente.']]},
+     ], 'sources': ['wiki-unicorp-kettle', 'steam-discussion-devices'], 'icon': 'bolt'},
+    'devices/autorolla-wt2000': {
+  'title': 'Autorolla WT2000 — Perfil do aparelho',
+  'metaTitle': 'Autorolla WT2000 — Referência de aparelho de ReStory',
+  'metaDescription': 'Perfil de Autorolla WT2000 em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração. Procedimento desconhecido.',
+  'intro': 'Perfil de Autorolla WT2000 em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Nenhum patch oficial citou este aparelho ainda. O procedimento passo a passo específico continua desconhecido.',
+  'sections': [
+      {'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [
+        ['Aparelho', 'Autorolla WT2000'],
+        ['Família (L3)', 'Eletrodomésticos'],
+        ['Inspiração de design (L3)', 'Rádio Motorola GP328'],
+        ['Dificuldade (L3)', 'Fácil'],
+        ['Taxa de licença (L3)', '¥40,000']]},
+      {'type': 'note', 'heading': 'Dados de referência da comunidade (L3, não verificados oficialmente)', 'body': 'Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis.'},
+      {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.'],
+        ['De onde vêm os detalhes do perfil?', 'Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em "Fontes" abaixo. Nenhum desses números é verificado oficialmente.']]},
+     ], 'sources': ['wiki-autorolla-wt2000', 'steam-discussion-devices'], 'icon': 'chip'},
+    'devices/unicorp-vision': {
+  'title': 'Unicorp Vision — Perfil do aparelho',
+  'metaTitle': 'Unicorp Vision — Referência de aparelho de ReStory',
+  'metaDescription': 'Perfil de Unicorp Vision em ReStory: dados de referência da comunidade (L3, não verificados); procedimento passo a passo desconhecido.',
+  'intro': 'Perfil de Unicorp Vision em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade e inspiração de design, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). As fontes da comunidade descrevem um desbloqueio pela história em vez de licença paga. Nenhum patch oficial citou este aparelho ainda. O procedimento passo a passo específico continua desconhecido.',
+  'sections': [
+      {'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [
+        ['Aparelho', 'Unicorp Vision'],
+        ['Família (L3)', 'Eletrodomésticos'],
+        ['Inspiração de design (L3)', 'Referência a I Am Future (jogo anterior do desenvolvedor)'],
+        ['Dificuldade (L3)', 'Fácil'],
+        ['Licença (L3)', 'Desbloqueio pela história (segundo a comunidade)']]},
+      {'type': 'note', 'heading': 'Dados de referência da comunidade (L3, não verificados oficialmente)', 'body': 'Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). As fontes da comunidade descrevem este aparelho como desbloqueado pela história em vez de licença paga, então não indicamos taxa de licença. Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis.'},
+      {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.'],
+        ['De onde vêm os detalhes do perfil?', 'Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em "Fontes" abaixo. Nenhum desses números é verificado oficialmente.']]},
+     ], 'sources': ['wiki-unicorp-vision', 'steam-discussion-devices'], 'icon': 'monitor'},
+    'devices/robby': {
+  'title': 'Robby — Perfil do aparelho',
+  'metaTitle': 'Robby — Referência de aparelho de ReStory',
+  'metaDescription': 'Perfil de Robby em ReStory: dados de referência da comunidade (L3, não verificados); procedimento passo a passo desconhecido.',
+  'intro': 'Perfil de Robby em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade e inspiração de design, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). As fontes da comunidade descrevem um desbloqueio por competição de montagem em vez de licença paga. Robby também é citado no anúncio oficial da atualização nº 2 (v1.0.010r) da Steam, que corrige um problema menor com os fios do Robby. O procedimento passo a passo específico continua desconhecido.',
+  'sections': [
+      {'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [
+        ['Aparelho', 'Robby'],
+        ['Família (L3)', 'Gadgets e brinquedos'],
+        ['Inspiração de design (L3)', 'Filhote robô estilo Tekno'],
+        ['Dificuldade (L3)', 'Difícil'],
+        ['Licença (L3)', 'Competição de montagem (segundo a comunidade)'],
+        ['Menção oficial', 'Citado na atualização oficial nº 2 da Steam (v1.0.010r)']]},
+      {'type': 'note', 'heading': 'Dados de referência da comunidade (L3, não verificados oficialmente)', 'body': 'Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). As fontes da comunidade descrevem este aparelho como desbloqueado por uma competição de montagem em vez de licença paga, então não indicamos taxa de licença. Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis. O único fato confirmado oficialmente é a menção do patch descrita abaixo.'},
+      {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. Robby é citado no anúncio oficial da atualização nº 2 (v1.0.010r) da Steam (linkado em "Fontes"), que corrige um problema menor com os fios do Robby — isso confirma que o aparelho existe no jogo. O procedimento exato ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3).'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.'],
+        ['De onde vêm os detalhes do perfil?', 'Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em "Fontes" abaixo. Nenhum desses números é verificado oficialmente.'],
+        ['Robby está confirmado oficialmente?', 'Sim — o aparelho é citado no anúncio oficial da atualização nº 2 (v1.0.010r) da Steam (linkado em "Fontes"), que corrige um problema menor com os fios do Robby. O anúncio confirma que o aparelho existe; os detalhes desta página continuam comunitários (L3).']]},
+     ], 'sources': ['wiki-robby', 'steam-discussion-devices', 'steam-patch-010r'], 'icon': 'chip'},
+    'devices/nerdio-w91f': {
+  'title': 'Nerdio W-91F — Perfil do aparelho',
+  'metaTitle': 'Nerdio W-91F — Referência de aparelho de ReStory',
+  'metaDescription': 'Perfil de Nerdio W-91F em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração. Procedimento desconhecido.',
+  'intro': 'Perfil de Nerdio W-91F em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Nenhum patch oficial citou este aparelho ainda. O procedimento passo a passo específico continua desconhecido.',
+  'sections': [
+      {'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [
+        ['Aparelho', 'Nerdio W-91F'],
+        ['Família (L3)', 'Gadgets e brinquedos'],
+        ['Inspiração de design (L3)', 'Relógio Casio F-91W'],
+        ['Dificuldade (L3)', 'Médio'],
+        ['Taxa de licença (L3)', '¥35,000']]},
+      {'type': 'note', 'heading': 'Dados de referência da comunidade (L3, não verificados oficialmente)', 'body': 'Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis.'},
+      {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. O procedimento exato no jogo ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3) até serem verificados com evidência rastreável do jogo.'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.'],
+        ['De onde vêm os detalhes do perfil?', 'Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em "Fontes" abaixo. Nenhum desses números é verificado oficialmente.']]},
+     ], 'sources': ['wiki-nerdio-w91f', 'steam-discussion-devices'], 'icon': 'chip'},
+    'devices/mapple-mypod': {
+  'title': 'Mapple Mypod — Perfil do aparelho',
+  'metaTitle': 'Mapple Mypod — Referência de aparelho de ReStory',
+  'metaDescription': 'Perfil de Mapple Mypod em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração. Procedimento desconhecido.',
+  'intro': 'Perfil de Mapple Mypod em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Mapple Mypod também é citado como « MyPod » no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam, que corrige um bug de atualização de firmware do MyPod. O procedimento passo a passo específico continua desconhecido.',
+  'sections': [
+      {'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [
+        ['Aparelho', 'Mapple Mypod'],
+        ['Família (L3)', 'Música e mídia'],
+        ['Inspiração de design (L3)', 'Player de música estilo iPod Classic'],
+        ['Dificuldade (L3)', 'Fácil'],
+        ['Taxa de licença (L3)', '¥43,000'],
+        ['Menção oficial', 'Citado como « MyPod » na atualização oficial nº 1 da Steam (v1.0.009r)']]},
+      {'type': 'note', 'heading': 'Dados de referência da comunidade (L3, não verificados oficialmente)', 'body': 'Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis. O único fato confirmado oficialmente é a menção do patch descrita abaixo.'},
+      {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. Mapple Mypod é citado como « MyPod » no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam (linkado em "Fontes"), que corrige um bug de atualização de firmware do MyPod — isso confirma que o aparelho existe no jogo. O procedimento exato ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3).'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.'],
+        ['De onde vêm os detalhes do perfil?', 'Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em "Fontes" abaixo. Nenhum desses números é verificado oficialmente.'],
+        ['Mapple Mypod está confirmado oficialmente?', 'Sim — o aparelho é citado como « MyPod » no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam (linkado em "Fontes"), que corrige um bug de atualização de firmware do MyPod. O anúncio confirma que o aparelho existe; os detalhes desta página continuam comunitários (L3).']]},
+     ], 'sources': ['wiki-mapple-mypod', 'steam-discussion-devices', 'steam-patch-009r'], 'icon': 'tape'},
+    'devices/idm-thinkerdad': {
+  'title': 'IDM ThinkerDad — Perfil do aparelho',
+  'metaTitle': 'IDM ThinkerDad — Referência de aparelho de ReStory',
+  'metaDescription': 'Perfil de IDM ThinkerDad em ReStory: dados de referência da comunidade (L3, não verificados) — família, dificuldade, taxa de licença e inspiração. Procedimento desconhecido.',
+  'intro': 'Perfil de IDM ThinkerDad em ReStory. Todos os detalhes do perfil vêm da comunidade (marcados claramente como L3 — não verificados oficialmente): família, dificuldade, taxa de licença e inspiração real, vindos da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). IDM ThinkerDad também é citado como « IDM device » no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam, que corrige a desmontagem do aparelho IDM. O procedimento passo a passo específico continua desconhecido.',
+  'sections': [
+      {'type': 'table', 'heading': 'Perfil do aparelho', 'columns': ['Campo', 'Valor'], 'rows': [
+        ['Aparelho', 'IDM ThinkerDad'],
+        ['Família (L3)', 'Notebooks'],
+        ['Inspiração de design (L3)', 'Notebook estilo ThinkPad 365XD'],
+        ['Dificuldade (L3)', 'Difícil'],
+        ['Taxa de licença (L3)', '¥159,000'],
+        ['Menção oficial', 'Citado como « IDM device » na atualização oficial nº 1 da Steam (v1.0.009r)']]},
+      {'type': 'note', 'heading': 'Dados de referência da comunidade (L3, não verificados oficialmente)', 'body': 'Todos os campos do perfil acima vêm da comunidade (L3) e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm da página do aparelho no restory.wiki e da lista de aparelhos da comunidade da Steam (linkadas em "Fontes", no fim desta página). Ainda não publicamos dados de peças, parafusos ou preços de revenda deste aparelho: não há números cruzados disponíveis. O único fato confirmado oficialmente é a menção do patch descrita abaixo.'},
+      {'type': 'note', 'heading': 'Escopo verificado', 'body': 'Esta página identifica um aparelho reparável de ReStory. IDM ThinkerDad é citado como « IDM device » no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam (linkado em "Fontes"), que corrige a desmontagem do aparelho IDM — isso confirma que o aparelho existe no jogo. O procedimento exato ainda está em verificação e todos os detalhes do perfil continuam comunitários (L3).'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['Posso usar como guia passo a passo?', 'Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo.'],
+        ['De onde vêm os detalhes do perfil?', 'Vêm de fontes comunitárias (L3): a página do aparelho no restory.wiki e a lista de aparelhos da comunidade da Steam, linkadas em "Fontes" abaixo. Nenhum desses números é verificado oficialmente.'],
+        ['IDM ThinkerDad está confirmado oficialmente?', 'Sim — o aparelho é citado como « IDM device » no anúncio oficial da atualização nº 1 (v1.0.009r) da Steam (linkado em "Fontes"), que corrige a desmontagem do aparelho IDM. O anúncio confirma que o aparelho existe; os detalhes desta página continuam comunitários (L3).']]},
+     ], 'sources': ['wiki-idm-thinkerdad', 'steam-discussion-devices', 'steam-patch-009r'], 'icon': 'monitor'},
 }

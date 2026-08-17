@@ -16,7 +16,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/all-devices": {
-    "hash": "7e50247c4f52a2a4a6e6d8446cf9475e",
+    "hash": "0c7bbe9416f32e2422826c96dd1471c9",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/beginners-guide": {
@@ -48,7 +48,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/de/all-devices": {
-    "hash": "044092fd84c4898f5f6507f46f80e6f6",
+    "hash": "39d62ea3123d269adea2237e2c3b7ede",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/de/beginners-guide": {
@@ -79,6 +79,14 @@
     "hash": "c833f2451eb1dc0061531181e842b8be",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/de/devices/autorolla-wt2000": {
+    "hash": "ef9045c847da4f0b5c632a7b05b1cd6d",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/blueberry-curl": {
+    "hash": "19697e7f92827d45dc8d675bb81a3158",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/de/devices/breadbox-joystick": {
     "hash": "7311eff9cd7894e70fe079db808bb4d9",
     "date": "2026-08-17"
@@ -97,6 +105,18 @@
   },
   "https://restorygameguides.com/de/devices/guitar-legend": {
     "hash": "1319e6b03ea14107488b3e17ff87d457",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/idm-thinkerdad": {
+    "hash": "d71d4c043485b3d82bb6db86165893db",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/mapple-mypod": {
+    "hash": "8d386100ba497a42bd9075a52b9cb287",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/nerdio-w91f": {
+    "hash": "c7f08bcfb4886a0ab9de3334f39a6483",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/de/devices/nony-goman": {
@@ -127,16 +147,36 @@
     "hash": "2b85f08237f4c3398ee1452dde290559",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/de/devices/robby": {
+    "hash": "87cafde76d9c99abf11a0bc5d5e66ebe",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/de/devices/robodog": {
     "hash": "e82cf1ee3aa80a08066f4700642aba1b",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/simsons-m65": {
+    "hash": "b1589341ac08f6e2052cb251fbdf4dda",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/de/devices/unicorp-99l": {
     "hash": "3e68cf296d39c1fe11fbf64cb79ea914",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/de/devices/unicorp-kettle": {
+    "hash": "f8df3cf70fa87299a9907880c1fdad4f",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/unicorp-vision": {
+    "hash": "dec487e621cf80efed5d52dc1c11efe9",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/de/devices/walkie-talkie": {
     "hash": "08af117b7ecaf141208cf3ea6668d1c2",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/de/devices/wertu-signature": {
+    "hash": "7d65dade2ef0a3c08209fd3e7bf86264",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/de/devices/xi-box": {
@@ -223,6 +263,14 @@
     "hash": "ceaf7d21cbbb6f5ae34ff54172e4ac74",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/devices/autorolla-wt2000": {
+    "hash": "21dc95192c7908da6ba4d2bbc2133f1f",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/blueberry-curl": {
+    "hash": "0cbf1169d07fbfafb4dd8ce1a45ef290",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/devices/breadbox-joystick": {
     "hash": "5817827f47d74bf4c66423f5805704cc",
     "date": "2026-08-17"
@@ -241,6 +289,18 @@
   },
   "https://restorygameguides.com/devices/guitar-legend": {
     "hash": "7a6864f204ed455741432fe423226d56",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/idm-thinkerdad": {
+    "hash": "0ec671304700cff10fb815bc9053a704",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/mapple-mypod": {
+    "hash": "d3c48fbd1b6d85856c68c01a209ce2a9",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/nerdio-w91f": {
+    "hash": "20cbb8840fa5eb7529a881c8cf702f59",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/devices/nony-goman": {
@@ -271,16 +331,36 @@
     "hash": "2c775f2b4c3c3f6d8ddb8806fcdec87e",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/devices/robby": {
+    "hash": "58f5c1c00ed195ff4e7021721e8d2f5b",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/devices/robodog": {
     "hash": "0c4f381eb755ec656b244d65adb67a0e",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/simsons-m65": {
+    "hash": "b096aec419d35aba31756adb6bb744e1",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/devices/unicorp-99l": {
     "hash": "a99c499a8c8832b645ba3cd49c4d8001",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/devices/unicorp-kettle": {
+    "hash": "d02f4907a41228653bfb51a0ba7b20c1",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/unicorp-vision": {
+    "hash": "2d74ed4f1be4b9eaaebdd56db124825d",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/devices/walkie-talkie": {
     "hash": "53f19a1a5639b62b7fc266e22bac5eab",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/devices/wertu-signature": {
+    "hash": "3abd75ca6a829d48f561a550cc5e1e84",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/devices/xi-box": {
@@ -316,7 +396,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/es/all-devices": {
-    "hash": "c0513919060f1320b3d4613c0ae77282",
+    "hash": "e0cb75094566594f55d58f44db263d10",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/es/beginners-guide": {
@@ -347,6 +427,14 @@
     "hash": "51acc3f0a71627067ccb6b0389bf26c0",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/es/devices/autorolla-wt2000": {
+    "hash": "723b450899705de223cda61b3125a507",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/blueberry-curl": {
+    "hash": "b774f121e2606d235657100c437b5170",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/es/devices/breadbox-joystick": {
     "hash": "402d5e4981d2ab50a5fe26cbfdb17307",
     "date": "2026-08-17"
@@ -365,6 +453,18 @@
   },
   "https://restorygameguides.com/es/devices/guitar-legend": {
     "hash": "fba3b800dbc89e73f42c9c0154ccccb0",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/idm-thinkerdad": {
+    "hash": "19383fa70a4f7d7a59784443f525d79f",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/mapple-mypod": {
+    "hash": "0ae1722969b6c7d040bc1910fc329c83",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/nerdio-w91f": {
+    "hash": "49cb03ed208079e42f8ce2a1b5efbc60",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/es/devices/nony-goman": {
@@ -395,16 +495,36 @@
     "hash": "54737083ab0c22c6872a716fde7a3e54",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/es/devices/robby": {
+    "hash": "d92912fce9f72b1a520571cdde740d96",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/es/devices/robodog": {
     "hash": "d1ee4641af3cace71f03999009a41d52",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/simsons-m65": {
+    "hash": "817fcf1933a06b86fe946c85c6f8722d",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/es/devices/unicorp-99l": {
     "hash": "15214b988a8efec0213458f063f30d71",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/es/devices/unicorp-kettle": {
+    "hash": "58367f949082801cf9b7640dfa1e3c8e",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/unicorp-vision": {
+    "hash": "339b9e3e43c5b54c585face440670cab",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/es/devices/walkie-talkie": {
     "hash": "d9aba7e2a81c7b9b8323302216f01cc5",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/es/devices/wertu-signature": {
+    "hash": "2e5f04f7338d2144e6c613895295815f",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/es/devices/xi-box": {
@@ -496,7 +616,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/fr/all-devices": {
-    "hash": "914baac374a6f87c7b4b41b448cd0239",
+    "hash": "f366886326b608367a9e5f55e3eacb03",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/fr/beginners-guide": {
@@ -527,6 +647,14 @@
     "hash": "f7881b8a2b93de1e40c908527f6ec657",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/fr/devices/autorolla-wt2000": {
+    "hash": "19e90c5315d552f607137a0a5c1febb3",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/blueberry-curl": {
+    "hash": "fa58a84409ee6ed9030aaeb5bfee726c",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/fr/devices/breadbox-joystick": {
     "hash": "c5771391ca5f15208894b2debb725759",
     "date": "2026-08-17"
@@ -545,6 +673,18 @@
   },
   "https://restorygameguides.com/fr/devices/guitar-legend": {
     "hash": "f5b3cf7cf2c8ec6cf8caa6b848e982f2",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/idm-thinkerdad": {
+    "hash": "5a2ed0017944209787b37659ba86f34d",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/mapple-mypod": {
+    "hash": "21dc321e09068056319bfa891af8530a",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/nerdio-w91f": {
+    "hash": "144c50e6a1e7ddb288ee2098eabc3587",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/fr/devices/nony-goman": {
@@ -575,16 +715,36 @@
     "hash": "cac4ee7641a611e0395239024b72bea0",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/fr/devices/robby": {
+    "hash": "7141bd491bba6502695bcd89a8d4bcfc",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/fr/devices/robodog": {
     "hash": "19a8c2eeaed4cb57aa41a6b33493663b",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/simsons-m65": {
+    "hash": "e60e5eb44c8a3f65171af64fe903ee81",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/fr/devices/unicorp-99l": {
     "hash": "6aee7adbe6428d5df0033c3a7000bf7a",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/fr/devices/unicorp-kettle": {
+    "hash": "2890e204edc44148d15068240c4e01ae",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/unicorp-vision": {
+    "hash": "9aa8182edb1d3a277add229af59b6fc8",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/fr/devices/walkie-talkie": {
     "hash": "3f34ee2d8f99009d0812e7d436b0b987",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/fr/devices/wertu-signature": {
+    "hash": "246a72375798fb27243f31e4af197d6c",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/fr/devices/xi-box": {
@@ -680,7 +840,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ja/all-devices": {
-    "hash": "c23beef9ac6382c42408a9561b820a82",
+    "hash": "daa801c73b2d0522517a9436c655ee94",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ja/beginners-guide": {
@@ -711,6 +871,14 @@
     "hash": "944f1215e03060e7db437c8fc5a7c55c",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ja/devices/autorolla-wt2000": {
+    "hash": "413bdecd8e6d08e845535f051054ca8c",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/blueberry-curl": {
+    "hash": "3f557fa2fa98359feb94ddf8f977a0cb",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ja/devices/breadbox-joystick": {
     "hash": "72386c23aec463b901f21cc4a679f417",
     "date": "2026-08-17"
@@ -729,6 +897,18 @@
   },
   "https://restorygameguides.com/ja/devices/guitar-legend": {
     "hash": "b4dc99264697cac6488534e796897f4e",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/idm-thinkerdad": {
+    "hash": "8f40a88d2e9dcaefd5769e30c3f67d09",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/mapple-mypod": {
+    "hash": "9f343b8a48e2a5c9594138b66f604a3b",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/nerdio-w91f": {
+    "hash": "09f618db42c5490a82d73459526a1f4b",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ja/devices/nony-goman": {
@@ -759,16 +939,36 @@
     "hash": "201e4bc12e941b8a2e65597ac44a3ee0",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ja/devices/robby": {
+    "hash": "70f2b22113f4dd409c622ad1b82793f5",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ja/devices/robodog": {
     "hash": "06b21ac1dfc03d025a3360171fc28d26",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/simsons-m65": {
+    "hash": "12e7449c572541c01ff86d877b042dd9",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ja/devices/unicorp-99l": {
     "hash": "67c7910b10b96da22b13585b18f5da57",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ja/devices/unicorp-kettle": {
+    "hash": "7ae7e22e7f207ebc0f2cb564160743a8",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/unicorp-vision": {
+    "hash": "3c66b18d762b7f846f81176e6ab23087",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ja/devices/walkie-talkie": {
     "hash": "f0626978db9531bc09fc46cba5268ec6",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ja/devices/wertu-signature": {
+    "hash": "4049ee1f123930fbd7d6feeeac2dd7cb",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ja/devices/xi-box": {
@@ -856,7 +1056,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ko/all-devices": {
-    "hash": "5a490f76c035f2dbc86f6caf80f9a283",
+    "hash": "97ac43ec2a4fbef02bd06033a4806a23",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ko/beginners-guide": {
@@ -887,6 +1087,14 @@
     "hash": "6e1891712442fd812007ca6f2a2a8e94",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ko/devices/autorolla-wt2000": {
+    "hash": "a117435cb9db0ca49496f7507491786c",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/blueberry-curl": {
+    "hash": "b62653e2daf9c4a069571fb14474e10f",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ko/devices/breadbox-joystick": {
     "hash": "015d519b254ecc5cc9eb84bed2094548",
     "date": "2026-08-17"
@@ -905,6 +1113,18 @@
   },
   "https://restorygameguides.com/ko/devices/guitar-legend": {
     "hash": "9c4f2266891c5e0b70782b123cdb86ca",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/idm-thinkerdad": {
+    "hash": "c433aa7c015b52248d5c823565e9b727",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/mapple-mypod": {
+    "hash": "fb40beefd89868679494175a4daa95d7",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/nerdio-w91f": {
+    "hash": "55694440c4a1b8c2b91feac8b7d287ae",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ko/devices/nony-goman": {
@@ -935,16 +1155,36 @@
     "hash": "f8bfdf197cf74c2dc884e56e35d96842",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ko/devices/robby": {
+    "hash": "603f8f7abfbbf73171161c7e728d7ff6",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ko/devices/robodog": {
     "hash": "a0e31631a88bb10997514a6c6f092bf7",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/simsons-m65": {
+    "hash": "22f6a4d4a3bad7d24c03118018adec3a",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ko/devices/unicorp-99l": {
     "hash": "1880c919f275f7b858a11f8728c222e9",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ko/devices/unicorp-kettle": {
+    "hash": "5cdd589393a6fcd9a159e332c265941c",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/unicorp-vision": {
+    "hash": "ec6dfd24b187a590712cd2884b73399d",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ko/devices/walkie-talkie": {
     "hash": "b493f707373361738e7a2a9f64d1894a",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ko/devices/wertu-signature": {
+    "hash": "df92063825e10fb4cea9ed3e7ede92c6",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ko/devices/xi-box": {
@@ -1052,7 +1292,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/pt-BR/all-devices": {
-    "hash": "41d75798bff079b173f57544a58e46ab",
+    "hash": "b625ce2bb457fcd07784225f4c9ebacd",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/pt-BR/beginners-guide": {
@@ -1083,6 +1323,14 @@
     "hash": "8dbe0f16764c28c2641071759b5ef346",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/pt-BR/devices/autorolla-wt2000": {
+    "hash": "9a7fe520e6e98a85c3c55326e17fe25e",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/blueberry-curl": {
+    "hash": "208cc22a9678239363332ac76b3293fa",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/pt-BR/devices/breadbox-joystick": {
     "hash": "57097b072634117209189cc6000fccf6",
     "date": "2026-08-17"
@@ -1101,6 +1349,18 @@
   },
   "https://restorygameguides.com/pt-BR/devices/guitar-legend": {
     "hash": "98fc97149acfdd9a6090da10a99e38c8",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/idm-thinkerdad": {
+    "hash": "21884f8136f23c823d18ecbf98117a9c",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/mapple-mypod": {
+    "hash": "c6410cb5dba33ba16db40b161fb336e5",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/nerdio-w91f": {
+    "hash": "c6fb6a9a024517af06eb0b0183926ffc",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/pt-BR/devices/nony-goman": {
@@ -1131,16 +1391,36 @@
     "hash": "8b4fe0160250f994613cc9085f3243ec",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/pt-BR/devices/robby": {
+    "hash": "b2e6645ce75896fafad3612478d4436b",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/pt-BR/devices/robodog": {
     "hash": "338860971a466a23d3d7932a7c9ef6c7",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/simsons-m65": {
+    "hash": "49d52cc126d3d71f53253fd48f923809",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/pt-BR/devices/unicorp-99l": {
     "hash": "258778f79c119ffeed0ca8c7a78bcc6b",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/pt-BR/devices/unicorp-kettle": {
+    "hash": "09f6520b7a87bc54d4200c641255c5b8",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/unicorp-vision": {
+    "hash": "f2af693c1d3a05c4aad54cac82e411f6",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/pt-BR/devices/walkie-talkie": {
     "hash": "bfd0d091b491f0a1bed47e27585408ff",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/pt-BR/devices/wertu-signature": {
+    "hash": "dc0d64a95d45186ab6b44d6a62a12fac",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/pt-BR/devices/xi-box": {
@@ -1232,7 +1512,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ru/all-devices": {
-    "hash": "0bfc426e262a5118d6c16e0e4e5e6373",
+    "hash": "77defda3198d738dc745186b0b150d96",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ru/beginners-guide": {
@@ -1263,6 +1543,14 @@
     "hash": "c5eb025517bd5a1db327803091fb9b9a",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ru/devices/autorolla-wt2000": {
+    "hash": "4f6b373ea183b1d019cb9fe615b59693",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/blueberry-curl": {
+    "hash": "6298d93894112921c402817d5a0fa85b",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ru/devices/breadbox-joystick": {
     "hash": "d394041b3f22a9953e58e00f47578967",
     "date": "2026-08-17"
@@ -1281,6 +1569,18 @@
   },
   "https://restorygameguides.com/ru/devices/guitar-legend": {
     "hash": "2719142b7257a4c9d0e785ec41e8ffb9",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/idm-thinkerdad": {
+    "hash": "3ab859c2f3efd8b78a1c0545a8496aa2",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/mapple-mypod": {
+    "hash": "9bba7590ac38d9697167b580166adf0d",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/nerdio-w91f": {
+    "hash": "7733949a57f542b7daf14ee8c585a84b",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ru/devices/nony-goman": {
@@ -1311,16 +1611,36 @@
     "hash": "c70de822fc223a36be46bcc60febd61f",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ru/devices/robby": {
+    "hash": "0dedd1a44dbda9974b13d74b50bf4a2f",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ru/devices/robodog": {
     "hash": "8a3e7af777c64094c0af544ee24393e7",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/simsons-m65": {
+    "hash": "622d6c0ad22b429625440d54ff1dcb23",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ru/devices/unicorp-99l": {
     "hash": "35eed258d4def7953ae916bfc4ec03dd",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/ru/devices/unicorp-kettle": {
+    "hash": "1ea7a00f2a9044a4d8b6eb2482dac675",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/unicorp-vision": {
+    "hash": "0ea0c066489bbeb68d27ffc6d6233f47",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/ru/devices/walkie-talkie": {
     "hash": "1987d3f5a3aeb57c7e52649b0fc97b7d",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/ru/devices/wertu-signature": {
+    "hash": "a250ff4d6e4b2f8e1d708c7af1f799a8",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/ru/devices/xi-box": {
@@ -1424,7 +1744,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-CN/all-devices": {
-    "hash": "93b9abb0dd8a332ab4696e5aa163399a",
+    "hash": "3e4f163f4355c5a14ed092e0ac1c574e",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-CN/beginners-guide": {
@@ -1455,6 +1775,14 @@
     "hash": "b2de87fede660a7f923cbda27cfd34e3",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/zh-CN/devices/autorolla-wt2000": {
+    "hash": "efb69e282b0e9d1de7513378cd5477f7",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/blueberry-curl": {
+    "hash": "1843f628a2bc4e24524b46821f259b81",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/zh-CN/devices/breadbox-joystick": {
     "hash": "56ce78fa3d42ac09077b4ea4b84a035b",
     "date": "2026-08-17"
@@ -1473,6 +1801,18 @@
   },
   "https://restorygameguides.com/zh-CN/devices/guitar-legend": {
     "hash": "1a838b0f3801ba231aff3b31e518f377",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/idm-thinkerdad": {
+    "hash": "3cc0e131a5b521860ce8958b33960dc3",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/mapple-mypod": {
+    "hash": "e36bd367f287ec88bfef82e1fa2c9c54",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/nerdio-w91f": {
+    "hash": "c4395a301fdaed2aa0af42d34cfdeebc",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-CN/devices/nony-goman": {
@@ -1503,16 +1843,36 @@
     "hash": "b601558f179b00d39552e20f64a3f42c",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/zh-CN/devices/robby": {
+    "hash": "926f764d5a29373f32c596a819816f88",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/zh-CN/devices/robodog": {
     "hash": "642f39d6c9f3b532a9af04b896797137",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/simsons-m65": {
+    "hash": "55adb5e933da8782a128043f5903f27e",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-CN/devices/unicorp-99l": {
     "hash": "6f46d648f9f6801c0f73792edab5636d",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/zh-CN/devices/unicorp-kettle": {
+    "hash": "52da23b9478ac8abc539fe17cd748914",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/unicorp-vision": {
+    "hash": "40d76007b53c7dc128592f7ee85ab950",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/zh-CN/devices/walkie-talkie": {
     "hash": "a04ba212921365ed7ef80f0a6919546a",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-CN/devices/wertu-signature": {
+    "hash": "3051451221b04b03a395af8b33fee50e",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-CN/devices/xi-box": {
@@ -1600,7 +1960,7 @@
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-TW/all-devices": {
-    "hash": "06954c6762dc1b075a0b62b594d9a495",
+    "hash": "2fada9bdfc06d5f509f0798f2882e151",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-TW/beginners-guide": {
@@ -1631,6 +1991,14 @@
     "hash": "ad8bf359f128e3b276ddc97565a1034a",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/zh-TW/devices/autorolla-wt2000": {
+    "hash": "7b66224c9f32612688fbffcc672f0c68",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/blueberry-curl": {
+    "hash": "e5b505baf87acacf8e630f8e08c9cc26",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/zh-TW/devices/breadbox-joystick": {
     "hash": "f55a645aad448a0a55d821dcb781084b",
     "date": "2026-08-17"
@@ -1649,6 +2017,18 @@
   },
   "https://restorygameguides.com/zh-TW/devices/guitar-legend": {
     "hash": "c6cdd6b83b49aab8ff636a0f00402d1d",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/idm-thinkerdad": {
+    "hash": "d7b7fed88fba6b31ddb6d963eabc5dbd",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/mapple-mypod": {
+    "hash": "102d6144e3ed25b58ce9344e0a41cddd",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/nerdio-w91f": {
+    "hash": "45e319e5bdf24772ba1c7f1f181df784",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-TW/devices/nony-goman": {
@@ -1679,16 +2059,36 @@
     "hash": "adca8fb0f84a5a8ce75a0586185792aa",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/zh-TW/devices/robby": {
+    "hash": "d079e9f40a7a4cb502313ef6395a1a24",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/zh-TW/devices/robodog": {
     "hash": "464e1a2fad44d89546b27f444106ce5e",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/simsons-m65": {
+    "hash": "a4590e7a43c3d3ed8e17e72e732bafc1",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-TW/devices/unicorp-99l": {
     "hash": "e8fbf6d57bcb46550f2441c9875049cc",
     "date": "2026-08-17"
   },
+  "https://restorygameguides.com/zh-TW/devices/unicorp-kettle": {
+    "hash": "85a7abdd07fc82e307b3eecef8c885ff",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/unicorp-vision": {
+    "hash": "b64865559e90dd2f9b71e36673454e58",
+    "date": "2026-08-17"
+  },
   "https://restorygameguides.com/zh-TW/devices/walkie-talkie": {
     "hash": "23ac2d0821448bc8472591fe5d5511b3",
+    "date": "2026-08-17"
+  },
+  "https://restorygameguides.com/zh-TW/devices/wertu-signature": {
+    "hash": "ed074b6cea1563a55c11dfce048e5fba",
     "date": "2026-08-17"
   },
   "https://restorygameguides.com/zh-TW/devices/xi-box": {

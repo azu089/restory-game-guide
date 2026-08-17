@@ -39057,8 +39057,8 @@
    "slug": "devices/palaloid",
    "title": "Palaloid — Device Profile",
    "metaTitle": "Palaloid — ReStory Device Reference",
-   "metaDescription": "Device profile and reference for Palaloid in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
-   "intro": "Device profile and reference for Palaloid in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+   "metaDescription": "Palaloid in ReStory: device profile plus community reference data (L3, not verified): 21 parts, prices, known mechanics. Step procedure unknown.",
+   "intro": "Device profile and reference for Palaloid in ReStory. Alongside the source-supported family and verification status, this page collects community-reported reference data (clearly labeled L3 — not officially verified): a 21-part list with unit prices, the license and market prices, and known mechanics. A device-specific step-by-step procedure is still unknown.",
    "sections": [
     {
      "type": "table",
@@ -39075,7 +39075,158 @@
       [
        "Family",
        "Cameras"
+      ],
+      [
+       "Type (L3)",
+       "Instant camera"
+      ],
+      [
+       "Model (L3)",
+       "Moon 635 QS"
+      ],
+      [
+       "Design inspiration (L3)",
+       "Polaroid Sun 635 SE"
+      ],
+      [
+       "Difficulty (L3)",
+       "Hard"
+      ],
+      [
+       "Screws (L3)",
+       "0"
       ]
+     ]
+    },
+    {
+     "type": "note",
+     "heading": "Community reference data (L3 — not officially verified)",
+     "body": "The figures below are community-reported and have not been verified by the developer or any official source. They come from restory.wiki and two Steam guides (all linked in Sources at the bottom of this page). Per those reports: the Palaloid license costs ¥79,000, the market price is ¥58,500 (cross-checked in restory.wiki and the Steam guide \"Device Sale Prices\"), and the 21 listed parts total ¥65,060."
+    },
+    {
+     "type": "table",
+     "heading": "Part reference list (21 parts, L3)",
+     "columns": [
+      "Assembly order",
+      "Part",
+      "Unit price (¥)"
+     ],
+     "rows": [
+      [
+       "1",
+       "Casing",
+       "3,100"
+      ],
+      [
+       "2",
+       "Mirror",
+       "4,640"
+      ],
+      [
+       "3",
+       "Mirror Cover",
+       "1,550"
+      ],
+      [
+       "4",
+       "Circuit Board",
+       "6,190"
+      ],
+      [
+       "5",
+       "Coil",
+       "3,100"
+      ],
+      [
+       "6",
+       "Shutter Housing",
+       "4,020"
+      ],
+      [
+       "7",
+       "Shutter Blades",
+       "2,480"
+      ],
+      [
+       "8",
+       "Shutter Switch",
+       "4,020"
+      ],
+      [
+       "9",
+       "Lens Housing",
+       "2,480"
+      ],
+      [
+       "10",
+       "Main Lens",
+       "6,190"
+      ],
+      [
+       "11",
+       "Viewfinder",
+       "1,240"
+      ],
+      [
+       "12",
+       "Viewfinder Lens",
+       "930"
+      ],
+      [
+       "13",
+       "Motor",
+       "3,100"
+      ],
+      [
+       "14",
+       "Activation Mechanism",
+       "4,640"
+      ],
+      [
+       "15",
+       "Shutter Release Button",
+       "1,240"
+      ],
+      [
+       "16",
+       "Back Panel",
+       "1,550"
+      ],
+      [
+       "17",
+       "Tray Cover",
+       "2,170"
+      ],
+      [
+       "18",
+       "Flash Housing",
+       "1,550"
+      ],
+      [
+       "19",
+       "Flash",
+       "6,810"
+      ],
+      [
+       "20",
+       "Flash Cover",
+       "930"
+      ],
+      [
+       "21",
+       "Front Panel",
+       "3,100"
+      ]
+     ]
+    },
+    {
+     "type": "list",
+     "heading": "Known mechanics (community reports, L3)",
+     "body": "Behaviors reported by players, not officially documented. Sources are linked at the bottom of this page.",
+     "items": [
+      "Flash cover: the flash cover on the Palaloid opens and closes. A Steam discussion reports that painting the camera only works while the flash cover is open, which leaves a small area (visible only when closed) unpainted — reported as a possible bug.",
+      "Viewfinder Lens part: the part list includes a Viewfinder Lens (¥930). A Steam discussion reports an invisible/missing-part bug that also hit the Palaloid Viewfinder Lens; the developer (Legorushka) acknowledged the report in that thread.",
+      "Assembly rally: per the Steam guide \"Legend of Akiba\", Palaloid is entry #28 in assembly-competition Category 5 (Camera)."
      ]
     },
     {
@@ -39089,7 +39240,11 @@
      "items": [
       [
        "Can I use this as a step-by-step repair guide?",
-       "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+       "No. Community reference data exists (above) but has not been officially verified; a device-specific step-by-step procedure will still be added only after it is verified against traceable game evidence."
+      ],
+      [
+       "Where do the part list and prices come from?",
+       "They are community-sourced (L3): restory.wiki and the Steam guide \"Device Sale Prices\", linked in Sources below. None of these figures is officially verified."
       ]
      ]
     }
@@ -39126,6 +39281,86 @@
       "ru": "Официальная страница Steam",
       "zh-TW": "Steam 官方商店頁"
      }
+    },
+    {
+     "label": "restory.wiki — Palaloid (community wiki)",
+     "url": "https://restory.wiki/w/Palaloid",
+     "labels": {
+      "en": "restory.wiki — Palaloid (community wiki)",
+      "zh-CN": "restory.wiki — Palaloid（社区维基）",
+      "ja": "restory.wiki — Palaloid（コミュニティWiki）",
+      "ko": "restory.wiki — Palaloid（커뮤니티 위키）",
+      "fr": "restory.wiki — Palaloid (wiki communautaire)",
+      "de": "restory.wiki — Palaloid (Community-Wiki)",
+      "es": "restory.wiki — Palaloid (wiki de la comunidad)",
+      "pt-BR": "restory.wiki — Palaloid (wiki da comunidade)",
+      "ru": "restory.wiki — Palaloid (вики сообщества)",
+      "zh-TW": "restory.wiki — Palaloid（社區維基）"
+     }
+    },
+    {
+     "label": "Steam guide: Legend of Akiba [EN]",
+     "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3782095380",
+     "labels": {
+      "en": "Steam guide: Legend of Akiba [EN]",
+      "zh-CN": "Steam 指南：Legend of Akiba [EN]",
+      "ja": "Steam ガイド：Legend of Akiba [EN]",
+      "ko": "Steam 가이드: Legend of Akiba [EN]",
+      "fr": "Guide Steam : Legend of Akiba [EN]",
+      "de": "Steam-Guide: Legend of Akiba [EN]",
+      "es": "Guía de Steam: Legend of Akiba [EN]",
+      "pt-BR": "Guia da Steam: Legend of Akiba [EN]",
+      "ru": "Гайд Steam: Legend of Akiba [EN]",
+      "zh-TW": "Steam 指南：Legend of Akiba [EN]"
+     }
+    },
+    {
+     "label": "Steam guide: Device Sale Prices",
+     "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3783450316",
+     "labels": {
+      "en": "Steam guide: Device Sale Prices",
+      "zh-CN": "Steam 指南：Device Sale Prices",
+      "ja": "Steam ガイド：Device Sale Prices",
+      "ko": "Steam 가이드: Device Sale Prices",
+      "fr": "Guide Steam : Device Sale Prices",
+      "de": "Steam-Guide: Device Sale Prices",
+      "es": "Guía de Steam: Device Sale Prices",
+      "pt-BR": "Guia da Steam: Device Sale Prices",
+      "ru": "Гайд Steam: Device Sale Prices",
+      "zh-TW": "Steam 指南：Device Sale Prices"
+     }
+    },
+    {
+     "label": "Steam discussion: painting the Palaloid camera",
+     "url": "https://steamcommunity.com/app/3812600/discussions/0/588434705716615986/",
+     "labels": {
+      "en": "Steam discussion: painting the Palaloid camera",
+      "zh-CN": "Steam 讨论：Palaloid 相机上色",
+      "ja": "Steam ディスカッション：Palaloid カメラの塗装",
+      "ko": "Steam 토론: Palaloid 카메라 도색",
+      "fr": "Discussion Steam : peindre l'appareil photo Palaloid",
+      "de": "Steam-Diskussion: Palaloid-Kamera bemalen",
+      "es": "Debate de Steam: pintar la cámara Palaloid",
+      "pt-BR": "Tópico da Steam: pintar a câmera Palaloid",
+      "ru": "Обсуждение Steam: покраска камеры Palaloid",
+      "zh-TW": "Steam 討論：Palaloid 相機上色"
+     }
+    },
+    {
+     "label": "Steam discussion: invisible part on table",
+     "url": "https://steamcommunity.com/app/3812600/discussions/1/588434161796313713/",
+     "labels": {
+      "en": "Steam discussion: invisible part on table",
+      "zh-CN": "Steam 讨论：零件隐形/桌面上的隐形零件",
+      "ja": "Steam ディスカッション：テーブル上の見えないパーツ",
+      "ko": "Steam 토론: 테이블 위에 보이지 않는 부품",
+      "fr": "Discussion Steam : pièce invisible sur la table",
+      "de": "Steam-Diskussion: unsichtbares Teil auf dem Tisch",
+      "es": "Debate de Steam: pieza invisible sobre la mesa",
+      "pt-BR": "Tópico da Steam: peça invisível na mesa",
+      "ru": "Обсуждение Steam: невидимая деталь на столе",
+      "zh-TW": "Steam 討論：零件隱形/桌面上的隱形零件"
+     }
     }
    ],
    "meta": {
@@ -39135,8 +39370,8 @@
     "en": {
      "title": "Palaloid — Device Profile",
      "metaTitle": "Palaloid — ReStory Device Reference",
-     "metaDescription": "Device profile and reference for Palaloid in ReStory. Includes its source-supported family and verification status; the device-specific procedure is…",
-     "intro": "Device profile and reference for Palaloid in ReStory. Includes its source-supported family and verification status; the device-specific procedure is unknown.",
+     "metaDescription": "Palaloid in ReStory: device profile plus community reference data (L3, not verified): 21 parts, prices, known mechanics. Step procedure unknown.",
+     "intro": "Device profile and reference for Palaloid in ReStory. Alongside the source-supported family and verification status, this page collects community-reported reference data (clearly labeled L3 — not officially verified): a 21-part list with unit prices, the license and market prices, and known mechanics. A device-specific step-by-step procedure is still unknown.",
      "sections": [
       {
        "type": "table",
@@ -39153,7 +39388,158 @@
         [
          "Family",
          "Cameras"
+        ],
+        [
+         "Type (L3)",
+         "Instant camera"
+        ],
+        [
+         "Model (L3)",
+         "Moon 635 QS"
+        ],
+        [
+         "Design inspiration (L3)",
+         "Polaroid Sun 635 SE"
+        ],
+        [
+         "Difficulty (L3)",
+         "Hard"
+        ],
+        [
+         "Screws (L3)",
+         "0"
         ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community reference data (L3 — not officially verified)",
+       "body": "The figures below are community-reported and have not been verified by the developer or any official source. They come from restory.wiki and two Steam guides (all linked in Sources at the bottom of this page). Per those reports: the Palaloid license costs ¥79,000, the market price is ¥58,500 (cross-checked in restory.wiki and the Steam guide \"Device Sale Prices\"), and the 21 listed parts total ¥65,060."
+      },
+      {
+       "type": "table",
+       "heading": "Part reference list (21 parts, L3)",
+       "columns": [
+        "Assembly order",
+        "Part",
+        "Unit price (¥)"
+       ],
+       "rows": [
+        [
+         "1",
+         "Casing",
+         "3,100"
+        ],
+        [
+         "2",
+         "Mirror",
+         "4,640"
+        ],
+        [
+         "3",
+         "Mirror Cover",
+         "1,550"
+        ],
+        [
+         "4",
+         "Circuit Board",
+         "6,190"
+        ],
+        [
+         "5",
+         "Coil",
+         "3,100"
+        ],
+        [
+         "6",
+         "Shutter Housing",
+         "4,020"
+        ],
+        [
+         "7",
+         "Shutter Blades",
+         "2,480"
+        ],
+        [
+         "8",
+         "Shutter Switch",
+         "4,020"
+        ],
+        [
+         "9",
+         "Lens Housing",
+         "2,480"
+        ],
+        [
+         "10",
+         "Main Lens",
+         "6,190"
+        ],
+        [
+         "11",
+         "Viewfinder",
+         "1,240"
+        ],
+        [
+         "12",
+         "Viewfinder Lens",
+         "930"
+        ],
+        [
+         "13",
+         "Motor",
+         "3,100"
+        ],
+        [
+         "14",
+         "Activation Mechanism",
+         "4,640"
+        ],
+        [
+         "15",
+         "Shutter Release Button",
+         "1,240"
+        ],
+        [
+         "16",
+         "Back Panel",
+         "1,550"
+        ],
+        [
+         "17",
+         "Tray Cover",
+         "2,170"
+        ],
+        [
+         "18",
+         "Flash Housing",
+         "1,550"
+        ],
+        [
+         "19",
+         "Flash",
+         "6,810"
+        ],
+        [
+         "20",
+         "Flash Cover",
+         "930"
+        ],
+        [
+         "21",
+         "Front Panel",
+         "3,100"
+        ]
+       ]
+      },
+      {
+       "type": "list",
+       "heading": "Known mechanics (community reports, L3)",
+       "body": "Behaviors reported by players, not officially documented. Sources are linked at the bottom of this page.",
+       "items": [
+        "Flash cover: the flash cover on the Palaloid opens and closes. A Steam discussion reports that painting the camera only works while the flash cover is open, which leaves a small area (visible only when closed) unpainted — reported as a possible bug.",
+        "Viewfinder Lens part: the part list includes a Viewfinder Lens (¥930). A Steam discussion reports an invisible/missing-part bug that also hit the Palaloid Viewfinder Lens; the developer (Legorushka) acknowledged the report in that thread.",
+        "Assembly rally: per the Steam guide \"Legend of Akiba\", Palaloid is entry #28 in assembly-competition Category 5 (Camera)."
        ]
       },
       {
@@ -39167,22 +39553,31 @@
        "items": [
         [
          "Can I use this as a step-by-step repair guide?",
-         "No. A device-specific procedure will be added only after it is verified against traceable game evidence."
+         "No. Community reference data exists (above) but has not been officially verified; a device-specific step-by-step procedure will still be added only after it is verified against traceable game evidence."
+        ],
+        [
+         "Where do the part list and prices come from?",
+         "They are community-sourced (L3): restory.wiki and the Steam guide \"Device Sale Prices\", linked in Sources below. None of these figures is officially verified."
         ]
        ]
       }
      ],
      "sources": [
       "allthings",
-      "steam"
+      "steam",
+      "restory-wiki",
+      "steam-guide-akiba",
+      "steam-guide-prices",
+      "steam-discussion-paint",
+      "steam-discussion-invisible"
      ],
      "icon": "camera"
     },
     "zh-CN": {
      "title": "Palaloid — 设备资料",
      "metaTitle": "Palaloid — ReStory 设备参考",
-     "metaDescription": "Palaloid 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
-     "intro": "Palaloid 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。",
+     "metaDescription": "Palaloid 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——21 零件清单、许可费与市场价、已知机制；步骤流程仍未核实。",
+     "intro": "Palaloid 的 ReStory 设备资料与参考：除来源支持的类别及核实状态外，本页还整理社区报告的参考数据（明确标注 L3——未经官方核实）：21 件零件清单与单价、许可费与市场价，以及已知机制。设备专属的分步维修流程仍未核实。",
      "sections": [
       {
        "type": "table",
@@ -39199,7 +39594,158 @@
         [
          "家族",
          "相机"
+        ],
+        [
+         "类型（L3）",
+         "即时成像相机"
+        ],
+        [
+         "型号（L3）",
+         "Moon 635 QS"
+        ],
+        [
+         "灵感原型（L3）",
+         "Polaroid Sun 635 SE"
+        ],
+        [
+         "难度（L3）",
+         "困难"
+        ],
+        [
+         "螺丝数（L3）",
+         "0"
         ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社区参考数据（L3——未经官方核实）",
+       "body": "以下为社区报告的数据，未经开发者或任何官方来源核实。来源为 restory.wiki 与两份 Steam 指南（均在本页底部「来源」中列出并可点击）。据这些报告：Palaloid 许可费为 ¥79,000，市场价为 ¥58,500（restory.wiki 与 Steam 指南「Device Sale Prices」交叉一致），21 件零件合计 ¥65,060。"
+      },
+      {
+       "type": "table",
+       "heading": "零件参考清单（21 件，L3）",
+       "columns": [
+        "组装顺序",
+        "零件",
+        "单价（¥）"
+       ],
+       "rows": [
+        [
+         "1",
+         "Casing",
+         "3,100"
+        ],
+        [
+         "2",
+         "Mirror",
+         "4,640"
+        ],
+        [
+         "3",
+         "Mirror Cover",
+         "1,550"
+        ],
+        [
+         "4",
+         "Circuit Board",
+         "6,190"
+        ],
+        [
+         "5",
+         "Coil",
+         "3,100"
+        ],
+        [
+         "6",
+         "Shutter Housing",
+         "4,020"
+        ],
+        [
+         "7",
+         "Shutter Blades",
+         "2,480"
+        ],
+        [
+         "8",
+         "Shutter Switch",
+         "4,020"
+        ],
+        [
+         "9",
+         "Lens Housing",
+         "2,480"
+        ],
+        [
+         "10",
+         "Main Lens",
+         "6,190"
+        ],
+        [
+         "11",
+         "Viewfinder",
+         "1,240"
+        ],
+        [
+         "12",
+         "Viewfinder Lens",
+         "930"
+        ],
+        [
+         "13",
+         "Motor",
+         "3,100"
+        ],
+        [
+         "14",
+         "Activation Mechanism",
+         "4,640"
+        ],
+        [
+         "15",
+         "Shutter Release Button",
+         "1,240"
+        ],
+        [
+         "16",
+         "Back Panel",
+         "1,550"
+        ],
+        [
+         "17",
+         "Tray Cover",
+         "2,170"
+        ],
+        [
+         "18",
+         "Flash Housing",
+         "1,550"
+        ],
+        [
+         "19",
+         "Flash",
+         "6,810"
+        ],
+        [
+         "20",
+         "Flash Cover",
+         "930"
+        ],
+        [
+         "21",
+         "Front Panel",
+         "3,100"
+        ]
+       ]
+      },
+      {
+       "type": "list",
+       "heading": "已知机制（社区报告，L3）",
+       "body": "以下为玩家报告的行为，并非官方记载；来源见本页底部链接。",
+       "items": [
+        "Flash Cover 开合：Palaloid 的 Flash Cover 可以打开和合上。有 Steam 讨论报告：给相机上色只能在 Flash Cover 打开时进行，导致一小块（仅关闭时可见）区域无法上色——被报告为疑似 bug。",
+        "Viewfinder Lens 零件：零件清单中包含 Viewfinder Lens（¥930）。有 Steam 讨论报告「零件隐形/缺失」的 bug，Palaloid 的 Viewfinder Lens 也受影响；开发者（Legorushka）在该帖中确认收到报告。",
+        "组装赛：按 Steam 指南「Legend of Akiba」，Palaloid 是组装赛第 5 类（相机）的第 28 号参赛设备。"
        ]
       },
       {
@@ -39213,22 +39759,31 @@
        "items": [
         [
          "能把本页当作分步维修攻略吗？",
-         "不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。"
+         "不能。上文社区参考数据未经官方核实；设备专属的分步流程仍需在可追溯的游戏证据核实后才会补充。"
+        ],
+        [
+         "零件清单与价格来自哪里？",
+         "来自社区来源（L3）：restory.wiki 与 Steam 指南「Device Sale Prices」，均列于下方「来源」。这些数字均未经官方核实。"
         ]
        ]
       }
      ],
      "sources": [
       "allthings",
-      "steam"
+      "steam",
+      "restory-wiki",
+      "steam-guide-akiba",
+      "steam-guide-prices",
+      "steam-discussion-paint",
+      "steam-discussion-invisible"
      ],
      "icon": "camera"
     },
     "ja": {
      "title": "Palaloid — デバイス情報",
      "metaTitle": "Palaloid — ReStory デバイス資料",
-     "metaDescription": "ReStory の Palaloid デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
-     "intro": "ReStory の Palaloid デバイス情報。出典で確認できる分類と検証状況を掲載し、固有手順は不明です。",
+     "metaDescription": "ReStory の Palaloid デバイス情報：コミュニティ参考データ（L3、非公式・未検証）——21パーツ、価格、既知の挙動。手順は未検証。",
+     "intro": "ReStory の Palaloid デバイス情報。出典で確認できる分類と検証状況に加え、このページではコミュニティ報告の参考データ（L3——非公式・未検証と明記）をまとめています：単価つき21パーツリスト、ライセンス料と市場価格、既知の挙動。デバイス固有のステップバイステップ手順はまだ不明です。",
      "sections": [
       {
        "type": "table",
@@ -39245,7 +39800,158 @@
         [
          "ファミリー",
          "カメラ"
+        ],
+        [
+         "タイプ（L3）",
+         "インスタントカメラ"
+        ],
+        [
+         "型番（L3）",
+         "Moon 635 QS"
+        ],
+        [
+         "デザイン原型（L3）",
+         "Polaroid Sun 635 SE"
+        ],
+        [
+         "難易度（L3）",
+         "難しい"
+        ],
+        [
+         "ネジ（L3）",
+         "0"
         ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "コミュニティ参考データ（L3——非公式・未検証）",
+       "body": "以下はコミュニティ報告の数値で、開発者や公式ソースによる検証はされていません。出典は restory.wiki と Steam ガイド2件（すべてこのページ下部の「出典」にリンクがあります）。それらの報告によると：Palaloid のライセンス料は ¥79,000、市場価格は ¥58,500（restory.wiki と Steam ガイド「Device Sale Prices」で相互確認）、21パーツの合計は ¥65,060 です。"
+      },
+      {
+       "type": "table",
+       "heading": "パーツ参考リスト（21点、L3）",
+       "columns": [
+        "組立順",
+        "パーツ",
+        "単価（¥）"
+       ],
+       "rows": [
+        [
+         "1",
+         "Casing",
+         "3,100"
+        ],
+        [
+         "2",
+         "Mirror",
+         "4,640"
+        ],
+        [
+         "3",
+         "Mirror Cover",
+         "1,550"
+        ],
+        [
+         "4",
+         "Circuit Board",
+         "6,190"
+        ],
+        [
+         "5",
+         "Coil",
+         "3,100"
+        ],
+        [
+         "6",
+         "Shutter Housing",
+         "4,020"
+        ],
+        [
+         "7",
+         "Shutter Blades",
+         "2,480"
+        ],
+        [
+         "8",
+         "Shutter Switch",
+         "4,020"
+        ],
+        [
+         "9",
+         "Lens Housing",
+         "2,480"
+        ],
+        [
+         "10",
+         "Main Lens",
+         "6,190"
+        ],
+        [
+         "11",
+         "Viewfinder",
+         "1,240"
+        ],
+        [
+         "12",
+         "Viewfinder Lens",
+         "930"
+        ],
+        [
+         "13",
+         "Motor",
+         "3,100"
+        ],
+        [
+         "14",
+         "Activation Mechanism",
+         "4,640"
+        ],
+        [
+         "15",
+         "Shutter Release Button",
+         "1,240"
+        ],
+        [
+         "16",
+         "Back Panel",
+         "1,550"
+        ],
+        [
+         "17",
+         "Tray Cover",
+         "2,170"
+        ],
+        [
+         "18",
+         "Flash Housing",
+         "1,550"
+        ],
+        [
+         "19",
+         "Flash",
+         "6,810"
+        ],
+        [
+         "20",
+         "Flash Cover",
+         "930"
+        ],
+        [
+         "21",
+         "Front Panel",
+         "3,100"
+        ]
+       ]
+      },
+      {
+       "type": "list",
+       "heading": "既知の挙動（コミュニティ報告、L3）",
+       "body": "以下はプレイヤー報告の挙動であり、公式に文書化されたものではありません。出典はページ下部のリンクを参照してください。",
+       "items": [
+        "Flash Cover の開閉：Palaloid の Flash Cover は開閉できます。Steam ディスカッションでは、カメラの塗装は Flash Cover を開いた状態でしか行えず、閉じたときだけ見える小さな部分が塗れない——バグの可能性として報告されています。",
+        "Viewfinder Lens パーツ：パーツリストに Viewfinder Lens（¥930）が含まれます。Steam ディスカッションで、パーツが透明化・紛失するバグが Palaloid の Viewfinder Lens でも報告され、開発者（Legorushka）がそのスレッドで報告を確認しています。",
+        "組み立て大会：Steam ガイド「Legend of Akiba」によると、Palaloid は組み立て大会カテゴリ5（カメラ）の28番目の機体です。"
        ]
       },
       {
@@ -39258,23 +39964,32 @@
        "heading": "FAQ",
        "items": [
         [
-         "手順ガイドとして使える？",
-         "いいえ。追跡可能なゲーム証拠で確認できた後にのみ、固有手順を追加します。"
+         "ステップバイステップの修理ガイドとして使えますか？",
+         "いいえ。上記のコミュニティ参考データは公式検証されていません。固有の手順は、追跡可能なゲーム証拠で確認できた後にのみ追加します。"
+        ],
+        [
+         "パーツリストと価格の出典は？",
+         "コミュニティソース（L3）：restory.wiki と Steam ガイド「Device Sale Prices」で、下の「出典」にリンクがあります。これらの数値は公式検証されていません。"
         ]
        ]
       }
      ],
      "sources": [
       "allthings",
-      "steam"
+      "steam",
+      "restory-wiki",
+      "steam-guide-akiba",
+      "steam-guide-prices",
+      "steam-discussion-paint",
+      "steam-discussion-invisible"
      ],
      "icon": "camera"
     },
     "ko": {
      "title": "Palaloid — 기기 정보",
      "metaTitle": "Palaloid — ReStory 기기 자료",
-     "metaDescription": "ReStory의 Palaloid 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
-     "intro": "ReStory의 Palaloid 기기 정보입니다. 출처로 확인된 분류와 검증 상태를 제공하며 기기별 절차는 알려지지 않았습니다.",
+     "metaDescription": "ReStory의 Palaloid 기기 정보: 커뮤니티 참고 데이터(L3, 비공식·미검증) — 부…",
+     "intro": "ReStory의 Palaloid 기기 정보입니다. 출처로 확인된 분류와 검증 상태 외에도, 이 페이지는 커뮤니티 보고의 참고 데이터(L3——비공식·미검증으로 명시)를 모았습니다: 단가가 포함된 부품 21개 목록, 라이선스 비용과 시장 가격, 알려진 메커니즘. 기기별 단계별 수리 절차는 아직 알려지지 않았습니다.",
      "sections": [
       {
        "type": "table",
@@ -39291,7 +40006,158 @@
         [
          "계열",
          "카메라"
+        ],
+        [
+         "유형(L3)",
+         "인스턴트 카메라"
+        ],
+        [
+         "모델(L3)",
+         "Moon 635 QS"
+        ],
+        [
+         "디자인 영감(L3)",
+         "Polaroid Sun 635 SE"
+        ],
+        [
+         "난이도(L3)",
+         "어려움"
+        ],
+        [
+         "나사(L3)",
+         "0"
         ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "커뮤니티 참고 데이터(L3 — 비공식·미검증)",
+       "body": "다음은 커뮤니티에서 보고된 수치로, 개발자나 공식 출처의 검증을 받지 않았습니다. 출처는 restory.wiki와 Steam 가이드 2개(모두 이 페이지 하단의 \"출처\"에 링크됨)입니다. 해당 보고에 따르면: Palaloid 라이선스 비용은 ¥79,000, 시장 가격은 ¥58,500(restory.wiki와 Steam 가이드 \"Device Sale Prices\"에서 교차 확인), 부품 21개 합계는 ¥65,060입니다."
+      },
+      {
+       "type": "table",
+       "heading": "부품 참고 목록(21개, L3)",
+       "columns": [
+        "조립 순서",
+        "부품",
+        "단가(¥)"
+       ],
+       "rows": [
+        [
+         "1",
+         "Casing",
+         "3,100"
+        ],
+        [
+         "2",
+         "Mirror",
+         "4,640"
+        ],
+        [
+         "3",
+         "Mirror Cover",
+         "1,550"
+        ],
+        [
+         "4",
+         "Circuit Board",
+         "6,190"
+        ],
+        [
+         "5",
+         "Coil",
+         "3,100"
+        ],
+        [
+         "6",
+         "Shutter Housing",
+         "4,020"
+        ],
+        [
+         "7",
+         "Shutter Blades",
+         "2,480"
+        ],
+        [
+         "8",
+         "Shutter Switch",
+         "4,020"
+        ],
+        [
+         "9",
+         "Lens Housing",
+         "2,480"
+        ],
+        [
+         "10",
+         "Main Lens",
+         "6,190"
+        ],
+        [
+         "11",
+         "Viewfinder",
+         "1,240"
+        ],
+        [
+         "12",
+         "Viewfinder Lens",
+         "930"
+        ],
+        [
+         "13",
+         "Motor",
+         "3,100"
+        ],
+        [
+         "14",
+         "Activation Mechanism",
+         "4,640"
+        ],
+        [
+         "15",
+         "Shutter Release Button",
+         "1,240"
+        ],
+        [
+         "16",
+         "Back Panel",
+         "1,550"
+        ],
+        [
+         "17",
+         "Tray Cover",
+         "2,170"
+        ],
+        [
+         "18",
+         "Flash Housing",
+         "1,550"
+        ],
+        [
+         "19",
+         "Flash",
+         "6,810"
+        ],
+        [
+         "20",
+         "Flash Cover",
+         "930"
+        ],
+        [
+         "21",
+         "Front Panel",
+         "3,100"
+        ]
+       ]
+      },
+      {
+       "type": "list",
+       "heading": "알려진 메커니즘(커뮤니티 보고, L3)",
+       "body": "아래는 플레이어가 보고한 동작으로, 공식적으로 문서화된 내용이 아닙니다. 출처는 페이지 하단 링크를 참조하세요.",
+       "items": [
+        "Flash Cover 개폐: Palaloid의 Flash Cover는 열고 닫을 수 있습니다. Steam 토론에서는 카메라 도색이 Flash Cover를 연 상태에서만 가능해, 닫았을 때만 보이는 작은 부분을 칠할 수 없다는 보고가 버그 가능성으로 올라와 있습니다.",
+        "Viewfinder Lens 부품: 부품 목록에 Viewfinder Lens(¥930)가 포함됩니다. Steam 토론에서 부품이 투명해지거나 사라지는 버그가 Palaloid의 Viewfinder Lens에서도 보고되었고, 개발자(Legorushka)가 해당 스레드에서 보고를 확인했습니다.",
+        "조립 대회: Steam 가이드 \"Legend of Akiba\"에 따르면 Palaloid는 조립 대회 카테고리 5(카메라)의 28번째 기기입니다."
        ]
       },
       {
@@ -39305,22 +40171,31 @@
        "items": [
         [
          "단계별 수리 가이드로 사용할 수 있나요?",
-         "아니요. 추적 가능한 게임 증거로 확인된 뒤에만 기기별 절차를 추가합니다."
+         "아니요. 위 커뮤니티 참고 데이터는 공식 검증을 거치지 않았습니다. 기기별 절차는 추적 가능한 게임 증거로 확인된 후에만 추가합니다."
+        ],
+        [
+         "부품 목록과 가격의 출처는?",
+         "커뮤니티 출처(L3)입니다: restory.wiki와 Steam 가이드 \"Device Sale Prices\", 아래 \"출처\"에 링크되어 있습니다. 이 수치들은 공식 검증되지 않았습니다."
         ]
        ]
       }
      ],
      "sources": [
       "allthings",
-      "steam"
+      "steam",
+      "restory-wiki",
+      "steam-guide-akiba",
+      "steam-guide-prices",
+      "steam-discussion-paint",
+      "steam-discussion-invisible"
      ],
      "icon": "camera"
     },
     "fr": {
      "title": "Palaloid — Fiche appareil",
      "metaTitle": "Palaloid — Référence appareil ReStory",
-     "metaDescription": "Fiche de Palaloid dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
-     "intro": "Fiche de Palaloid dans ReStory : famille étayée par les sources et état de vérification ; la procédure propre à cet appareil est inconnue.",
+     "metaDescription": "Fiche de Palaloid dans ReStory : profil plus données communautaires (L3, non vérifiées) — 21 pièces, prix, mécaniques connues. Procédure inconnue.",
+     "intro": "Fiche de Palaloid dans ReStory. En plus de la famille étayée par les sources et de l'état de vérification, cette page rassemble des données de référence rapportées par la communauté (clairement marquées L3 — non vérifiées officiellement) : une liste de 21 pièces avec prix unitaires, le prix de la licence et le prix de marché, et les mécaniques connues. La procédure pas à pas propre à cet appareil reste inconnue.",
      "sections": [
       {
        "type": "table",
@@ -39337,7 +40212,158 @@
         [
          "Famille",
          "Appareils photo"
+        ],
+        [
+         "Type (L3)",
+         "Appareil photo instantané"
+        ],
+        [
+         "Modèle (L3)",
+         "Moon 635 QS"
+        ],
+        [
+         "Inspiration de design (L3)",
+         "Polaroid Sun 635 SE"
+        ],
+        [
+         "Difficulté (L3)",
+         "Difficile"
+        ],
+        [
+         "Vis (L3)",
+         "0"
         ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Données de référence communautaires (L3 — non vérifiées officiellement)",
+       "body": "Les chiffres ci-dessous proviennent de la communauté et n'ont pas été vérifiés par le développeur ni par une source officielle. Ils viennent de restory.wiki et de deux guides Steam (tous liés dans « Sources » en bas de page). D'après ces rapports : la licence Palaloid coûte ¥79 000, le prix de marché est de ¥58 500 (recoupé dans restory.wiki et le guide Steam « Device Sale Prices »), et les 21 pièces listées totalisent ¥65 060."
+      },
+      {
+       "type": "table",
+       "heading": "Liste de référence des pièces (21 pièces, L3)",
+       "columns": [
+        "Ordre de montage",
+        "Pièce",
+        "Prix unitaire (¥)"
+       ],
+       "rows": [
+        [
+         "1",
+         "Casing",
+         "3,100"
+        ],
+        [
+         "2",
+         "Mirror",
+         "4,640"
+        ],
+        [
+         "3",
+         "Mirror Cover",
+         "1,550"
+        ],
+        [
+         "4",
+         "Circuit Board",
+         "6,190"
+        ],
+        [
+         "5",
+         "Coil",
+         "3,100"
+        ],
+        [
+         "6",
+         "Shutter Housing",
+         "4,020"
+        ],
+        [
+         "7",
+         "Shutter Blades",
+         "2,480"
+        ],
+        [
+         "8",
+         "Shutter Switch",
+         "4,020"
+        ],
+        [
+         "9",
+         "Lens Housing",
+         "2,480"
+        ],
+        [
+         "10",
+         "Main Lens",
+         "6,190"
+        ],
+        [
+         "11",
+         "Viewfinder",
+         "1,240"
+        ],
+        [
+         "12",
+         "Viewfinder Lens",
+         "930"
+        ],
+        [
+         "13",
+         "Motor",
+         "3,100"
+        ],
+        [
+         "14",
+         "Activation Mechanism",
+         "4,640"
+        ],
+        [
+         "15",
+         "Shutter Release Button",
+         "1,240"
+        ],
+        [
+         "16",
+         "Back Panel",
+         "1,550"
+        ],
+        [
+         "17",
+         "Tray Cover",
+         "2,170"
+        ],
+        [
+         "18",
+         "Flash Housing",
+         "1,550"
+        ],
+        [
+         "19",
+         "Flash",
+         "6,810"
+        ],
+        [
+         "20",
+         "Flash Cover",
+         "930"
+        ],
+        [
+         "21",
+         "Front Panel",
+         "3,100"
+        ]
+       ]
+      },
+      {
+       "type": "list",
+       "heading": "Mécaniques connues (rapports communautaires, L3)",
+       "body": "Comportements rapportés par les joueurs, non documentés officiellement. Sources liées en bas de page.",
+       "items": [
+        "Cache de flash : le cache de flash du Palaloid s'ouvre et se ferme. Une discussion Steam rapporte que la peinture de l'appareil ne fonctionne que cache ouvert, laissant une petite zone (visible uniquement fermé) non peinte — signalé comme bug possible.",
+        "Pièce Viewfinder Lens : la liste inclut un Viewfinder Lens (¥930). Une discussion Steam rapporte un bug de pièce invisible/absente ayant aussi touché le Viewfinder Lens du Palaloid ; le développeur (Legorushka) a confirmé le signalement dans ce fil.",
+        "Concours de montage : selon le guide Steam « Legend of Akiba », le Palaloid est l'entrée n°28 de la catégorie 5 (Appareils photo)."
        ]
       },
       {
@@ -39351,22 +40377,31 @@
        "items": [
         [
          "Puis-je suivre cette page pas à pas ?",
-         "Non. Une procédure propre à l'appareil ne sera ajoutée qu'après vérification par des preuves de jeu traçables."
+         "Non. Les données communautaires ci-dessus ne sont pas vérifiées officiellement ; une procédure pas à pas ne sera ajoutée qu'après vérification par des preuves de jeu traçables."
+        ],
+        [
+         "D'où viennent la liste de pièces et les prix ?",
+         "De sources communautaires (L3) : restory.wiki et le guide Steam « Device Sale Prices », liés dans « Sources » ci-dessous. Aucun de ces chiffres n'est vérifié officiellement."
         ]
        ]
       }
      ],
      "sources": [
       "allthings",
-      "steam"
+      "steam",
+      "restory-wiki",
+      "steam-guide-akiba",
+      "steam-guide-prices",
+      "steam-discussion-paint",
+      "steam-discussion-invisible"
      ],
      "icon": "camera"
     },
     "de": {
      "title": "Palaloid — Geräteprofil",
      "metaTitle": "Palaloid — ReStory-Gerätereferenz",
-     "metaDescription": "Profil von Palaloid in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
-     "intro": "Profil von Palaloid in ReStory: quellenbelegte Familie und Prüfstatus; der gerätespezifische Ablauf ist unbekannt.",
+     "metaDescription": "Profil von Palaloid in ReStory plus Community-Referenzdaten (L3, nicht verifiziert): 21 Teile, Preise, bekannte Mechaniken. Ablauf unbekannt.",
+     "intro": "Profil von Palaloid in ReStory. Neben der quellenbelegten Familie und dem Prüfstatus sammelt diese Seite von der Community gemeldete Referenzdaten (klar als L3 gekennzeichnet — nicht offiziell verifiziert): eine 21-teilige Liste mit Stückpreisen, Lizenz- und Marktpreis sowie bekannte Mechaniken. Der gerätespezifische Schritt-für-Schritt-Ablauf ist weiterhin unbekannt.",
      "sections": [
       {
        "type": "table",
@@ -39383,7 +40418,158 @@
         [
          "Familie",
          "Kameras"
+        ],
+        [
+         "Typ (L3)",
+         "Sofortbildkamera"
+        ],
+        [
+         "Modell (L3)",
+         "Moon 635 QS"
+        ],
+        [
+         "Design-Inspiration (L3)",
+         "Polaroid Sun 635 SE"
+        ],
+        [
+         "Schwierigkeit (L3)",
+         "Schwer"
+        ],
+        [
+         "Schrauben (L3)",
+         "0"
         ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Community-Referenzdaten (L3 — nicht offiziell verifiziert)",
+       "body": "Die folgenden von der Community gemeldeten Zahlen sind weder vom Entwickler noch von einer offiziellen Quelle verifiziert. Sie stammen von restory.wiki und zwei Steam-Guides (alle unten unter „Quellen\" verlinkt). Laut diesen Berichten: Die Palaloid-Lizenz kostet ¥79.000, der Marktpreis beträgt ¥58.500 (gegengeprüft in restory.wiki und im Steam-Guide „Device Sale Prices\"), und die 21 gelisteten Teile ergeben zusammen ¥65.060."
+      },
+      {
+       "type": "table",
+       "heading": "Teilereferenzliste (21 Teile, L3)",
+       "columns": [
+        "Montagereihenfolge",
+        "Teil",
+        "Stückpreis (¥)"
+       ],
+       "rows": [
+        [
+         "1",
+         "Casing",
+         "3,100"
+        ],
+        [
+         "2",
+         "Mirror",
+         "4,640"
+        ],
+        [
+         "3",
+         "Mirror Cover",
+         "1,550"
+        ],
+        [
+         "4",
+         "Circuit Board",
+         "6,190"
+        ],
+        [
+         "5",
+         "Coil",
+         "3,100"
+        ],
+        [
+         "6",
+         "Shutter Housing",
+         "4,020"
+        ],
+        [
+         "7",
+         "Shutter Blades",
+         "2,480"
+        ],
+        [
+         "8",
+         "Shutter Switch",
+         "4,020"
+        ],
+        [
+         "9",
+         "Lens Housing",
+         "2,480"
+        ],
+        [
+         "10",
+         "Main Lens",
+         "6,190"
+        ],
+        [
+         "11",
+         "Viewfinder",
+         "1,240"
+        ],
+        [
+         "12",
+         "Viewfinder Lens",
+         "930"
+        ],
+        [
+         "13",
+         "Motor",
+         "3,100"
+        ],
+        [
+         "14",
+         "Activation Mechanism",
+         "4,640"
+        ],
+        [
+         "15",
+         "Shutter Release Button",
+         "1,240"
+        ],
+        [
+         "16",
+         "Back Panel",
+         "1,550"
+        ],
+        [
+         "17",
+         "Tray Cover",
+         "2,170"
+        ],
+        [
+         "18",
+         "Flash Housing",
+         "1,550"
+        ],
+        [
+         "19",
+         "Flash",
+         "6,810"
+        ],
+        [
+         "20",
+         "Flash Cover",
+         "930"
+        ],
+        [
+         "21",
+         "Front Panel",
+         "3,100"
+        ]
+       ]
+      },
+      {
+       "type": "list",
+       "heading": "Bekannte Mechaniken (Community-Berichte, L3)",
+       "body": "Von Spielern gemeldete Verhaltensweisen, nicht offiziell dokumentiert. Quellen sind unten auf der Seite verlinkt.",
+       "items": [
+        "Blitzabdeckung: Die Blitzabdeckung des Palaloid lässt sich öffnen und schließen. Ein Steam-Thread berichtet, dass das Bemalen der Kamera nur bei geöffneter Blitzabdeckung funktioniert, wodurch ein kleiner Bereich (nur geschlossen sichtbar) unbemalt bleibt — als möglicher Bug gemeldet.",
+        "Viewfinder-Lens-Teil: Die Teileliste enthält eine Viewfinder Lens (¥930). Ein Steam-Thread berichtet von einem Bug mit unsichtbarem/fehlendem Teil, der auch die Viewfinder Lens des Palaloid traf; der Entwickler (Legorushka) bestätigte die Meldung im Thread.",
+        "Montage-Wettbewerb: Laut Steam-Guide „Legend of Akiba\" ist Palaloid der Eintrag Nr. 28 in Kategorie 5 (Kameras)."
        ]
       },
       {
@@ -39397,22 +40583,31 @@
        "items": [
         [
          "Ist dies eine Schritt-für-Schritt-Anleitung?",
-         "Nein. Ein gerätespezifischer Ablauf wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt."
+         "Nein. Die Community-Daten oben sind nicht offiziell verifiziert; eine gerätespezifische Anleitung wird erst nach Prüfung anhand nachvollziehbarer Spielbelege ergänzt."
+        ],
+        [
+         "Woher stammen Teileliste und Preise?",
+         "Aus Community-Quellen (L3): restory.wiki und dem Steam-Guide „Device Sale Prices\", unten unter „Quellen\" verlinkt. Keine dieser Zahlen ist offiziell verifiziert."
         ]
        ]
       }
      ],
      "sources": [
       "allthings",
-      "steam"
+      "steam",
+      "restory-wiki",
+      "steam-guide-akiba",
+      "steam-guide-prices",
+      "steam-discussion-paint",
+      "steam-discussion-invisible"
      ],
      "icon": "camera"
     },
     "es": {
      "title": "Palaloid — Ficha del dispositivo",
      "metaTitle": "Palaloid — Referencia de dispositivo de ReStory",
-     "metaDescription": "Ficha de Palaloid en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
-     "intro": "Ficha de Palaloid en ReStory: familia respaldada por las fuentes y estado de verificación; se desconoce el procedimiento específico.",
+     "metaDescription": "Ficha de Palaloid en ReStory: perfil más datos comunitarios (L3, no verificados) — 21 piezas, precios, mecánicas conocidas. Procedimiento desconocido.",
+     "intro": "Ficha de Palaloid en ReStory. Además de la familia respaldada por las fuentes y el estado de verificación, esta página reúne datos de referencia aportados por la comunidad (marcados claramente como L3 — no verificados oficialmente): una lista de 21 piezas con precios unitarios, el precio de la licencia y el precio de mercado, y las mecánicas conocidas. El procedimiento paso a paso específico sigue sin conocerse.",
      "sections": [
       {
        "type": "table",
@@ -39429,7 +40624,158 @@
         [
          "Familia",
          "Cámaras"
+        ],
+        [
+         "Tipo (L3)",
+         "Cámara instantánea"
+        ],
+        [
+         "Modelo (L3)",
+         "Moon 635 QS"
+        ],
+        [
+         "Inspiración de diseño (L3)",
+         "Polaroid Sun 635 SE"
+        ],
+        [
+         "Dificultad (L3)",
+         "Difícil"
+        ],
+        [
+         "Tornillos (L3)",
+         "0"
         ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Datos de referencia de la comunidad (L3, no verificados oficialmente)",
+       "body": "Las cifras siguientes provienen de la comunidad y no han sido verificadas por el desarrollador ni por ninguna fuente oficial. Proceden de restory.wiki y de dos guías de Steam (todas enlazadas en «Fuentes», al final de esta página). Según esos informes: la licencia del Palaloid cuesta ¥79.000, el precio de mercado es de ¥58.500 (cruzado entre restory.wiki y la guía de Steam «Device Sale Prices») y las 21 piezas listadas suman ¥65.060."
+      },
+      {
+       "type": "table",
+       "heading": "Lista de referencia de piezas (21 piezas, L3)",
+       "columns": [
+        "Orden de montaje",
+        "Pieza",
+        "Precio unitario (¥)"
+       ],
+       "rows": [
+        [
+         "1",
+         "Casing",
+         "3,100"
+        ],
+        [
+         "2",
+         "Mirror",
+         "4,640"
+        ],
+        [
+         "3",
+         "Mirror Cover",
+         "1,550"
+        ],
+        [
+         "4",
+         "Circuit Board",
+         "6,190"
+        ],
+        [
+         "5",
+         "Coil",
+         "3,100"
+        ],
+        [
+         "6",
+         "Shutter Housing",
+         "4,020"
+        ],
+        [
+         "7",
+         "Shutter Blades",
+         "2,480"
+        ],
+        [
+         "8",
+         "Shutter Switch",
+         "4,020"
+        ],
+        [
+         "9",
+         "Lens Housing",
+         "2,480"
+        ],
+        [
+         "10",
+         "Main Lens",
+         "6,190"
+        ],
+        [
+         "11",
+         "Viewfinder",
+         "1,240"
+        ],
+        [
+         "12",
+         "Viewfinder Lens",
+         "930"
+        ],
+        [
+         "13",
+         "Motor",
+         "3,100"
+        ],
+        [
+         "14",
+         "Activation Mechanism",
+         "4,640"
+        ],
+        [
+         "15",
+         "Shutter Release Button",
+         "1,240"
+        ],
+        [
+         "16",
+         "Back Panel",
+         "1,550"
+        ],
+        [
+         "17",
+         "Tray Cover",
+         "2,170"
+        ],
+        [
+         "18",
+         "Flash Housing",
+         "1,550"
+        ],
+        [
+         "19",
+         "Flash",
+         "6,810"
+        ],
+        [
+         "20",
+         "Flash Cover",
+         "930"
+        ],
+        [
+         "21",
+         "Front Panel",
+         "3,100"
+        ]
+       ]
+      },
+      {
+       "type": "list",
+       "heading": "Mecánicas conocidas (informes de la comunidad, L3)",
+       "body": "Comportamientos notificados por jugadores, no documentados oficialmente. Las fuentes se enlazan al final de esta página.",
+       "items": [
+        "Tapa del flash: la tapa del flash del Palaloid se abre y se cierra. Un debate de Steam informa de que pintar la cámara solo funciona con la tapa del flash abierta, dejando sin pintar una pequeña zona (visible solo cerrada) — notificado como posible bug.",
+        "Pieza Viewfinder Lens: la lista incluye una Viewfinder Lens (¥930). Un debate de Steam informa de un bug de pieza invisible/ausente que también afectó a la Viewfinder Lens del Palaloid; el desarrollador (Legorushka) confirmó el aviso en ese hilo.",
+        "Concurso de montaje: según la guía de Steam «Legend of Akiba», el Palaloid es la entrada n.º 28 de la categoría 5 (Cámaras)."
        ]
       },
       {
@@ -39443,22 +40789,31 @@
        "items": [
         [
          "¿Es una guía paso a paso?",
-         "No. Solo se añadirá un procedimiento propio del dispositivo tras verificarlo con pruebas trazables del juego."
+         "No. Los datos comunitarios de arriba no están verificados oficialmente; solo se añadirá un procedimiento paso a paso tras verificarlo con pruebas trazables del juego."
+        ],
+        [
+         "¿De dónde salen la lista de piezas y los precios?",
+         "De fuentes comunitarias (L3): restory.wiki y la guía de Steam «Device Sale Prices», enlazadas abajo en «Fuentes». Ninguna de estas cifras está verificada oficialmente."
         ]
        ]
       }
      ],
      "sources": [
       "allthings",
-      "steam"
+      "steam",
+      "restory-wiki",
+      "steam-guide-akiba",
+      "steam-guide-prices",
+      "steam-discussion-paint",
+      "steam-discussion-invisible"
      ],
      "icon": "camera"
     },
     "pt-BR": {
      "title": "Palaloid — Perfil do aparelho",
      "metaTitle": "Palaloid — Referência de aparelho de ReStory",
-     "metaDescription": "Perfil de Palaloid em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
-     "intro": "Perfil de Palaloid em ReStory: família respaldada pelas fontes e status de verificação; o procedimento específico é desconhecido.",
+     "metaDescription": "Perfil de Palaloid em ReStory: dados de referência da comunidade (L3, não verificados) — 21 peças, preços, mecânicas conhecidas. Procedimento desconh…",
+     "intro": "Perfil de Palaloid em ReStory. Além da família respaldada pelas fontes e do status de verificação, esta página reúne dados de referência relatados pela comunidade (marcados claramente como L3 — não verificados oficialmente): uma lista de 21 peças com preços unitários, o preço da licença e o preço de mercado, e as mecânicas conhecidas. O procedimento passo a passo específico continua desconhecido.",
      "sections": [
       {
        "type": "table",
@@ -39475,7 +40830,158 @@
         [
          "Família",
          "Câmeras"
+        ],
+        [
+         "Tipo (L3)",
+         "Câmera instantânea"
+        ],
+        [
+         "Modelo (L3)",
+         "Moon 635 QS"
+        ],
+        [
+         "Inspiração de design (L3)",
+         "Polaroid Sun 635 SE"
+        ],
+        [
+         "Dificuldade (L3)",
+         "Difícil"
+        ],
+        [
+         "Parafusos (L3)",
+         "0"
         ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Dados de referência da comunidade (L3, não verificados oficialmente)",
+       "body": "Os números abaixo vêm da comunidade e não foram verificados pelo desenvolvedor nem por nenhuma fonte oficial. Eles vêm de restory.wiki e de dois guias da Steam (todos linkados em \"Fontes\", no fim desta página). Segundo esses relatos: a licença do Palaloid custa ¥79.000, o preço de mercado é ¥58.500 (cruzado entre restory.wiki e o guia da Steam \"Device Sale Prices\") e as 21 peças listadas somam ¥65.060."
+      },
+      {
+       "type": "table",
+       "heading": "Lista de referência de peças (21 peças, L3)",
+       "columns": [
+        "Ordem de montagem",
+        "Peça",
+        "Preço unitário (¥)"
+       ],
+       "rows": [
+        [
+         "1",
+         "Casing",
+         "3,100"
+        ],
+        [
+         "2",
+         "Mirror",
+         "4,640"
+        ],
+        [
+         "3",
+         "Mirror Cover",
+         "1,550"
+        ],
+        [
+         "4",
+         "Circuit Board",
+         "6,190"
+        ],
+        [
+         "5",
+         "Coil",
+         "3,100"
+        ],
+        [
+         "6",
+         "Shutter Housing",
+         "4,020"
+        ],
+        [
+         "7",
+         "Shutter Blades",
+         "2,480"
+        ],
+        [
+         "8",
+         "Shutter Switch",
+         "4,020"
+        ],
+        [
+         "9",
+         "Lens Housing",
+         "2,480"
+        ],
+        [
+         "10",
+         "Main Lens",
+         "6,190"
+        ],
+        [
+         "11",
+         "Viewfinder",
+         "1,240"
+        ],
+        [
+         "12",
+         "Viewfinder Lens",
+         "930"
+        ],
+        [
+         "13",
+         "Motor",
+         "3,100"
+        ],
+        [
+         "14",
+         "Activation Mechanism",
+         "4,640"
+        ],
+        [
+         "15",
+         "Shutter Release Button",
+         "1,240"
+        ],
+        [
+         "16",
+         "Back Panel",
+         "1,550"
+        ],
+        [
+         "17",
+         "Tray Cover",
+         "2,170"
+        ],
+        [
+         "18",
+         "Flash Housing",
+         "1,550"
+        ],
+        [
+         "19",
+         "Flash",
+         "6,810"
+        ],
+        [
+         "20",
+         "Flash Cover",
+         "930"
+        ],
+        [
+         "21",
+         "Front Panel",
+         "3,100"
+        ]
+       ]
+      },
+      {
+       "type": "list",
+       "heading": "Mecânicas conhecidas (relatos da comunidade, L3)",
+       "body": "Comportamentos relatados por jogadores, não documentados oficialmente. As fontes estão linkadas no fim desta página.",
+       "items": [
+        "Tampa do flash: a tampa do flash do Palaloid abre e fecha. Um tópico da Steam relata que pintar a câmera só funciona com a tampa do flash aberta, deixando uma área pequena (visível só fechada) sem pintar — relatado como possível bug.",
+        "Peça Viewfinder Lens: a lista inclui uma Viewfinder Lens (¥930). Um tópico da Steam relata um bug de peça invisível/ausente que também afetou a Viewfinder Lens do Palaloid; o desenvolvedor (Legorushka) confirmou o relato no tópico.",
+        "Competição de montagem: segundo o guia da Steam \"Legend of Akiba\", o Palaloid é a entrada nº 28 da categoria 5 (Câmeras)."
        ]
       },
       {
@@ -39489,22 +40995,31 @@
        "items": [
         [
          "Posso usar como guia passo a passo?",
-         "Não. Um procedimento específico só será adicionado após verificação com evidência rastreável do jogo."
+         "Não. Os dados comunitários acima não são verificados oficialmente; um procedimento passo a passo só será adicionado após verificação com evidência rastreável do jogo."
+        ],
+        [
+         "De onde vêm a lista de peças e os preços?",
+         "De fontes comunitárias (L3): restory.wiki e o guia da Steam \"Device Sale Prices\", linkados em \"Fontes\" abaixo. Nenhum desses números é verificado oficialmente."
         ]
        ]
       }
      ],
      "sources": [
       "allthings",
-      "steam"
+      "steam",
+      "restory-wiki",
+      "steam-guide-akiba",
+      "steam-guide-prices",
+      "steam-discussion-paint",
+      "steam-discussion-invisible"
      ],
      "icon": "camera"
     },
     "ru": {
      "title": "Palaloid — Профиль устройства",
      "metaTitle": "Palaloid — Справка об устройстве ReStory",
-     "metaDescription": "Профиль Palaloid в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
-     "intro": "Профиль Palaloid в ReStory: подтверждённая источниками категория и статус проверки; процедура для устройства неизвестна.",
+     "metaDescription": "Профиль Palaloid в ReStory: справочные данные сообщества (L3, не проверены) — 21 деталь, цены, известные механики. Процедура неизвестна.",
+     "intro": "Профиль Palaloid в ReStory. Помимо подтверждённой источниками категории и статуса проверки, эта страница собирает справочные данные, сообщённые сообществом (чётко помеченные как L3 — не проверенные официально): список из 21 детали с ценами за штуку, стоимость лицензии и рыночную цену, а также известные механики. Пошаговая процедура для устройства по-прежнему неизвестна.",
      "sections": [
       {
        "type": "table",
@@ -39521,7 +41036,158 @@
         [
          "Семейство",
          "Камеры"
+        ],
+        [
+         "Тип (L3)",
+         "Моментальная камера"
+        ],
+        [
+         "Модель (L3)",
+         "Moon 635 QS"
+        ],
+        [
+         "Прототип дизайна (L3)",
+         "Polaroid Sun 635 SE"
+        ],
+        [
+         "Сложность (L3)",
+         "Сложно"
+        ],
+        [
+         "Винты (L3)",
+         "0"
         ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "Справочные данные сообщества (L3 — не проверены официально)",
+       "body": "Приведённые ниже цифры сообщены сообществом и не проверены разработчиком или официальными источниками. Они взяты с restory.wiki и из двух гайдов Steam (все ссылки — в разделе «Источники» внизу страницы). Согласно этим сообщениям: лицензия Palaloid стоит ¥79 000, рыночная цена — ¥58 500 (сверено по restory.wiki и гайду Steam «Device Sale Prices»), а 21 перечисленная деталь в сумме даёт ¥65 060."
+      },
+      {
+       "type": "table",
+       "heading": "Справочный список деталей (21 деталь, L3)",
+       "columns": [
+        "Порядок сборки",
+        "Деталь",
+        "Цена за штуку (¥)"
+       ],
+       "rows": [
+        [
+         "1",
+         "Casing",
+         "3,100"
+        ],
+        [
+         "2",
+         "Mirror",
+         "4,640"
+        ],
+        [
+         "3",
+         "Mirror Cover",
+         "1,550"
+        ],
+        [
+         "4",
+         "Circuit Board",
+         "6,190"
+        ],
+        [
+         "5",
+         "Coil",
+         "3,100"
+        ],
+        [
+         "6",
+         "Shutter Housing",
+         "4,020"
+        ],
+        [
+         "7",
+         "Shutter Blades",
+         "2,480"
+        ],
+        [
+         "8",
+         "Shutter Switch",
+         "4,020"
+        ],
+        [
+         "9",
+         "Lens Housing",
+         "2,480"
+        ],
+        [
+         "10",
+         "Main Lens",
+         "6,190"
+        ],
+        [
+         "11",
+         "Viewfinder",
+         "1,240"
+        ],
+        [
+         "12",
+         "Viewfinder Lens",
+         "930"
+        ],
+        [
+         "13",
+         "Motor",
+         "3,100"
+        ],
+        [
+         "14",
+         "Activation Mechanism",
+         "4,640"
+        ],
+        [
+         "15",
+         "Shutter Release Button",
+         "1,240"
+        ],
+        [
+         "16",
+         "Back Panel",
+         "1,550"
+        ],
+        [
+         "17",
+         "Tray Cover",
+         "2,170"
+        ],
+        [
+         "18",
+         "Flash Housing",
+         "1,550"
+        ],
+        [
+         "19",
+         "Flash",
+         "6,810"
+        ],
+        [
+         "20",
+         "Flash Cover",
+         "930"
+        ],
+        [
+         "21",
+         "Front Panel",
+         "3,100"
+        ]
+       ]
+      },
+      {
+       "type": "list",
+       "heading": "Известные механики (сообщения сообщества, L3)",
+       "body": "Поведение, о котором сообщают игроки; официально не задокументировано. Ссылки на источники — внизу страницы.",
+       "items": [
+        "Крышка вспышки: крышка вспышки Palaloid открывается и закрывается. В обсуждении Steam сообщается, что покраска камеры работает только при открытой крышке вспышки, из-за чего небольшой участок (видимый только при закрытой крышке) остаётся непокрашенным — сообщается как возможный баг.",
+        "Деталь Viewfinder Lens: в списке есть Viewfinder Lens (¥930). В обсуждении Steam сообщается о баге с невидимой/пропавшей деталью, затронувшем и Viewfinder Lens у Palaloid; разработчик (Legorushka) подтвердил сообщение в этой ветке.",
+        "Соревнование по сборке: согласно гайду Steam «Legend of Akiba», Palaloid — запись № 28 в категории 5 (Камеры)."
        ]
       },
       {
@@ -39535,22 +41201,31 @@
        "items": [
         [
          "Это пошаговый гайд по ремонту?",
-         "Нет. Процедура появится только после проверки по отслеживаемым игровым доказательствам."
+         "Нет. Данные сообщества выше официально не проверены; пошаговая процедура появится только после проверки по отслеживаемым игровым доказательствам."
+        ],
+        [
+         "Откуда взялись список деталей и цены?",
+         "Из источников сообщества (L3): restory.wiki и гайд Steam «Device Sale Prices», ссылки ниже в разделе «Источники». Ни одна из этих цифр официально не проверена."
         ]
        ]
       }
      ],
      "sources": [
       "allthings",
-      "steam"
+      "steam",
+      "restory-wiki",
+      "steam-guide-akiba",
+      "steam-guide-prices",
+      "steam-discussion-paint",
+      "steam-discussion-invisible"
      ],
      "icon": "camera"
     },
     "zh-TW": {
      "title": "Palaloid — 設備資料",
      "metaTitle": "Palaloid — ReStory 設備參考",
-     "metaDescription": "Palaloid 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
-     "intro": "Palaloid 的 ReStory 設備資料與參考：保留來源支持的類別及核實狀態；設備專屬流程未知。",
+     "metaDescription": "Palaloid 的 ReStory 設備資料：含社區參考數據（L3，未經官方核實）——21 零件清單、許可費與市場價、已知機制；步驟流程仍未核實。",
+     "intro": "Palaloid 的 ReStory 設備資料與參考：除來源支持的類別及核實狀態外，本頁還整理社區報告的參考數據（明確標註 L3——未經官方核實）：21 件零件清單與單價、許可費與市場價，以及已知機制。設備專屬的分步維修流程仍未核實。",
      "sections": [
       {
        "type": "table",
@@ -39567,7 +41242,158 @@
         [
          "家族",
          "相機"
+        ],
+        [
+         "類型（L3）",
+         "即時成像相機"
+        ],
+        [
+         "型號（L3）",
+         "Moon 635 QS"
+        ],
+        [
+         "靈感原型（L3）",
+         "Polaroid Sun 635 SE"
+        ],
+        [
+         "難度（L3）",
+         "困難"
+        ],
+        [
+         "螺絲數（L3）",
+         "0"
         ]
+       ]
+      },
+      {
+       "type": "note",
+       "heading": "社區參考數據（L3——未經官方核實）",
+       "body": "以下為社區報告的數據，未經開發者或任何官方來源核實。來源為 restory.wiki 與兩份 Steam 指南（均在本頁底部「來源」中列出並可點擊）。據這些報告：Palaloid 許可費為 ¥79,000，市場價為 ¥58,500（restory.wiki 與 Steam 指南「Device Sale Prices」交叉一致），21 件零件合計 ¥65,060。"
+      },
+      {
+       "type": "table",
+       "heading": "零件參考清單（21 件，L3）",
+       "columns": [
+        "組裝順序",
+        "零件",
+        "單價（¥）"
+       ],
+       "rows": [
+        [
+         "1",
+         "Casing",
+         "3,100"
+        ],
+        [
+         "2",
+         "Mirror",
+         "4,640"
+        ],
+        [
+         "3",
+         "Mirror Cover",
+         "1,550"
+        ],
+        [
+         "4",
+         "Circuit Board",
+         "6,190"
+        ],
+        [
+         "5",
+         "Coil",
+         "3,100"
+        ],
+        [
+         "6",
+         "Shutter Housing",
+         "4,020"
+        ],
+        [
+         "7",
+         "Shutter Blades",
+         "2,480"
+        ],
+        [
+         "8",
+         "Shutter Switch",
+         "4,020"
+        ],
+        [
+         "9",
+         "Lens Housing",
+         "2,480"
+        ],
+        [
+         "10",
+         "Main Lens",
+         "6,190"
+        ],
+        [
+         "11",
+         "Viewfinder",
+         "1,240"
+        ],
+        [
+         "12",
+         "Viewfinder Lens",
+         "930"
+        ],
+        [
+         "13",
+         "Motor",
+         "3,100"
+        ],
+        [
+         "14",
+         "Activation Mechanism",
+         "4,640"
+        ],
+        [
+         "15",
+         "Shutter Release Button",
+         "1,240"
+        ],
+        [
+         "16",
+         "Back Panel",
+         "1,550"
+        ],
+        [
+         "17",
+         "Tray Cover",
+         "2,170"
+        ],
+        [
+         "18",
+         "Flash Housing",
+         "1,550"
+        ],
+        [
+         "19",
+         "Flash",
+         "6,810"
+        ],
+        [
+         "20",
+         "Flash Cover",
+         "930"
+        ],
+        [
+         "21",
+         "Front Panel",
+         "3,100"
+        ]
+       ]
+      },
+      {
+       "type": "list",
+       "heading": "已知機制（社區報告，L3）",
+       "body": "以下為玩家報告的行為，並非官方記載；來源見本頁底部鏈接。",
+       "items": [
+        "Flash Cover 開合：Palaloid 的 Flash Cover 可以打開和合上。有 Steam 討論報告：給相機上色只能在 Flash Cover 打開時進行，導致一小塊（僅關閉時可見）區域無法上色——被報告為疑似 bug。",
+        "Viewfinder Lens 零件：零件清單中包含 Viewfinder Lens（¥930）。有 Steam 討論報告「零件隱形/缺失」的 bug，Palaloid 的 Viewfinder Lens 也受影響；開發者（Legorushka）在該帖中確認收到報告。",
+        "組裝賽：按 Steam 指南「Legend of Akiba」，Palaloid 是組裝賽第 5 類（相機）的第 28 號參賽設備。"
        ]
       },
       {
@@ -39581,14 +41407,23 @@
        "items": [
         [
          "能把本頁當作分步維修攻略嗎？",
-         "不能。只有在可追溯的遊戲證據核實後，才會補充設備專屬流程。"
+         "不能。上文社區參考數據未經官方核實；設備專屬的分步流程仍需在可追溯的遊戲證據核實後才會補充。"
+        ],
+        [
+         "零件清單與價格來自哪裡？",
+         "來自社區來源（L3）：restory.wiki 與 Steam 指南「Device Sale Prices」，均列於下方「來源」。這些數字均未經官方核實。"
         ]
        ]
       }
      ],
      "sources": [
       "allthings",
-      "steam"
+      "steam",
+      "restory-wiki",
+      "steam-guide-akiba",
+      "steam-guide-prices",
+      "steam-discussion-paint",
+      "steam-discussion-invisible"
      ],
      "icon": "camera"
     }

@@ -779,7 +779,21 @@ PAGES_ZH_CN = {
 
 "devices/nony-goman": {'title': 'Nony Goman — 设备资料', 'metaTitle': 'Nony Goman — ReStory 设备参考', 'metaDescription': 'Nony Goman 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'intro': 'Nony Goman 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'sections': [{'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [['设备', 'Nony Goman'], ['家族', '音乐与媒体']]}, {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。']]}], 'sources': ['allthings', 'steam'], 'icon': 'tape'},
 
-"devices/palaloid": {'title': 'Palaloid — 设备资料', 'metaTitle': 'Palaloid — ReStory 设备参考', 'metaDescription': 'Palaloid 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'intro': 'Palaloid 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'sections': [{'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [['设备', 'Palaloid'], ['家族', '相机']]}, {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。']]}], 'sources': ['allthings', 'steam'], 'icon': 'camera'},
+"devices/palaloid": {'title': 'Palaloid — 设备资料', 'metaTitle': 'Palaloid — ReStory 设备参考', 'metaDescription': 'Palaloid 的 ReStory 设备资料：含社区参考数据（L3，未经官方核实）——21 零件清单、许可费与市场价、已知机制；步骤流程仍未核实。', 'intro': 'Palaloid 的 ReStory 设备资料与参考：除来源支持的类别及核实状态外，本页还整理社区报告的参考数据（明确标注 L3——未经官方核实）：21 件零件清单与单价、许可费与市场价，以及已知机制。设备专属的分步维修流程仍未核实。', 'sections': [
+      {'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [
+        ['设备', 'Palaloid'], ['家族', '相机'], ['类型（L3）', '即时成像相机'], ['型号（L3）', 'Moon 635 QS'], ['灵感原型（L3）', 'Polaroid Sun 635 SE'], ['难度（L3）', '困难'], ['螺丝数（L3）', '0']]},
+      {'type': 'note', 'heading': '社区参考数据（L3——未经官方核实）', 'body': '以下为社区报告的数据，未经开发者或任何官方来源核实。来源为 restory.wiki 与两份 Steam 指南（均在本页底部「来源」中列出并可点击）。据这些报告：Palaloid 许可费为 ¥79,000，市场价为 ¥58,500（restory.wiki 与 Steam 指南「Device Sale Prices」交叉一致），21 件零件合计 ¥65,060。'},
+      {'type': 'table', 'heading': '零件参考清单（21 件，L3）', 'columns': ['组装顺序', '零件', '单价（¥）'], 'rows': [
+        ['1', 'Casing', '3,100'], ['2', 'Mirror', '4,640'], ['3', 'Mirror Cover', '1,550'], ['4', 'Circuit Board', '6,190'], ['5', 'Coil', '3,100'], ['6', 'Shutter Housing', '4,020'], ['7', 'Shutter Blades', '2,480'], ['8', 'Shutter Switch', '4,020'], ['9', 'Lens Housing', '2,480'], ['10', 'Main Lens', '6,190'], ['11', 'Viewfinder', '1,240'], ['12', 'Viewfinder Lens', '930'], ['13', 'Motor', '3,100'], ['14', 'Activation Mechanism', '4,640'], ['15', 'Shutter Release Button', '1,240'], ['16', 'Back Panel', '1,550'], ['17', 'Tray Cover', '2,170'], ['18', 'Flash Housing', '1,550'], ['19', 'Flash', '6,810'], ['20', 'Flash Cover', '930'], ['21', 'Front Panel', '3,100']]},
+      {'type': 'list', 'heading': '已知机制（社区报告，L3）', 'body': '以下为玩家报告的行为，并非官方记载；来源见本页底部链接。', 'items': [
+        'Flash Cover 开合：Palaloid 的 Flash Cover 可以打开和合上。有 Steam 讨论报告：给相机上色只能在 Flash Cover 打开时进行，导致一小块（仅关闭时可见）区域无法上色——被报告为疑似 bug。',
+        'Viewfinder Lens 零件：零件清单中包含 Viewfinder Lens（¥930）。有 Steam 讨论报告「零件隐形/缺失」的 bug，Palaloid 的 Viewfinder Lens 也受影响；开发者（Legorushka）在该帖中确认收到报告。',
+        '组装赛：按 Steam 指南「Legend of Akiba」，Palaloid 是组装赛第 5 类（相机）的第 28 号参赛设备。']},
+      {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。'},
+      {'type': 'faq', 'heading': 'FAQ', 'items': [
+        ['能把本页当作分步维修攻略吗？', '不能。上文社区参考数据未经官方核实；设备专属的分步流程仍需在可追溯的游戏证据核实后才会补充。'],
+        ['零件清单与价格来自哪里？', '来自社区来源（L3）：restory.wiki 与 Steam 指南「Device Sale Prices」，均列于下方「来源」。这些数字均未经官方核实。']]}
+     ], 'sources': ['allthings', 'steam', 'restory-wiki', 'steam-guide-akiba', 'steam-guide-prices', 'steam-discussion-paint', 'steam-discussion-invisible'], 'icon': 'camera'},
 
 "devices/walkie-talkie": {'title': 'Walkie-talkie — 设备资料', 'metaTitle': 'Walkie-talkie — ReStory 设备参考', 'metaDescription': 'Walkie-talkie 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'intro': 'Walkie-talkie 的 ReStory 设备资料与参考：保留来源支持的类别及核实状态；设备专属流程未知。', 'sections': [{'type': 'table', 'heading': '设备资料', 'columns': ['字段', '值'], 'rows': [['设备', 'Walkie-talkie'], ['家族', '小玩意与玩具']]}, {'type': 'note', 'heading': '已核实范围', 'body': '本页用于识别 ReStory 中可维修的设备；准确的游戏内流程仍待核实。'}, {'type': 'faq', 'heading': 'FAQ', 'items': [['能把本页当作分步维修攻略吗？', '不能。只有在可追溯的游戏证据核实后，才会补充设备专属流程。']]}], 'sources': ['allthings', 'steam'], 'icon': 'radio'},
 

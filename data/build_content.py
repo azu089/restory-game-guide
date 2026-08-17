@@ -415,7 +415,44 @@ SRC_POWERPYX = _src("PowerPyx — achievement roadmap structure", "https://www.p
     "es": "PowerPyx — estructura de hoja de ruta", "pt-BR": "PowerPyx — estrutura de roadmap",
     "ru": "PowerPyx — структура роадмапа",
 })
-SRC_MAP = {"steam": SRC_STEAM, "steam-achievements": SRC_STEAM_ACHIEVEMENTS, "steam-news": SRC_STEAM_NEWS, "allthings": SRC_ALLTHINGS, "intoindie": SRC_INTOINDIE, "powerpyx": SRC_POWERPYX}
+# ---- L3 社区来源（仅用于明确标注的社区参考数据；未经官方核实）----
+SRC_RESTORY_WIKI = _src("restory.wiki — Palaloid (community wiki)", "https://restory.wiki/w/Palaloid", {
+    "en": "restory.wiki — Palaloid (community wiki)", "zh-CN": "restory.wiki — Palaloid（社区维基）",
+    "ja": "restory.wiki — Palaloid（コミュニティWiki）", "ko": "restory.wiki — Palaloid（커뮤니티 위키）",
+    "fr": "restory.wiki — Palaloid (wiki communautaire)", "de": "restory.wiki — Palaloid (Community-Wiki)",
+    "es": "restory.wiki — Palaloid (wiki de la comunidad)", "pt-BR": "restory.wiki — Palaloid (wiki da comunidade)",
+    "ru": "restory.wiki — Palaloid (вики сообщества)",
+})
+SRC_STEAM_GUIDE_AKIBA = _src("Steam guide: Legend of Akiba [EN]", "https://steamcommunity.com/sharedfiles/filedetails/?id=3782095380", {
+    "en": "Steam guide: Legend of Akiba [EN]", "zh-CN": "Steam 指南：Legend of Akiba [EN]",
+    "ja": "Steam ガイド：Legend of Akiba [EN]", "ko": "Steam 가이드: Legend of Akiba [EN]",
+    "fr": "Guide Steam : Legend of Akiba [EN]", "de": "Steam-Guide: Legend of Akiba [EN]",
+    "es": "Guía de Steam: Legend of Akiba [EN]", "pt-BR": "Guia da Steam: Legend of Akiba [EN]",
+    "ru": "Гайд Steam: Legend of Akiba [EN]",
+})
+SRC_STEAM_GUIDE_PRICES = _src("Steam guide: Device Sale Prices", "https://steamcommunity.com/sharedfiles/filedetails/?id=3783450316", {
+    "en": "Steam guide: Device Sale Prices", "zh-CN": "Steam 指南：Device Sale Prices",
+    "ja": "Steam ガイド：Device Sale Prices", "ko": "Steam 가이드: Device Sale Prices",
+    "fr": "Guide Steam : Device Sale Prices", "de": "Steam-Guide: Device Sale Prices",
+    "es": "Guía de Steam: Device Sale Prices", "pt-BR": "Guia da Steam: Device Sale Prices",
+    "ru": "Гайд Steam: Device Sale Prices",
+})
+SRC_STEAM_DISC_PAINT = _src("Steam discussion: painting the Palaloid camera", "https://steamcommunity.com/app/3812600/discussions/0/588434705716615986/", {
+    "en": "Steam discussion: painting the Palaloid camera", "zh-CN": "Steam 讨论：Palaloid 相机上色",
+    "ja": "Steam ディスカッション：Palaloid カメラの塗装", "ko": "Steam 토론: Palaloid 카메라 도색",
+    "fr": "Discussion Steam : peindre l'appareil photo Palaloid", "de": "Steam-Diskussion: Palaloid-Kamera bemalen",
+    "es": "Debate de Steam: pintar la cámara Palaloid", "pt-BR": "Tópico da Steam: pintar a câmera Palaloid",
+    "ru": "Обсуждение Steam: покраска камеры Palaloid",
+})
+SRC_STEAM_DISC_INVISIBLE = _src("Steam discussion: invisible part on table", "https://steamcommunity.com/app/3812600/discussions/1/588434161796313713/", {
+    "en": "Steam discussion: invisible part on table", "zh-CN": "Steam 讨论：零件隐形/桌面上的隐形零件",
+    "ja": "Steam ディスカッション：テーブル上の見えないパーツ", "ko": "Steam 토론: 테이블 위에 보이지 않는 부품",
+    "fr": "Discussion Steam : pièce invisible sur la table", "de": "Steam-Diskussion: unsichtbares Teil auf dem Tisch",
+    "es": "Debate de Steam: pieza invisible sobre la mesa", "pt-BR": "Tópico da Steam: peça invisível na mesa",
+    "ru": "Обсуждение Steam: невидимая деталь на столе",
+})
+SRC_MAP = {"steam": SRC_STEAM, "steam-achievements": SRC_STEAM_ACHIEVEMENTS, "steam-news": SRC_STEAM_NEWS, "allthings": SRC_ALLTHINGS, "intoindie": SRC_INTOINDIE, "powerpyx": SRC_POWERPYX,
+           "restory-wiki": SRC_RESTORY_WIKI, "steam-guide-akiba": SRC_STEAM_GUIDE_AKIBA, "steam-guide-prices": SRC_STEAM_GUIDE_PRICES, "steam-discussion-paint": SRC_STEAM_DISC_PAINT, "steam-discussion-invisible": SRC_STEAM_DISC_INVISIBLE}
 
 # =====================================================================
 # 页面组装
@@ -763,4 +800,4 @@ print(f"✓ {len(LANGS)} locales（zh-TW=OpenCC 自动）｜{len(PAGES)} 页")
 print(f"✓ 翻译齐全: {'NONE' if not missing_tr else missing_tr}")
 print(f"✓ section-count mismatch: NONE（已在上方告警）")
 print(f"✓ 使用语言: {LANGS}")
-print(f"✓ 来源映射: steam/allthings/intoindie/powerpyx 各语言 label 齐备")
+print(f"✓ 来源映射: steam/allthings/intoindie/powerpyx/restory-wiki/steam-guide-*/steam-discussion-* 各语言 label 齐备")
